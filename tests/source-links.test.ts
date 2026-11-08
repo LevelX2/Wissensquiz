@@ -29,6 +29,60 @@ const question = {
 };
 const data = question.presentation.films[0].data;
 
+it.each([
+  {
+    title: "Bruised",
+    year: "2020",
+    director: "Halle Berry",
+    imdb: "tt8310474",
+    wrong: "tt33064920",
+  },
+  {
+    title: "Enemy",
+    year: "2013",
+    director: "Denis Villeneuve",
+    imdb: "tt2316411",
+    wrong: "tt3148392",
+  },
+])(
+  "verknüpft $title mit dem konkret behandelten Film und seiner Regie statt einem gleichnamigen Werk",
+  ({ title, year, director, imdb, wrong }) => {
+    const original =
+      title === "Bruised"
+        ? currentQuestions("actors")
+            .filter((q) => q.metadata.person_name === director)
+            .find((q) =>
+              preparePresentation(q).films.some(
+                ({ data }) =>
+                  data.originalTitle === title && String(data.year) === year,
+              ),
+            )!
+        : currentQuestions().find(
+            (q) =>
+              q.metadata.film_title_original === title &&
+              q.metadata.film_year === year,
+          )!;
+    expect(original).toBeDefined();
+    const q = { ...original, presentation: preparePresentation(original) };
+    const film = q.presentation.films.find(
+      ({ data }) => data.originalTitle === title && String(data.year) === year,
+    )!.data;
+    expect(film.directors).toContain(director);
+    const links = databaseLinksFor(q);
+    expect(links).toContainEqual(
+      expect.objectContaining({
+        source: `https://www.imdb.com/title/${imdb}/`,
+      }),
+    );
+    expect(
+      links.some(({ source }) => source.includes(`/title/${wrong}/`)),
+    ).toBe(false);
+    expect(links).toContainEqual(
+      expect.objectContaining({ label: `IMDb – ${director}` }),
+    );
+  },
+);
+
 it("unterscheidet die vier gleich aussehenden Regiebelege aus dem gemeldeten Prestige-Beispiel nach ihrem tatsächlichen Ziel", () => {
   const before = structuredClone(question);
   expect(

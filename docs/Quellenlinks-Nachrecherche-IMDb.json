@@ -1,0 +1,2019 @@
+{
+  "checkedOn": "2026-11-08",
+  "status": "completed-with-explicit-content-conflict",
+  "baselineCommit": "f72fc27f",
+  "scope": "Alle 23 ausdrücklich offenen IMDb-Werkidentitäten, alle 40 früheren Regie-Negativzeilen, der zuvor unberichtete Enemy-Regiebezug und konkret gemeldete Anbieter-ID-Konflikte einzeln nachrecherchiert. Keine Quizmetadaten, Fragen-, Wissensziel- oder Werkidentitäten geändert.",
+  "methodology": [
+    "Primäre Anbieter-, Archiv-, Instituts-, Rechteinhaber- und IMDb-Belege gezielt zum einzelnen Werk gelesen und mit Originaltitel, Produktions-/Erstveröffentlichungsjahr, Regie, Figuren/Besetzung und gegebenenfalls konkreter Fassung abgeglichen.",
+    "TMDB dient nur ergänzend als expliziter Cross-Identifier nach einer konkreten Primärbestätigung; Wortgleichheit, fehlende API-Aliasse oder leere IMDb-Felder sind keine Negativbeweise.",
+    "Zusätzliche Regiecredits werden nur zur bereits bestehenden konkreten Katalogzuordnung verlinkt. Unterschiedliche Creditumfänge, Aliasnamen, Fernseh- und Kinofassungen sowie Veröffentlichungsjahre sind pro Fall dokumentiert.",
+    "Die aktive offizielle IMDb-Personensuche bestätigt zuvor schwer auffindbare Namen und IDs, insbesondere Yok Teng-heung/Cheng-Chun Yu und J.A. Howe. Es wurden keine Identifikatoren geraten."
+  ],
+  "before": {
+    "works": 3377,
+    "directorWorks": 3370,
+    "directorLinks": 3527
+  },
+  "after": {
+    "currentWorks": 3400,
+    "works": 3400,
+    "directorWorks": 3400,
+    "directorLinks": 3569,
+    "addedWorks": 23,
+    "correctedWorkIds": 2,
+    "addedDirectorLinks": 42
+  },
+  "workCases": [
+    {
+      "key": "Boon sang yuen|1997",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0127468/",
+      "finding": "Boon sang yuen/Ban sheng yuan ist der 1997er Film Eighteen Springs von Ann Hui mit Anita Mui und Leon Lai. HKFA und MoMA bestätigen Titel, Jahr, Regie und Figuren; IMDb und aktueller expliziter Cross-Identifier bestätigen tt0127468. Keine Verwechslung mit der späteren Fernsehfassung.",
+      "sources": [
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2023-cheungmui-fs-film20.html",
+        "https://www.moma.org/calendar/events/2101",
+        "https://www.imdb.com/title/tt0127468/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 40889,
+        "title": "Eighteen Springs",
+        "originalTitle": "半生緣",
+        "releaseDate": "1997-09-12",
+        "imdbId": "tt0127468"
+      }
+    },
+    {
+      "key": "Chek law dak gung|2002",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0341495/",
+      "finding": "Naked Weapon (2002) ist eindeutig identisch. IMDb führt Siu-Tung Ching ausdrücklich auch als Tony Ching Siu Tung; die HKFA-Namensform Tony Ching Siu-tung bestätigt, dass die automatische Wortgleichheitsprüfung nur einen Alias verworfen hatte.",
+      "sources": [
+        "https://pro.imdb.com/title/tt0341495/",
+        "https://www.imdb.com/title/tt0341495/fullcredits/",
+        "https://www.imdb.com/name/nm0155642/",
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2017-13-1-6.html"
+      ],
+      "tmdbCrossCheck": {
+        "id": 10855,
+        "title": "Naked Weapon",
+        "originalTitle": "赤裸特工",
+        "releaseDate": "2002-11-15",
+        "imdbId": "tt0341495"
+      }
+    },
+    {
+      "key": "Chuang wai|1973",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt1240913/",
+      "finding": "M+ und Golden Horse bestätigen Outside the Window/窗外 (1973) mit Sung Tsun-Shou und 郁正春/YOK Teng-heung, im Text auch Yu Teng-Heung. Die offizielle IMDb-Suche gibt für Yok Teng Heung und Cheng-Chun Yu dieselbe nm2634030 zurück. Damit sind beide Regiepersonen und die konkrete Brigitte-Lin-Fassung tt1240913 identifiziert.",
+      "sources": [
+        "https://www.mplus.org.hk/en/cinema/mplus-restored-programme/outside-the-window/",
+        "https://www.goldenhorse.org.tw/film/programme/films/detail/3719?search_category=FF&search_year=2023",
+        "https://www.hkfilmdirectors.com/1979-2013/contents.php",
+        "https://www.imdb.com/title/tt1240913/fullcredits/",
+        "https://v2.sg.media-imdb.com/suggestion/y/Yok%20Teng%20Heung.json",
+        "https://v2.sg.media-imdb.com/suggestion/c/Cheng-Chun%20Yu.json"
+      ],
+      "tmdbCrossCheck": {
+        "id": 374640,
+        "title": "Outside the Window",
+        "originalTitle": "窗外",
+        "releaseDate": "1973-08-24",
+        "imdbId": "tt1240913"
+      }
+    },
+    {
+      "key": "Chuen do fong ji|1990",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0099265/",
+      "finding": "IMDb nennt Chuen Do Fong Ji als Originaltitel von Kawashima Yoshiko (1990). HKFA bestätigt denselben Film mit Anita Mui und Eddie Fong; der aktuelle Regiecredit und Personenbezug lauten Eddie Fong Ling-Ching/nm0284559. Keine Neuverfilmung zugeordnet.",
+      "sources": [
+        "https://www.imdb.com/title/tt0099265/",
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2023-cheungmui-fs-film08.html"
+      ],
+      "tmdbCrossCheck": {
+        "id": 119174,
+        "title": "Kawashima Yoshiko",
+        "originalTitle": "川島芳子",
+        "releaseDate": "1990-07-28",
+        "imdbId": "tt0099265"
+      }
+    },
+    {
+      "key": "Chung on zo|1993",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0108656/",
+      "finding": "Crime Story (1993), Kirk Wong und Jackie Chan sind durch IMDbPro einschließlich Chans nicht im Vorspann genannter Mitregie bestätigt. Der Name Kirk Wong Chi-Keung im API-Credit bezeichnet denselben Kirk Wong. Ein fehlender zusätzlicher API-Director-Credit war kein Beleg gegen die Werkidentität.",
+      "sources": [
+        "https://pro.imdb.com/title/tt0108656/",
+        "https://www.imdb.com/title/tt0108656/fullcredits/",
+        "https://www.boxofficemojo.com/title/tt0108656/credits/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 18857,
+        "title": "Crime Story",
+        "originalTitle": "重案組",
+        "releaseDate": "1993-06-24",
+        "imdbId": "tt0108656"
+      }
+    },
+    {
+      "key": "Die Nibelungen. 1. Siegfried von Xanten|1966",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0060749/",
+      "finding": "Filmportal/DIF, CCC und Terence Hills offizielle Filmografie bestätigen Harald Reinls ersten Kinoteil von 1966. IMDb tt0060749 ist genau Teil 1; der dort als Zusammenschnitt verbundene Eintrag Das Schwert der Nibelungen und die Fernsehfassung sind keine Ersatzidentität.",
+      "sources": [
+        "https://www.filmportal.de/film/die-nibelungen-1-siegfried-von-xanten_b16b7731562e4d72973f368495e45e45",
+        "https://cccfilm.de/filme/filme-ccc_224-225.pdf",
+        "https://de.terencehill.com/index.php?sel=filmography&sub=136",
+        "https://www.imdb.com/title/tt0060749/movieconnections/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 5608,
+        "title": "Whom the Gods Wish to Destroy",
+        "originalTitle": "Die Nibelungen, Teil 1: Siegfried",
+        "releaseDate": "1966-12-13",
+        "imdbId": "tt0060749"
+      }
+    },
+    {
+      "key": "Die Nibelungen. 2. Kriemhilds Rache|1967",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0060750/",
+      "finding": "Filmportal/DIF und die offizielle Terence-Hill-Filmografie bestätigen den zweiten Kinoteil Kriemhilds Rache von Harald Reinl mit Veröffentlichung 1967. IMDb tt0060750 und aktueller Cross-Identifier beziehen sich auf diesen zweiten Teil, getrennt von Teil 1, Fritz Langs Stummfilm und Fernsehfassungen.",
+      "sources": [
+        "https://www.filmportal.de/film/die-nibelungen-2-kriemhilds-rache_13039209dcdb444cb9e9bcbc328c9562",
+        "https://en.terencehill.com/index.php?sel=filmography&sub=137",
+        "https://www.imdb.com/title/tt0060750/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 5609,
+        "title": "Whom the Gods Wish to Destroy 2",
+        "originalTitle": "Die Nibelungen, Teil 2: Kriemhilds Rache",
+        "releaseDate": "1967-02-16",
+        "imdbId": "tt0060750"
+      }
+    },
+    {
+      "key": "Dont Look Back|1967",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0061589/",
+      "finding": "Pennebaker Hegedus Films als Rechte-/Produktionsquelle bestätigt den Bob-Dylan-Film von 1967. AFI erklärt ausdrücklich die originale Schreibweise ohne Apostroph. Der zusätzliche Bob-Dylan-Namensvorsatz in TMDB ändert die Identität tt0061589 nicht.",
+      "sources": [
+        "https://phfilms.com/films/dont-look-back/",
+        "https://catalog.afi.com/Film/20193-DON%27T-LOOK-BACK",
+        "https://www.imdb.com/title/tt0061589/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 135,
+        "title": "Bob Dylan – Don't Look Back",
+        "originalTitle": "Bob Dylan – Don't Look Back",
+        "releaseDate": "1967-05-17",
+        "imdbId": "tt0061589"
+      }
+    },
+    {
+      "key": "Dung che sai duk redux|2008",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0109688/",
+      "finding": "Sony bestätigt die Redux-Überarbeitung mit Copyright 1994/2008. Der aktuelle IMDb-Haupteintrag tt0109688 nennt Ashes of Time: Redux als Titel und beschreibt ausdrücklich die 2008 in Cannes gezeigte Neufassung mit neuem Material, geändertem Schnitt, Farbkonzept und Musik. Nur wegen dieser konkreten Fassungsabdeckung ist der Sammeleintrag vertretbar; kein pauschaler Ersatz durch die 1994er Vorlage.",
+      "sources": [
+        "https://www.sonypictures.com/movies/ashesoftimeredux",
+        "https://www.imdb.com/title/tt0109688/"
+      ],
+      "boundary": "IMDb bündelt Original und ausdrücklich beschriebene Redux-Fassung unter einem Haupteintrag. Ältere Hinweise auf tt1233247 wurden nicht als eigenständige aktuelle Ziel-ID bestätigt und werden nicht übernommen. Der Katalogschlüssel mit 2008 bleibt erhalten.",
+      "tmdbCrossCheck": {
+        "id": 40751,
+        "title": "Ashes of Time",
+        "originalTitle": "東邪西毒",
+        "releaseDate": "1994-09-17",
+        "imdbId": "tt0109688"
+      }
+    },
+    {
+      "key": "Gion no shimai|1936",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0027672/",
+      "finding": "Der Verleiher trigon-film bestätigt Sisters of Gion/Gion no shimai, Kenji Mizoguchi, Japan 1936. IMDb tt0027672 nennt dieselben Darsteller/Figuren und das Jahr, verwendet aber die abweichende Romanisierung Gion no kyôdai. Das ist keine andere Verfilmung.",
+      "sources": [
+        "https://trigon-film.org/en/films/sisters-of-gion-gion-no-shimai/",
+        "https://asac.labiennale.org/attivita/cinema/129",
+        "https://www.imdb.com/title/tt0027672/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 74581,
+        "title": "Sisters of the Gion",
+        "originalTitle": "祇園の姉妹",
+        "releaseDate": "1936-10-15",
+        "imdbId": "tt0027672"
+      }
+    },
+    {
+      "key": "Gwan gwan hung chan|1990",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0099719/",
+      "finding": "Golden Horse und HKFA bestätigen Red Dust (1990), Originalschrift 滾滾紅塵, Yim Ho und Brigitte Lin/Maggie Cheung. IMDb tt0099719 führt Gun gun hong chen und Ho Yim; die Namensreihenfolge und Kantonesisch-/Mandarin-Transliteration erklären die gescheiterte automatische Suche.",
+      "sources": [
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2024-qp-fs-film04.html",
+        "https://www.goldenhorse.org.tw/film/programme/films/detail/3722?search_category=FF&search_year=2023",
+        "https://www.imdb.com/title/tt0099719/",
+        "https://www.imdb.com/name/nm0948021/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 156201,
+        "title": "Red Dust",
+        "originalTitle": "滾滾紅塵",
+        "releaseDate": "1990-11-23",
+        "imdbId": "tt0099719"
+      }
+    },
+    {
+      "key": "Intolerable Cruelty|2003",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0138524/",
+      "finding": "Die primären IMDb-Vollcredits führen Joel Coen und Ethan Coen, letzteren ausdrücklich als nicht genannten Mitregisseur. Damit ist die im Katalog enthaltene gemeinsame Regie trotz des einzelnen TMDB-Director-Credits bestätigt; beide bestehenden gesicherten Personen-IDs werden verwendet.",
+      "sources": [
+        "https://www.imdb.com/title/tt0138524/fullcredits/",
+        "https://pro.imdb.com/title/tt0138524/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 11775,
+        "title": "Intolerable Cruelty",
+        "originalTitle": "Intolerable Cruelty",
+        "releaseDate": "2003-10-10",
+        "imdbId": "tt0138524"
+      }
+    },
+    {
+      "key": "Istgah-e matrouk|2002",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0333645/",
+      "finding": "IMDb tt0333645 führt Istgah-Matrouk/The Deserted Station (2002), Alireza Raisian, Leila Hatami und die konkrete Schulpremisse der Katalogfrage. Der minimale Schreibunterschied war die Suchlücke; iranischer Kinostart 2003 ist vom bereits 2002 gezeigten Film getrennt zu verstehen.",
+      "sources": [
+        "https://www.imdb.com/title/tt0333645/",
+        "https://www.imdb.com/title/tt0333645/fullcredits/",
+        "https://pro.imdb.com/title/tt0333645/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 43773,
+        "title": "Deserted Station",
+        "originalTitle": "Istgah-Matrouk",
+        "releaseDate": "2002-02-01",
+        "imdbId": "tt0333645"
+      }
+    },
+    {
+      "key": "Queen Kelly|1932",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0020298/",
+      "finding": "BFI und Gloria Swansons beim BFI erhaltenes Interview belegen die europäische 1932er Veröffentlichung; IMDb tt0020298 verzeichnet ausdrücklich die Argentinien-/Paris-Termine 1932. Der Sammeleintrag wird für diese abgedeckte Fassung verlinkt. Seine Credits ordnen die ergänzte Schlusssequenz Richard Boleslawski zu und Gregg Toland der Kamera; die gespeicherte Mitregie Toland wird daher nicht in einen neuen Regielink umgesetzt.",
+      "sources": [
+        "https://www.bfi.org.uk/london-film-festival/features/where-begin-with-erich-von-stroheim",
+        "https://www.bfi.org.uk/sight-and-sound/features/i-am-not-going-write-my-memoirs-gloria-swanson-talks-pictures",
+        "https://www.imdb.com/title/tt0020298/releaseinfo/",
+        "https://www.imdb.com/title/tt0020298/fullcredits/"
+      ],
+      "boundary": "IMDb-Hauptjahr 1929 und konkret belegte europäische Veröffentlichung 1932 stehen nebeneinander. Keine Änderung des Quizjahrs. Fachlicher Regiewiderspruch Gregg Toland bleibt zur separaten Redaktion offen; kein Link zu ihm als Regisseur.",
+      "tmdbCrossCheck": {
+        "id": 42638,
+        "title": "Queen Kelly",
+        "originalTitle": "Queen Kelly",
+        "releaseDate": "1929-12-31",
+        "imdbId": "tt0020298"
+      }
+    },
+    {
+      "key": "Sarinjaui gieokbeop|2017",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt5729348/",
+      "finding": "Well Go USA als Verleiher bestätigt Memoir of a Murderer (2017) von Won Shin-yun mit Sul Kyung-gu und der Alzheimer-/Serienmörderhandlung. IMDb tt5729348 und der Originalschrifttitel 살인자의 기억법 bestätigen dieselbe Fassung; die im Katalog verkürzte Romanisierung ist kein anderes Werk.",
+      "sources": [
+        "https://wellgousa.com/films/memoir-murderer",
+        "https://www.boxofficemojo.com/title/tt5729348/credits/",
+        "https://www.imdb.com/title/tt5729348/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 432836,
+        "title": "Memoir of a Murderer",
+        "originalTitle": "살인자의 기억법",
+        "releaseDate": "2017-09-07",
+        "imdbId": "tt5729348"
+      }
+    },
+    {
+      "key": "Sayat-Nova|1969",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0063555/",
+      "finding": "Criterion als restaurierender Verleiher bestätigt The Color of Pomegranates von Sergei Parajanov (1969) über den Dichter Sayat-Nova; IMDb tt0063555 und nm0660886 bestätigen Werk und Regisseur. Sergei Paradschanow ist die deutsche Namensform derselben Person.",
+      "sources": [
+        "https://www.criterion.com/films/29219-the-color-of-pomegranates",
+        "https://www.imdb.com/title/tt0063555/",
+        "https://www.imdb.com/name/nm0660886/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 26302,
+        "title": "The Color of Pomegranates",
+        "originalTitle": "Նռան գույնը",
+        "releaseDate": "1969-10-01",
+        "imdbId": "tt0063555"
+      }
+    },
+    {
+      "key": "Siu ngo gong woo: Dung Fong Bat Bai|1992",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0103295/",
+      "finding": "HKFA bestätigt Swordsman II (1992), Tony Ching Siu-tung, Jet Li und Brigitte Lin als Dongfang Bubai. IMDb tt0103295 und die bestätigte Siu-Tung-Ching-Identität nm0155642 belegen dieselbe Fassung. Beide bestehenden Romanisierungsschlüssel verweisen auf denselben Film, ohne zusammengelegt zu werden.",
+      "sources": [
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2017-13-1-6.html",
+        "https://www.imdb.com/title/tt0103295/",
+        "https://www.imdb.com/name/nm0155642/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 18672,
+        "title": "The Legend of the Swordsman",
+        "originalTitle": "笑傲江湖II東方不敗",
+        "releaseDate": "1992-06-26",
+        "imdbId": "tt0103295"
+      }
+    },
+    {
+      "key": "Sois belle et tais-toi!|1978",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0076733/",
+      "finding": "Die BnF bestätigt nach eigener Restaurierungsarbeit Fertigstellung 1977 und erste Verbreitung ab 1978. IMDb tt0076733 führt denselben Dokumentarfilm von Delphine Seyrig unter Kinojahr 1981; Verleiher und Darstellerinnen stimmen überein. Die spätere Kinoauswertung ist kein Grund für einen fehlenden Link und kein Anlass, die Frageidentität umzuschreiben.",
+      "sources": [
+        "https://www.bnf.fr/sites/default/files/2025-09/CP-Sois-belle-et-tais-toi-BnF.pdf",
+        "https://www.splendor-films.com/component/flexicontent/download/2353/742/46",
+        "https://www.imdb.com/title/tt0076733/"
+      ],
+      "boundary": "Erste Verbreitung 1978 und spätere Kinoauswertung/IMDb-Jahr 1981 sind dokumentiert; Jahr und Frageobjekte bleiben unverändert.",
+      "tmdbCrossCheck": {
+        "id": 311267,
+        "title": "Be Pretty and Shut Up!",
+        "originalTitle": "Sois belle et tais-toi !",
+        "releaseDate": "1981-03-04",
+        "imdbId": "tt0076733"
+      }
+    },
+    {
+      "key": "The Protector|1985",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0089847/",
+      "finding": "88 Films bietet die US-Fassung und ausdrücklich Jackie Chans Hongkong-Neuschnitt an. IMDb tt0089847 beschreibt unter Alternate versions die von Chan nachgedrehten und ergänzten Szenen; James Glickenhaus und Chans konkreter Beitrag sind damit belegt, obwohl der allgemeine TMDB-Director-Credit nur Glickenhaus nennt.",
+      "sources": [
+        "https://88-films.myshopify.com/products/the-protector",
+        "https://www.imdb.com/title/tt0089847/alternateversions/",
+        "https://www.imdb.com/title/tt0089847/fullcredits/"
+      ],
+      "boundary": "IMDb-Eintrag deckt beide ausdrücklich beschriebenen Fassungen ab; Chan wird für den dokumentierten Hongkong-Beitrag verlinkt, keine Behauptung gemeinsamer Regie der unveränderten US-Fassung.",
+      "tmdbCrossCheck": {
+        "id": 45408,
+        "title": "The Protector",
+        "originalTitle": "The Protector",
+        "releaseDate": "1985-06-15",
+        "imdbId": "tt0089847"
+      }
+    },
+    {
+      "key": "Xiao ao jiang hu zhi dong fang bu bai|1992",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0103295/",
+      "finding": "Zweiter bestehender Romanisierungsschlüssel desselben HKFA-bestätigten Swordsman-II-Films von 1992. Das konkrete Rollenpaar und die Regie Tony Ching Siu-tung sichern die Zuordnung zu tt0103295; kein erster Swordsman-Film oder anderes Remake verwendet.",
+      "sources": [
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2017-13-1-6.html",
+        "https://www.imdb.com/title/tt0103295/",
+        "https://www.imdb.com/name/nm0155642/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 18672,
+        "title": "The Legend of the Swordsman",
+        "originalTitle": "笑傲江湖II東方不敗",
+        "releaseDate": "1992-06-26",
+        "imdbId": "tt0103295"
+      }
+    },
+    {
+      "key": "Xiao quan guai zhao|1979",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0079315/",
+      "finding": "Criterion bestätigt The Fearless Hyena (1979) mit Jackie Chan; die frühere Alternativtitelredaktion und der aktuelle IMDb-Cross-Identifier bestätigen tt0079315. Die bestehende Mitregieangabe Kenneth Tsang erscheint zusätzlich in den konkreten DVD-/Blu-ray-Anbietercredits; die Person selbst ist über IMDb nm0874684 eindeutig bestätigt.",
+      "sources": [
+        "https://www.criterion.com/films/29551-the-fearless-hyena",
+        "https://www.importcds.com/fearless-hyena-the-fearless-hyena/4897048060150",
+        "https://www.moviesunlimited.com/products/the-fearless-hyena-661799488372",
+        "https://www.imdb.com/name/nm0874684/",
+        "https://www.imdb.com/title/tt0079315/"
+      ],
+      "boundary": "Criterion nennt als Director nur Jackie Chan; die herangezogenen konkreten Kaufmediencredits zusätzlich Kenneth Tsang. Unterschiedlicher Creditumfang bleibt sichtbar dokumentiert. Keine neue Mitregiebehauptung oder Inhaltsänderung im Quiz vorgenommen; bestehende Personenbezeichnung wird auf den bestätigten Eintrag verlinkt.",
+      "tmdbCrossCheck": {
+        "id": 19274,
+        "title": "Fearless Hyena",
+        "originalTitle": "笑拳怪招",
+        "releaseDate": "1979-02-17",
+        "imdbId": "tt0079315"
+      }
+    },
+    {
+      "key": "Yin ji kau|1987",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0093258/",
+      "finding": "IMDb tt0093258 nennt Yin ji kau/Rouge (1987) und Stanley Kwan; die Personenseite nm0477102 bestätigt denselben Regisseur. Die Langform Stanley Kwan Kam-pang im API-Credit ist damit aufgelöst. Die Erstfassung ist von der späteren Restaurierung getrennt; das Werkjahr bleibt 1987.",
+      "sources": [
+        "https://www.imdb.com/title/tt0093258/",
+        "https://www.imdb.com/name/nm0477102/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 68883,
+        "title": "Rouge",
+        "originalTitle": "胭脂扣",
+        "releaseDate": "1987-12-05",
+        "imdbId": "tt0093258"
+      }
+    },
+    {
+      "key": "Yuen Ling Yuk|1991",
+      "status": "confirmed",
+      "previousReason": "not-confirmed",
+      "imdb": "https://www.imdb.com/title/tt0102816/",
+      "finding": "IMDb tt0102816 führt Ruan Lingyu/Center Stage (1991), Stanley Kwan und Maggie Cheungs Ruan-Lingyu-Darstellung. Der dortige Ersttermin 29. November 1991 und der Regisseur nm0477102 bestätigen die aktuelle Filmidentität unabhängig von anderen Umschriften und späteren Restaurierungen.",
+      "sources": [
+        "https://www.imdb.com/title/tt0102816/",
+        "https://pro.imdb.com/title/tt0102816/",
+        "https://www.imdb.com/name/nm0477102/"
+      ],
+      "tmdbCrossCheck": {
+        "id": 68004,
+        "title": "Center Stage",
+        "originalTitle": "阮玲玉",
+        "releaseDate": "1991-11-29",
+        "imdbId": "tt0102816"
+      }
+    }
+  ],
+  "directorCases": [
+    {
+      "ordinal": 0,
+      "key": "Barton Fink|1991",
+      "previousOmitted": {
+        "film": "Barton Fink|1991",
+        "tmdbPerson": 1224,
+        "name": "Ethan Coen",
+        "expected": "Joel Coen",
+        "aliases": [
+          "Ethan Coen",
+          "Roderick Jaynes",
+          "ايثان كوين",
+          "伊森·柯恩",
+          "이선 제시 코엔",
+          "Ethan Jesse Coen",
+          "ئیسن کۆون ",
+          "科恩兄弟",
+          "اتان کوئن"
+        ],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": ["Joel Coen"],
+      "confirmedLinks": [
+        {
+          "name": "Joel Coen",
+          "imdb": "https://www.imdb.com/name/nm0001054/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/290/cast",
+        "https://www.themoviedb.org/person/1223"
+      ]
+    },
+    {
+      "ordinal": 1,
+      "key": "Boon sang yuen|1997",
+      "previousOmitted": {
+        "film": "Boon sang yuen|1997",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Ann Hui"],
+      "confirmedLinks": [
+        {
+          "name": "Ann Hui",
+          "imdb": "https://www.imdb.com/name/nm0401176/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Ann Hui",
+          "imdb": "https://www.imdb.com/name/nm0401176/"
+        }
+      ],
+      "missing": [],
+      "finding": "Boon sang yuen/Ban sheng yuan ist der 1997er Film Eighteen Springs von Ann Hui mit Anita Mui und Leon Lai. HKFA und MoMA bestätigen Titel, Jahr, Regie und Figuren; IMDb und aktueller expliziter Cross-Identifier bestätigen tt0127468. Keine Verwechslung mit der späteren Fernsehfassung.",
+      "sources": [
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2023-cheungmui-fs-film20.html",
+        "https://www.moma.org/calendar/events/2101",
+        "https://www.imdb.com/title/tt0127468/"
+      ]
+    },
+    {
+      "ordinal": 2,
+      "key": "Bruised|2020",
+      "previousOmitted": {
+        "film": "Bruised|2020",
+        "tmdbPerson": 1717667,
+        "name": "Ali Tavakkoli",
+        "reason": "Kein bestätigter IMDb-Personenbezug"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Halle Berry"],
+      "confirmedLinks": [
+        {
+          "name": "Halle Berry",
+          "imdb": "https://www.imdb.com/name/nm0000932/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Halle Berry",
+          "imdb": "https://www.imdb.com/name/nm0000932/"
+        }
+      ],
+      "missing": [],
+      "finding": "Der bisher wiederverwendete TMDB-Datensatz 1412141/tt33064920 ist ein anderer gleichnamiger Film von Ali Tavakkoli. Der Quizinhalt nennt Halle Berry als Regisseurin und Jackie Justice; IMDb und der neu abgefragte konkrete Datensatz 718633 bestätigen dafür tt8310474. Link ersetzt, Quizinhalt und Lernidentität erhalten.",
+      "sources": [
+        "https://www.imdb.com/title/tt8310474/",
+        "https://www.imdb.com/title/tt8310474/fullcredits/",
+        "https://www.imdb.com/name/nm0000932/"
+      ]
+    },
+    {
+      "ordinal": 3,
+      "key": "Cats|1998",
+      "previousOmitted": {
+        "film": "Cats|1998",
+        "tmdbPerson": 98750,
+        "name": "Trevor Nunn",
+        "expected": "David Mallet",
+        "aliases": ["Trevor Nunn"],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": ["David Mallet"],
+      "confirmedLinks": [
+        {
+          "name": "David Mallet",
+          "imdb": "https://www.imdb.com/name/nm0539950/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/26598/cast",
+        "https://www.themoviedb.org/person/90657"
+      ]
+    },
+    {
+      "ordinal": 4,
+      "key": "Chek law dak gung|2002",
+      "previousOmitted": {
+        "film": "Chek law dak gung|2002",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Ching Siu-tung"],
+      "confirmedLinks": [
+        {
+          "name": "Ching Siu-tung",
+          "imdb": "https://www.imdb.com/name/nm0155642/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Ching Siu-tung",
+          "imdb": "https://www.imdb.com/name/nm0155642/"
+        }
+      ],
+      "missing": [],
+      "finding": "Naked Weapon (2002) ist eindeutig identisch. IMDb führt Siu-Tung Ching ausdrücklich auch als Tony Ching Siu Tung; die HKFA-Namensform Tony Ching Siu-tung bestätigt, dass die automatische Wortgleichheitsprüfung nur einen Alias verworfen hatte.",
+      "sources": [
+        "https://pro.imdb.com/title/tt0341495/",
+        "https://www.imdb.com/title/tt0341495/fullcredits/",
+        "https://www.imdb.com/name/nm0155642/",
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2017-13-1-6.html"
+      ]
+    },
+    {
+      "ordinal": 5,
+      "key": "Chuang wai|1973",
+      "previousOmitted": {
+        "film": "Chuang wai|1973",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Sung Tsun-Shou", "Yu Teng-Heung"],
+      "confirmedLinks": [
+        {
+          "name": "Sung Tsun-Shou",
+          "imdb": "https://www.imdb.com/name/nm0839307/"
+        },
+        {
+          "name": "Yu Teng-Heung",
+          "imdb": "https://www.imdb.com/name/nm2634030/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Sung Tsun-Shou",
+          "imdb": "https://www.imdb.com/name/nm0839307/"
+        },
+        {
+          "name": "Yu Teng-Heung",
+          "imdb": "https://www.imdb.com/name/nm2634030/"
+        }
+      ],
+      "missing": [],
+      "finding": "M+ und Golden Horse bestätigen Outside the Window/窗外 (1973) mit Sung Tsun-Shou und 郁正春/YOK Teng-heung, im Text auch Yu Teng-Heung. Die offizielle IMDb-Suche gibt für Yok Teng Heung und Cheng-Chun Yu dieselbe nm2634030 zurück. Damit sind beide Regiepersonen und die konkrete Brigitte-Lin-Fassung tt1240913 identifiziert.",
+      "sources": [
+        "https://www.mplus.org.hk/en/cinema/mplus-restored-programme/outside-the-window/",
+        "https://www.goldenhorse.org.tw/film/programme/films/detail/3719?search_category=FF&search_year=2023",
+        "https://www.hkfilmdirectors.com/1979-2013/contents.php",
+        "https://www.imdb.com/title/tt1240913/fullcredits/",
+        "https://v2.sg.media-imdb.com/suggestion/y/Yok%20Teng%20Heung.json",
+        "https://v2.sg.media-imdb.com/suggestion/c/Cheng-Chun%20Yu.json"
+      ]
+    },
+    {
+      "ordinal": 6,
+      "key": "Chuen do fong ji|1990",
+      "previousOmitted": {
+        "film": "Chuen do fong ji|1990",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Eddie Fong"],
+      "confirmedLinks": [
+        {
+          "name": "Eddie Fong",
+          "imdb": "https://www.imdb.com/name/nm0284559/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Eddie Fong",
+          "imdb": "https://www.imdb.com/name/nm0284559/"
+        }
+      ],
+      "missing": [],
+      "finding": "IMDb nennt Chuen Do Fong Ji als Originaltitel von Kawashima Yoshiko (1990). HKFA bestätigt denselben Film mit Anita Mui und Eddie Fong; der aktuelle Regiecredit und Personenbezug lauten Eddie Fong Ling-Ching/nm0284559. Keine Neuverfilmung zugeordnet.",
+      "sources": [
+        "https://www.imdb.com/title/tt0099265/",
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2023-cheungmui-fs-film08.html"
+      ]
+    },
+    {
+      "ordinal": 7,
+      "key": "Chung on zo|1993",
+      "previousOmitted": {
+        "film": "Chung on zo|1993",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Kirk Wong", "Jackie Chan"],
+      "confirmedLinks": [
+        {
+          "name": "Kirk Wong",
+          "imdb": "https://www.imdb.com/name/nm0939202/"
+        },
+        {
+          "name": "Jackie Chan",
+          "imdb": "https://www.imdb.com/name/nm0000329/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Kirk Wong",
+          "imdb": "https://www.imdb.com/name/nm0939202/"
+        },
+        {
+          "name": "Jackie Chan",
+          "imdb": "https://www.imdb.com/name/nm0000329/"
+        }
+      ],
+      "missing": [],
+      "finding": "Crime Story (1993), Kirk Wong und Jackie Chan sind durch IMDbPro einschließlich Chans nicht im Vorspann genannter Mitregie bestätigt. Der Name Kirk Wong Chi-Keung im API-Credit bezeichnet denselben Kirk Wong. Ein fehlender zusätzlicher API-Director-Credit war kein Beleg gegen die Werkidentität.",
+      "sources": [
+        "https://pro.imdb.com/title/tt0108656/",
+        "https://www.imdb.com/title/tt0108656/fullcredits/",
+        "https://www.boxofficemojo.com/title/tt0108656/credits/"
+      ]
+    },
+    {
+      "ordinal": 8,
+      "key": "Dancin' Days|1978",
+      "previousOmitted": {
+        "film": "Dancin' Days|1978",
+        "reason": "Explizites Serienwerk: nicht mit Film-Credits oder movie-ID verknüpft"
+      },
+      "status": "confirmed-and-added",
+      "expected": [
+        "Daniel Filho",
+        "Dennis Carvalho",
+        "Gonzaga Blota",
+        "José Carlos Pieri",
+        "Marcos Paulo"
+      ],
+      "confirmedLinks": [
+        {
+          "name": "Daniel Filho",
+          "imdb": "https://www.imdb.com/name/nm0276899/"
+        },
+        {
+          "name": "Dennis Carvalho",
+          "imdb": "https://www.imdb.com/name/nm0142438/"
+        },
+        {
+          "name": "Gonzaga Blota",
+          "imdb": "https://www.imdb.com/name/nm0089368/"
+        },
+        {
+          "name": "José Carlos Pieri",
+          "imdb": "https://www.imdb.com/name/nm0682538/"
+        },
+        {
+          "name": "Marcos Paulo",
+          "imdb": "https://www.imdb.com/name/nm0667257/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Daniel Filho",
+          "imdb": "https://www.imdb.com/name/nm0276899/"
+        },
+        {
+          "name": "Dennis Carvalho",
+          "imdb": "https://www.imdb.com/name/nm0142438/"
+        },
+        {
+          "name": "Gonzaga Blota",
+          "imdb": "https://www.imdb.com/name/nm0089368/"
+        },
+        {
+          "name": "José Carlos Pieri",
+          "imdb": "https://www.imdb.com/name/nm0682538/"
+        },
+        {
+          "name": "Marcos Paulo",
+          "imdb": "https://www.imdb.com/name/nm0667257/"
+        }
+      ],
+      "missing": [],
+      "finding": "Globo als produzierender Sender führt alle fünf im Katalog genannten Regiepersonen vollständig auf; die IMDb-Vollcredits bestätigen dieselbe Serie und nennen Pieri als Co-Regisseur. Konkrete öffentliche Personenantworten und IMDb-IDs sind zusätzlich bestätigt.",
+      "sources": [
+        "https://memoriaglobo.globo.com/entretenimento/novelas/dancin-days/noticia/ficha-tecnica.ghtml",
+        "https://www.imdb.com/title/tt0149440/fullcredits/"
+      ]
+    },
+    {
+      "ordinal": 9,
+      "key": "Die Nibelungen. 1. Siegfried von Xanten|1966",
+      "previousOmitted": {
+        "film": "Die Nibelungen. 1. Siegfried von Xanten|1966",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Harald Reinl"],
+      "confirmedLinks": [
+        {
+          "name": "Harald Reinl",
+          "imdb": "https://www.imdb.com/name/nm0718243/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Harald Reinl",
+          "imdb": "https://www.imdb.com/name/nm0718243/"
+        }
+      ],
+      "missing": [],
+      "finding": "Filmportal/DIF, CCC und Terence Hills offizielle Filmografie bestätigen Harald Reinls ersten Kinoteil von 1966. IMDb tt0060749 ist genau Teil 1; der dort als Zusammenschnitt verbundene Eintrag Das Schwert der Nibelungen und die Fernsehfassung sind keine Ersatzidentität.",
+      "sources": [
+        "https://www.filmportal.de/film/die-nibelungen-1-siegfried-von-xanten_b16b7731562e4d72973f368495e45e45",
+        "https://cccfilm.de/filme/filme-ccc_224-225.pdf",
+        "https://de.terencehill.com/index.php?sel=filmography&sub=136",
+        "https://www.imdb.com/title/tt0060749/movieconnections/"
+      ]
+    },
+    {
+      "ordinal": 10,
+      "key": "Die Nibelungen. 2. Kriemhilds Rache|1967",
+      "previousOmitted": {
+        "film": "Die Nibelungen. 2. Kriemhilds Rache|1967",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Harald Reinl"],
+      "confirmedLinks": [
+        {
+          "name": "Harald Reinl",
+          "imdb": "https://www.imdb.com/name/nm0718243/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Harald Reinl",
+          "imdb": "https://www.imdb.com/name/nm0718243/"
+        }
+      ],
+      "missing": [],
+      "finding": "Filmportal/DIF und die offizielle Terence-Hill-Filmografie bestätigen den zweiten Kinoteil Kriemhilds Rache von Harald Reinl mit Veröffentlichung 1967. IMDb tt0060750 und aktueller Cross-Identifier beziehen sich auf diesen zweiten Teil, getrennt von Teil 1, Fritz Langs Stummfilm und Fernsehfassungen.",
+      "sources": [
+        "https://www.filmportal.de/film/die-nibelungen-2-kriemhilds-rache_13039209dcdb444cb9e9bcbc328c9562",
+        "https://en.terencehill.com/index.php?sel=filmography&sub=137",
+        "https://www.imdb.com/title/tt0060750/"
+      ]
+    },
+    {
+      "ordinal": 11,
+      "key": "Dont Look Back|1967",
+      "previousOmitted": {
+        "film": "Dont Look Back|1967",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["D. A. Pennebaker"],
+      "confirmedLinks": [
+        {
+          "name": "D. A. Pennebaker",
+          "imdb": "https://www.imdb.com/name/nm0672060/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "D. A. Pennebaker",
+          "imdb": "https://www.imdb.com/name/nm0672060/"
+        }
+      ],
+      "missing": [],
+      "finding": "Pennebaker Hegedus Films als Rechte-/Produktionsquelle bestätigt den Bob-Dylan-Film von 1967. AFI erklärt ausdrücklich die originale Schreibweise ohne Apostroph. Der zusätzliche Bob-Dylan-Namensvorsatz in TMDB ändert die Identität tt0061589 nicht.",
+      "sources": [
+        "https://phfilms.com/films/dont-look-back/",
+        "https://catalog.afi.com/Film/20193-DON%27T-LOOK-BACK",
+        "https://www.imdb.com/title/tt0061589/"
+      ]
+    },
+    {
+      "ordinal": 12,
+      "key": "Dung che sai duk redux|2008",
+      "previousOmitted": {
+        "film": "Dung che sai duk redux|2008",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Wong Kar-Wai"],
+      "confirmedLinks": [
+        {
+          "name": "Wong Kar-Wai",
+          "imdb": "https://www.imdb.com/name/nm0939182/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Wong Kar-Wai",
+          "imdb": "https://www.imdb.com/name/nm0939182/"
+        }
+      ],
+      "missing": [],
+      "finding": "Sony bestätigt die Redux-Überarbeitung mit Copyright 1994/2008. Der aktuelle IMDb-Haupteintrag tt0109688 nennt Ashes of Time: Redux als Titel und beschreibt ausdrücklich die 2008 in Cannes gezeigte Neufassung mit neuem Material, geändertem Schnitt, Farbkonzept und Musik. Nur wegen dieser konkreten Fassungsabdeckung ist der Sammeleintrag vertretbar; kein pauschaler Ersatz durch die 1994er Vorlage.",
+      "sources": [
+        "https://www.sonypictures.com/movies/ashesoftimeredux",
+        "https://www.imdb.com/title/tt0109688/"
+      ],
+      "boundary": "IMDb bündelt Original und ausdrücklich beschriebene Redux-Fassung unter einem Haupteintrag. Ältere Hinweise auf tt1233247 wurden nicht als eigenständige aktuelle Ziel-ID bestätigt und werden nicht übernommen. Der Katalogschlüssel mit 2008 bleibt erhalten."
+    },
+    {
+      "ordinal": 13,
+      "key": "F for Fake|1973",
+      "previousOmitted": {
+        "film": "F for Fake|1973",
+        "tmdbPerson": 1146725,
+        "name": "François Reichenbach",
+        "expected": "Orson Welles",
+        "aliases": ["François Reichenbach", "Francois Reichenbach"],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": ["Orson Welles"],
+      "confirmedLinks": [
+        {
+          "name": "Orson Welles",
+          "imdb": "https://www.imdb.com/name/nm0000080/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/43003/cast",
+        "https://www.themoviedb.org/person/40"
+      ]
+    },
+    {
+      "ordinal": 14,
+      "key": "Gabriela|1975",
+      "previousOmitted": {
+        "film": "Gabriela|1975",
+        "reason": "Explizites Serienwerk: nicht mit Film-Credits oder movie-ID verknüpft"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Walter Avancini", "Gonzaga Blota"],
+      "confirmedLinks": [
+        {
+          "name": "Walter Avancini",
+          "imdb": "https://www.imdb.com/name/nm0042771/"
+        },
+        {
+          "name": "Gonzaga Blota",
+          "imdb": "https://www.imdb.com/name/nm0089368/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Walter Avancini",
+          "imdb": "https://www.imdb.com/name/nm0042771/"
+        },
+        {
+          "name": "Gonzaga Blota",
+          "imdb": "https://www.imdb.com/name/nm0089368/"
+        }
+      ],
+      "missing": [],
+      "finding": "Globo bestätigt ausdrücklich die erste Version von 1975 und Walter Avancini/Gonzaga Blota. Aktuelle getrennte TV-Credits und Personen-Cross-IDs stimmen überein; kein Link zur Filmadaption 1983 oder neuen Serie 2012.",
+      "sources": [
+        "https://memoriaglobo.globo.com/entretenimento/novelas/gabriela-1a-versao/noticia/ficha-tecnica.ghtml",
+        "https://www.imdb.com/title/tt0144046/"
+      ]
+    },
+    {
+      "ordinal": 15,
+      "key": "Gau yat san diu hap|1991",
+      "previousOmitted": {
+        "film": "Gau yat san diu hap|1991",
+        "tmdbPerson": 57617,
+        "name": "Jeffrey Lau",
+        "expected": "Corey Yuen und David Lai",
+        "aliases": [
+          "Jeffrey Lau",
+          "劉鎮偉",
+          "Key On",
+          "Gee An",
+          "Lau Yue-Ming",
+          "Jeff Lau Chun-Wai",
+          "Jeff Lau",
+          "刘镇伟",
+          "유진위",
+          "Lau Chun-wai"
+        ],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": ["Corey Yuen", "David Lai"],
+      "confirmedLinks": [
+        {
+          "name": "David Lai",
+          "imdb": "https://www.imdb.com/name/nm0481681/"
+        },
+        {
+          "name": "Corey Yuen",
+          "imdb": "https://www.imdb.com/name/nm0477035/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/45394/cast",
+        "https://www.themoviedb.org/person/83688",
+        "https://www.themoviedb.org/person/35452"
+      ]
+    },
+    {
+      "ordinal": 16,
+      "key": "Gion no shimai|1936",
+      "previousOmitted": {
+        "film": "Gion no shimai|1936",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Kenji Mizoguchi"],
+      "confirmedLinks": [
+        {
+          "name": "Kenji Mizoguchi",
+          "imdb": "https://www.imdb.com/name/nm0003226/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Kenji Mizoguchi",
+          "imdb": "https://www.imdb.com/name/nm0003226/"
+        }
+      ],
+      "missing": [],
+      "finding": "Der Verleiher trigon-film bestätigt Sisters of Gion/Gion no shimai, Kenji Mizoguchi, Japan 1936. IMDb tt0027672 nennt dieselben Darsteller/Figuren und das Jahr, verwendet aber die abweichende Romanisierung Gion no kyôdai. Das ist keine andere Verfilmung.",
+      "sources": [
+        "https://trigon-film.org/en/films/sisters-of-gion-gion-no-shimai/",
+        "https://asac.labiennale.org/attivita/cinema/129",
+        "https://www.imdb.com/title/tt0027672/"
+      ]
+    },
+    {
+      "ordinal": 17,
+      "key": "Gwan gwan hung chan|1990",
+      "previousOmitted": {
+        "film": "Gwan gwan hung chan|1990",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Yim Ho"],
+      "confirmedLinks": [
+        {
+          "name": "Yim Ho",
+          "imdb": "https://www.imdb.com/name/nm0948021/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Yim Ho",
+          "imdb": "https://www.imdb.com/name/nm0948021/"
+        }
+      ],
+      "missing": [],
+      "finding": "Golden Horse und HKFA bestätigen Red Dust (1990), Originalschrift 滾滾紅塵, Yim Ho und Brigitte Lin/Maggie Cheung. IMDb tt0099719 führt Gun gun hong chen und Ho Yim; die Namensreihenfolge und Kantonesisch-/Mandarin-Transliteration erklären die gescheiterte automatische Suche.",
+      "sources": [
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2024-qp-fs-film04.html",
+        "https://www.goldenhorse.org.tw/film/programme/films/detail/3722?search_category=FF&search_year=2023",
+        "https://www.imdb.com/title/tt0099719/",
+        "https://www.imdb.com/name/nm0948021/"
+      ]
+    },
+    {
+      "ordinal": 18,
+      "key": "Intolerable Cruelty|2003",
+      "previousOmitted": {
+        "film": "Intolerable Cruelty|2003",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Joel Coen", "Ethan Coen"],
+      "confirmedLinks": [
+        {
+          "name": "Joel Coen",
+          "imdb": "https://www.imdb.com/name/nm0001054/"
+        },
+        {
+          "name": "Ethan Coen",
+          "imdb": "https://www.imdb.com/name/nm0001053/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Joel Coen",
+          "imdb": "https://www.imdb.com/name/nm0001054/"
+        },
+        {
+          "name": "Ethan Coen",
+          "imdb": "https://www.imdb.com/name/nm0001053/"
+        }
+      ],
+      "missing": [],
+      "finding": "Die primären IMDb-Vollcredits führen Joel Coen und Ethan Coen, letzteren ausdrücklich als nicht genannten Mitregisseur. Damit ist die im Katalog enthaltene gemeinsame Regie trotz des einzelnen TMDB-Director-Credits bestätigt; beide bestehenden gesicherten Personen-IDs werden verwendet.",
+      "sources": [
+        "https://www.imdb.com/title/tt0138524/fullcredits/",
+        "https://pro.imdb.com/title/tt0138524/"
+      ]
+    },
+    {
+      "ordinal": 19,
+      "key": "Istgah-e matrouk|2002",
+      "previousOmitted": {
+        "film": "Istgah-e matrouk|2002",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Alireza Raisian"],
+      "confirmedLinks": [
+        {
+          "name": "Alireza Raisian",
+          "imdb": "https://www.imdb.com/name/nm0707200/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Alireza Raisian",
+          "imdb": "https://www.imdb.com/name/nm0707200/"
+        }
+      ],
+      "missing": [],
+      "finding": "IMDb tt0333645 führt Istgah-Matrouk/The Deserted Station (2002), Alireza Raisian, Leila Hatami und die konkrete Schulpremisse der Katalogfrage. Der minimale Schreibunterschied war die Suchlücke; iranischer Kinostart 2003 ist vom bereits 2002 gezeigten Film getrennt zu verstehen.",
+      "sources": [
+        "https://www.imdb.com/title/tt0333645/",
+        "https://www.imdb.com/title/tt0333645/fullcredits/",
+        "https://pro.imdb.com/title/tt0333645/"
+      ]
+    },
+    {
+      "ordinal": 20,
+      "key": "L'amore difficile|1962",
+      "previousOmitted": {
+        "film": "L'amore difficile|1962",
+        "tmdbPerson": 31603,
+        "name": "Armando Crispino",
+        "expected": "Alberto Bonucci, Luciano Lucignani, Nino Manfredi und Sergio Sollima",
+        "aliases": ["Armando Crispino"],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": [
+        "Alberto Bonucci",
+        "Luciano Lucignani",
+        "Nino Manfredi",
+        "Sergio Sollima"
+      ],
+      "confirmedLinks": [
+        {
+          "name": "Alberto Bonucci",
+          "imdb": "https://www.imdb.com/name/nm0095245/"
+        },
+        {
+          "name": "Luciano Lucignani",
+          "imdb": "https://www.imdb.com/name/nm0524645/"
+        },
+        {
+          "name": "Sergio Sollima",
+          "imdb": "https://www.imdb.com/name/nm0813177/"
+        },
+        {
+          "name": "Nino Manfredi",
+          "imdb": "https://www.imdb.com/name/nm0542063/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/266316/cast",
+        "https://www.themoviedb.org/person/93969",
+        "https://www.themoviedb.org/person/29498",
+        "https://www.themoviedb.org/person/39463",
+        "https://www.themoviedb.org/person/37583"
+      ]
+    },
+    {
+      "ordinal": 21,
+      "key": "L'arte della gioia|2024",
+      "previousOmitted": {
+        "film": "L'arte della gioia|2024",
+        "reason": "Explizites Serienwerk: nicht mit Film-Credits oder movie-ID verknüpft"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Valeria Golino", "Nicolangelo Gelormini"],
+      "confirmedLinks": [
+        {
+          "name": "Valeria Golino",
+          "imdb": "https://www.imdb.com/name/nm0000420/"
+        },
+        {
+          "name": "Nicolangelo Gelormini",
+          "imdb": "https://www.imdb.com/name/nm3129251/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Valeria Golino",
+          "imdb": "https://www.imdb.com/name/nm0000420/"
+        },
+        {
+          "name": "Nicolangelo Gelormini",
+          "imdb": "https://www.imdb.com/name/nm3129251/"
+        }
+      ],
+      "missing": [],
+      "finding": "Der offizielle Sky-Pressbook nennt Nicolangelo Gelormini als Regisseur der fünften Episode, IMDb nm3129251 dieselbe Arbeit. Valeria Golino und Gelormini werden innerhalb der bestätigten TV-Miniserie verlinkt; keine gleichnamige andere Werkart.",
+      "sources": [
+        "https://assets.contentstack.io/v3/assets/bltdc2476c7b6b194dd/bltc153c80ce658d4a0/67bc9d911a86fc195b65a34a/L_Arte_della_Gioia_Pressbook_2025_DEF_%28002%29.pdf",
+        "https://www.imdb.com/name/nm3129251/",
+        "https://www.imdb.com/title/tt21279748/"
+      ]
+    },
+    {
+      "ordinal": 22,
+      "key": "Leng xue shi san ying|1978",
+      "previousOmitted": {
+        "film": "Leng xue shi san ying|1978",
+        "tmdbPerson": 240167,
+        "name": "Sun Chung",
+        "reason": "Kein bestätigter IMDb-Personenbezug"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Sun Chung"],
+      "confirmedLinks": [
+        {
+          "name": "Sun Chung",
+          "imdb": "https://www.imdb.com/name/nm0838936/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Sun Chung",
+          "imdb": "https://www.imdb.com/name/nm0838936/"
+        }
+      ],
+      "missing": [],
+      "finding": "HKFA-Biografie und der Rechteinhaber Celestial bestätigen Sun Chung als Regisseur von The Avenging Eagle (1978). IMDb führt ihn unter vertauschter Reihenfolge Chung Sun mit Alternative name Sun Chung, nm0838936. Die bestehende Werk-ID tt0077868 ist richtig; nur der fehlende Personen-Cross-Identifier wird nachrecherchiert ergänzt.",
+      "sources": [
+        "https://www.filmarchive.gov.hk/documents/18995340/19057018/Sun%2BChung_e.pdf",
+        "https://www.shawbrothersuniverse.com/an-appreciation-of-writer-and-director-sun-chung",
+        "https://www.imdb.com/name/nm0838936/",
+        "https://www.imdb.com/title/tt0077868/"
+      ]
+    },
+    {
+      "ordinal": 23,
+      "key": "Miller's Crossing|1990",
+      "previousOmitted": {
+        "film": "Miller's Crossing|1990",
+        "tmdbPerson": 1224,
+        "name": "Ethan Coen",
+        "expected": "Joel Coen",
+        "aliases": [
+          "Ethan Coen",
+          "Roderick Jaynes",
+          "ايثان كوين",
+          "伊森·柯恩",
+          "이선 제시 코엔",
+          "Ethan Jesse Coen",
+          "ئیسن کۆون ",
+          "科恩兄弟",
+          "اتان کوئن"
+        ],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": ["Joel Coen"],
+      "confirmedLinks": [
+        {
+          "name": "Joel Coen",
+          "imdb": "https://www.imdb.com/name/nm0001054/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/379/cast",
+        "https://www.themoviedb.org/person/1223"
+      ]
+    },
+    {
+      "ordinal": 24,
+      "key": "Morning Raga|2004",
+      "previousOmitted": {
+        "film": "Morning Raga|2004",
+        "tmdbPerson": 1776246,
+        "name": "Mahesh Dattani",
+        "reason": "Kein bestätigter IMDb-Personenbezug"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Mahesh Dattani"],
+      "confirmedLinks": [
+        {
+          "name": "Mahesh Dattani",
+          "imdb": "https://www.imdb.com/name/nm1338698/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Mahesh Dattani",
+          "imdb": "https://www.imdb.com/name/nm1338698/"
+        }
+      ],
+      "missing": [],
+      "finding": "Die primären IMDb-Werkcredits und das Personenprofil bestätigen Mahesh Dattani, nm1338698, als Regisseur von Morning Raga (2004). Die bestehende Werk-ID tt0419974 war bereits richtig; ein leeres API-Personenfeld ist kein Existenzgegenbeleg.",
+      "sources": [
+        "https://www.imdb.com/title/tt0419974/fullcredits/",
+        "https://www.imdb.com/name/nm1338698/"
+      ]
+    },
+    {
+      "ordinal": 25,
+      "key": "Not Wanted|1949",
+      "previousOmitted": {
+        "film": "Not Wanted|1949",
+        "tmdbPerson": 46617,
+        "name": "Ida Lupino",
+        "expected": "Elmer Clifton",
+        "aliases": [
+          "Ida Lupino",
+          "Айда Лупино",
+          "Айда Лупіно",
+          "Ίντα Λουπίνο",
+          "Ајда Лупино",
+          "이다 루피노"
+        ],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": ["Elmer Clifton"],
+      "confirmedLinks": [
+        {
+          "name": "Elmer Clifton",
+          "imdb": "https://www.imdb.com/name/nm0166730/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/126265/cast",
+        "https://www.themoviedb.org/person/8838"
+      ]
+    },
+    {
+      "ordinal": 26,
+      "key": "On Dangerous Ground|1951",
+      "previousOmitted": {
+        "film": "On Dangerous Ground|1951",
+        "tmdbPerson": 46617,
+        "name": "Ida Lupino",
+        "expected": "Nicholas Ray",
+        "aliases": [
+          "Ida Lupino",
+          "Айда Лупино",
+          "Айда Лупіно",
+          "Ίντα Λουπίνο",
+          "Ајда Лупино",
+          "이다 루피노"
+        ],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": ["Nicholas Ray"],
+      "confirmedLinks": [
+        {
+          "name": "Nicholas Ray",
+          "imdb": "https://www.imdb.com/name/nm0712947/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/31152/cast",
+        "https://www.themoviedb.org/person/2765"
+      ]
+    },
+    {
+      "ordinal": 27,
+      "key": "Queen Kelly|1932",
+      "previousOmitted": {
+        "film": "Queen Kelly|1932",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "partially-confirmed",
+      "expected": ["Erich von Stroheim", "Gregg Toland"],
+      "confirmedLinks": [
+        {
+          "name": "Erich von Stroheim",
+          "imdb": "https://www.imdb.com/name/nm0002233/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Erich von Stroheim",
+          "imdb": "https://www.imdb.com/name/nm0002233/"
+        }
+      ],
+      "missing": ["Gregg Toland"],
+      "finding": "BFI und Gloria Swansons beim BFI erhaltenes Interview belegen die europäische 1932er Veröffentlichung; IMDb tt0020298 verzeichnet ausdrücklich die Argentinien-/Paris-Termine 1932. Der Sammeleintrag wird für diese abgedeckte Fassung verlinkt. Seine Credits ordnen die ergänzte Schlusssequenz Richard Boleslawski zu und Gregg Toland der Kamera; die gespeicherte Mitregie Toland wird daher nicht in einen neuen Regielink umgesetzt.",
+      "sources": [
+        "https://www.bfi.org.uk/london-film-festival/features/where-begin-with-erich-von-stroheim",
+        "https://www.bfi.org.uk/sight-and-sound/features/i-am-not-going-write-my-memoirs-gloria-swanson-talks-pictures",
+        "https://www.imdb.com/title/tt0020298/releaseinfo/",
+        "https://www.imdb.com/title/tt0020298/fullcredits/"
+      ],
+      "boundary": "IMDb-Hauptjahr 1929 und konkret belegte europäische Veröffentlichung 1932 stehen nebeneinander. Keine Änderung des Quizjahrs. Fachlicher Regiewiderspruch Gregg Toland bleibt zur separaten Redaktion offen; kein Link zu ihm als Regisseur."
+    },
+    {
+      "ordinal": 28,
+      "key": "Remodeling Her Husband|1920",
+      "previousOmitted": {
+        "film": "Remodeling Her Husband|1920",
+        "tmdbPerson": 100036,
+        "name": "D.W. Griffith",
+        "expected": "Lillian Gish",
+        "aliases": [
+          "D.W. Griffith",
+          "David Llewelyn Wark Griffith",
+          "David Wark Griffith",
+          "David W. Griffith",
+          "Lawrence Griffith",
+          "Captain Victor Marier",
+          "Capt. Victor Marier",
+          "Victor Marier",
+          "Granville Hicks",
+          "Irene Sinclair",
+          "Roy Sinclair",
+          "Granville Warwick",
+          "M. Gaston de Tolignac",
+          "Gaston de Tolignac",
+          "데이비드 와크 그리피스",
+          "D.W. 그리피스",
+          "데이비드 그리피스"
+        ],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": ["Lillian Gish"],
+      "confirmedLinks": [
+        {
+          "name": "Lillian Gish",
+          "imdb": "https://www.imdb.com/name/nm0001273/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/286152/cast",
+        "https://www.themoviedb.org/person/8828"
+      ]
+    },
+    {
+      "ordinal": 29,
+      "key": "Sarinjaui gieokbeop|2017",
+      "previousOmitted": {
+        "film": "Sarinjaui gieokbeop|2017",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Won Shin-yun"],
+      "confirmedLinks": [
+        {
+          "name": "Won Shin-yun",
+          "imdb": "https://www.imdb.com/name/nm2008414/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Won Shin-yun",
+          "imdb": "https://www.imdb.com/name/nm2008414/"
+        }
+      ],
+      "missing": [],
+      "finding": "Well Go USA als Verleiher bestätigt Memoir of a Murderer (2017) von Won Shin-yun mit Sul Kyung-gu und der Alzheimer-/Serienmörderhandlung. IMDb tt5729348 und der Originalschrifttitel 살인자의 기억법 bestätigen dieselbe Fassung; die im Katalog verkürzte Romanisierung ist kein anderes Werk.",
+      "sources": [
+        "https://wellgousa.com/films/memoir-murderer",
+        "https://www.boxofficemojo.com/title/tt5729348/credits/",
+        "https://www.imdb.com/title/tt5729348/"
+      ]
+    },
+    {
+      "ordinal": 30,
+      "key": "Sayat-Nova|1969",
+      "previousOmitted": {
+        "film": "Sayat-Nova|1969",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Sergei Paradschanow"],
+      "confirmedLinks": [
+        {
+          "name": "Sergei Paradschanow",
+          "imdb": "https://www.imdb.com/name/nm0660886/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Sergei Paradschanow",
+          "imdb": "https://www.imdb.com/name/nm0660886/"
+        }
+      ],
+      "missing": [],
+      "finding": "Criterion als restaurierender Verleiher bestätigt The Color of Pomegranates von Sergei Parajanov (1969) über den Dichter Sayat-Nova; IMDb tt0063555 und nm0660886 bestätigen Werk und Regisseur. Sergei Paradschanow ist die deutsche Namensform derselben Person.",
+      "sources": [
+        "https://www.criterion.com/films/29219-the-color-of-pomegranates",
+        "https://www.imdb.com/title/tt0063555/",
+        "https://www.imdb.com/name/nm0660886/"
+      ]
+    },
+    {
+      "ordinal": 31,
+      "key": "Siu ngo gong woo: Dung Fong Bat Bai|1992",
+      "previousOmitted": {
+        "film": "Siu ngo gong woo: Dung Fong Bat Bai|1992",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Ching Siu-Tung"],
+      "confirmedLinks": [
+        {
+          "name": "Ching Siu-Tung",
+          "imdb": "https://www.imdb.com/name/nm0155642/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Ching Siu-Tung",
+          "imdb": "https://www.imdb.com/name/nm0155642/"
+        }
+      ],
+      "missing": [],
+      "finding": "HKFA bestätigt Swordsman II (1992), Tony Ching Siu-tung, Jet Li und Brigitte Lin als Dongfang Bubai. IMDb tt0103295 und die bestätigte Siu-Tung-Ching-Identität nm0155642 belegen dieselbe Fassung. Beide bestehenden Romanisierungsschlüssel verweisen auf denselben Film, ohne zusammengelegt zu werden.",
+      "sources": [
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2017-13-1-6.html",
+        "https://www.imdb.com/title/tt0103295/",
+        "https://www.imdb.com/name/nm0155642/"
+      ]
+    },
+    {
+      "ordinal": 32,
+      "key": "Sois belle et tais-toi!|1978",
+      "previousOmitted": {
+        "film": "Sois belle et tais-toi!|1978",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Delphine Seyrig"],
+      "confirmedLinks": [
+        {
+          "name": "Delphine Seyrig",
+          "imdb": "https://www.imdb.com/name/nm0786891/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Delphine Seyrig",
+          "imdb": "https://www.imdb.com/name/nm0786891/"
+        }
+      ],
+      "missing": [],
+      "finding": "Die BnF bestätigt nach eigener Restaurierungsarbeit Fertigstellung 1977 und erste Verbreitung ab 1978. IMDb tt0076733 führt denselben Dokumentarfilm von Delphine Seyrig unter Kinojahr 1981; Verleiher und Darstellerinnen stimmen überein. Die spätere Kinoauswertung ist kein Grund für einen fehlenden Link und kein Anlass, die Frageidentität umzuschreiben.",
+      "sources": [
+        "https://www.bnf.fr/sites/default/files/2025-09/CP-Sois-belle-et-tais-toi-BnF.pdf",
+        "https://www.splendor-films.com/component/flexicontent/download/2353/742/46",
+        "https://www.imdb.com/title/tt0076733/"
+      ],
+      "boundary": "Erste Verbreitung 1978 und spätere Kinoauswertung/IMDb-Jahr 1981 sind dokumentiert; Jahr und Frageobjekte bleiben unverändert."
+    },
+    {
+      "ordinal": 33,
+      "key": "The Big Lebowski|1998",
+      "previousOmitted": {
+        "film": "The Big Lebowski|1998",
+        "tmdbPerson": 1224,
+        "name": "Ethan Coen",
+        "expected": "Joel Coen",
+        "aliases": [
+          "Ethan Coen",
+          "Roderick Jaynes",
+          "ايثان كوين",
+          "伊森·柯恩",
+          "이선 제시 코엔",
+          "Ethan Jesse Coen",
+          "ئیسن کۆون ",
+          "科恩兄弟",
+          "اتان کوئن"
+        ],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "already-covered",
+      "expected": ["Joel Coen"],
+      "confirmedLinks": [
+        {
+          "name": "Joel Coen",
+          "imdb": "https://www.imdb.com/name/nm0001054/"
+        }
+      ],
+      "addedLinks": [],
+      "missing": [],
+      "finding": "Der bisher ausgesonderte zusätzliche Anbietercredit gehört nicht zu den aktuell gespeicherten Regienamen. Die tatsächlichen aktuellen Namen sind bereits vollständig mit bestätigten Einträgen verlinkt; die Negativzeile bezeichnet keine fehlende Zielzuordnung.",
+      "sources": [
+        "https://www.themoviedb.org/movie/115/cast",
+        "https://www.themoviedb.org/person/1223"
+      ]
+    },
+    {
+      "ordinal": 34,
+      "key": "The Kid Brother|1927",
+      "previousOmitted": {
+        "film": "The Kid Brother|1927",
+        "tmdbPerson": 88953,
+        "name": "Harold Lloyd",
+        "expected": "Ted Wilde und J. A. Howe",
+        "aliases": [
+          "Harold Lloyd",
+          "Hal Lloyd",
+          "해럴드 로이드",
+          "Harold Clayton Lloyd"
+        ],
+        "reason": "Regiename stimmt nicht eindeutig mit dem aktuellen Werk überein"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Ted Wilde", "J. A. Howe"],
+      "confirmedLinks": [
+        {
+          "name": "Ted Wilde",
+          "imdb": "https://www.imdb.com/name/nm0928514/"
+        },
+        {
+          "name": "J. A. Howe",
+          "imdb": "https://www.imdb.com/name/nm0397834/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "J. A. Howe",
+          "imdb": "https://www.imdb.com/name/nm0397834/"
+        }
+      ],
+      "missing": [],
+      "finding": "IMDb-Hauptcredits führen Ted Wilde und J.A. Howe; der aktuelle konkrete TMDB-Credit und die offizielle IMDb-Personensuche bestätigen Howe als nm0397834. Nur dieser tatsächlich fehlende aktuelle Regiename wird ergänzt; Harold Lloyd wird nicht zusätzlich in die unveränderten aktuellen Regiemetadaten aufgenommen.",
+      "sources": [
+        "https://www.imdb.com/title/tt0018051/maindetails",
+        "https://v2.sg.media-imdb.com/suggestion/j/J.A.%20Howe.json",
+        "https://www.criterion.com/current/posts/6239-the-kid-brother-mettle-is-stronger-than-muscle"
+      ]
+    },
+    {
+      "ordinal": 35,
+      "key": "The Protector|1985",
+      "previousOmitted": {
+        "film": "The Protector|1985",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["James Glickenhaus", "Jackie Chan"],
+      "confirmedLinks": [
+        {
+          "name": "James Glickenhaus",
+          "imdb": "https://www.imdb.com/name/nm0322785/"
+        },
+        {
+          "name": "Jackie Chan",
+          "imdb": "https://www.imdb.com/name/nm0000329/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "James Glickenhaus",
+          "imdb": "https://www.imdb.com/name/nm0322785/"
+        },
+        {
+          "name": "Jackie Chan",
+          "imdb": "https://www.imdb.com/name/nm0000329/"
+        }
+      ],
+      "missing": [],
+      "finding": "88 Films bietet die US-Fassung und ausdrücklich Jackie Chans Hongkong-Neuschnitt an. IMDb tt0089847 beschreibt unter Alternate versions die von Chan nachgedrehten und ergänzten Szenen; James Glickenhaus und Chans konkreter Beitrag sind damit belegt, obwohl der allgemeine TMDB-Director-Credit nur Glickenhaus nennt.",
+      "sources": [
+        "https://88-films.myshopify.com/products/the-protector",
+        "https://www.imdb.com/title/tt0089847/alternateversions/",
+        "https://www.imdb.com/title/tt0089847/fullcredits/"
+      ],
+      "boundary": "IMDb-Eintrag deckt beide ausdrücklich beschriebenen Fassungen ab; Chan wird für den dokumentierten Hongkong-Beitrag verlinkt, keine Behauptung gemeinsamer Regie der unveränderten US-Fassung."
+    },
+    {
+      "ordinal": 36,
+      "key": "Xiao ao jiang hu zhi dong fang bu bai|1992",
+      "previousOmitted": {
+        "film": "Xiao ao jiang hu zhi dong fang bu bai|1992",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Ching Siu-tung"],
+      "confirmedLinks": [
+        {
+          "name": "Ching Siu-tung",
+          "imdb": "https://www.imdb.com/name/nm0155642/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Ching Siu-tung",
+          "imdb": "https://www.imdb.com/name/nm0155642/"
+        }
+      ],
+      "missing": [],
+      "finding": "Zweiter bestehender Romanisierungsschlüssel desselben HKFA-bestätigten Swordsman-II-Films von 1992. Das konkrete Rollenpaar und die Regie Tony Ching Siu-tung sichern die Zuordnung zu tt0103295; kein erster Swordsman-Film oder anderes Remake verwendet.",
+      "sources": [
+        "https://www.filmarchive.gov.hk/en/web/hkfa/pe-event-2017-13-1-6.html",
+        "https://www.imdb.com/title/tt0103295/",
+        "https://www.imdb.com/name/nm0155642/"
+      ]
+    },
+    {
+      "ordinal": 37,
+      "key": "Xiao quan guai zhao|1979",
+      "previousOmitted": {
+        "film": "Xiao quan guai zhao|1979",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Jackie Chan", "Kenneth Tsang"],
+      "confirmedLinks": [
+        {
+          "name": "Jackie Chan",
+          "imdb": "https://www.imdb.com/name/nm0000329/"
+        },
+        {
+          "name": "Kenneth Tsang",
+          "imdb": "https://www.imdb.com/name/nm0874684/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Jackie Chan",
+          "imdb": "https://www.imdb.com/name/nm0000329/"
+        },
+        {
+          "name": "Kenneth Tsang",
+          "imdb": "https://www.imdb.com/name/nm0874684/"
+        }
+      ],
+      "missing": [],
+      "finding": "Criterion bestätigt The Fearless Hyena (1979) mit Jackie Chan; die frühere Alternativtitelredaktion und der aktuelle IMDb-Cross-Identifier bestätigen tt0079315. Die bestehende Mitregieangabe Kenneth Tsang erscheint zusätzlich in den konkreten DVD-/Blu-ray-Anbietercredits; die Person selbst ist über IMDb nm0874684 eindeutig bestätigt.",
+      "sources": [
+        "https://www.criterion.com/films/29551-the-fearless-hyena",
+        "https://www.importcds.com/fearless-hyena-the-fearless-hyena/4897048060150",
+        "https://www.moviesunlimited.com/products/the-fearless-hyena-661799488372",
+        "https://www.imdb.com/name/nm0874684/",
+        "https://www.imdb.com/title/tt0079315/"
+      ],
+      "boundary": "Criterion nennt als Director nur Jackie Chan; die herangezogenen konkreten Kaufmediencredits zusätzlich Kenneth Tsang. Unterschiedlicher Creditumfang bleibt sichtbar dokumentiert. Keine neue Mitregiebehauptung oder Inhaltsänderung im Quiz vorgenommen; bestehende Personenbezeichnung wird auf den bestätigten Eintrag verlinkt."
+    },
+    {
+      "ordinal": 38,
+      "key": "Yin ji kau|1987",
+      "previousOmitted": {
+        "film": "Yin ji kau|1987",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Stanley Kwan"],
+      "confirmedLinks": [
+        {
+          "name": "Stanley Kwan",
+          "imdb": "https://www.imdb.com/name/nm0477102/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Stanley Kwan",
+          "imdb": "https://www.imdb.com/name/nm0477102/"
+        }
+      ],
+      "missing": [],
+      "finding": "IMDb tt0093258 nennt Yin ji kau/Rouge (1987) und Stanley Kwan; die Personenseite nm0477102 bestätigt denselben Regisseur. Die Langform Stanley Kwan Kam-pang im API-Credit ist damit aufgelöst. Die Erstfassung ist von der späteren Restaurierung getrennt; das Werkjahr bleibt 1987.",
+      "sources": [
+        "https://www.imdb.com/title/tt0093258/",
+        "https://www.imdb.com/name/nm0477102/"
+      ]
+    },
+    {
+      "ordinal": 39,
+      "key": "Yuen Ling Yuk|1991",
+      "previousOmitted": {
+        "film": "Yuen Ling Yuk|1991",
+        "reason": "Keine bestätigte TMDB-Werkzuordnung"
+      },
+      "status": "confirmed-and-added",
+      "expected": ["Stanley Kwan"],
+      "confirmedLinks": [
+        {
+          "name": "Stanley Kwan",
+          "imdb": "https://www.imdb.com/name/nm0477102/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Stanley Kwan",
+          "imdb": "https://www.imdb.com/name/nm0477102/"
+        }
+      ],
+      "missing": [],
+      "finding": "IMDb tt0102816 führt Ruan Lingyu/Center Stage (1991), Stanley Kwan und Maggie Cheungs Ruan-Lingyu-Darstellung. Der dortige Ersttermin 29. November 1991 und der Regisseur nm0477102 bestätigen die aktuelle Filmidentität unabhängig von anderen Umschriften und späteren Restaurierungen.",
+      "sources": [
+        "https://www.imdb.com/title/tt0102816/",
+        "https://pro.imdb.com/title/tt0102816/",
+        "https://www.imdb.com/name/nm0477102/"
+      ]
+    },
+    {
+      "key": "Enemy|2013",
+      "status": "confirmed-and-added",
+      "previousOmitted": null,
+      "expected": ["Denis Villeneuve"],
+      "confirmedLinks": [
+        {
+          "name": "Denis Villeneuve",
+          "imdb": "https://www.imdb.com/name/nm0898288/"
+        }
+      ],
+      "addedLinks": [
+        {
+          "name": "Denis Villeneuve",
+          "imdb": "https://www.imdb.com/name/nm0898288/"
+        }
+      ],
+      "finding": "Der alte Datensatz 522815 ist im Original Shatru und damit ein anderer 2013er Film. Der aktuelle Quizinhalt gehört zu Denis Villeneuves Enemy mit Jake Gyllenhaal. IMDb tt2316411 und der neue genaue Datensatz 181886 bestätigen Werk und Regie; der bisher fehlende Villeneuve-Link wird zusätzlich ergänzt.",
+      "sources": [
+        "https://www.imdb.com/title/tt2316411/",
+        "https://www.imdb.com/name/nm0898288/"
+      ],
+      "note": "Im früheren Regiebericht weder unter evidence noch omitted enthalten; durch vollständigen Inventar-/Registerabgleich jetzt ausdrücklich erfasst."
+    }
+  ],
+  "corrections": [
+    {
+      "key": "Bruised|2020",
+      "status": "corrected",
+      "before": {
+        "title": "Bruised",
+        "kind": "film",
+        "imdb": "tt33064920"
+      },
+      "after": {
+        "title": "Bruised",
+        "kind": "film",
+        "imdb": "tt8310474"
+      },
+      "finding": "Der bisher wiederverwendete TMDB-Datensatz 1412141/tt33064920 ist ein anderer gleichnamiger Film von Ali Tavakkoli. Der Quizinhalt nennt Halle Berry als Regisseurin und Jackie Justice; IMDb und der neu abgefragte konkrete Datensatz 718633 bestätigen dafür tt8310474. Link ersetzt, Quizinhalt und Lernidentität erhalten.",
+      "sources": [
+        "https://www.imdb.com/title/tt8310474/",
+        "https://www.imdb.com/title/tt8310474/fullcredits/",
+        "https://www.imdb.com/name/nm0000932/"
+      ],
+      "tmdb": 718633
+    },
+    {
+      "key": "Enemy|2013",
+      "status": "corrected",
+      "before": {
+        "title": "Enemy",
+        "kind": "film",
+        "imdb": "tt3148392"
+      },
+      "after": {
+        "title": "Enemy",
+        "kind": "film",
+        "imdb": "tt2316411"
+      },
+      "finding": "Der alte Datensatz 522815 ist im Original Shatru und damit ein anderer 2013er Film. Der aktuelle Quizinhalt gehört zu Denis Villeneuves Enemy mit Jake Gyllenhaal. IMDb tt2316411 und der neue genaue Datensatz 181886 bestätigen Werk und Regie; der bisher fehlende Villeneuve-Link wird zusätzlich ergänzt.",
+      "sources": [
+        "https://www.imdb.com/title/tt2316411/",
+        "https://www.imdb.com/name/nm0898288/"
+      ],
+      "tmdb": 181886
+    }
+  ],
+  "aliasObservations": [
+    {
+      "key": "Love at First Sight|2023",
+      "keptImdb": "tt2183014",
+      "alternateImdb": "tt13444014",
+      "status": "confirmed-current-entry-kept",
+      "finding": "IMDb bestätigt tt2183014 ausdrücklich als 2023er Vanessa-Caswill-Film mit Haley Lu Richardson und Ben Hardy. Wikidata dokumentiert die andere Kennung als zurückgezogenen Wert; die reine OFDb-Cross-ID-Differenz ist kein Beleg eines falschen Filmziels.",
+      "sources": [
+        "https://www.imdb.com/title/tt2183014/",
+        "https://www.wikidata.org/wiki/Q105095346"
+      ]
+    },
+    {
+      "key": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)|2021",
+      "keptImdb": "tt7378922",
+      "alternateImdb": "tt11422728",
+      "status": "confirmed-current-entry-kept",
+      "finding": "Primäre IMDb-Belege führen beide Kennungen mit identischem Questlove-Film über das Harlem-Festival 1969 und Jahr 2021. Kein anderer Film und kein Anlass, die bestätigte aktuelle Kennung allein wegen eines externen abweichenden Werts zu ersetzen. Kein direkter HTTP-Redirect behauptet.",
+      "sources": [
+        "https://www.imdb.com/title/tt7378922/",
+        "https://www.imdb.com/title/tt11422728/",
+        "https://www.wikidata.org/wiki/Q104213699"
+      ]
+    },
+    {
+      "key": "Casa de areia|2005",
+      "keptImdb": "tt0373747",
+      "alternateImdb": "tt0456875",
+      "status": "confirmed-current-entry-kept",
+      "finding": "Primäre IMDb-Belege führen beide Kennungen mit The House of Sand/Casa de Areia (2005), Andrucha Waddington, Fernanda Montenegro und Fernanda Torres. Die aktuelle Kennung ist damit bestätigt; unterschiedliche Anbieterkennung wird nicht als anderes Werk gewertet. Kein direkter HTTP-Redirect behauptet.",
+      "sources": [
+        "https://www.imdb.com/title/tt0373747/",
+        "https://www.imdb.com/title/tt0456875/"
+      ]
+    },
+    {
+      "key": "Ashnaee ba Leila|2012",
+      "keptImdb": "tt2076799",
+      "alternateImdb": "tt2537610",
+      "status": "confirmed-current-entry-kept-unconfirmed-external-id",
+      "finding": "Die primäre IMDb-Werkseite und die aktive offizielle IMDb-Suche bestätigen tt2076799 für Ashnaee ba Leila/Meeting Leila (2012), Adel Yaraghi, Leila Hatami und die Raucher-/Parfümtesterin-Handlung. Die im Anbieterfeld abweichende Kennung tt2537610 ist nicht primär bestätigt. Keine Aliasäquivalenz und kein Redirect behauptet; die richtige aktuelle IMDb-ID bleibt bestehen.",
+      "sources": [
+        "https://www.imdb.com/title/tt2076799/",
+        "https://v2.sg.media-imdb.com/suggestion/m/Meeting%20Leila.json",
+        "https://www.ofdb.de/film/238543,Meeting-Leila/"
+      ]
+    }
+  ],
+  "coverage": {
+    "workCasesRequested": 23,
+    "workCasesReported": 23,
+    "previousOmittedLinesRequested": 40,
+    "previousOmittedLinesReported": 40,
+    "missingWorkKeys": [],
+    "missingDirectorWorkKeys": []
+  },
+  "contentConflicts": [
+    {
+      "key": "Queen Kelly|1932",
+      "status": "not-changed-outside-link-scope",
+      "storedDirectors": "Erich von Stroheim und Gregg Toland",
+      "confirmedRegieLink": [
+        {
+          "name": "Erich von Stroheim",
+          "imdb": "https://www.imdb.com/name/nm0002233/"
+        }
+      ],
+      "notLinkedAsDirector": "Gregg Toland",
+      "finding": "IMDb-Primärcredits: Toland ist Kameramann; Richard Boleslawski führte die zusätzliche Schlusssequenz. Keine automatische Änderung der gespeicherten Quizregie und kein neuer irreführender Regielink zu Toland.",
+      "sources": [
+        "https://www.imdb.com/title/tt0020298/fullcredits/",
+        "https://www.imdb.com/title/tt0020298/"
+      ],
+      "affectedQuestions": [
+        {
+          "questionId": "SCHAUSPIELER-BG-20261013-161-E1",
+          "knowledgeId": "K-SCHAUSPIELER-BG-20261013-161-E1",
+          "question": "Warum stoppte Gloria Swanson nach eigener Darstellung die ursprüngliche Produktion von „Queen Kelly“?",
+          "personId": "ACTOR-BG-20261013-161"
+        },
+        {
+          "questionId": "SCHAUSPIELER-BG-20261013-161-E2",
+          "knowledgeId": "K-SCHAUSPIELER-BG-20261013-161-E2",
+          "question": "Wie versuchte Gloria Swanson später, das vorhandene Material von „Queen Kelly“ verwertbar zu machen?",
+          "personId": "ACTOR-BG-20261013-161"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "IMDb-Hauptseiten reagieren beim direkten automatischen Abruf teilweise mit403 oder JavaScript-Prüfung. Sichtbare primäre Such-/Indexbelege und offizielle IMDb-Suchantworten werden als solche dokumentiert; keine flächendeckende erfolgreiche Direkt-HTTP-Abnahme behauptet.",
+    "Redux und Queen Kelly verwenden ausdrücklich beschriebene Sammeleinträge mit konkreter Fassungs-/Veröffentlichungsabdeckung; diese Grenze ist keine neue pauschale Regel für andere Fassungen.",
+    "Fearless-Hyena-Credits nennen je Quelle unterschiedliche Regieumfänge; die bestehende Quizzuordnung wurde nicht erweitert oder umgeschrieben."
+  ],
+  "rawEvidence": {
+    "directory": "data/reference-links-2026-11-08/nachrecherche-imdb/",
+    "files": 163,
+    "bytes": 1592434,
+    "purpose": "Dauerhafte öffentliche Originalantworten und unveränderte Webrecherche-Rückgaben als Beleggrundlage; keine reproduzierbaren Build- oder Testartefakte.",
+    "tmdbIndex": "data/reference-links-2026-11-08/nachrecherche-imdb/tmdb-index.json"
+  },
+  "auditedRegistrySha256": {
+    "works": "4167330b5260804c5efc2354356380334cea7caeb2e09286d31e79ad9efb0a50",
+    "directors": "86330cadcbeb85667b13a098f09e0799c82bbfbb607824053e5c5861569f38f1"
+  },
+  "validation": {
+    "status": "passed",
+    "checks": [
+      "Alle 3.400 aktuellen Inventarschlüssel besitzen einen bestätigten IMDb-Werkeintrag und mindestens einen konkreten Regielink.",
+      "Runtimefelder ausschließlich title/kind/imdb beziehungsweise name/imdb; gültige IMDb-Kennungen und keine doppelten Ziel-URLs je Regieliste.",
+      "Alle 23 angeforderten Werkfälle und alle 40 ursprünglichen Regie-Negativzeilen einzeln erfasst; zuvor unberichteter Enemy-Fall zusätzlich aufgenommen.",
+      "Bruised ausschließlich tt8310474 und Enemy ausschließlich tt2316411; Gregg Toland bei Queen Kelly nicht als Regielink aufgenommen.",
+      "SHA-256 der beiden endgültigen Runtime-Registries stimmt mit dem Berichtsstand überein.",
+      "git diff --check erfolgreich; keine vollständige Testsuite oder Veröffentlichung ausgeführt."
+    ]
+  }
+}

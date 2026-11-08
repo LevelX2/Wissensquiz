@@ -3,37 +3,33 @@
   "runtime": [
     {
       "file": "src/workDatabaseLinks.json",
-      "entries": 3377,
-      "beforeBytes": 378281,
-      "afterBytes": 378281,
-      "gzipBytes": 80396
+      "entries": 3400,
+      "bytes": 380981,
+      "gzipBytes": 80981
     },
     {
       "file": "src/personDatabaseLinks.json",
       "entries": 428,
-      "beforeBytes": 140678,
-      "afterBytes": 58064,
-      "gzipBytes": 9431
+      "bytes": 72639,
+      "gzipBytes": 11573
     },
     {
       "file": "src/directorDatabaseLinks.json",
-      "entries": 3370,
-      "beforeBytes": 1039575,
-      "afterBytes": 452171,
-      "gzipBytes": 82337
+      "entries": 3400,
+      "bytes": 457274,
+      "gzipBytes": 83295
     },
     {
       "file": "src/ofdbLinks.json",
-      "entries": 3204,
-      "beforeBytes": 691411,
-      "afterBytes": 394828,
-      "gzipBytes": 98539
+      "entries": 3379,
+      "bytes": 416101,
+      "gzipBytes": 103962
     }
   ],
   "originalSources": {
     "directory": "data/reference-links-2026-11-08",
-    "files": 13597,
-    "bytes": 161323757
+    "files": 21256,
+    "bytes": 197612095
   },
-  "note": "Runtime nur mit Anzeige-/Identitätsfeldern. Vollständige Einzelbelege in den fünf fachlichen Prüfberichten; Rohantworten geschützt lokal. Gzipgrößen sind reine JSON-Messungen, keine Build-/Startzeitmessung."
+  "note": "Aktueller Registerstand nach der Einzel-Nachrecherche. Runtime nur mit Anzeige-/Identitätsfeldern; vollständige Provenienz in Fach- und Nachrechercheberichten. Gzipgrößen sind reine JSON-Messungen, keine Build-/Startzeitmessung."
 }

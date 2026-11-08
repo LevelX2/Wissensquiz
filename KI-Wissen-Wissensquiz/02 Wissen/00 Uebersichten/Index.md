@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Quellen und Links: gemeinsame Anordnung, sprechende Ziele und geprüfte IMDb-/OFDb-Zuordnungen – 08.11.2026, lokal](../../../docs/Quellen-und-Links.md)
+- [Quellen und Links: Einzel-Nachrecherche abgeschlossen, vollständige IMDb-Werkabdeckung, zusätzliche OFDb-Einträge und konkrete Restlisten – 08.11.2026, lokal](../../../docs/Quellen-und-Links.md)
 
 - [Werkarten und Mehrfachzuordnungen beschlossen, fünf Umsetzungspakete vorbereitet; Quellen-/IMDb-/OFDb-Links mit sprechenden Texten einem anderen Chat zugeordnet – 08.11.2026](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
 
