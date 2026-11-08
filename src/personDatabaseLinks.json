@@ -1,0 +1,1902 @@
+{
+  "ACTOR-001": {
+    "name": "Tom Hanks",
+    "imdb": "https://www.imdb.com/name/nm0000158/",
+    "ofdb": "https://www.ofdb.de/person/332,Tom-Hanks/"
+  },
+  "ACTOR-002": {
+    "name": "Leonardo DiCaprio",
+    "imdb": "https://www.imdb.com/name/nm0000138/",
+    "ofdb": "https://www.ofdb.de/person/842,Leonardo-DiCaprio/"
+  },
+  "ACTOR-003": {
+    "name": "Brad Pitt",
+    "imdb": "https://www.imdb.com/name/nm0000093/",
+    "ofdb": "https://www.ofdb.de/person/104,Brad-Pitt/"
+  },
+  "ACTOR-004": {
+    "name": "Johnny Depp",
+    "imdb": "https://www.imdb.com/name/nm0000136/"
+  },
+  "ACTOR-005": {
+    "name": "Robert De Niro",
+    "imdb": "https://www.imdb.com/name/nm0000134/",
+    "ofdb": "https://www.ofdb.de/person/225,Robert-De-Niro/"
+  },
+  "ACTOR-006": {
+    "name": "Al Pacino",
+    "imdb": "https://www.imdb.com/name/nm0000199/",
+    "ofdb": "https://www.ofdb.de/person/226,Al-Pacino/"
+  },
+  "ACTOR-007": {
+    "name": "Jack Nicholson",
+    "imdb": "https://www.imdb.com/name/nm0000197/",
+    "ofdb": "https://www.ofdb.de/person/179,Jack-Nicholson/"
+  },
+  "ACTOR-008": {
+    "name": "Denzel Washington",
+    "imdb": "https://www.imdb.com/name/nm0000243/",
+    "ofdb": "https://www.ofdb.de/person/270,Denzel-Washington/"
+  },
+  "ACTOR-009": {
+    "name": "Morgan Freeman",
+    "imdb": "https://www.imdb.com/name/nm0000151/"
+  },
+  "ACTOR-010": {
+    "name": "Samuel L. Jackson",
+    "imdb": "https://www.imdb.com/name/nm0000168/",
+    "ofdb": "https://www.ofdb.de/person/21,Samuel-L-Jackson/"
+  },
+  "ACTOR-011": {
+    "name": "Harrison Ford",
+    "imdb": "https://www.imdb.com/name/nm0000148/",
+    "ofdb": "https://www.ofdb.de/person/216,Harrison-Ford/"
+  },
+  "ACTOR-012": {
+    "name": "Tom Cruise",
+    "imdb": "https://www.imdb.com/name/nm0000129/",
+    "ofdb": "https://www.ofdb.de/person/161,Tom-Cruise/"
+  },
+  "ACTOR-013": {
+    "name": "Keanu Reeves",
+    "imdb": "https://www.imdb.com/name/nm0000206/",
+    "ofdb": "https://www.ofdb.de/person/118,Keanu-Reeves/"
+  },
+  "ACTOR-014": {
+    "name": "Bruce Willis",
+    "imdb": "https://www.imdb.com/name/nm0000246/",
+    "ofdb": "https://www.ofdb.de/person/28,Bruce-Willis/"
+  },
+  "ACTOR-015": {
+    "name": "Arnold Schwarzenegger",
+    "imdb": "https://www.imdb.com/name/nm0000216/",
+    "ofdb": "https://www.ofdb.de/person/11,Arnold-Schwarzenegger/"
+  },
+  "ACTOR-016": {
+    "name": "Sylvester Stallone",
+    "imdb": "https://www.imdb.com/name/nm0000230/",
+    "ofdb": "https://www.ofdb.de/person/49,Sylvester-Stallone/"
+  },
+  "ACTOR-017": {
+    "name": "Clint Eastwood",
+    "imdb": "https://www.imdb.com/name/nm0000142/",
+    "ofdb": "https://www.ofdb.de/person/125,Clint-Eastwood/"
+  },
+  "ACTOR-018": {
+    "name": "Anthony Hopkins",
+    "imdb": "https://www.imdb.com/name/nm0000164/",
+    "ofdb": "https://www.ofdb.de/person/2470,Anthony-Hopkins/"
+  },
+  "ACTOR-019": {
+    "name": "Daniel Day-Lewis",
+    "imdb": "https://www.imdb.com/name/nm0000358/"
+  },
+  "ACTOR-020": {
+    "name": "Gary Oldman",
+    "imdb": "https://www.imdb.com/name/nm0000198/"
+  },
+  "ACTOR-021": {
+    "name": "Christian Bale",
+    "imdb": "https://www.imdb.com/name/nm0000288/",
+    "ofdb": "https://www.ofdb.de/person/448,Christian-Bale/"
+  },
+  "ACTOR-022": {
+    "name": "Joaquin Phoenix",
+    "imdb": "https://www.imdb.com/name/nm0001618/"
+  },
+  "ACTOR-023": {
+    "name": "Heath Ledger",
+    "imdb": "https://www.imdb.com/name/nm0005132/"
+  },
+  "ACTOR-024": {
+    "name": "Robin Williams",
+    "imdb": "https://www.imdb.com/name/nm0000245/",
+    "ofdb": "https://www.ofdb.de/person/550,Robin-Williams/"
+  },
+  "ACTOR-025": {
+    "name": "Jim Carrey",
+    "imdb": "https://www.imdb.com/name/nm0000120/",
+    "ofdb": "https://www.ofdb.de/person/554,Jim-Carrey/"
+  },
+  "ACTOR-026": {
+    "name": "Will Smith",
+    "imdb": "https://www.imdb.com/name/nm0000226/",
+    "ofdb": "https://www.ofdb.de/person/1136,Will-Smith/"
+  },
+  "ACTOR-027": {
+    "name": "Matt Damon",
+    "imdb": "https://www.imdb.com/name/nm0000354/",
+    "ofdb": "https://www.ofdb.de/person/839,Matt-Damon/"
+  },
+  "ACTOR-028": {
+    "name": "Ben Affleck",
+    "imdb": "https://www.imdb.com/name/nm0000255/",
+    "ofdb": "https://www.ofdb.de/person/1017,Ben-Affleck/"
+  },
+  "ACTOR-029": {
+    "name": "George Clooney",
+    "imdb": "https://www.imdb.com/name/nm0000123/",
+    "ofdb": "https://www.ofdb.de/person/1005,George-Clooney/"
+  },
+  "ACTOR-030": {
+    "name": "Sean Connery",
+    "imdb": "https://www.imdb.com/name/nm0000125/",
+    "ofdb": "https://www.ofdb.de/person/142,Sean-Connery/"
+  },
+  "ACTOR-031": {
+    "name": "Daniel Craig",
+    "imdb": "https://www.imdb.com/name/nm0185819/",
+    "ofdb": "https://www.ofdb.de/person/349,Daniel-Craig/"
+  },
+  "ACTOR-032": {
+    "name": "Benedict Cumberbatch",
+    "imdb": "https://www.imdb.com/name/nm1212722/"
+  },
+  "ACTOR-033": {
+    "name": "Ian McKellen",
+    "imdb": "https://www.imdb.com/name/nm0005212/"
+  },
+  "ACTOR-034": {
+    "name": "Patrick Stewart",
+    "imdb": "https://www.imdb.com/name/nm0001772/",
+    "ofdb": "https://www.ofdb.de/person/1272,Patrick-Stewart/"
+  },
+  "ACTOR-035": {
+    "name": "Michael Caine",
+    "imdb": "https://www.imdb.com/name/nm0000323/",
+    "ofdb": "https://www.ofdb.de/person/1845,Michael-Caine/"
+  },
+  "ACTOR-036": {
+    "name": "Alan Rickman",
+    "imdb": "https://www.imdb.com/name/nm0000614/"
+  },
+  "ACTOR-037": {
+    "name": "Christoph Waltz",
+    "imdb": "https://www.imdb.com/name/nm0910607/",
+    "ofdb": "https://www.ofdb.de/person/21090,Christoph-Waltz/"
+  },
+  "ACTOR-038": {
+    "name": "Daniel Brühl",
+    "imdb": "https://www.imdb.com/name/nm0117709/"
+  },
+  "ACTOR-039": {
+    "name": "Jürgen Vogel",
+    "imdb": "https://www.imdb.com/name/nm0900915/",
+    "ofdb": "https://www.ofdb.de/person/2620,J%C3%BCrgen-Vogel/"
+  },
+  "ACTOR-040": {
+    "name": "Moritz Bleibtreu",
+    "imdb": "https://www.imdb.com/name/nm0001953/"
+  },
+  "ACTOR-041": {
+    "name": "Mario Adorf",
+    "imdb": "https://www.imdb.com/name/nm0000728/"
+  },
+  "ACTOR-042": {
+    "name": "Bruno Ganz",
+    "imdb": "https://www.imdb.com/name/nm0004486/"
+  },
+  "ACTOR-043": {
+    "name": "Bud Spencer",
+    "imdb": "https://www.imdb.com/name/nm0817881/",
+    "ofdb": "https://www.ofdb.de/person/222,Bud-Spencer/"
+  },
+  "ACTOR-044": {
+    "name": "Terence Hill",
+    "imdb": "https://www.imdb.com/name/nm0001352/",
+    "ofdb": "https://www.ofdb.de/person/223,Terence-Hill/"
+  },
+  "ACTOR-045": {
+    "name": "Jackie Chan",
+    "imdb": "https://www.imdb.com/name/nm0000329/",
+    "ofdb": "https://www.ofdb.de/person/555,Jackie-Chan/"
+  },
+  "ACTOR-046": {
+    "name": "Bruce Lee",
+    "imdb": "https://www.imdb.com/name/nm0000045/",
+    "ofdb": "https://www.ofdb.de/person/191,Bruce-Lee/"
+  },
+  "ACTOR-047": {
+    "name": "Chow Yun-fat",
+    "imdb": "https://www.imdb.com/name/nm0000334/"
+  },
+  "ACTOR-048": {
+    "name": "Shah Rukh Khan",
+    "imdb": "https://www.imdb.com/name/nm0451321/"
+  },
+  "ACTOR-049": {
+    "name": "Toshirō Mifune",
+    "imdb": "https://www.imdb.com/name/nm0001536/"
+  },
+  "ACTOR-050": {
+    "name": "Omar Sharif",
+    "imdb": "https://www.imdb.com/name/nm0001725/"
+  },
+  "ACTOR-051": {
+    "name": "Meryl Streep",
+    "imdb": "https://www.imdb.com/name/nm0000658/",
+    "ofdb": "https://www.ofdb.de/person/1520,Meryl-Streep/"
+  },
+  "ACTOR-052": {
+    "name": "Julia Roberts",
+    "imdb": "https://www.imdb.com/name/nm0000210/",
+    "ofdb": "https://www.ofdb.de/person/2089,Julia-Roberts/"
+  },
+  "ACTOR-053": {
+    "name": "Sandra Bullock",
+    "imdb": "https://www.imdb.com/name/nm0000113/",
+    "ofdb": "https://www.ofdb.de/person/487,Sandra-Bullock/"
+  },
+  "ACTOR-054": {
+    "name": "Jodie Foster",
+    "imdb": "https://www.imdb.com/name/nm0000149/",
+    "ofdb": "https://www.ofdb.de/person/406,Jodie-Foster/"
+  },
+  "ACTOR-055": {
+    "name": "Nicole Kidman",
+    "imdb": "https://www.imdb.com/name/nm0000173/",
+    "ofdb": "https://www.ofdb.de/person/1004,Nicole-Kidman/"
+  },
+  "ACTOR-056": {
+    "name": "Cate Blanchett",
+    "imdb": "https://www.imdb.com/name/nm0000949/",
+    "ofdb": "https://www.ofdb.de/person/856,Cate-Blanchett/"
+  },
+  "ACTOR-057": {
+    "name": "Kate Winslet",
+    "imdb": "https://www.imdb.com/name/nm0000701/",
+    "ofdb": "https://www.ofdb.de/person/1414,Kate-Winslet/"
+  },
+  "ACTOR-058": {
+    "name": "Emma Thompson",
+    "imdb": "https://www.imdb.com/name/nm0000668/"
+  },
+  "ACTOR-059": {
+    "name": "Helen Mirren",
+    "imdb": "https://www.imdb.com/name/nm0000545/",
+    "ofdb": "https://www.ofdb.de/person/9289,Helen-Mirren/"
+  },
+  "ACTOR-060": {
+    "name": "Judi Dench",
+    "imdb": "https://www.imdb.com/name/nm0001132/",
+    "ofdb": "https://www.ofdb.de/person/1869,Judi-Dench/"
+  },
+  "ACTOR-061": {
+    "name": "Maggie Smith",
+    "imdb": "https://www.imdb.com/name/nm0001749/"
+  },
+  "ACTOR-062": {
+    "name": "Audrey Hepburn",
+    "imdb": "https://www.imdb.com/name/nm0000030/",
+    "ofdb": "https://www.ofdb.de/person/107,Audrey-Hepburn/"
+  },
+  "ACTOR-063": {
+    "name": "Katharine Hepburn",
+    "imdb": "https://www.imdb.com/name/nm0000031/",
+    "ofdb": "https://www.ofdb.de/person/10754,Katharine-Hepburn/"
+  },
+  "ACTOR-064": {
+    "name": "Elizabeth Taylor",
+    "imdb": "https://www.imdb.com/name/nm0000072/",
+    "ofdb": "https://www.ofdb.de/person/27994,Elizabeth-Taylor/"
+  },
+  "ACTOR-065": {
+    "name": "Marilyn Monroe",
+    "imdb": "https://www.imdb.com/name/nm0000054/",
+    "ofdb": "https://www.ofdb.de/person/2254,Marilyn-Monroe/"
+  },
+  "ACTOR-066": {
+    "name": "Grace Kelly",
+    "imdb": "https://www.imdb.com/name/nm0000038/"
+  },
+  "ACTOR-067": {
+    "name": "Sophia Loren",
+    "imdb": "https://www.imdb.com/name/nm0000047/",
+    "ofdb": "https://www.ofdb.de/person/6657,Sophia-Loren/"
+  },
+  "ACTOR-068": {
+    "name": "Ingrid Bergman",
+    "imdb": "https://www.imdb.com/name/nm0000006/"
+  },
+  "ACTOR-069": {
+    "name": "Bette Davis",
+    "imdb": "https://www.imdb.com/name/nm0000012/",
+    "ofdb": "https://www.ofdb.de/person/15492,Bette-Davis/"
+  },
+  "ACTOR-070": {
+    "name": "Diane Keaton",
+    "imdb": "https://www.imdb.com/name/nm0000473/"
+  },
+  "ACTOR-071": {
+    "name": "Susan Sarandon",
+    "imdb": "https://www.imdb.com/name/nm0000215/",
+    "ofdb": "https://www.ofdb.de/person/1523,Susan-Sarandon/"
+  },
+  "ACTOR-072": {
+    "name": "Sigourney Weaver",
+    "imdb": "https://www.imdb.com/name/nm0000244/",
+    "ofdb": "https://www.ofdb.de/person/185,Sigourney-Weaver/"
+  },
+  "ACTOR-073": {
+    "name": "Jamie Lee Curtis",
+    "imdb": "https://www.imdb.com/name/nm0000130/"
+  },
+  "ACTOR-074": {
+    "name": "Michelle Pfeiffer",
+    "imdb": "https://www.imdb.com/name/nm0000201/",
+    "ofdb": "https://www.ofdb.de/person/1553.wd/"
+  },
+  "ACTOR-075": {
+    "name": "Julianne Moore",
+    "imdb": "https://www.imdb.com/name/nm0000194/",
+    "ofdb": "https://www.ofdb.de/person/1045,Julianne-Moore/"
+  },
+  "ACTOR-076": {
+    "name": "Natalie Portman",
+    "imdb": "https://www.imdb.com/name/nm0000204/",
+    "ofdb": "https://www.ofdb.de/person/120,Natalie-Portman/"
+  },
+  "ACTOR-077": {
+    "name": "Angelina Jolie",
+    "imdb": "https://www.imdb.com/name/nm0001401/",
+    "ofdb": "https://www.ofdb.de/person/57,Angelina-Jolie/"
+  },
+  "ACTOR-078": {
+    "name": "Charlize Theron",
+    "imdb": "https://www.imdb.com/name/nm0000234/",
+    "ofdb": "https://www.ofdb.de/person/2008,Charlize-Theron/"
+  },
+  "ACTOR-079": {
+    "name": "Halle Berry",
+    "imdb": "https://www.imdb.com/name/nm0000932/",
+    "ofdb": "https://www.ofdb.de/person/1089,Halle-Berry/"
+  },
+  "ACTOR-080": {
+    "name": "Reese Witherspoon",
+    "imdb": "https://www.imdb.com/name/nm0000702/",
+    "ofdb": "https://www.ofdb.de/person/937,Reese-Witherspoon/"
+  },
+  "ACTOR-081": {
+    "name": "Jennifer Lawrence",
+    "imdb": "https://www.imdb.com/name/nm2225369/",
+    "ofdb": "https://www.ofdb.de/person/10611,Jennifer-Lawrence/"
+  },
+  "ACTOR-082": {
+    "name": "Emma Stone",
+    "imdb": "https://www.imdb.com/name/nm1297015/",
+    "ofdb": "https://www.ofdb.de/person/3415,Emma-Stone/"
+  },
+  "ACTOR-083": {
+    "name": "Scarlett Johansson",
+    "imdb": "https://www.imdb.com/name/nm0424060/",
+    "ofdb": "https://www.ofdb.de/person/90,Scarlett-Johansson/"
+  },
+  "ACTOR-084": {
+    "name": "Margot Robbie",
+    "imdb": "https://www.imdb.com/name/nm3053338/",
+    "ofdb": "https://www.ofdb.de/person/52862,Margot-Robbie/"
+  },
+  "ACTOR-085": {
+    "name": "Anne Hathaway",
+    "imdb": "https://www.imdb.com/name/nm0004266/",
+    "ofdb": "https://www.ofdb.de/person/2037,Anne-Hathaway/"
+  },
+  "ACTOR-086": {
+    "name": "Amy Adams",
+    "imdb": "https://www.imdb.com/name/nm0010736/"
+  },
+  "ACTOR-087": {
+    "name": "Jessica Chastain",
+    "imdb": "https://www.imdb.com/name/nm1567113/",
+    "ofdb": "https://www.ofdb.de/person/4230,Jessica-Chastain/"
+  },
+  "ACTOR-088": {
+    "name": "Frances McDormand",
+    "imdb": "https://www.imdb.com/name/nm0000531/"
+  },
+  "ACTOR-089": {
+    "name": "Viola Davis",
+    "imdb": "https://www.imdb.com/name/nm0205626/"
+  },
+  "ACTOR-090": {
+    "name": "Angela Bassett",
+    "imdb": "https://www.imdb.com/name/nm0000291/"
+  },
+  "ACTOR-091": {
+    "name": "Whoopi Goldberg",
+    "imdb": "https://www.imdb.com/name/nm0000155/"
+  },
+  "ACTOR-092": {
+    "name": "Drew Barrymore",
+    "imdb": "https://www.imdb.com/name/nm0000106/",
+    "ofdb": "https://www.ofdb.de/person/473,Drew-Barrymore/"
+  },
+  "ACTOR-093": {
+    "name": "Winona Ryder",
+    "imdb": "https://www.imdb.com/name/nm0000213/",
+    "ofdb": "https://www.ofdb.de/person/532,Winona-Ryder/"
+  },
+  "ACTOR-094": {
+    "name": "Penélope Cruz",
+    "imdb": "https://www.imdb.com/name/nm0004851/",
+    "ofdb": "https://www.ofdb.de/person/566,Pen%C3%A9lope-Cruz/"
+  },
+  "ACTOR-095": {
+    "name": "Salma Hayek",
+    "imdb": "https://www.imdb.com/name/nm0000161/",
+    "ofdb": "https://www.ofdb.de/person/274,Salma-Hayek/"
+  },
+  "ACTOR-096": {
+    "name": "Michelle Yeoh",
+    "imdb": "https://www.imdb.com/name/nm0000706/",
+    "ofdb": "https://www.ofdb.de/person/2704,Michelle-Yeoh/"
+  },
+  "ACTOR-097": {
+    "name": "Gong Li",
+    "imdb": "https://www.imdb.com/name/nm0000084/"
+  },
+  "ACTOR-098": {
+    "name": "Franka Potente",
+    "imdb": "https://www.imdb.com/name/nm0004376/",
+    "ofdb": "https://www.ofdb.de/person/586,Franka-Potente/"
+  },
+  "ACTOR-099": {
+    "name": "Diane Kruger",
+    "imdb": "https://www.imdb.com/name/nm1208167/",
+    "ofdb": "https://www.ofdb.de/person/2334,Diane-Kruger/"
+  },
+  "ACTOR-100": {
+    "name": "Romy Schneider",
+    "imdb": "https://www.imdb.com/name/nm0002769/",
+    "ofdb": "https://www.ofdb.de/person/12,Romy-Schneider/"
+  },
+  "ACTOR-101": {
+    "name": "Kevin Costner",
+    "imdb": "https://www.imdb.com/name/nm0000126/"
+  },
+  "ACTOR-102": {
+    "name": "Russell Crowe",
+    "imdb": "https://www.imdb.com/name/nm0000128/",
+    "ofdb": "https://www.ofdb.de/person/383,Russell-Crowe/"
+  },
+  "ACTOR-103": {
+    "name": "Hugh Jackman",
+    "imdb": "https://www.imdb.com/name/nm0413168/",
+    "ofdb": "https://www.ofdb.de/person/805,Hugh-Jackman/"
+  },
+  "ACTOR-104": {
+    "name": "Ryan Gosling",
+    "imdb": "https://www.imdb.com/name/nm0331516/",
+    "ofdb": "https://www.ofdb.de/person/6822,Ryan-Gosling/"
+  },
+  "ACTOR-105": {
+    "name": "Robert Downey Jr.",
+    "imdb": "https://www.imdb.com/name/nm0000375/",
+    "ofdb": "https://www.ofdb.de/person/1619,Robert-Downey-Jr/"
+  },
+  "ACTOR-106": {
+    "name": "Edward Norton",
+    "imdb": "https://www.imdb.com/name/nm0001570/",
+    "ofdb": "https://www.ofdb.de/person/946,Edward-Norton/"
+  },
+  "ACTOR-107": {
+    "name": "Nicolas Cage",
+    "imdb": "https://www.imdb.com/name/nm0000115/",
+    "ofdb": "https://www.ofdb.de/person/220,Nicolas-Cage/"
+  },
+  "ACTOR-108": {
+    "name": "Steve Martin",
+    "imdb": "https://www.imdb.com/name/nm0000188/",
+    "ofdb": "https://www.ofdb.de/person/4208,Steve-Martin/"
+  },
+  "ACTOR-109": {
+    "name": "Jeff Bridges",
+    "imdb": "https://www.imdb.com/name/nm0000313/"
+  },
+  "ACTOR-110": {
+    "name": "Dustin Hoffman",
+    "imdb": "https://www.imdb.com/name/nm0000163/"
+  },
+  "ACTOR-111": {
+    "name": "Antonio Banderas",
+    "imdb": "https://www.imdb.com/name/nm0000104/"
+  },
+  "ACTOR-112": {
+    "name": "Ulrich Tukur",
+    "imdb": "https://www.imdb.com/name/nm0876300/",
+    "ofdb": "https://www.ofdb.de/person/6886,Ulrich-Tukur/"
+  },
+  "ACTOR-113": {
+    "name": "Armin Mueller-Stahl",
+    "imdb": "https://www.imdb.com/name/nm0000090/"
+  },
+  "ACTOR-114": {
+    "name": "Olivia Colman",
+    "imdb": "https://www.imdb.com/name/nm1469236/"
+  },
+  "ACTOR-115": {
+    "name": "Emily Blunt",
+    "imdb": "https://www.imdb.com/name/nm1289434/",
+    "ofdb": "https://www.ofdb.de/person/2502,Emily-Blunt/"
+  },
+  "ACTOR-116": {
+    "name": "Rachel Weisz",
+    "imdb": "https://www.imdb.com/name/nm0001838/",
+    "ofdb": "https://www.ofdb.de/person/524,Rachel-Weisz/"
+  },
+  "ACTOR-117": {
+    "name": "Tilda Swinton",
+    "imdb": "https://www.imdb.com/name/nm0842770/",
+    "ofdb": "https://www.ofdb.de/person/808,Tilda-Swinton/"
+  },
+  "ACTOR-118": {
+    "name": "Saoirse Ronan",
+    "imdb": "https://www.imdb.com/name/nm1519680/",
+    "ofdb": "https://www.ofdb.de/person/22384,Saoirse-Ronan/"
+  },
+  "ACTOR-119": {
+    "name": "Kirsten Dunst",
+    "imdb": "https://www.imdb.com/name/nm0000379/",
+    "ofdb": "https://www.ofdb.de/person/135,Kirsten-Dunst/"
+  },
+  "ACTOR-120": {
+    "name": "Helena Bonham Carter",
+    "imdb": "https://www.imdb.com/name/nm0000307/"
+  },
+  "ACTOR-121": {
+    "name": "Jennifer Aniston",
+    "imdb": "https://www.imdb.com/name/nm0000098/",
+    "ofdb": "https://www.ofdb.de/person/498,Jennifer-Aniston/"
+  },
+  "ACTOR-122": {
+    "name": "Julie Andrews",
+    "imdb": "https://www.imdb.com/name/nm0000267/",
+    "ofdb": "https://www.ofdb.de/person/10964,Julie-Andrews/"
+  },
+  "ACTOR-123": {
+    "name": "Isabelle Huppert",
+    "imdb": "https://www.imdb.com/name/nm0001376/",
+    "ofdb": "https://www.ofdb.de/person/5524,Isabelle-Huppert/"
+  },
+  "ACTOR-124": {
+    "name": "Hildegard Knef",
+    "imdb": "https://www.imdb.com/name/nm0460651/",
+    "ofdb": "https://www.ofdb.de/person/19122,Hildegard-Knef/"
+  },
+  "ACTOR-125": {
+    "name": "Iris Berben",
+    "imdb": "https://www.imdb.com/name/nm0001941/",
+    "ofdb": "https://www.ofdb.de/person/4942,Iris-Berben/"
+  },
+  "ACTOR-126": {
+    "name": "Michael Douglas",
+    "imdb": "https://www.imdb.com/name/nm0000140/",
+    "ofdb": "https://www.ofdb.de/person/45,Michael-Douglas/"
+  },
+  "ACTOR-127": {
+    "name": "Richard Gere",
+    "imdb": "https://www.imdb.com/name/nm0000152/"
+  },
+  "ACTOR-128": {
+    "name": "John Travolta",
+    "imdb": "https://www.imdb.com/name/nm0000237/"
+  },
+  "ACTOR-129": {
+    "name": "Kurt Russell",
+    "imdb": "https://www.imdb.com/name/nm0000621/",
+    "ofdb": "https://www.ofdb.de/person/172,Kurt-Russell/"
+  },
+  "ACTOR-130": {
+    "name": "Danny DeVito",
+    "imdb": "https://www.imdb.com/name/nm0000362/",
+    "ofdb": "https://www.ofdb.de/person/1599,Danny-DeVito/"
+  },
+  "ACTOR-131": {
+    "name": "Bill Murray",
+    "imdb": "https://www.imdb.com/name/nm0000195/",
+    "ofdb": "https://www.ofdb.de/person/183,Bill-Murray/"
+  },
+  "ACTOR-132": {
+    "name": "Eddie Murphy",
+    "imdb": "https://www.imdb.com/name/nm0000552/",
+    "ofdb": "https://www.ofdb.de/person/194,Eddie-Murphy/"
+  },
+  "ACTOR-133": {
+    "name": "Adam Sandler",
+    "imdb": "https://www.imdb.com/name/nm0001191/"
+  },
+  "ACTOR-134": {
+    "name": "Brendan Fraser",
+    "imdb": "https://www.imdb.com/name/nm0000409/",
+    "ofdb": "https://www.ofdb.de/person/7442,Brendan-Fraser/"
+  },
+  "ACTOR-135": {
+    "name": "Jake Gyllenhaal",
+    "imdb": "https://www.imdb.com/name/nm0350453/",
+    "ofdb": "https://www.ofdb.de/person/866,Jake-Gyllenhaal/"
+  },
+  "ACTOR-136": {
+    "name": "Willem Dafoe",
+    "imdb": "https://www.imdb.com/name/nm0000353/"
+  },
+  "ACTOR-137": {
+    "name": "John Malkovich",
+    "imdb": "https://www.imdb.com/name/nm0000518/"
+  },
+  "ACTOR-138": {
+    "name": "Ralph Fiennes",
+    "imdb": "https://www.imdb.com/name/nm0000146/"
+  },
+  "ACTOR-139": {
+    "name": "Colin Firth",
+    "imdb": "https://www.imdb.com/name/nm0000147/"
+  },
+  "ACTOR-140": {
+    "name": "Liam Neeson",
+    "imdb": "https://www.imdb.com/name/nm0000553/"
+  },
+  "ACTOR-141": {
+    "name": "Ewan McGregor",
+    "imdb": "https://www.imdb.com/name/nm0000191/",
+    "ofdb": "https://www.ofdb.de/person/3082,Ewan-McGregor/"
+  },
+  "ACTOR-142": {
+    "name": "Cillian Murphy",
+    "imdb": "https://www.imdb.com/name/nm0614165/"
+  },
+  "ACTOR-143": {
+    "name": "Donald Sutherland",
+    "imdb": "https://www.imdb.com/name/nm0000661/"
+  },
+  "ACTOR-144": {
+    "name": "Jean Reno",
+    "imdb": "https://www.imdb.com/name/nm0000606/",
+    "ofdb": "https://www.ofdb.de/person/356,Jean-Reno/"
+  },
+  "ACTOR-145": {
+    "name": "Vincent Cassel",
+    "imdb": "https://www.imdb.com/name/nm0001993/",
+    "ofdb": "https://www.ofdb.de/person/818,Vincent-Cassel/"
+  },
+  "ACTOR-146": {
+    "name": "Mads Mikkelsen",
+    "imdb": "https://www.imdb.com/name/nm0586568/"
+  },
+  "ACTOR-147": {
+    "name": "Song Kang-ho",
+    "imdb": "https://www.imdb.com/name/nm0814280/",
+    "ofdb": "https://www.ofdb.de/person/2631,Song-Kang-ho/"
+  },
+  "ACTOR-148": {
+    "name": "Donnie Yen",
+    "imdb": "https://www.imdb.com/name/nm0947447/"
+  },
+  "ACTOR-149": {
+    "name": "Dev Patel",
+    "imdb": "https://www.imdb.com/name/nm2353862/"
+  },
+  "ACTOR-150": {
+    "name": "Sacha Baron Cohen",
+    "imdb": "https://www.imdb.com/name/nm0056187/"
+  },
+  "ACTOR-151": {
+    "name": "Shirley MacLaine",
+    "imdb": "https://www.imdb.com/name/nm0000511/",
+    "ofdb": "https://www.ofdb.de/person/6868,Shirley-MacLaine/"
+  },
+  "ACTOR-152": {
+    "name": "Julie Christie",
+    "imdb": "https://www.imdb.com/name/nm0001046/",
+    "ofdb": "https://www.ofdb.de/person/7458,Julie-Christie/"
+  },
+  "ACTOR-153": {
+    "name": "Vanessa Redgrave",
+    "imdb": "https://www.imdb.com/name/nm0000603/"
+  },
+  "ACTOR-154": {
+    "name": "Glenn Close",
+    "imdb": "https://www.imdb.com/name/nm0000335/",
+    "ofdb": "https://www.ofdb.de/person/4122,Glenn-Close/"
+  },
+  "ACTOR-155": {
+    "name": "Geena Davis",
+    "imdb": "https://www.imdb.com/name/nm0000133/"
+  },
+  "ACTOR-156": {
+    "name": "Meg Ryan",
+    "imdb": "https://www.imdb.com/name/nm0000212/",
+    "ofdb": "https://www.ofdb.de/person/342,Meg-Ryan/"
+  },
+  "ACTOR-157": {
+    "name": "Andie MacDowell",
+    "imdb": "https://www.imdb.com/name/nm0000510/",
+    "ofdb": "https://www.ofdb.de/person/6245,Andie-MacDowell/"
+  },
+  "ACTOR-158": {
+    "name": "Renée Zellweger",
+    "imdb": "https://www.imdb.com/name/nm0000250/",
+    "ofdb": "https://www.ofdb.de/person/2983,Ren%C3%A9e-Zellweger/"
+  },
+  "ACTOR-159": {
+    "name": "Naomi Watts",
+    "imdb": "https://www.imdb.com/name/nm0915208/",
+    "ofdb": "https://www.ofdb.de/person/1271,Naomi-Watts/"
+  },
+  "ACTOR-160": {
+    "name": "Kate Hudson",
+    "imdb": "https://www.imdb.com/name/nm0005028/",
+    "ofdb": "https://www.ofdb.de/person/197,Kate-Hudson/"
+  },
+  "ACTOR-161": {
+    "name": "Rachel McAdams",
+    "imdb": "https://www.imdb.com/name/nm1046097/",
+    "ofdb": "https://www.ofdb.de/person/580,Rachel-McAdams/"
+  },
+  "ACTOR-162": {
+    "name": "Keira Knightley",
+    "imdb": "https://www.imdb.com/name/nm0461136/"
+  },
+  "ACTOR-163": {
+    "name": "Felicity Jones",
+    "imdb": "https://www.imdb.com/name/nm0428065/",
+    "ofdb": "https://www.ofdb.de/person/31658,Felicity-Jones/"
+  },
+  "ACTOR-164": {
+    "name": "Emily Watson",
+    "imdb": "https://www.imdb.com/name/nm0001833/"
+  },
+  "ACTOR-165": {
+    "name": "Imelda Staunton",
+    "imdb": "https://www.imdb.com/name/nm0001767/"
+  },
+  "ACTOR-166": {
+    "name": "Toni Collette",
+    "imdb": "https://www.imdb.com/name/nm0001057/"
+  },
+  "ACTOR-167": {
+    "name": "Laura Dern",
+    "imdb": "https://www.imdb.com/name/nm0000368/"
+  },
+  "ACTOR-168": {
+    "name": "Lupita Nyong'o",
+    "imdb": "https://www.imdb.com/name/nm2143282/"
+  },
+  "ACTOR-169": {
+    "name": "Kerry Washington",
+    "imdb": "https://www.imdb.com/name/nm0913488/"
+  },
+  "ACTOR-170": {
+    "name": "Octavia Spencer",
+    "imdb": "https://www.imdb.com/name/nm0818055/"
+  },
+  "ACTOR-171": {
+    "name": "Queen Latifah",
+    "imdb": "https://www.imdb.com/name/nm0001451/",
+    "ofdb": "https://www.ofdb.de/person/7164,Queen-Latifah/"
+  },
+  "ACTOR-172": {
+    "name": "Zhang Ziyi",
+    "imdb": "https://www.imdb.com/name/nm0955471/"
+  },
+  "ACTOR-173": {
+    "name": "Marion Cotillard",
+    "imdb": "https://www.imdb.com/name/nm0182839/",
+    "ofdb": "https://www.ofdb.de/person/845,Marion-Cotillard/"
+  },
+  "ACTOR-174": {
+    "name": "Léa Seydoux",
+    "imdb": "https://www.imdb.com/name/nm2244205/",
+    "ofdb": "https://www.ofdb.de/person/21396,L%C3%A9a-Seydoux/"
+  },
+  "ACTOR-175": {
+    "name": "Juliette Binoche",
+    "imdb": "https://www.imdb.com/name/nm0000300/",
+    "ofdb": "https://www.ofdb.de/person/1041,Juliette-Binoche/"
+  },
+  "ACTOR-176": {
+    "name": "Robert Redford",
+    "imdb": "https://www.imdb.com/name/nm0000602/",
+    "ofdb": "https://www.ofdb.de/person/3078,Robert-Redford/"
+  },
+  "ACTOR-177": {
+    "name": "Paul Newman",
+    "imdb": "https://www.imdb.com/name/nm0000056/",
+    "ofdb": "https://www.ofdb.de/person/6063,Paul-Newman/"
+  },
+  "ACTOR-178": {
+    "name": "Humphrey Bogart",
+    "imdb": "https://www.imdb.com/name/nm0000007/",
+    "ofdb": "https://www.ofdb.de/person/1646,Humphrey-Bogart/"
+  },
+  "ACTOR-179": {
+    "name": "James Stewart",
+    "imdb": "https://www.imdb.com/name/nm0000071/"
+  },
+  "ACTOR-180": {
+    "name": "Cary Grant",
+    "imdb": "https://www.imdb.com/name/nm0000026/"
+  },
+  "ACTOR-181": {
+    "name": "Gregory Peck",
+    "imdb": "https://www.imdb.com/name/nm0000060/"
+  },
+  "ACTOR-182": {
+    "name": "Marlon Brando",
+    "imdb": "https://www.imdb.com/name/nm0000008/",
+    "ofdb": "https://www.ofdb.de/person/139,Marlon-Brando/"
+  },
+  "ACTOR-183": {
+    "name": "James Dean",
+    "imdb": "https://www.imdb.com/name/nm0000015/"
+  },
+  "ACTOR-184": {
+    "name": "Steve McQueen",
+    "imdb": "https://www.imdb.com/name/nm0000537/"
+  },
+  "ACTOR-185": {
+    "name": "Sidney Poitier",
+    "imdb": "https://www.imdb.com/name/nm0001627/"
+  },
+  "ACTOR-186": {
+    "name": "Alain Delon",
+    "imdb": "https://www.imdb.com/name/nm0001128/",
+    "ofdb": "https://www.ofdb.de/person/18,Alain-Delon/"
+  },
+  "ACTOR-187": {
+    "name": "Jean-Paul Belmondo",
+    "imdb": "https://www.imdb.com/name/nm0000901/"
+  },
+  "ACTOR-188": {
+    "name": "Monica Bellucci",
+    "imdb": "https://www.imdb.com/name/nm0000899/",
+    "ofdb": "https://www.ofdb.de/person/692,Monica-Bellucci/"
+  },
+  "ACTOR-189": {
+    "name": "Catherine Deneuve",
+    "imdb": "https://www.imdb.com/name/nm0000366/",
+    "ofdb": "https://www.ofdb.de/person/2205,Catherine-Deneuve/"
+  },
+  "ACTOR-190": {
+    "name": "Isabelle Adjani",
+    "imdb": "https://www.imdb.com/name/nm0000254/",
+    "ofdb": "https://www.ofdb.de/person/848,Isabelle-Adjani/"
+  },
+  "ACTOR-191": {
+    "name": "Liv Ullmann",
+    "imdb": "https://www.imdb.com/name/nm0880521/"
+  },
+  "ACTOR-192": {
+    "name": "Sissy Spacek",
+    "imdb": "https://www.imdb.com/name/nm0000651/"
+  },
+  "ACTOR-193": {
+    "name": "Emma Watson",
+    "imdb": "https://www.imdb.com/name/nm0914612/",
+    "ofdb": "https://www.ofdb.de/person/658,Emma-Watson/"
+  },
+  "ACTOR-194": {
+    "name": "Emma Roberts",
+    "imdb": "https://www.imdb.com/name/nm0731075/",
+    "ofdb": "https://www.ofdb.de/person/704,Emma-Roberts/"
+  },
+  "ACTOR-195": {
+    "name": "Kristen Stewart",
+    "imdb": "https://www.imdb.com/name/nm0829576/",
+    "ofdb": "https://www.ofdb.de/person/408,Kristen-Stewart/"
+  },
+  "ACTOR-196": {
+    "name": "Jennifer Connelly",
+    "imdb": "https://www.imdb.com/name/nm0000124/"
+  },
+  "ACTOR-197": {
+    "name": "Michelle Williams",
+    "imdb": "https://www.imdb.com/name/nm0931329/"
+  },
+  "ACTOR-198": {
+    "name": "Alicia Vikander",
+    "imdb": "https://www.imdb.com/name/nm2539953/",
+    "ofdb": "https://www.ofdb.de/person/55824,Alicia-Vikander/"
+  },
+  "ACTOR-199": {
+    "name": "Rooney Mara",
+    "imdb": "https://www.imdb.com/name/nm1913734/"
+  },
+  "ACTOR-200": {
+    "name": "Julie Delpy",
+    "imdb": "https://www.imdb.com/name/nm0000365/"
+  },
+  "ACTOR-20261007-001": {
+    "name": "Tim Robbins",
+    "imdb": "https://www.imdb.com/name/nm0000209/"
+  },
+  "ACTOR-20261007-002": {
+    "name": "Sean Penn",
+    "imdb": "https://www.imdb.com/name/nm0000576/"
+  },
+  "ACTOR-20261007-003": {
+    "name": "Tommy Lee Jones",
+    "imdb": "https://www.imdb.com/name/nm0000169/"
+  },
+  "ACTOR-20261007-004": {
+    "name": "Dennis Hopper",
+    "imdb": "https://www.imdb.com/name/nm0000454/",
+    "ofdb": "https://www.ofdb.de/person/1790,Dennis-Hopper/"
+  },
+  "ACTOR-20261007-005": {
+    "name": "Casey Affleck",
+    "imdb": "https://www.imdb.com/name/nm0000729/"
+  },
+  "ACTOR-20261007-006": {
+    "name": "Richard Dreyfuss",
+    "imdb": "https://www.imdb.com/name/nm0000377/"
+  },
+  "ACTOR-20261007-007": {
+    "name": "Bill Paxton",
+    "imdb": "https://www.imdb.com/name/nm0000200/",
+    "ofdb": "https://www.ofdb.de/person/190,Bill-Paxton/"
+  },
+  "ACTOR-20261007-008": {
+    "name": "James Caan",
+    "imdb": "https://www.imdb.com/name/nm0001001/"
+  },
+  "ACTOR-20261007-009": {
+    "name": "Peter O’Toole",
+    "imdb": "https://www.imdb.com/name/nm0000564/"
+  },
+  "ACTOR-20261007-010": {
+    "name": "Forest Whitaker",
+    "imdb": "https://www.imdb.com/name/nm0001845/"
+  },
+  "ACTOR-20261007-011": {
+    "name": "Demi Moore",
+    "imdb": "https://www.imdb.com/name/nm0000193/",
+    "ofdb": "https://www.ofdb.de/person/280,Demi-Moore/"
+  },
+  "ACTOR-20261007-012": {
+    "name": "Cameron Diaz",
+    "imdb": "https://www.imdb.com/name/nm0000139/",
+    "ofdb": "https://www.ofdb.de/person/567,Cameron-Diaz/"
+  },
+  "ACTOR-20261007-013": {
+    "name": "Hilary Swank",
+    "imdb": "https://www.imdb.com/name/nm0005476/",
+    "ofdb": "https://www.ofdb.de/person/188,Hilary-Swank/"
+  },
+  "ACTOR-20261007-014": {
+    "name": "Uma Thurman",
+    "imdb": "https://www.imdb.com/name/nm0000235/",
+    "ofdb": "https://www.ofdb.de/person/422,Uma-Thurman/"
+  },
+  "ACTOR-20261007-015": {
+    "name": "Annette Bening",
+    "imdb": "https://www.imdb.com/name/nm0000906/"
+  },
+  "ACTOR-20261007-016": {
+    "name": "Faye Dunaway",
+    "imdb": "https://www.imdb.com/name/nm0001159/",
+    "ofdb": "https://www.ofdb.de/person/12377,Faye-Dunaway/"
+  },
+  "ACTOR-20261007-017": {
+    "name": "Lauren Bacall",
+    "imdb": "https://www.imdb.com/name/nm0000002/",
+    "ofdb": "https://www.ofdb.de/person/2682,Lauren-Bacall/"
+  },
+  "ACTOR-20261007-018": {
+    "name": "Barbara Stanwyck",
+    "imdb": "https://www.imdb.com/name/nm0001766/"
+  },
+  "ACTOR-20261007-019": {
+    "name": "Judy Garland",
+    "imdb": "https://www.imdb.com/name/nm0000023/"
+  },
+  "ACTOR-20261007-020": {
+    "name": "Doris Day",
+    "imdb": "https://www.imdb.com/name/nm0000013/",
+    "ofdb": "https://www.ofdb.de/person/868,Doris-Day/"
+  },
+  "ACTOR-BG-20261013-001": {
+    "name": "Peter Lorre",
+    "imdb": "https://www.imdb.com/name/nm0000048/"
+  },
+  "ACTOR-BG-20261013-002": {
+    "name": "Charles Laughton",
+    "imdb": "https://www.imdb.com/name/nm0001452/"
+  },
+  "ACTOR-BG-20261013-003": {
+    "name": "Gena Rowlands",
+    "imdb": "https://www.imdb.com/name/nm0001687/"
+  },
+  "ACTOR-BG-20261013-004": {
+    "name": "Deborah Kerr",
+    "imdb": "https://www.imdb.com/name/nm0000039/",
+    "ofdb": "https://www.ofdb.de/person/19806,Deborah-Kerr/"
+  },
+  "ACTOR-BG-20261013-005": {
+    "name": "Setsuko Hara",
+    "imdb": "https://www.imdb.com/name/nm0361697/"
+  },
+  "ACTOR-BG-20261013-006": {
+    "name": "Kinuyo Tanaka",
+    "imdb": "https://www.imdb.com/name/nm0849011/"
+  },
+  "ACTOR-BG-20261013-007": {
+    "name": "Chishū Ryū",
+    "imdb": "https://www.imdb.com/name/nm0753479/"
+  },
+  "ACTOR-BG-20261013-008": {
+    "name": "Jean-Pierre Léaud",
+    "imdb": "https://www.imdb.com/name/nm0529543/"
+  },
+  "ACTOR-BG-20261013-009": {
+    "name": "Charlie Chaplin",
+    "imdb": "https://www.imdb.com/name/nm0000122/",
+    "ofdb": "https://www.ofdb.de/person/1167,Charles-Chaplin/"
+  },
+  "ACTOR-BG-20261013-010": {
+    "name": "John Wayne",
+    "imdb": "https://www.imdb.com/name/nm0000078/"
+  },
+  "ACTOR-BG-20261013-011": {
+    "name": "Charles Bronson",
+    "imdb": "https://www.imdb.com/name/nm0000314/",
+    "ofdb": "https://www.ofdb.de/person/221,Charles-Bronson/"
+  },
+  "ACTOR-BG-20261013-012": {
+    "name": "Mel Gibson",
+    "imdb": "https://www.imdb.com/name/nm0000154/",
+    "ofdb": "https://www.ofdb.de/person/204,Mel-Gibson/"
+  },
+  "ACTOR-BG-20261013-013": {
+    "name": "Dwayne Johnson",
+    "imdb": "https://www.imdb.com/name/nm0425005/",
+    "ofdb": "https://www.ofdb.de/person/282,Dwayne-Johnson/"
+  },
+  "ACTOR-BG-20261013-014": {
+    "name": "Vin Diesel",
+    "imdb": "https://www.imdb.com/name/nm0004874/"
+  },
+  "ACTOR-BG-20261013-015": {
+    "name": "Jason Statham",
+    "imdb": "https://www.imdb.com/name/nm0005458/",
+    "ofdb": "https://www.ofdb.de/person/363,Jason-Statham/"
+  },
+  "ACTOR-BG-20261013-016": {
+    "name": "Mark Wahlberg",
+    "imdb": "https://www.imdb.com/name/nm0000242/",
+    "ofdb": "https://www.ofdb.de/person/218,Mark-Wahlberg/"
+  },
+  "ACTOR-BG-20261013-017": {
+    "name": "Chuck Norris",
+    "imdb": "https://www.imdb.com/name/nm0001569/",
+    "ofdb": "https://www.ofdb.de/person/167,Chuck-Norris/"
+  },
+  "ACTOR-BG-20261013-018": {
+    "name": "Louis de Funès",
+    "imdb": "https://www.imdb.com/name/nm0000086/"
+  },
+  "ACTOR-BG-20261013-019": {
+    "name": "Pierre Richard",
+    "imdb": "https://www.imdb.com/name/nm0007069/"
+  },
+  "ACTOR-BG-20261013-020": {
+    "name": "Heinz Rühmann",
+    "imdb": "https://www.imdb.com/name/nm0004464/"
+  },
+  "ACTOR-BG-20261013-021": {
+    "name": "Heinz Erhardt",
+    "imdb": "https://www.imdb.com/name/nm0258918/"
+  },
+  "ACTOR-BG-20261013-022": {
+    "name": "Loriot",
+    "imdb": "https://www.imdb.com/name/nm0902086/"
+  },
+  "ACTOR-BG-20261013-023": {
+    "name": "Otto Waalkes",
+    "imdb": "https://www.imdb.com/name/nm0905102/",
+    "ofdb": "https://www.ofdb.de/person/2153,Otto-Waalkes/"
+  },
+  "ACTOR-BG-20261013-024": {
+    "name": "Til Schweiger",
+    "imdb": "https://www.imdb.com/name/nm0001709/",
+    "ofdb": "https://www.ofdb.de/person/173,Til-Schweiger/"
+  },
+  "ACTOR-BG-20261013-025": {
+    "name": "Matthias Schweighöfer",
+    "imdb": "https://www.imdb.com/name/nm0777788/"
+  },
+  "ACTOR-BG-20261013-026": {
+    "name": "Götz George",
+    "imdb": "https://www.imdb.com/name/nm0313443/"
+  },
+  "ACTOR-BG-20261013-027": {
+    "name": "Marlene Dietrich",
+    "imdb": "https://www.imdb.com/name/nm0000017/",
+    "ofdb": "https://www.ofdb.de/person/1143,Marlene-Dietrich/"
+  },
+  "ACTOR-BG-20261013-028": {
+    "name": "Greta Garbo",
+    "imdb": "https://www.imdb.com/name/nm0001256/",
+    "ofdb": "https://www.ofdb.de/person/1882,Greta-Garbo/"
+  },
+  "ACTOR-BG-20261013-029": {
+    "name": "Brigitte Bardot",
+    "imdb": "https://www.imdb.com/name/nm0000003/",
+    "ofdb": "https://www.ofdb.de/person/5491,Brigitte-Bardot/"
+  },
+  "ACTOR-BG-20261013-030": {
+    "name": "Gina Lollobrigida",
+    "imdb": "https://www.imdb.com/name/nm0518178/",
+    "ofdb": "https://www.ofdb.de/person/3852,Gina-Lollobrigida/"
+  },
+  "ACTOR-BG-20261013-031": {
+    "name": "Uschi Glas",
+    "imdb": "https://www.imdb.com/name/nm0321779/",
+    "ofdb": "https://www.ofdb.de/person/5831,Uschi-Glas/"
+  },
+  "ACTOR-BG-20261013-032": {
+    "name": "Senta Berger",
+    "imdb": "https://www.imdb.com/name/nm0000919/"
+  },
+  "ACTOR-BG-20261013-033": {
+    "name": "Orson Welles",
+    "imdb": "https://www.imdb.com/name/nm0000080/"
+  },
+  "ACTOR-BG-20261013-034": {
+    "name": "James Cagney",
+    "imdb": "https://www.imdb.com/name/nm0000010/"
+  },
+  "ACTOR-BG-20261013-035": {
+    "name": "Edward G. Robinson",
+    "imdb": "https://www.imdb.com/name/nm0000064/"
+  },
+  "ACTOR-BG-20261013-036": {
+    "name": "Spencer Tracy",
+    "imdb": "https://www.imdb.com/name/nm0000075/"
+  },
+  "ACTOR-BG-20261013-037": {
+    "name": "Henry Fonda",
+    "imdb": "https://www.imdb.com/name/nm0000020/"
+  },
+  "ACTOR-BG-20261013-038": {
+    "name": "Burt Lancaster",
+    "imdb": "https://www.imdb.com/name/nm0000044/"
+  },
+  "ACTOR-BG-20261013-039": {
+    "name": "Kirk Douglas",
+    "imdb": "https://www.imdb.com/name/nm0000018/",
+    "ofdb": "https://www.ofdb.de/person/42,Kirk-Douglas/"
+  },
+  "ACTOR-BG-20261013-040": {
+    "name": "Gary Cooper",
+    "imdb": "https://www.imdb.com/name/nm0000011/"
+  },
+  "ACTOR-BG-20261013-041": {
+    "name": "Errol Flynn",
+    "imdb": "https://www.imdb.com/name/nm0001224/"
+  },
+  "ACTOR-BG-20261013-042": {
+    "name": "Robert Mitchum",
+    "imdb": "https://www.imdb.com/name/nm0000053/"
+  },
+  "ACTOR-BG-20261013-043": {
+    "name": "Richard Burton",
+    "imdb": "https://www.imdb.com/name/nm0000009/"
+  },
+  "ACTOR-BG-20261013-044": {
+    "name": "Montgomery Clift",
+    "imdb": "https://www.imdb.com/name/nm0001050/"
+  },
+  "ACTOR-BG-20261013-045": {
+    "name": "Laurence Olivier",
+    "imdb": "https://www.imdb.com/name/nm0000059/"
+  },
+  "ACTOR-BG-20261013-046": {
+    "name": "Max von Sydow",
+    "imdb": "https://www.imdb.com/name/nm0001884/"
+  },
+  "ACTOR-BG-20261013-047": {
+    "name": "Christopher Lee",
+    "imdb": "https://www.imdb.com/name/nm0000489/"
+  },
+  "ACTOR-BG-20261013-048": {
+    "name": "Peter Cushing",
+    "imdb": "https://www.imdb.com/name/nm0001088/"
+  },
+  "ACTOR-BG-20261013-049": {
+    "name": "Vincent Price",
+    "imdb": "https://www.imdb.com/name/nm0001637/"
+  },
+  "ACTOR-BG-20261013-050": {
+    "name": "Christopher Plummer",
+    "imdb": "https://www.imdb.com/name/nm0001626/"
+  },
+  "ACTOR-BG-20261013-051": {
+    "name": "James Mason",
+    "imdb": "https://www.imdb.com/name/nm0000051/"
+  },
+  "ACTOR-BG-20261013-052": {
+    "name": "Alec Guinness",
+    "imdb": "https://www.imdb.com/name/nm0000027/"
+  },
+  "ACTOR-BG-20261013-053": {
+    "name": "Peter Sellers",
+    "imdb": "https://www.imdb.com/name/nm0000634/"
+  },
+  "ACTOR-BG-20261013-054": {
+    "name": "Jack Lemmon",
+    "imdb": "https://www.imdb.com/name/nm0000493/"
+  },
+  "ACTOR-BG-20261013-055": {
+    "name": "Walter Matthau",
+    "imdb": "https://www.imdb.com/name/nm0000527/"
+  },
+  "ACTOR-BG-20261013-056": {
+    "name": "Anthony Quinn",
+    "imdb": "https://www.imdb.com/name/nm0000063/"
+  },
+  "ACTOR-BG-20261013-057": {
+    "name": "Marcello Mastroianni",
+    "imdb": "https://www.imdb.com/name/nm0000052/"
+  },
+  "ACTOR-BG-20261013-058": {
+    "name": "Jean-Louis Trintignant",
+    "imdb": "https://www.imdb.com/name/nm0004462/"
+  },
+  "ACTOR-BG-20261013-059": {
+    "name": "Jean Gabin",
+    "imdb": "https://www.imdb.com/name/nm0300064/"
+  },
+  "ACTOR-BG-20261013-060": {
+    "name": "Lino Ventura",
+    "imdb": "https://www.imdb.com/name/nm0893341/"
+  },
+  "ACTOR-BG-20261013-061": {
+    "name": "Harvey Keitel",
+    "imdb": "https://www.imdb.com/name/nm0000172/"
+  },
+  "ACTOR-BG-20261013-062": {
+    "name": "John Turturro",
+    "imdb": "https://www.imdb.com/name/nm0001806/"
+  },
+  "ACTOR-BG-20261013-063": {
+    "name": "Philip Seymour Hoffman",
+    "imdb": "https://www.imdb.com/name/nm0000450/"
+  },
+  "ACTOR-BG-20261013-064": {
+    "name": "John Goodman",
+    "imdb": "https://www.imdb.com/name/nm0000422/"
+  },
+  "ACTOR-BG-20261013-065": {
+    "name": "Sam Rockwell",
+    "imdb": "https://www.imdb.com/name/nm0005377/",
+    "ofdb": "https://www.ofdb.de/person/1659,Sam-Rockwell/"
+  },
+  "ACTOR-BG-20261013-066": {
+    "name": "Paul Giamatti",
+    "imdb": "https://www.imdb.com/name/nm0316079/",
+    "ofdb": "https://www.ofdb.de/person/4579,Paul-Giamatti/"
+  },
+  "ACTOR-BG-20261013-067": {
+    "name": "Stanley Tucci",
+    "imdb": "https://www.imdb.com/name/nm0001804/",
+    "ofdb": "https://www.ofdb.de/person/10687,Stanley-Tucci/"
+  },
+  "ACTOR-BG-20261013-068": {
+    "name": "Ben Kingsley",
+    "imdb": "https://www.imdb.com/name/nm0001426/"
+  },
+  "ACTOR-BG-20261013-069": {
+    "name": "Javier Bardem",
+    "imdb": "https://www.imdb.com/name/nm0000849/"
+  },
+  "ACTOR-BG-20261013-070": {
+    "name": "Adam Driver",
+    "imdb": "https://www.imdb.com/name/nm3485845/"
+  },
+  "ACTOR-BG-20261013-071": {
+    "name": "Michael Fassbender",
+    "imdb": "https://www.imdb.com/name/nm1055413/"
+  },
+  "ACTOR-BG-20261013-072": {
+    "name": "Jane Fonda",
+    "imdb": "https://www.imdb.com/name/nm0000404/",
+    "ofdb": "https://www.ofdb.de/person/2051,Jane-Fonda/"
+  },
+  "ACTOR-BG-20261013-073": {
+    "name": "Sally Field",
+    "imdb": "https://www.imdb.com/name/nm0000398/"
+  },
+  "ACTOR-BG-20261013-074": {
+    "name": "Liza Minnelli",
+    "imdb": "https://www.imdb.com/name/nm0591485/",
+    "ofdb": "https://www.ofdb.de/person/38645,Liza-Minnelli/"
+  },
+  "ACTOR-BG-20261013-075": {
+    "name": "Debbie Reynolds",
+    "imdb": "https://www.imdb.com/name/nm0001666/"
+  },
+  "ACTOR-BG-20261013-076": {
+    "name": "Natalie Wood",
+    "imdb": "https://www.imdb.com/name/nm0000081/"
+  },
+  "ACTOR-BG-20261013-077": {
+    "name": "Ava Gardner",
+    "imdb": "https://www.imdb.com/name/nm0001257/"
+  },
+  "ACTOR-BG-20261013-078": {
+    "name": "Rita Hayworth",
+    "imdb": "https://www.imdb.com/name/nm0000028/",
+    "ofdb": "https://www.ofdb.de/person/1660,Rita-Hayworth/"
+  },
+  "ACTOR-BG-20261013-079": {
+    "name": "Joan Crawford",
+    "imdb": "https://www.imdb.com/name/nm0001076/",
+    "ofdb": "https://www.ofdb.de/person/6926,Joan-Crawford/"
+  },
+  "ACTOR-BG-20261013-080": {
+    "name": "Olivia de Havilland",
+    "imdb": "https://www.imdb.com/name/nm0000014/",
+    "ofdb": "https://www.ofdb.de/person/19427,Olivia-de-Havilland/"
+  },
+  "ACTOR-BG-20261013-081": {
+    "name": "Joan Fontaine",
+    "imdb": "https://www.imdb.com/name/nm0000021/"
+  },
+  "ACTOR-BG-20261013-082": {
+    "name": "Angela Lansbury",
+    "imdb": "https://www.imdb.com/name/nm0001450/",
+    "ofdb": "https://www.ofdb.de/person/9846,Angela-Lansbury/"
+  },
+  "ACTOR-BG-20261013-083": {
+    "name": "Anne Bancroft",
+    "imdb": "https://www.imdb.com/name/nm0000843/"
+  },
+  "ACTOR-BG-20261013-084": {
+    "name": "Holly Hunter",
+    "imdb": "https://www.imdb.com/name/nm0000456/"
+  },
+  "ACTOR-BG-20261013-085": {
+    "name": "Ellen Burstyn",
+    "imdb": "https://www.imdb.com/name/nm0000995/"
+  },
+  "ACTOR-BG-20261013-086": {
+    "name": "Mia Farrow",
+    "imdb": "https://www.imdb.com/name/nm0001201/"
+  },
+  "ACTOR-BG-20261013-087": {
+    "name": "Pam Grier",
+    "imdb": "https://www.imdb.com/name/nm0000427/",
+    "ofdb": "https://www.ofdb.de/person/753,Pam-Grier/"
+  },
+  "ACTOR-BG-20261013-088": {
+    "name": "Linda Hamilton",
+    "imdb": "https://www.imdb.com/name/nm0000157/"
+  },
+  "ACTOR-BG-20261013-089": {
+    "name": "Lucy Liu",
+    "imdb": "https://www.imdb.com/name/nm0005154/",
+    "ofdb": "https://www.ofdb.de/person/1528,Lucy-Liu/"
+  },
+  "ACTOR-BG-20261013-090": {
+    "name": "Kim Basinger",
+    "imdb": "https://www.imdb.com/name/nm0000107/",
+    "ofdb": "https://www.ofdb.de/person/1552,Kim-Basinger/"
+  },
+  "ACTOR-BG-20261013-091": {
+    "name": "Kathleen Turner",
+    "imdb": "https://www.imdb.com/name/nm0000678/",
+    "ofdb": "https://www.ofdb.de/person/7536,Kathleen-Turner/"
+  },
+  "ACTOR-BG-20261013-092": {
+    "name": "Diane Lane",
+    "imdb": "https://www.imdb.com/name/nm0000178/",
+    "ofdb": "https://www.ofdb.de/person/4732,Diane-Lane/"
+  },
+  "ACTOR-BG-20261013-093": {
+    "name": "Dianne Wiest",
+    "imdb": "https://www.imdb.com/name/nm0001848/",
+    "ofdb": "https://www.ofdb.de/person/7029,Dianne-Wiest/"
+  },
+  "ACTOR-BG-20261013-094": {
+    "name": "Rosamund Pike",
+    "imdb": "https://www.imdb.com/name/nm0683253/",
+    "ofdb": "https://www.ofdb.de/person/4047,Rosamund-Pike/"
+  },
+  "ACTOR-BG-20261013-095": {
+    "name": "Melissa McCarthy",
+    "imdb": "https://www.imdb.com/name/nm0565250/"
+  },
+  "ACTOR-BG-20261013-096": {
+    "name": "Courteney Cox",
+    "imdb": "https://www.imdb.com/name/nm0001073/",
+    "ofdb": "https://www.ofdb.de/person/1129,Courteney-Cox/"
+  },
+  "ACTOR-BG-20261013-097": {
+    "name": "Lisa Kudrow",
+    "imdb": "https://www.imdb.com/name/nm0001435/",
+    "ofdb": "https://www.ofdb.de/person/1537,Lisa-Kudrow/"
+  },
+  "ACTOR-BG-20261013-098": {
+    "name": "Dakota Fanning",
+    "imdb": "https://www.imdb.com/name/nm0266824/",
+    "ofdb": "https://www.ofdb.de/person/269,Dakota-Fanning/"
+  },
+  "ACTOR-BG-20261013-099": {
+    "name": "Elle Fanning",
+    "imdb": "https://www.imdb.com/name/nm1102577/"
+  },
+  "ACTOR-BG-20261013-100": {
+    "name": "Sandra Hüller",
+    "imdb": "https://www.imdb.com/name/nm1197689/",
+    "ofdb": "https://www.ofdb.de/person/2679,Sandra-H%C3%BCller/"
+  },
+  "ACTOR-BG-20261013-101": {
+    "name": "Nina Hoss",
+    "imdb": "https://www.imdb.com/name/nm0396125/",
+    "ofdb": "https://www.ofdb.de/person/2981,Nina-Hoss/"
+  },
+  "ACTOR-BG-20261013-102": {
+    "name": "Martina Gedeck",
+    "imdb": "https://www.imdb.com/name/nm0311476/",
+    "ofdb": "https://www.ofdb.de/person/5628,Martina-Gedeck/"
+  },
+  "ACTOR-BG-20261013-103": {
+    "name": "Corinna Harfouch",
+    "imdb": "https://www.imdb.com/name/nm0362896/",
+    "ofdb": "https://www.ofdb.de/person/4886,Corinna-Harfouch/"
+  },
+  "ACTOR-BG-20261013-104": {
+    "name": "Katja Riemann",
+    "imdb": "https://www.imdb.com/name/nm0726257/",
+    "ofdb": "https://www.ofdb.de/person/3973,Katja-Riemann/"
+  },
+  "ACTOR-BG-20261013-105": {
+    "name": "Charlotte Rampling",
+    "imdb": "https://www.imdb.com/name/nm0001648/",
+    "ofdb": "https://www.ofdb.de/person/1954,Charlotte-Rampling/"
+  },
+  "ACTOR-BG-20261013-106": {
+    "name": "Kristin Scott Thomas",
+    "imdb": "https://www.imdb.com/name/nm0000218/"
+  },
+  "ACTOR-BG-20261013-107": {
+    "name": "Jeanne Moreau",
+    "imdb": "https://www.imdb.com/name/nm0603402/",
+    "ofdb": "https://www.ofdb.de/person/19631,Jeanne-Moreau/"
+  },
+  "ACTOR-BG-20261013-108": {
+    "name": "Simone Signoret",
+    "imdb": "https://www.imdb.com/name/nm0797531/"
+  },
+  "ACTOR-BG-20261013-109": {
+    "name": "Monica Vitti",
+    "imdb": "https://www.imdb.com/name/nm0900143/"
+  },
+  "ACTOR-BG-20261013-110": {
+    "name": "Giulietta Masina",
+    "imdb": "https://www.imdb.com/name/nm0556399/"
+  },
+  "ACTOR-BG-20261013-111": {
+    "name": "Buster Keaton",
+    "imdb": "https://www.imdb.com/name/nm0000036/"
+  },
+  "ACTOR-BG-20261013-112": {
+    "name": "Harold Lloyd",
+    "imdb": "https://www.imdb.com/name/nm0516001/"
+  },
+  "ACTOR-BG-20261013-113": {
+    "name": "Jacques Tati",
+    "imdb": "https://www.imdb.com/name/nm0004244/"
+  },
+  "ACTOR-BG-20261013-114": {
+    "name": "Michel Piccoli",
+    "imdb": "https://www.imdb.com/name/nm0681566/"
+  },
+  "ACTOR-BG-20261013-115": {
+    "name": "Philippe Noiret",
+    "imdb": "https://www.imdb.com/name/nm0634159/"
+  },
+  "ACTOR-BG-20261013-116": {
+    "name": "Jean Rochefort",
+    "imdb": "https://www.imdb.com/name/nm0734000/"
+  },
+  "ACTOR-BG-20261013-117": {
+    "name": "Gian Maria Volonté",
+    "imdb": "https://www.imdb.com/name/nm0002231/"
+  },
+  "ACTOR-BG-20261013-118": {
+    "name": "Vittorio Gassman",
+    "imdb": "https://www.imdb.com/name/nm0002094/"
+  },
+  "ACTOR-BG-20261013-119": {
+    "name": "Nino Manfredi",
+    "imdb": "https://www.imdb.com/name/nm0542063/"
+  },
+  "ACTOR-BG-20261013-120": {
+    "name": "Alberto Sordi",
+    "imdb": "https://www.imdb.com/name/nm0814773/"
+  },
+  "ACTOR-BG-20261013-121": {
+    "name": "Ugo Tognazzi",
+    "imdb": "https://www.imdb.com/name/nm0865575/"
+  },
+  "ACTOR-BG-20261013-122": {
+    "name": "Totò",
+    "imdb": "https://www.imdb.com/name/nm0869451/"
+  },
+  "ACTOR-BG-20261013-123": {
+    "name": "Fernando Rey",
+    "imdb": "https://www.imdb.com/name/nm0721073/"
+  },
+  "ACTOR-BG-20261013-124": {
+    "name": "Francisco Rabal",
+    "imdb": "https://www.imdb.com/name/nm0704719/"
+  },
+  "ACTOR-BG-20261013-125": {
+    "name": "José Luis López Vázquez",
+    "imdb": "https://www.imdb.com/name/nm0007023/"
+  },
+  "ACTOR-BG-20261013-126": {
+    "name": "Conrad Veidt",
+    "imdb": "https://www.imdb.com/name/nm0891998/"
+  },
+  "ACTOR-BG-20261013-127": {
+    "name": "Emil Jannings",
+    "imdb": "https://www.imdb.com/name/nm0417837/"
+  },
+  "ACTOR-BG-20261013-128": {
+    "name": "Anton Walbrook",
+    "imdb": "https://www.imdb.com/name/nm0906932/",
+    "ofdb": "https://www.ofdb.de/person/59845,Anton-Walbrook/"
+  },
+  "ACTOR-BG-20261013-129": {
+    "name": "Oskar Werner",
+    "imdb": "https://www.imdb.com/name/nm0921459/",
+    "ofdb": "https://www.ofdb.de/person/1878,Oskar-Werner/"
+  },
+  "ACTOR-BG-20261013-130": {
+    "name": "Helmut Qualtinger",
+    "imdb": "https://www.imdb.com/name/nm0702818/",
+    "ofdb": "https://www.ofdb.de/person/5326,Helmut-Qualtinger/"
+  },
+  "ACTOR-BG-20261013-131": {
+    "name": "Tatsuya Nakadai",
+    "imdb": "https://www.imdb.com/name/nm0619938/"
+  },
+  "ACTOR-BG-20261013-132": {
+    "name": "Takashi Shimura",
+    "imdb": "https://www.imdb.com/name/nm0793766/"
+  },
+  "ACTOR-BG-20261013-133": {
+    "name": "Masayuki Mori",
+    "imdb": "https://www.imdb.com/name/nm0605270/"
+  },
+  "ACTOR-BG-20261013-134": {
+    "name": "Ken Uehara",
+    "imdb": "https://www.imdb.com/name/nm0879945/"
+  },
+  "ACTOR-BG-20261013-135": {
+    "name": "Shin Saburi",
+    "imdb": "https://www.imdb.com/name/nm0754955/"
+  },
+  "ACTOR-BG-20261013-136": {
+    "name": "Eijirō Tōno",
+    "imdb": "https://www.imdb.com/name/nm0867391/"
+  },
+  "ACTOR-BG-20261013-137": {
+    "name": "Rentarō Mikuni",
+    "imdb": "https://www.imdb.com/name/nm0586733/"
+  },
+  "ACTOR-BG-20261013-138": {
+    "name": "Shintarō Katsu",
+    "imdb": "https://www.imdb.com/name/nm0441526/",
+    "ofdb": "https://www.ofdb.de/person/3767,Shintar%C3%B4-Katsu/"
+  },
+  "ACTOR-BG-20261013-139": {
+    "name": "Ken Takakura",
+    "imdb": "https://www.imdb.com/name/nm0847264/",
+    "ofdb": "https://www.ofdb.de/person/5759,Ken-Takakura/"
+  },
+  "ACTOR-BG-20261013-140": {
+    "name": "Bunta Sugawara",
+    "imdb": "https://www.imdb.com/name/nm0837420/"
+  },
+  "ACTOR-BG-20261013-141": {
+    "name": "Soumitra Chatterjee",
+    "imdb": "https://www.imdb.com/name/nm0154164/"
+  },
+  "ACTOR-BG-20261013-142": {
+    "name": "Naseeruddin Shah",
+    "imdb": "https://www.imdb.com/name/nm0787462/"
+  },
+  "ACTOR-BG-20261013-143": {
+    "name": "Om Puri",
+    "imdb": "https://www.imdb.com/name/nm0700875/"
+  },
+  "ACTOR-BG-20261013-144": {
+    "name": "Irrfan Khan",
+    "imdb": "https://www.imdb.com/name/nm0451234/"
+  },
+  "ACTOR-BG-20261013-145": {
+    "name": "Kamal Haasan",
+    "imdb": "https://www.imdb.com/name/nm0352032/"
+  },
+  "ACTOR-BG-20261013-146": {
+    "name": "Mammootty",
+    "imdb": "https://www.imdb.com/name/nm0007123/"
+  },
+  "ACTOR-BG-20261013-147": {
+    "name": "Mohanlal",
+    "imdb": "https://www.imdb.com/name/nm0482320/"
+  },
+  "ACTOR-BG-20261013-148": {
+    "name": "Tony Leung Chiu-wai",
+    "imdb": "https://www.imdb.com/name/nm0504897/"
+  },
+  "ACTOR-BG-20261013-149": {
+    "name": "Tony Leung Ka-fai",
+    "imdb": "https://www.imdb.com/name/nm0504899/"
+  },
+  "ACTOR-BG-20261013-150": {
+    "name": "Leslie Cheung",
+    "imdb": "https://www.imdb.com/name/nm0002000/"
+  },
+  "ACTOR-BG-20261013-151": {
+    "name": "Andy Lau",
+    "imdb": "https://www.imdb.com/name/nm0490489/"
+  },
+  "ACTOR-BG-20261013-152": {
+    "name": "Stephen Chow",
+    "imdb": "https://www.imdb.com/name/nm0159507/"
+  },
+  "ACTOR-BG-20261013-153": {
+    "name": "Takeshi Kitano",
+    "imdb": "https://www.imdb.com/name/nm0001429/",
+    "ofdb": "https://www.ofdb.de/person/60,Takeshi-Kitano/"
+  },
+  "ACTOR-BG-20261013-154": {
+    "name": "Choi Min-sik",
+    "imdb": "https://www.imdb.com/name/nm0158856/",
+    "ofdb": "https://www.ofdb.de/person/2626,Choi-Min-sik/"
+  },
+  "ACTOR-BG-20261013-155": {
+    "name": "Sol Kyung-gu",
+    "imdb": "https://www.imdb.com/name/nm0812555/"
+  },
+  "ACTOR-BG-20261013-156": {
+    "name": "Lee Byung-hun",
+    "imdb": "https://www.imdb.com/name/nm0496932/",
+    "ofdb": "https://www.ofdb.de/person/2432,Lee-Byung-hun/"
+  },
+  "ACTOR-BG-20261013-157": {
+    "name": "Ricardo Darín",
+    "imdb": "https://www.imdb.com/name/nm0201857/"
+  },
+  "ACTOR-BG-20261013-158": {
+    "name": "Federico Luppi",
+    "imdb": "https://www.imdb.com/name/nm0527002/"
+  },
+  "ACTOR-BG-20261013-159": {
+    "name": "Arturo de Córdova",
+    "imdb": "https://www.imdb.com/name/nm0194742/"
+  },
+  "ACTOR-BG-20261013-160": {
+    "name": "Ida Lupino",
+    "imdb": "https://www.imdb.com/name/nm0526946/"
+  },
+  "ACTOR-BG-20261013-161": {
+    "name": "Gloria Swanson",
+    "imdb": "https://www.imdb.com/name/nm0841797/"
+  },
+  "ACTOR-BG-20261013-162": {
+    "name": "Louise Brooks",
+    "imdb": "https://www.imdb.com/name/nm0000315/"
+  },
+  "ACTOR-BG-20261013-163": {
+    "name": "Lillian Gish",
+    "imdb": "https://www.imdb.com/name/nm0001273/"
+  },
+  "ACTOR-BG-20261013-164": {
+    "name": "Mary Pickford",
+    "imdb": "https://www.imdb.com/name/nm0681933/"
+  },
+  "ACTOR-BG-20261013-165": {
+    "name": "Jean Arthur",
+    "imdb": "https://www.imdb.com/name/nm0000795/"
+  },
+  "ACTOR-BG-20261013-166": {
+    "name": "Carole Lombard",
+    "imdb": "https://www.imdb.com/name/nm0001479/"
+  },
+  "ACTOR-BG-20261013-167": {
+    "name": "Claudette Colbert",
+    "imdb": "https://www.imdb.com/name/nm0001055/"
+  },
+  "ACTOR-BG-20261013-168": {
+    "name": "Greer Garson",
+    "imdb": "https://www.imdb.com/name/nm0002093/"
+  },
+  "ACTOR-BG-20261013-169": {
+    "name": "Norma Shearer",
+    "imdb": "https://www.imdb.com/name/nm0790454/"
+  },
+  "ACTOR-BG-20261013-170": {
+    "name": "Loretta Young",
+    "imdb": "https://www.imdb.com/name/nm0949835/"
+  },
+  "ACTOR-BG-20261013-171": {
+    "name": "Jane Wyman",
+    "imdb": "https://www.imdb.com/name/nm0943837/"
+  },
+  "ACTOR-BG-20261013-172": {
+    "name": "Maureen O’Hara",
+    "imdb": "https://www.imdb.com/name/nm0000058/",
+    "ofdb": "https://www.ofdb.de/person/19438,Maureen-O'Hara/"
+  },
+  "ACTOR-BG-20261013-173": {
+    "name": "Susan Hayward",
+    "imdb": "https://www.imdb.com/name/nm0001333/"
+  },
+  "ACTOR-BG-20261013-174": {
+    "name": "Veronica Lake",
+    "imdb": "https://www.imdb.com/name/nm0000043/"
+  },
+  "ACTOR-BG-20261013-175": {
+    "name": "Agnes Moorehead",
+    "imdb": "https://www.imdb.com/name/nm0001547/"
+  },
+  "ACTOR-BG-20261013-176": {
+    "name": "Thelma Ritter",
+    "imdb": "https://www.imdb.com/name/nm0728812/",
+    "ofdb": "https://www.ofdb.de/person/64356,Thelma-Ritter/"
+  },
+  "ACTOR-BG-20261013-177": {
+    "name": "Judith Anderson",
+    "imdb": "https://www.imdb.com/name/nm0000752/"
+  },
+  "ACTOR-BG-20261013-178": {
+    "name": "Dorothy Dandridge",
+    "imdb": "https://www.imdb.com/name/nm0199268/"
+  },
+  "ACTOR-BG-20261013-179": {
+    "name": "Delphine Seyrig",
+    "imdb": "https://www.imdb.com/name/nm0786891/"
+  },
+  "ACTOR-BG-20261013-180": {
+    "name": "Emmanuelle Riva",
+    "imdb": "https://www.imdb.com/name/nm0728938/"
+  },
+  "ACTOR-BG-20261013-181": {
+    "name": "Anna Karina",
+    "imdb": "https://www.imdb.com/name/nm0439344/"
+  },
+  "ACTOR-BG-20261013-182": {
+    "name": "Anouk Aimée",
+    "imdb": "https://www.imdb.com/name/nm0000733/"
+  },
+  "ACTOR-BG-20261013-183": {
+    "name": "Arletty",
+    "imdb": "https://www.imdb.com/name/nm0001916/"
+  },
+  "ACTOR-BG-20261013-184": {
+    "name": "Danielle Darrieux",
+    "imdb": "https://www.imdb.com/name/nm0201638/"
+  },
+  "ACTOR-BG-20261013-185": {
+    "name": "Anna Magnani",
+    "imdb": "https://www.imdb.com/name/nm0536167/"
+  },
+  "ACTOR-BG-20261013-186": {
+    "name": "Silvana Mangano",
+    "imdb": "https://www.imdb.com/name/nm0542146/"
+  },
+  "ACTOR-BG-20261013-187": {
+    "name": "Lucia Bosè",
+    "imdb": "https://www.imdb.com/name/nm0098393/"
+  },
+  "ACTOR-BG-20261013-188": {
+    "name": "Valeria Golino",
+    "imdb": "https://www.imdb.com/name/nm0000420/"
+  },
+  "ACTOR-BG-20261013-189": {
+    "name": "Fernanda Montenegro",
+    "imdb": "https://www.imdb.com/name/nm0005244/"
+  },
+  "ACTOR-BG-20261013-190": {
+    "name": "Norma Aleandro",
+    "imdb": "https://www.imdb.com/name/nm0001903/"
+  },
+  "ACTOR-BG-20261013-191": {
+    "name": "Sônia Braga",
+    "imdb": "https://www.imdb.com/name/nm0000968/"
+  },
+  "ACTOR-BG-20261013-192": {
+    "name": "Mercedes Morán",
+    "imdb": "https://www.imdb.com/name/nm0608187/"
+  },
+  "ACTOR-BG-20261013-193": {
+    "name": "Graciela Borges",
+    "imdb": "https://www.imdb.com/name/nm0096559/"
+  },
+  "ACTOR-BG-20261013-194": {
+    "name": "Maggie Cheung",
+    "imdb": "https://www.imdb.com/name/nm0001041/"
+  },
+  "ACTOR-BG-20261013-195": {
+    "name": "Brigitte Lin",
+    "imdb": "https://www.imdb.com/name/nm0510857/"
+  },
+  "ACTOR-BG-20261013-196": {
+    "name": "Anita Mui",
+    "imdb": "https://www.imdb.com/name/nm0611315/"
+  },
+  "ACTOR-BG-20261013-197": {
+    "name": "Machiko Kyō",
+    "imdb": "https://www.imdb.com/name/nm0477553/"
+  },
+  "ACTOR-BG-20261013-198": {
+    "name": "Hideko Takamine",
+    "imdb": "https://www.imdb.com/name/nm0847301/"
+  },
+  "ACTOR-BG-20261013-199": {
+    "name": "Isuzu Yamada",
+    "imdb": "https://www.imdb.com/name/nm0945222/"
+  },
+  "ACTOR-BG-20261013-200": {
+    "name": "Kyōko Kagawa",
+    "imdb": "https://www.imdb.com/name/nm0434593/"
+  },
+  "ACTOR-BG-20261013-201": {
+    "name": "Haruko Sugimura",
+    "imdb": "https://www.imdb.com/name/nm0837503/",
+    "ofdb": "https://www.ofdb.de/person/39559,Haruko-Sugimura/"
+  },
+  "ACTOR-BG-20261013-202": {
+    "name": "Ayako Wakao",
+    "imdb": "https://www.imdb.com/name/nm0906723/"
+  },
+  "ACTOR-BG-20261013-203": {
+    "name": "Meiko Kaji",
+    "imdb": "https://www.imdb.com/name/nm0435299/"
+  },
+  "ACTOR-BG-20261013-204": {
+    "name": "Madhabi Mukherjee",
+    "imdb": "https://www.imdb.com/name/nm0611538/"
+  },
+  "ACTOR-BG-20261013-205": {
+    "name": "Smita Patil",
+    "imdb": "https://www.imdb.com/name/nm0665599/"
+  },
+  "ACTOR-BG-20261013-206": {
+    "name": "Shabana Azmi",
+    "imdb": "https://www.imdb.com/name/nm0000818/"
+  },
+  "ACTOR-BG-20261013-207": {
+    "name": "Youn Yuh-jung",
+    "imdb": "https://www.imdb.com/name/nm0950926/"
+  },
+  "ACTOR-BG-20261013-208": {
+    "name": "Leila Hatami",
+    "imdb": "https://www.imdb.com/name/nm0368689/"
+  }
+}

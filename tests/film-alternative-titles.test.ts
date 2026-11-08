@@ -160,7 +160,9 @@ it("führt die belegten Titel nach der Antwort in den aufklappbaren Filmdaten", 
   expect(data).toContain("Superfighter 3");
   expect(data).toContain("Der Superfighter III");
   expect(data).toContain("The Fearless Hyena");
-  expect(data).toContain(
+  expect(
+    html.slice(html.indexOf('<details class="answer-sources">')),
+  ).toContain(
     registry["Xiao quan guai zhao|1979"].sources[0].replaceAll("&", "&amp;"),
   );
 });

@@ -1,0 +1,39 @@
+{
+  "checkedOn": "2026-11-08",
+  "runtime": [
+    {
+      "file": "src/workDatabaseLinks.json",
+      "entries": 3377,
+      "beforeBytes": 378281,
+      "afterBytes": 378281,
+      "gzipBytes": 80396
+    },
+    {
+      "file": "src/personDatabaseLinks.json",
+      "entries": 428,
+      "beforeBytes": 140678,
+      "afterBytes": 58064,
+      "gzipBytes": 9431
+    },
+    {
+      "file": "src/directorDatabaseLinks.json",
+      "entries": 3370,
+      "beforeBytes": 1039575,
+      "afterBytes": 452171,
+      "gzipBytes": 82337
+    },
+    {
+      "file": "src/ofdbLinks.json",
+      "entries": 3204,
+      "beforeBytes": 691411,
+      "afterBytes": 394828,
+      "gzipBytes": 98539
+    }
+  ],
+  "originalSources": {
+    "directory": "data/reference-links-2026-11-08",
+    "files": 13597,
+    "bytes": 161323757
+  },
+  "note": "Runtime nur mit Anzeige-/Identitätsfeldern. Vollständige Einzelbelege in den fünf fachlichen Prüfberichten; Rohantworten geschützt lokal. Gzipgrößen sind reine JSON-Messungen, keine Build-/Startzeitmessung."
+}
