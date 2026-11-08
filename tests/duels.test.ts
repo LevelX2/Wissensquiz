@@ -407,7 +407,7 @@ it("friert ein einzelnes Duellthema ein, trennt die Paarungspools und lehnt Spez
     `insert into quiz_duel_catalog(id,knowledge_id,difficulty,genre,familiarity,question)
     select scope||'-'||id,scope||'-'||knowledge_id,difficulty,case when scope='Action' then 'Action' else genre end,familiarity,
       question||jsonb_build_object('id',scope||'-'||id,'knowledgeId',scope||'-'||knowledge_id,
-        'metadata',((question->'metadata')-'person_id')||case when scope='actors' then jsonb_build_object('person_id','synthetic-actor') else '{}'::jsonb end,
+        'metadata',((question->'metadata')-'person_id')||jsonb_build_object('subdomain',case when scope='Action' then 'Action' else question->'metadata'->>'subdomain' end)||case when scope='actors' then jsonb_build_object('person_id','synthetic-actor') else '{}'::jsonb end,
         'tags',case when scope='awards' then '["Preisträger"]'::jsonb else question->'tags' end)
     from quiz_duel_catalog cross join unnest(array['actors','awards','Action']) scope where id=any($1::text[])`,
     [questions.map((q) => q.id)],

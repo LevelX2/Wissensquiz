@@ -40,7 +40,7 @@ it("zählt und wiederholt fällige Ziele aller gewählten Bereiche einschließli
       ('award','award-goal','Test','Preisträger','awards','schwer',1,'[]'),
       ('later','later-goal','Test','Schauspieler','actors','leicht',1,'[]'),
       ('new','new-goal','Test','Preisträger','awards','leicht',1,'[]');
-      select quiz_game_internal.refresh_groups(); delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups(); delete from quiz_game_internal.journey_cache;`);
     await fixture.db.query(
       `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
       select $1,$2,'learning',goal,i,jsonb_build_object('stage',1,'due',$3::bigint+case when i=4 then 60000 else -10000+i end,'seen',1),0
@@ -57,7 +57,7 @@ it("zählt und wiederholt fällige Ziele aller gewählten Bereiche einschließli
       mode: "fehler",
       topic: "Alle Themen",
       filters: {
-        genres: ["Abenteuer"],
+        genres: null,
         sources: ["film", "actors", "awards"],
         difficulties: ["leicht", "mittel", "schwer", "experte"],
         familiarities: [1, 2, 3, 4],
@@ -87,7 +87,7 @@ it("zählt und wiederholt fällige Ziele aller gewählten Bereiche einschließli
         ...setup,
         filters: {
           ...setup.filters,
-          genres: [],
+          genres: null,
           sources: ["actors", "awards"],
         },
       }),
@@ -129,7 +129,7 @@ it("stellt kürzlich richtige nicht fällige Serverziele 24 Stunden zurück, mit
     await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
       insert into quiz_game_internal.catalog_meta select 'q'||i,'goal'||i,'Test','Abenteuer','film','leicht',1,'[]' from generate_series(0,19) i;
       insert into quiz_game_internal.catalog_meta values ('variant','goal0','Test','Abenteuer','film','leicht',1,'[]');
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
     await fixture.db.query(
       `insert into public.quiz_sync_entries(owner_id,generation,kind,id,position,value,changed_revision)
       select $1,$2,'learning','goal'||i,i,jsonb_build_object('stage',2,'due',$3::bigint+259200000,'lastSeenAt',$3::bigint-1000,'lastSecure',$3::bigint-172800000,'seen',3),0 from generate_series(0,19) i`,
@@ -215,7 +215,7 @@ it("berechnet 50-%-Grenzen aufgerundet aus aktuellen Zielen und ignoriert alte F
     await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
       insert into quiz_game_internal.catalog_meta
       select d||i,d||i,'Test','Abenteuer','film',d,1,'[]' from (values ('leicht',5),('mittel',3),('schwer',3)) v(d,n) cross join lateral generate_series(1,n) i;
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
     await fixture.db.query(
       `update public.quiz_sync_entries set value='{"version":1,"earned":{"Abenteuer":{"difficulty":2,"familiarity":1}}}' where owner_id=$1 and kind='field' and id='journey'`,
       [owner],
@@ -254,7 +254,7 @@ it("berechnet 50-%-Grenzen aufgerundet aus aktuellen Zielen und ignoriert alte F
     });
     await secure("leicht", 5); // Extra evidence for removed content never counts.
     await fixture.db.exec(
-      "delete from quiz_game_internal.catalog_meta where id in ('leicht4','leicht5');select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;",
+      "delete from quiz_game_internal.catalog_meta where id in ('leicht4','leicht5');select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;",
     );
     expect(await progress()).toMatchObject({ easy: 3, easyTarget: 2 });
   } finally {
@@ -278,7 +278,7 @@ it("mischt neue Serverfragen gleichwahrscheinlich nach Stufe und erhält vier f�
       select d||i,d||i,'Test','Abenteuer','film',d,1,'[]' from (values ('leicht',100),('mittel',20),('schwer',10)) v(d,n) cross join lateral generate_series(1,n) i;
       insert into quiz_game_internal.catalog_meta select 'variant'||i,'leicht1','Test','Abenteuer','film','leicht',1,'[]' from generate_series(1,20) i;
       insert into quiz_game_internal.catalog_meta values('cross-medium','leicht1','Test','Abenteuer','film','mittel',1,'[]'),('cross-hard','leicht1','Test','Abenteuer','film','schwer',1,'[]');
-      select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
+      select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();delete from quiz_game_internal.journey_cache;`);
     await fixture.db.query(
       `insert into quiz_game_internal.secure_goals select $1,$2,d||i,'Abenteuer',d from (values ('leicht',50),('mittel',11)) v(d,n) cross join lateral generate_series(1,n) i`,
       [owner, target],
@@ -973,7 +973,7 @@ it("projiziert sichere Ziele aus kompakten Duell-/Importfragen einschließlich P
         topic: "Alle Themen",
         difficulty: "Alle Stufen",
         filters: {
-          genres: [q.metadata.subdomain ?? q.domain],
+          genres: null,
           sources: ["film", "actors", "awards"],
           difficulties: [q.difficulty],
           familiarities: [1, 2, 3, 4],
@@ -1190,7 +1190,7 @@ it("berechnet Filmgruppen aus aktuellen leichten Zielen ohne feste Anker oder ge
     await fixture.db.exec(`delete from quiz_game_internal.catalog_meta;
  insert into quiz_game_internal.catalog_meta select 'g'||lev||'-'||d||i,'g'||lev||'-'||d||i,'Test','Abenteuer','film',d,lev,'[]' from (values(1,'leicht',5),(1,'mittel',5),(3,'leicht',3)) v(lev,d,n) cross join lateral generate_series(1,n) i;
  insert into quiz_game_internal.catalog_meta values('variant','g1-leicht1','Test','Abenteuer','film','leicht',1,'[]');
- select quiz_game_internal.refresh_groups();`);
+ select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();`);
     await fixture.db.query(
       `update public.quiz_sync_entries set value='{"version":1,"earned":{"Abenteuer":{"difficulty":0,"familiarity":4}}}' where owner_id=$1 and kind='field' and id='journey'`,
       [owner],
@@ -1228,14 +1228,14 @@ it("berechnet Filmgruppen aus aktuellen leichten Zielen ohne feste Anker oder ge
       groups: [{ answered: 3 }, { unlocked: true }],
     });
     await fixture.db.exec(
-      `insert into quiz_game_internal.catalog_meta select 'new'||i,'new'||i,'Test','Abenteuer','film','leicht',1,'[]' from generate_series(1,2) i;select quiz_game_internal.refresh_groups();`,
+      `insert into quiz_game_internal.catalog_meta select 'new'||i,'new'||i,'Test','Abenteuer','film','leicht',1,'[]' from generate_series(1,2) i;select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();`,
     );
     expect(await progress()).toMatchObject({
       familiarity: 1,
       groups: [{ total: 7, target: 4, answered: 3 }, { unlocked: false }],
     });
     await fixture.db.exec(
-      "delete from quiz_game_internal.catalog_meta where knowledge_id='g1-leicht1';select quiz_game_internal.refresh_groups();",
+      "delete from quiz_game_internal.catalog_meta where knowledge_id='g1-leicht1';select quiz_game_internal.test_materialize_works();select quiz_game_internal.refresh_groups();",
     );
     expect(await progress()).toMatchObject({
       familiarity: 1,

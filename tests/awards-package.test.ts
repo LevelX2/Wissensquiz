@@ -177,7 +177,7 @@ it("spielt reine Preis-Expertenrunden ohne Filmgenre und erhält sie im Spielsta
       difficulty: "experte",
       filters: {
         sources: ["awards"],
-        genres: [],
+        genres: null,
         difficulties: ["experte"],
         familiarities: [1, 2, 3, 4],
       },

@@ -2,12 +2,14 @@
 import type { Question, QuestionSource, State } from "./model";
 import { questionSchema } from "./questionSchema";
 import { genreOf, questionSourceOf } from "./filters";
+import { genresOf, workTypesOf, type WorkType } from "./workAttributes";
 
 type QuestionPackage = {
   path: string;
   filename: string;
   source: QuestionSource;
   genre?: string;
+  workType?: WorkType;
 };
 
 export const packages: readonly QuestionPackage[] = [
@@ -28,8 +30,15 @@ export const packages: readonly QuestionPackage[] = [
     path: `content/filmfragen/${slug}.jsonl`,
     filename: `Filmfragen · ${genre}`,
     source: "film" as const,
+    workType: "film" as const,
     genre,
   })),
+  {
+    path: "content/serienfragen.jsonl",
+    filename: "Serienfragen",
+    source: "film",
+    workType: "series",
+  },
   {
     path: "content/schauspielerfragen.jsonl",
     filename: "Schauspielerfragen",
@@ -44,8 +53,18 @@ export const packages: readonly QuestionPackage[] = [
 
 export function packageForQuestion(q: Question) {
   const source = questionSourceOf(q);
+  const types = workTypesOf(q);
+  const type = types.length === 1 && types[0] === "series" ? "series" : "film";
+  const questionGenres = genresOf(q);
+  const storageGenre = [genreOf(q), ...questionGenres].find(
+    (genre) =>
+      questionGenres.includes(genre) && packages.some((p) => p.genre === genre),
+  );
   const definition = packages.find(
-    (p) => p.source === source && (!p.genre || p.genre === genreOf(q)),
+    (p) =>
+      p.source === source &&
+      (!p.workType || p.workType === type) &&
+      (!p.genre || p.genre === storageGenre),
   );
   if (!definition) throw new Error(`${q.id}: kein aktueller Fachbestand.`);
   return definition;
@@ -57,6 +76,7 @@ export function readQuestions(
   text: string,
   source?: QuestionSource,
   genre?: string,
+  workType?: WorkType,
 ): Question[] {
   const questions = text
     .split(/\r?\n/)
@@ -68,8 +88,10 @@ export function readQuestions(
     ids.add(q.id);
     if (source && questionSourceOf(q) !== source)
       throw new Error(`${q.id}: Frage gehört nicht zum Bereich ${source}.`);
-    if (genre && genreOf(q) !== genre)
+    if (genre && !genresOf(q).includes(genre))
       throw new Error(`${q.id}: Frage gehört nicht zum Genre ${genre}.`);
+    if (workType && !workTypesOf(q).includes(workType))
+      throw new Error(`${q.id}: Frage gehört nicht zur Werkart ${workType}.`);
   }
   return questions;
 }
@@ -91,6 +113,7 @@ export function addPackages(state: State, incoming: PackageContent[]) {
       input.text,
       definition.source,
       definition.genre,
+      definition.workType,
     );
     let duplicates = 0;
     for (const q of questions) {

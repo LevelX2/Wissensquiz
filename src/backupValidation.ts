@@ -46,7 +46,7 @@ export function validateBackup(value: unknown, rebuildProgress = true): State {
     if (
       r.recordPreset === "genre" &&
       (!r.filters ||
-        r.filters.genres.length !== 1 ||
+        r.filters.genres?.length !== 1 ||
         r.topic !== "Alle Themen" ||
         JSON.stringify(r.filters.sources) !== '["film"]' ||
         JSON.stringify([...r.filters.difficulties].sort()) !==

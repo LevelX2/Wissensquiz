@@ -1,12 +1,12 @@
 # Wissensindex
 
+- [Werkarten und Mehrfachzuordnungen lokal umgesetzt und geprüft: gemeinsame Lernstände, getrennte Film-/Serienpfade, ausgewogene Auswahl und mehrere Symbole; Quellenlinks integriert, noch nicht veröffentlicht](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
+
 - [Quellen und Links: Anordnung, bestätigte Ziele, Quellen und offene Zuordnungen](../../../docs/Quellen-und-Links.md)
 
 - [Antworttexte auch nach der Auflösung und im Rundenrückblick grün/rot hinterlegt – 08.11.2026, lokal](../../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben)
 
 - [Rekordlisten: aktuelles Karrierelevel wie im Profil auch bei alten Läufen; Level-1-Fehler lokal korrigiert – 08.11.2026](../../../docs/Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal)
-
-- [Werkarten und Mehrfachzuordnungen beschlossen, fünf Umsetzungspakete vorbereitet; Quellen-/IMDb-/OFDb-Links mit sprechenden Texten einem anderen Chat zugeordnet – 08.11.2026](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
 
 - [Version 88 veröffentlicht: 100 neue Oscarfragen, aktueller Katalog mit 19.403 Fragen, Filmreise und Alternativtitel – 07.11.2026](../../../docs/Veroeffentlichung-2026-11-07-Version-88.json)
 

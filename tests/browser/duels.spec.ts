@@ -98,10 +98,10 @@ test("zwei Konten spielen nach Paarung unabhängig, sehen offene Duelle und erha
     ).toBeVisible();
     await service.setup(b, bob);
     await expect(
-      b.getByRole("checkbox", { name: "Alle Genres (gemischt)", exact: true }),
+      b.getByRole("checkbox", { name: "Alle Bereiche (gemischt)", exact: true }),
     ).toBeChecked();
     await b
-      .getByRole("checkbox", { name: "Alle Genres (gemischt)", exact: true })
+      .getByRole("checkbox", { name: "Alle Bereiche (gemischt)", exact: true })
       .uncheck();
     const find = b.getByRole("button", {
       name: "Zufälligen Gegner finden",
@@ -115,11 +115,11 @@ test("zwei Konten spielen nach Paarung unabhängig, sehen offene Duelle und erha
     ).toBeVisible();
     await expect(b.locator("h1[data-question-id]")).toHaveCount(0);
     await b
-      .getByRole("checkbox", { name: "Alle Genres (gemischt)", exact: true })
+      .getByRole("checkbox", { name: "Alle Bereiche (gemischt)", exact: true })
       .check();
     await b.getByRole("button", { name: "Zufälligen Gegner finden" }).click();
     await expect(
-      b.getByText("Duellthema: Alle Genres (gemischt)", { exact: true }),
+      b.getByText("Duellthema: Alle Bereiche (gemischt)", { exact: true }),
     ).toBeVisible();
     await play(b);
     await expect(b.locator(".duel-round.is-draw")).toHaveCount(1);
@@ -486,7 +486,7 @@ test("direkte Duelllösungen, Einladungslink und Wiederaufnahme erhalten den Ser
   try {
     await service.setup(page, alice);
     const topics = page.getByLabel("Duellthema", { exact: true });
-    await expect(topics.locator("option")).toHaveCount(15);
+    await expect(topics.locator("option")).toHaveCount(30);
     await expect(
       topics.getByRole("option", { name: "Classics", exact: true }),
     ).toHaveCount(0);

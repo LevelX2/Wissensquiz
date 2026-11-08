@@ -36,7 +36,7 @@ test("Neu steht vor der Antwort neben dem Genre und bleibt bei der ersten Lösun
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   const badge = page.locator(".question-hints .question-status");
   await expect(badge).toHaveText("Neu");
-  await expect(page.locator(".question-genre")).toBeVisible();
+  await expect(page.locator(".question-facets")).toBeVisible();
   await expect(page.locator(".question-history")).toHaveCount(0);
   await expect(page.locator(".feedback")).toHaveCount(0);
   expect(
@@ -130,7 +130,7 @@ test("Wiederholungszahl zählt frühere Versuche; eigener Schalter bleibt nach N
   await page.getByRole("button", { name: "Spielen", exact: true }).click();
   await page.getByRole("button", { name: "Fortsetzen" }).click();
   await expect(badge).toHaveCount(0);
-  await expect(page.locator(".question-genre")).toBeVisible();
+  await expect(page.locator(".question-facets")).toBeVisible();
   await page.getByRole("button", { name: "Pause & Startseite" }).click();
   await options();
   await toggle.click();

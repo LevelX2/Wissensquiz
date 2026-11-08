@@ -1,4 +1,6 @@
 import { z } from "zod";
+import { workReferenceSchema } from "./workAttributes";
+import { questionFacetsSchema } from "./questionFacets";
 const id = z
   .string()
   .min(1)
@@ -67,6 +69,7 @@ export const portraitSchema = questionImageSchema.extend({
   changes: z.string(),
 });
 export const presentationSchema = z.object({
+  facets: questionFacetsSchema.optional(),
   questionText: z.string(),
   deepContext: z.string(),
   sources: z.array(z.string()),
@@ -129,6 +132,8 @@ export const questionSchema = z
     tags: z.array(z.string()),
     badgeTags: z.array(z.string()),
     metadata: questionMetadataSchema,
+    works: z.array(workReferenceSchema).max(50).optional(),
+    facets: questionFacetsSchema.optional(),
     demo: z.boolean(),
     presentation: presentationSchema.optional(),
     image: questionImageSchema.optional(),

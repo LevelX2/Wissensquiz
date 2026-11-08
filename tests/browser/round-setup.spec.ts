@@ -14,7 +14,7 @@ test("Rundenauswahl bleibt vor dem Spielen gespeichert, auch leere Auswahl und m
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
   await openRoundSetup(page);
-  const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
+  const genres = page.getByRole("group", { name: "Genres", exact: true });
   await genres.getByLabel("Horror", { exact: true }).check();
   await page.getByLabel("Nur Classics", { exact: true }).check();
   await openRoundSetup(page);

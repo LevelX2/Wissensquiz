@@ -133,7 +133,7 @@ test("Genres und Stufen lassen sich kombinieren und bleiben in der Runde erhalte
   await expect(
     modePreparation(page, /Freies Spiel Alle Stufen/),
   ).toHaveAttribute("aria-pressed", "true");
-  const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
+  const genres = page.getByRole("group", { name: "Genres", exact: true });
   const levels = page.getByRole("group", {
     name: "Schwierigkeitsstufen",
     exact: true,
@@ -421,7 +421,7 @@ test("Rekordübersicht zeigt Einzelgenre und kurze Ergebnisbezeichnung ohne Dars
     .getByRole("button", { name: "Alle Genres abwählen", exact: true })
     .click();
   await openRoundSetup(page);
-  const genres = page.getByRole("group", { name: "Filmgenres", exact: true });
+  const genres = page.getByRole("group", { name: "Genres", exact: true });
   await genres.getByLabel("Sci-Fi", { exact: true }).check();
   await genres.getByLabel("Horror", { exact: true }).check();
   await openRoundSetup(page);
@@ -742,7 +742,7 @@ for (const genrePackage of [
     await page.getByRole("button", { name: "Spielen", exact: true }).click();
     await openRoundSetup(page);
     const genreChoices = page.getByRole("group", {
-      name: "Filmgenres",
+      name: "Genres",
       exact: true,
     });
     await page.getByRole("button", { name: "Alle Genres abwählen" }).click();

@@ -187,7 +187,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     .getByRole("button", { name: "Alle Genres abwählen", exact: true })
     .click();
   await page
-    .getByRole("group", { name: "Filmgenres", exact: true })
+    .getByRole("group", { name: "Genres", exact: true })
     .getByLabel("Western", { exact: true })
     .check();
   await page.getByLabel("Nur Classics", { exact: true }).check();
@@ -202,7 +202,7 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
     "Schwierigkeit: Leicht",
   );
   const stored = await readStoredState(page);
-  expect(stored.rounds.at(-1)!.topic).toBe("Filmfragen + Classics");
+  expect(stored.rounds.at(-1)!.topic).toBe("Filmfragen");
   expect(
     stored.rounds
       .at(-1)!

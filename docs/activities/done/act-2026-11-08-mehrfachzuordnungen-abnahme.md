@@ -1,6 +1,7 @@
 ---
 activityId: act-2026-11-08-mehrfachzuordnungen-abnahme
-status: in_progress
+status: done
+completedAt: 2026-11-08
 startedAt: 2026-11-08
 owner: wissensquiz-werkarten-20261108-root
 branch: codex/werkarten-mehrfachzuordnungen-20261108
@@ -11,8 +12,8 @@ primaryAgent: codex
 requiresImplementation: true
 createdAt: 2026-11-08
 blockedBy: [act-2026-11-08-werkarten-mehrfachzuordnungen, act-2026-11-08-lernstand-freischaltungen, act-2026-11-08-ausgewogene-filmreise, act-2026-11-08-auswahl-zuordnungssymbole]
-resultArtifacts: []
-checks: []
+resultArtifacts: [src/filters.ts, src/roundSetup.ts, src/rankedRuns.ts, src/duels.ts, tests/work-game-modes.test.ts, docs/Pruefbericht.md, docs/Importformat.md]
+checks: ["508 unterschiedliche Logikprüfungen erfolgreich; ein vorgesehener Skip", "acht Chromium- und ein mobiler WebKit-Fall", "npm run build", "npm run check", "npm run check:questions", "git diff --check"]
 ---
 
 # Gemeinsame Integration und Abnahme
@@ -52,4 +53,4 @@ Keine parallelen vollständigen Prüfläufe für denselben gemeinsamen Stand. Er
 
 ## Ergebnisnotiz
 
-Vorbereitet; noch keine Implementierungs- oder Veröffentlichungsabnahme.
+Software lokal abgenommen: alle Spielwege mit getrennten Werkidentitäten, passender Bekanntheit und gemeinsamem Lernstand geprüft. Rekordkategorien, typisierte Linkidentitäten und Duellthemen integriert. Isolierte Daten, keine produktive Aktivierung. Neue Serien-/Animationsbestände sind nicht Teil dieses Softwareauftrags; zentrale Veröffentlichungsprüfung nach konkreter Freigabe erforderlich.

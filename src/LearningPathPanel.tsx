@@ -85,10 +85,12 @@ export function LearningPath({
   state,
   genres,
   sources = ["film"],
+  workTypes,
   journey,
 }: {
   state: State;
   genres: string[];
+  workTypes?: ("film" | "series")[];
   sources?: QuestionSource[];
   journey?: Journey;
 }) {
@@ -109,11 +111,14 @@ export function LearningPath({
         aktuellen leichten Filmfakten der vorherigen Gruppe.
       </p>
       <div className="path-progress">
-        {[
-          ...genres,
-          ...(sources.includes("awards") ? ["Preisträger"] : []),
-          ...(sources.includes("actors") ? ["Schauspieler"] : []),
-        ]
+        {(workTypes ?? ["film", "series"])
+          .flatMap((type) =>
+            [
+              ...genres,
+              ...(sources.includes("awards") ? ["Preisträger"] : []),
+              ...(sources.includes("actors") ? ["Schauspieler"] : []),
+            ].map((label) => (type === "series" ? `Serien · ${label}` : label)),
+          )
           .filter((g) => !journey || journey[g])
           .map((genre) => {
             const p = progress(genre);

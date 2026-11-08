@@ -1,6 +1,7 @@
 ---
 activityId: act-2026-11-08-ausgewogene-filmreise
-status: in_progress
+status: done
+completedAt: 2026-11-08
 startedAt: 2026-11-08
 owner: wissensquiz-werkarten-20261108-root
 branch: codex/werkarten-mehrfachzuordnungen-20261108
@@ -11,8 +12,8 @@ primaryAgent: codex
 requiresImplementation: true
 createdAt: 2026-11-08
 blockedBy: [act-2026-11-08-werkarten-mehrfachzuordnungen, act-2026-11-08-lernstand-freischaltungen]
-resultArtifacts: []
-checks: []
+resultArtifacts: [src/selectionSlots.ts, src/engine.ts, supabase/migrations/20261108082311_unique_goal_selection_paths.sql, tests/work-selection.test.ts, docs/Filmreise-Freischaltung-2026-10-11.md]
+checks: ["27 gezielte Tests in vier Dateien", "npm run check", "git diff --check"]
 ---
 
 # Ausgewogene Filmreise bei überlappenden Zuordnungen
@@ -49,4 +50,4 @@ Neue Punktelogik, starre Quoten je Zehnerrunde oder pauschale Umstellung auf gle
 
 ## Ergebnisnotiz
 
-Vorbereitet; noch nicht umgesetzt. Die konkrete Gewichtung ist Teil dieses Pakets.
+Lokal umgesetzt: genau ein aktueller Auswahlplatz je Ziel vor der Bereichs-/Gruppen-/Stufenauslosung. Originalfrage und primärer Bezug führen, alternative gefilterte Zugänge bleiben möglich. 100 kontrollierte lokale Zufallsfolgen bleiben trotz zusätzlicher Varianten exakt zielgleich; echte SQL-Stichproben für neue, fällige und bekannte Ziele bestätigen die Balance. Keine produktive Aktivierung.

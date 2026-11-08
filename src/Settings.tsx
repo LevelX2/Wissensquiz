@@ -151,7 +151,7 @@ export function Settings({
         <div className="filter-options">
           {(
             [
-              { key: "showGenre", label: "Genre anzeigen" },
+              { key: "showGenre", label: "Zuordnungen anzeigen" },
               { key: "showDifficulty", label: "Schwierigkeit anzeigen" },
               {
                 key: "showQuestionStatus",

@@ -1,7 +1,6 @@
 import type {
   AnswerEvent,
   AnswerChoice,
-  Difficulty,
   Mode,
   Question,
   Round,
@@ -12,18 +11,18 @@ import { uid } from "./model";
 import {
   canonicalFilters,
   matchesFilters,
-  genreOf,
   questionSources,
+  familiarityForFilters,
 } from "./filters";
 import {
   pathQuestions,
   retainJourneyUnlocks,
   learningPathProgress,
   newlyUnlocked,
-  pathAreaOf,
 } from "./learningPath";
 import { familiarityOf, familiarities, selectionRule } from "./familiarity";
 import { discoveryContext, recentCorrectContext } from "./discovery";
+import { selectionSlots, type SelectionSlot } from "./selectionSlots";
 import { matchesTopic } from "./categories";
 import { prepareFactQuestion } from "./yearQuestions";
 import { repetitionContext } from "./errorTraining";
@@ -79,6 +78,7 @@ export function selectQuestions(
     recentCorrectKnowledgeIds?: Set<string>;
     knowledgeIds?: Set<string>;
     recordPreset?: "standard" | "genre";
+    pathProgress?: ReturnType<typeof learningPathProgress>;
   },
   random = Math.random,
 ): Question[] {
@@ -154,115 +154,87 @@ export function selectQuestions(
           result.push(bucket.pop()!);
     return shuffle(result, random);
   }
-  const due = unique
-    .filter(
-      (q) =>
-        learning[q.knowledgeId] &&
-        nextLearningAt(learning[q.knowledgeId], options.now) <= options.now,
-    )
-    .sort((a, b) => learning[a.knowledgeId].due - learning[b.knowledgeId].due);
   const result: Question[] = [];
   if (options.mode === "entdecken") {
     const draw = <T>(items: T[]) =>
       items[Math.min(items.length - 1, Math.floor(random() * items.length))];
     const used = new Set<string>();
-    // Draw areas before groups so extra unlocked groups give no extra area tickets.
-    // Keep due/age priority inside the drawn area and group.
-    const take = (list: Question[], n: number) => {
-      const areas = new Map<
-        string,
-        Map<ReturnType<typeof familiarityOf>, Question[]>
-      >();
-      for (const q of list.filter((q) => !used.has(q.knowledgeId))) {
-        const area = pathAreaOf(q);
-        if (!areas.has(area)) areas.set(area, new Map());
-        const groups = areas.get(area)!;
-        const group = familiarityOf(q);
-        if (!groups.has(group)) groups.set(group, []);
-        groups.get(group)!.push(q);
-      }
-      while (n-- > 0 && result.length < options.size && areas.size) {
-        const groups = draw([...areas.values()]);
-        const q = draw([...groups.values()])[0];
-        result.push(q);
-        used.add(q.knowledgeId);
-        for (const [area, groups] of areas) {
-          for (const [group, candidates] of groups) {
-            const remaining = candidates.filter(
-              (q) => !used.has(q.knowledgeId),
-            );
-            if (remaining.length) groups.set(group, remaining);
-            else groups.delete(group);
-          }
-          if (!groups.size) areas.delete(area);
+    const slots = selectionSlots(pool, options.filters, (q, area) => {
+      if (!options.pathProgress) return true;
+      const p = options.pathProgress(area.area);
+      return (
+        !!area.familiarity &&
+        area.familiarity <= p.familiarity &&
+        (q.difficulty === "leicht" ||
+          (q.difficulty === "mittel"
+            ? p.mediumUnlocked
+            : q.difficulty === "schwer"
+              ? p.hardUnlocked
+              : p.expertUnlocked))
+      );
+    });
+    const chooseVariant = (slot: SelectionSlot) => draw(slot.variants);
+    const take = (list: SelectionSlot[], count: number, fresh = false) => {
+      while (count-- > 0 && result.length < options.size) {
+        const remaining = list.filter((slot) => !used.has(slot.goal));
+        if (!remaining.length) break;
+        const area = draw([...new Set(remaining.map((slot) => slot.area))]);
+        const inArea = remaining.filter((slot) => slot.area === area);
+        const group = draw([
+          ...new Set(inArea.map((slot) => slot.familiarity)),
+        ]);
+        let candidates = inArea.filter((slot) => slot.familiarity === group);
+        if (fresh) {
+          const difficulty = draw([
+            ...new Set(candidates.map((slot) => slot.difficulty)),
+          ]);
+          candidates = candidates.filter(
+            (slot) => slot.difficulty === difficulty,
+          );
         }
+        const slot = fresh ? draw(candidates) : candidates[0];
+        result.push(chooseVariant(slot));
+        used.add(slot.goal);
       }
     };
-    // Reserve room for consolidation even while new goals remain available.
-    take(due, Math.floor(options.size * 0.4));
-    // Areas get equal chances, then their available unlocked groups do.
-    const areas = new Map<
-      string,
-      Map<
-        ReturnType<typeof familiarityOf>,
-        Map<Difficulty, Map<string, Question[]>>
-      >
-    >();
-    for (const q of pool.filter((q) => !learning[q.knowledgeId])) {
-      const area = pathAreaOf(q);
-      if (!areas.has(area)) areas.set(area, new Map());
-      const groups = areas.get(area)!;
-      const group = familiarityOf(q);
-      if (!groups.has(group)) groups.set(group, new Map());
-      const buckets = groups.get(group)!;
-      if (!buckets.has(q.difficulty)) buckets.set(q.difficulty, new Map());
-      const goals = buckets.get(q.difficulty)!;
-      if (!goals.has(q.knowledgeId)) goals.set(q.knowledgeId, []);
-      goals.get(q.knowledgeId)!.push(q);
-    }
-    while (result.length < options.size && areas.size) {
-      const groups = draw([...areas.values()]);
-      const buckets = draw([...groups.values()]);
-      const level = draw([...buckets.keys()]);
-      const [goal, variants] = draw([...buckets.get(level)!.entries()]);
-      result.push(draw(variants));
-      used.add(goal);
-      for (const [area, groups] of areas) {
-        for (const [group, stages] of groups) {
-          for (const [difficulty, goals] of stages) {
-            goals.delete(goal);
-            if (!goals.size) stages.delete(difficulty);
-          }
-          if (!stages.size) groups.delete(group);
-        }
-        if (!groups.size) areas.delete(area);
-      }
-    }
-    // A small remaining pool must not artificially shorten the round.
-    take(due, options.size);
-    const repeats = unique
-      .filter((q) => learning[q.knowledgeId])
+    const dueSlots = slots
+      .filter(
+        (slot) =>
+          learning[slot.goal] &&
+          nextLearningAt(learning[slot.goal], options.now) <= options.now,
+      )
+      .sort((a, b) => learning[a.goal].due - learning[b.goal].due);
+    take(dueSlots, Math.floor(options.size * 0.4));
+    take(
+      slots.filter((slot) => !learning[slot.goal]),
+      options.size,
+      true,
+    );
+    take(dueSlots, options.size);
+    const repeats = slots
+      .filter(
+        (slot) =>
+          learning[slot.goal] &&
+          nextLearningAt(learning[slot.goal], options.now) > options.now,
+      )
       .sort((a, b) => {
-        const pa = learning[a.knowledgeId],
-          pb = learning[b.knowledgeId];
+        const pa = learning[a.goal],
+          pb = learning[b.goal];
         return (
           (pa.lastSeenAt ?? pa.lastSecure ?? 0) -
             (pb.lastSeenAt ?? pb.lastSecure ?? 0) || pa.seen - pb.seen
         );
       });
-    // Not-yet-due practice fills only the remaining places, older goals first.
     for (const postponed of [false, true])
-      for (const recent of [false, true]) {
-        const candidates = repeats.filter(
-          (q) =>
-            deferred(q) === postponed &&
-            !!options.recentKnowledgeIds?.has(q.knowledgeId) === recent,
-        );
+      for (const recent of [false, true])
         take(
-          candidates.filter((q) => !due.includes(q)),
+          repeats.filter(
+            (slot) =>
+              deferred(slot.variants[0]) === postponed &&
+              !!options.recentKnowledgeIds?.has(slot.goal) === recent,
+          ),
           options.size,
         );
-      }
     return shuffle(result, random);
   }
   return shuffle(result, random);
@@ -357,17 +329,7 @@ export function startRound(
       ...options,
       recordPreset: options.recordPreset ?? "standard",
       filters: options.filters ?? {
-        genres: [
-          ...new Set(
-            state.questions
-              .filter(
-                (q) =>
-                  !state.bundledQuestionIds ||
-                  state.bundledQuestionIds.includes(q.id),
-              )
-              .map(genreOf),
-          ),
-        ].sort(),
+        genres: null,
         sources: [...questionSources],
         difficulties: ["leicht", "mittel", "schwer"],
         familiarities: [...familiarities],
@@ -375,7 +337,7 @@ export function startRound(
     };
   }
   const selected = selectQuestions(
-    pathQuestions(state, options.mode).filter(
+    pathQuestions(state, options.mode, options.filters).filter(
       (q) =>
         (options.recordPreset !== "standard" &&
           options.recordPreset !== "genre") ||
@@ -385,7 +347,12 @@ export function startRound(
     state.learning,
     {
       ...options,
-      ...(options.mode === "entdecken" ? discoveryContext(state) : {}),
+      ...(options.mode === "entdecken"
+        ? {
+            ...discoveryContext(state),
+            pathProgress: learningPathProgress(state),
+          }
+        : {}),
       ...recentCorrectContext(state, now),
       ...(options.mode === "fehler"
         ? repetitionContext(state, options.sourceRoundId)
@@ -408,7 +375,10 @@ export function startRound(
     ...(options.filters ? { filters: canonicalFilters(options.filters) } : {}),
     id: uid(),
     familiaritySnapshot: Object.fromEntries(
-      questions.map((q) => [q.id, familiarityOf(q) ?? 0]),
+      questions.map((q) => [
+        q.id,
+        familiarityForFilters(q, options.filters) ?? 0,
+      ]),
     ),
     questions,
     order: questions.map((q) => shuffle(q.answers.map((a) => a.id))),
@@ -546,7 +516,8 @@ function appendRunQuestion(state: State, round: Round) {
   const q = structuredClone(prepareFactQuestion(source, previous));
   round.questions.push(q);
   round.order.push(shuffle(q.answers.map((a) => a.id)));
-  round.familiaritySnapshot![q.id] = familiarityOf(q) ?? 0;
+  round.familiaritySnapshot![q.id] =
+    familiarityForFilters(q, round.filters) ?? 0;
 }
 export function answer(
   state: State,

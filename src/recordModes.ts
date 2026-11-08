@@ -64,14 +64,14 @@ export const isRankedRecord = (round: Round) => {
     JSON.stringify(filters.sources) ===
       (preset === "genre" ? '["film"]' : '["film","awards","actors"]') &&
     (preset === "genre"
-      ? filters.genres.length === 1
-      : filters.genres.length > 0) &&
+      ? filters.genres?.length === 1
+      : filters.genres === null || filters.genres.length > 0) &&
     (round.mode !== "rekord" || roundQuestionCount(round) === 10)
   );
 };
 export const recordSelectionLabel = (round: Round) =>
   round.recordPreset === "genre"
-    ? `Genre · ${round.filters?.genres[0] ?? "Filmfragen"}`
+    ? `${round.filters?.workTypes?.[0] === "series" ? "Seriengenre" : "Filmgenre"} · ${round.filters?.genres?.[0] ?? "Werkfragen"}`
     : "Universal";
 
 export type RecordPeriod = "week" | "month" | "year" | "all";

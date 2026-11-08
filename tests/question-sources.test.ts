@@ -29,7 +29,7 @@ addPackages(
 );
 const all: QuizFilters = {
   sources: ["film", "awards", "actors"],
-  genres: [...new Set(catalog.questions.map(genreOf))],
+  genres: null,
   difficulties: [...difficulties],
   familiarities: [1, 2, 3, 4],
 };
@@ -65,7 +65,7 @@ it("vereint alle Film-, Preis- und Personenfragen ohne Kategorien als Einschrän
   expect(drawn).toHaveLength(catalogCounts.goals);
   expect(new Set(drawn.map((q) => q.knowledgeId)).size).toBe(drawn.length);
 });
-it("wendet Genre und Classics nur auf Filme, Bekanntheit und Schwierigkeit auf alle Bereiche an", () => {
+it("wendet die gezielte Genreauswahl und die Stufen auf alle gewählten Fragenbereiche an", () => {
   const filters: QuizFilters = {
     ...all,
     genres: ["Science-Fiction"],
@@ -132,7 +132,7 @@ it("sichert reine Zusatzbereiche ohne Filmgenres und mit ihren Bekanntheitsgrupp
     );
     state.settings.roundSetup = {
       mode: "ueben",
-      genres: [],
+      genres: null,
       categories: [],
       difficulties: ["experte"],
       familiarities: [1, 2, 3, 4],
@@ -145,7 +145,7 @@ it("sichert reine Zusatzbereiche ohne Filmgenres und mit ihren Bekanntheitsgrupp
         topic: selectionTopic([], sources),
         difficulty: "Alle Stufen",
         filters: {
-          genres: [],
+          genres: null,
           sources,
           difficulties: ["experte"],
           familiarities: [1, 2, 3, 4],
@@ -160,7 +160,7 @@ it("sichert reine Zusatzbereiche ohne Filmgenres und mit ihren Bekanntheitsgrupp
           sources.includes(questionSourceOf(q)) && q.difficulty === "experte",
       ),
     ).toBe(true);
-    expect(round.filters?.genres).toEqual([]);
+    expect(round.filters?.genres).toBeNull();
     expect(round.filters?.familiarities).toEqual([1, 2, 3, 4]);
     for (const restored of [
       validateBackup(JSON.parse(JSON.stringify(state))),
@@ -211,7 +211,7 @@ it("trennt gemischte Rekorde und erhält Bekanntheitsfilter in reinen Personenru
     ...round,
     filters: canonicalFilters({
       ...options.filters,
-      genres: [],
+      genres: null,
       familiarities: [1],
     }),
   };

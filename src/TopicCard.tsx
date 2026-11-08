@@ -1,5 +1,6 @@
 import { type Question, type State } from "./model";
-import { genreOf, genreLabel } from "./filters";
+import { genreLabel } from "./filters";
+import { genresOf } from "./workAttributes";
 import { GenreArtwork } from "./Icons";
 import { categories, type Category, ACTORS } from "./categories";
 import { learningOverview } from "./learningProgress";
@@ -31,7 +32,7 @@ export function TopicCard({
       ? [topic]
       : genre
         ? [topic]
-        : [...new Set(questions.map(genreOf))].sort());
+        : [...new Set(questions.flatMap(genresOf))].sort());
   const ids = [...new Set(questions.map((q) => q.knowledgeId))];
   const count = summary?.goals ?? ids.length;
   const progress = summary?.learning ?? learningOverview(ids, state.learning);

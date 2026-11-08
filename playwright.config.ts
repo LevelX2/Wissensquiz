@@ -63,6 +63,7 @@ export default defineConfig({
         "year-answers.spec.ts",
         "play-entry.spec.ts",
         "mobile-round.spec.ts",
+        "work-facets.spec.ts",
         "error-training.spec.ts",
         "dont-know.spec.ts",
         "career.spec.ts",

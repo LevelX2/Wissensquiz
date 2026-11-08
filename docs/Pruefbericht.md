@@ -1,5 +1,19 @@
 # Prüfnachweis
 
+## Werkarten und Mehrfachzuordnungen – lokal geprüft, nicht veröffentlicht
+
+Gemeinsamer Lernstand je Wissensziel, getrennte Film-/Serienpfade und sichere Anrechnung in allen aktuellen passenden Genres. Personen-/Preistreffer zählen zusätzlich in konkreten Werkpfaden. Werkfilter und Bekanntheit müssen am selben Werk zutreffen; auch der lokale Rundennachweis speichert dessen Bekanntheit. Allgemeine Filmografien liefern keine Genrezuordnung. Private Antworten und Lernidentitäten bleiben unverändert.
+
+Genau ein Auswahlplatz je Ziel vor der Bereichs-/Gruppen-/Stufenauslosung. 100 kontrollierte lokale Zufallsfolgen bleiben trotz zusätzlicher Varianten zielgleich. Isolierte SQL-Stichproben für neue, fällige und bekannte Ziele belegen die Balance; Wiederholungsreservierung und Altersprioritäten erhalten.
+
+**508 unterschiedliche Logikprüfungen erfolgreich, ein vorgesehener Skip.** Zusammengesetzter Nachweis: vollständiger Lauf mit 506 Erfolgen, einem Skip und einer Zeitüberschreitung des 600-Auslosungen-Verteilungstests. Dieser funktionale Stichprobentest erhält 60 statt 30 Sekunden Gesamtbudget; Anzahl, Verteilungstoleranzen und Altersprioritäten sind unverändert. Anschließend alle 25 gezielten Server-/Spielweg-/Quellenlinkprüfungen erfolgreich. Der zusätzliche Rundennachweisfall erhöht den Bestand auf 509; alle sechs Spielwegfälle sowie die betroffenen Archiv-/Rekord-/Filterfälle erfolgreich nachgeprüft. Kein einzelner vollständig grüner Veröffentlichungsprüflauf behauptet.
+
+**Neun gezielte Browserfälle erfolgreich:** acht Chromium-Fälle für Quellen-/Werkfilter bei 1440/320 Pixeln, gespeicherte Auswahl, vollständige Proberunde mit einmaliger Übernahme, wiederholte verlorene Bestätigungen, Duell-Wiederaufnahme sowie Serienzuordnungen und leeren Serienbestand; zusätzlich die Serienanzeige im mobilen WebKit. Beide 320-Pixel-Ansichten visuell geprüft, keine Überbreite oder Axe-Befunde. Linkdarstellung und Antwortfarben aus anderen Chats erhalten; typisierte Serienbezüge erhalten keine gleichnamigen Filmlinks.
+
+TypeScript, Produktionsbuild, Diff- und Katalogprüfung erfolgreich. 19.403 Fragen / 18.650 Ziele / 753 Varianten / 15 Dateien, keine doppelten IDs; verlustfreie, idempotente und reihenfolgeunabhängige Kodierung. Redaktionshash nach parallelen Korrekturen: `7ae69f7743d16e141e3b47a680e09d4017c115ae4aa3c0dcdca5da366ca1fca4`. 26 Fragen mit mehreren Genres, 1.595 Personenfragen mit konkretem Werkbezug; null Serienfragen und null ausdrücklich als Animation eingeordnete Fragen. Neue Bestände sind separat zu redigieren.
+
+Fünf lokale SQL-Dateien von `20261108064313` bis `20261108084501` in tatsächlicher Migrationsfolge im isolierten PGlite geprüft. Gemeinsame Katalogrelationen privat; RLS, Ausführungsrechte und leere Suchpfade geprüft. Rekorde unterscheiden die Werkart in Filter, Kategorie und Anzeige; Duelle erhalten 30 eindeutige Ziele und 3/4/3 je Runde. Keine produktive Aktivierung oder Tests gegen echte Konten. Zentrale Veröffentlichungsgates auf dem dann freigegebenen Stand bleiben erforderlich.
+
 ## Quellen und Links
 
 Die gemeinsame Auflösung bündelt alle bisherigen Belegquellen und getrennt davon bestätigte IMDb-/OFDb-Verweise. Gültiger Umfang: 3.400 IMDb-Werke, 428 Schauspieler, 3.569 Regieverweise sowie 3.379 OFDb-Werke und 419 Personen. [Vertrag, Belegquellen und offene Fälle](Quellen-und-Links.md).

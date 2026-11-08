@@ -235,7 +235,7 @@ test("Rekordauswahl hat nur Universal oder ein Genre, feste Stufen und passende 
   await expect(field.getByRole("radio")).toHaveCount(2);
   await expect(page.getByLabel(/Universal ·/)).toBeChecked();
   await expect(
-    page.getByRole("group", { name: "Filmgenres", exact: true }),
+    page.getByRole("group", { name: "Genres", exact: true }),
   ).toHaveCount(0);
   await expect(
     page.getByRole("group", { name: "Schwierigkeitsstufen", exact: true }),

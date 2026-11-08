@@ -1,5 +1,6 @@
 import { z } from "zod";
 import { questionSchema } from "./questionSchema";
+import { techniques, workTypes, workCollections } from "./workAttributes";
 import { BANK_START } from "./recordModes";
 const time = z.number().finite().nonnegative();
 const id = z.string().min(1).max(200);
@@ -44,7 +45,10 @@ export const roundSchema = z.object({
   difficulty: id,
   filters: z
     .object({
-      genres: z.array(id).max(20000),
+      genres: z.array(id).max(20000).nullable(),
+      workTypes: z.array(z.enum(workTypes)).max(2).optional(),
+      techniques: z.array(z.enum(techniques)).max(2).optional(),
+      collections: z.array(z.enum(workCollections)).max(2).optional(),
       sources: sources.optional(),
       familiarities: familiarityList.optional(),
       difficulties: z
@@ -53,7 +57,10 @@ export const roundSchema = z.object({
         .max(4),
     })
     .refine(
-      (f) => f.genres.length > 0 || f.sources?.some((s) => s !== "film"),
+      (f) =>
+        f.genres === null ||
+        f.genres.length > 0 ||
+        f.sources?.some((s) => s !== "film"),
       "Eine Runde braucht Filmgenres oder einen eigenständigen Fragenbereich.",
     )
     .optional(),
@@ -194,6 +201,8 @@ export const stateSchema = z.object({
         recordGenre: id.optional(),
         learningSelection: z.enum(["mixed", "due"]).optional(),
         genres: z.array(id).max(20000).nullable(),
+        workTypes: z.array(z.enum(workTypes)).max(2).optional(),
+        techniques: z.array(z.enum(techniques)).max(2).optional(),
         categories: z
           .array(
             z.enum(["Classics", "Arthouse", "Preisträger", "Schauspieler"]),

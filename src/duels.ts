@@ -15,6 +15,21 @@ import { rankingRequest } from "./rankingRequest";
 import { roundFact } from "./roundArchive";
 
 export const duelTopics = [
+  "films",
+  "series",
+  "animation",
+  "Serien · Science-Fiction",
+  "Serien · Action",
+  "Serien · Horror",
+  "Serien · Fantasy",
+  "Serien · Komödie",
+  "Serien · Western",
+  "Serien · Drama",
+  "Serien · Abenteuer",
+  "Serien · Musik",
+  "Serien · Thriller",
+  "Serien · Martial Arts & Asia-Film",
+  "Serien · Rom-Com",
   "all",
   "Science-Fiction",
   "Action",
@@ -33,15 +48,21 @@ export const duelTopics = [
 ] as const;
 export type DuelTopic = (typeof duelTopics)[number];
 export const duelTopicLabel = (topic: DuelTopic) =>
-  topic === "all"
-    ? "Alle Genres (gemischt)"
-    : topic === "actors"
-      ? "Schauspieler"
-      : topic === "awards"
-        ? "Preise"
-        : topic === "Science-Fiction"
-          ? "Sci-Fi"
-          : topic;
+  topic === "films"
+    ? "Filme · alle Genres"
+    : topic === "series"
+      ? "Serien · alle Genres"
+      : topic === "animation"
+        ? "Animation · Filme und Serien"
+        : topic === "all"
+          ? "Alle Bereiche (gemischt)"
+          : topic === "actors"
+            ? "Schauspieler"
+            : topic === "awards"
+              ? "Preise"
+              : topic === "Science-Fiction"
+                ? "Sci-Fi"
+                : topic;
 
 export const duelSchema = z.object({
   id: z.string().uuid(),

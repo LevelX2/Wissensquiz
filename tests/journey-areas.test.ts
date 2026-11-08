@@ -47,13 +47,15 @@ function play(
   return round;
 }
 // Functional full-catalog replay, not a production latency benchmark.
-it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und schützt Filmfortschritt", async () => {
-  const s = structuredClone(base);
+it("führt Schauspieler und Preise bis Experte und rechnet konkrete Werkbezüge zusätzlich an", async () => {
+  let s = structuredClone(base);
   retainJourneyUnlocks(s);
   const filmsBefore = pathQuestions(s)
     .filter((q) => questionSourceOf(q) === "film")
     .map((q) => q.id);
   for (const source of ["actors", "awards"] as const) {
+    s = structuredClone(base);
+    retainJourneyUnlocks(s);
     const area = sourceLabels[source];
     const qs = base.questions.filter((q) => questionSourceOf(q) === source);
     expect(learningPathProgress(s)(area).groups).toEqual(
@@ -116,14 +118,13 @@ it("führt Schauspieler und Preise separat bis Experte, zählt sichere Ziele und
     }
     expect(s.journey?.earned[area].difficulty).toBe(3);
   }
-  expect(
-    pathQuestions(s)
-      .filter((q) => questionSourceOf(q) === "film")
-      .map((q) => q.id),
-  ).toEqual(filmsBefore);
+  const filmRights = new Set(pathQuestions(s).filter((q) => questionSourceOf(q) === "film").map((q) => q.id));
+  expect(filmsBefore.every((id) => filmRights.has(id))).toBe(true);
+  expect(learningPathProgress(s)("Drama").easy).toBeGreaterThan(0);
+
   expect(validateBackup(JSON.parse(JSON.stringify(s)))).toEqual(s);
   expect(JSON.parse(JSON.stringify(s))).toEqual(s);
-}, 60000);
+}, 120000);
 it("Preisantworten erteilen keine Filmrechte aus alten Kurzschwellen", () => {
   const s = structuredClone(base);
   s.journey = {

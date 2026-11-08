@@ -13,23 +13,23 @@ const guides: Record<
 > = {
   entdecken: {
     introduction:
-      "Du entdeckst Filmwissen ohne Zeitdruck und schaltest Schritt für Schritt neue Stufen frei. Filmgenres, Schauspieler und Preisträger haben jeweils ihren eigenen Fortschritt.",
+      "Du entdeckst Filmwissen ohne Zeitdruck und schaltest Schritt für Schritt neue Stufen frei. Filmgenres und Seriengenres öffnen getrennte Pfade. Ein sicherer Fakt zählt in allen passenden Genres, Personen- und Preisfragen auch in den passenden Werkpfaden. Sein Lernstand bleibt gemeinsam.",
     selection:
-      "Du kombinierst Fragenbereiche und Filmgenres aus Deinen freigeschalteten Etappen. Bei genügend passenden Fragen enthält eine Zehnerrunde sechs neue Ziele und vier fällige Wiederholungen. Bei neuen Fragen sind alle offenen Schwierigkeiten mit noch ungesehenen Zielen gleich wahrscheinlich; danach wird ein Ziel und eine passende Variante zufällig gewählt. Fehlen neue oder fällige Ziele, ergänzen bekannte Fragen die Runde. Richtig beantwortete, noch nicht fällige Ziele werden für 24 Stunden zurückgestellt, solange Alternativen vorhanden sind. Deine Stufenfortschritte zeigen, was als Nächstes freigeschaltet wird.",
+      "Du kombinierst Fragenbereiche und Filmgenres aus Deinen freigeschalteten Etappen. Bei genügend passenden Fragen enthält eine Zehnerrunde sechs neue Ziele und vier fällige Wiederholungen. Jedes Ziel erhält genau einen Auswahlplatz; zusätzliche Zuordnungen geben ihm keine weiteren Lose. Zuerst wird ein geeigneter Bereich gezogen, dann seine Bekanntheitsgruppe, bei neuen Zielen auch Schwierigkeit, Ziel und passende Variante. Fehlen neue oder fällige Ziele, ergänzen bekannte Fragen die Runde. Richtig beantwortete, noch nicht fällige Ziele werden für 24 Stunden zurückgestellt, solange Alternativen vorhanden sind. Deine Stufenfortschritte zeigen, was als Nächstes freigeschaltet wird.",
     flow: "Jede Runde umfasst bis zu zehn Fragen. Nach jeder Antwort siehst Du Lösung und Erklärung. Sichere Treffer bringen Dich beim Rundenabschluss weiter; geratene Treffer zählen dafür nicht. Pro Runde kommt jeder Filmfakt höchstens einmal vor. Deine Stufenfortschritte zeigen die nächste Freischaltung.",
   },
   ueben: {
     introduction:
       "Du spielst zufällige Fragen ohne Zeitdruck. Richtig beantwortete, noch nicht fällige Ziele werden für 24 Stunden zurückgestellt, solange passende Alternativen vorhanden sind. Auch andere Varianten desselben Filmfakts warten so lange.",
     selection:
-      "Du kombinierst Filmfragen, Schauspieler und Preisträger und wählst die Schwierigkeit frei. Bekanntheitsgruppen gelten für alle Bereiche. Genres, Classics und Arthouse filtern nur Filmfragen. Bekanntheit und Schwierigkeit sind unabhängig.",
+      "Du kombinierst Filmfragen, Schauspieler und Preisträger und wählst die Schwierigkeit frei. Bekanntheitsgruppen gelten für alle Bereiche. Werkart, Genres, Machart, Classics und Arthouse filtern alle gewählten Fragenbereiche anhand konkreter Werkbezüge. Allgemeine Personen-/Preisfragen erreichst Du ohne diese Einschränkungen. Bekanntheit und Schwierigkeit sind unabhängig.",
     flow: "Jede Runde umfasst bis zu zehn Fragen. Bei kleiner Auswahl sind es weniger. Die Lösungsanzeige stellst Du unter Profil → Optionen ein. Sichere Treffer zählen beim Rundenabschluss für Deinen Lernfortschritt; geratene Treffer zählen dafür nicht.",
   },
   fehler: {
     introduction:
       "Du festigst bereits begegnete Film-, Schauspieler- und Preisfragen ohne Zeitdruck – sobald ihr Wiederholungstermin erreicht ist. Auch früher richtig beantwortete Fragen gehören dazu.",
     selection:
-      "Deine Fragenbereiche und Schwierigkeitsstufen grenzen die fälligen Fragen ein. Bekanntheitsgruppen gelten für alle Bereiche; Genres und Filmauswahl nur für Filmfragen. Am längsten fällige Ziele kommen zuerst. Neue Fragen und noch nicht fällige Wiederholungen werden nicht ergänzt.",
+      "Deine Fragenbereiche und Schwierigkeitsstufen grenzen die fälligen Fragen ein. Bekanntheitsgruppen gelten für alle Bereiche; Werk- und Genrefilter begrenzen auch Personen- und Preisfragen. Am längsten fällige Ziele kommen zuerst. Neue Fragen und noch nicht fällige Wiederholungen werden nicht ergänzt.",
     flow: "Jede Runde umfasst bis zu zehn Fragen – bei weniger fälligen Zielen entsprechend weniger. Jeder Filmfakt kommt höchstens einmal pro Runde vor. Nach jeder Antwort siehst Du Lösung, Erklärung und nächsten Termin. Ist nichts fällig, kannst Du in der Filmreise oder im Freien Spiel weiterspielen.",
   },
   rekord: {

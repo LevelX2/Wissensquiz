@@ -451,7 +451,7 @@ it("gewichtet Bereiche trotz großem Schauspielerbestand bei neuen, fälligen un
           ...options,
           filters: {
             sources: ["actors"],
-            genres: [],
+            genres: null,
             difficulties: ["leicht"],
           },
           now: 2 * 86_400_000,

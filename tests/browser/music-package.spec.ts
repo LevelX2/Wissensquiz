@@ -17,14 +17,14 @@ test("Musik startet mit Film-Ikonen; Filmdaten alter und neuer Filme bleiben nac
     .click();
   await openRoundSetup(page);
   await page
-    .getByRole("group", { name: "Filmgenres", exact: true })
+    .getByRole("group", { name: "Genres", exact: true })
     .getByLabel("Musik", { exact: true })
     .check();
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.reload();
   await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(page.locator(".question-genre")).toHaveAccessibleName("Musik");
+  await expect(page.locator(".question-facets")).toContainText("Musik");
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Leicht",
   );

@@ -19,6 +19,7 @@ export const rankedSummarySchema = z.object({
   recordPreset: z.enum(["standard", "genre"]),
   filters: z.object({
     genres: z.array(z.string()),
+    workTypes: z.array(z.enum(["film", "series"])).optional(),
     sources: z.array(z.enum(["film", "awards", "actors"])),
     difficulties: z.array(z.enum(["leicht", "mittel", "schwer"])),
     familiarities: z.array(

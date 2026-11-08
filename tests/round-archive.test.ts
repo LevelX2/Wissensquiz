@@ -164,7 +164,7 @@ it("limits genre records to one genre and removes custom scores without changing
     3,
   );
   const invalid = structuredClone(state);
-  invalid.rounds[1].filters!.genres.push("Fantasy");
+  invalid.rounds[1].filters!.genres!.push("Fantasy");
   expect(() => validateBackup(invalid)).toThrow(/genau ein Genre/);
   const learning = structuredClone(state.learning),
     xp = state.experience;
