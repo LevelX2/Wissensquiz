@@ -5,6 +5,7 @@ import { packages, readQuestions } from "../src/packages";
 import { emptyState, type Mode } from "../src/model";
 import { recordKey, selectQuestions, startRound } from "../src/engine";
 import { genreOf } from "../src/filters";
+import { workReferencesOf } from "../src/workAttributes";
 import { validateBackup } from "../src/backupValidation";
 
 const questions = packages.flatMap((p) =>
@@ -37,7 +38,19 @@ it.each<Mode>(["entdecken", "ueben", "rekord"])(
       () => 0.4,
     );
     expect(picked.length).toBeGreaterThan(0);
-    expect(new Set(picked.map(genreOf))).toEqual(new Set(filters.genres));
+    expect(
+      picked.every((q) =>
+        workReferencesOf(q).some((work) =>
+          work.genres.some((genre) => filters.genres.includes(genre)),
+        ),
+      ),
+    ).toBe(true);
+    for (const genre of filters.genres)
+      expect(
+        picked.some((q) =>
+          workReferencesOf(q).some((work) => work.genres.includes(genre)),
+        ),
+      ).toBe(true);
     expect(new Set(picked.map((q) => q.difficulty))).toEqual(
       new Set(filters.difficulties),
     );

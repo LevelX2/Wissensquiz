@@ -101,7 +101,7 @@ it("prüft jede angezeigte Filmfassung auf redaktionelle Abdeckung, eindeutige R
     }
   >;
   const seen = new Map<string, string>();
-  const reviewedEntries: [string, unknown][] = [
+  const reviewedEntries: (readonly [string, unknown])[] = [
     ...Object.keys(editorialFacts).map(
       (key) => [key, registry[key].series] as const,
     ),

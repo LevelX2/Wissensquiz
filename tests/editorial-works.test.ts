@@ -61,7 +61,13 @@ it("deckt je mindestens 50 eigenständige Werke in vier getrennt gezählten Ausw
 
 it("übernimmt redigierte Werkfragen mit vollständiger Mindestabdeckung und getrennten Attributen", () => {
   expect(authored.length).toBeGreaterThan(0);
-  const works = Map.groupBy(authored, (q) => workIdentity(q.works![0]));
+  const works = new Map<string, typeof authored>();
+  for (const question of authored) {
+    const key = workIdentity(question.works![0]);
+    const group = works.get(key) ?? [];
+    group.push(question);
+    works.set(key, group);
+  }
   for (const [key, questions] of works) {
     const work = questions[0].works![0];
     const related = state.questions.filter(

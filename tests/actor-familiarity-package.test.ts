@@ -100,9 +100,17 @@ it("löst alle 1121 Referenzen mit geprüften Eckdaten auf und erzeugt keine Fil
     expect(display.questionText).toBe(q.question);
     expect(display.deepContext).toBe(q.context);
     const refs = actorPresentation(q)!.films;
-    expect(display.films.map((f) => f.reference)).toEqual(refs);
+    const seriesRefs = new Set(
+      q.works
+        ?.filter((work) => work.type === "series")
+        .map((work) => `${work.originalTitle}|${work.year}`),
+    );
+    expect(display.films.map((f) => f.reference)).toEqual(
+      refs.filter((ref) => !seriesRefs.has(ref)),
+    );
     for (const ref of refs) {
       references.add(ref);
+      if (seriesRefs.has(ref)) continue;
       const data = filmData(q, ref)!;
       expect(data.year, ref).toBe(Number(ref.split("|").at(-1)));
       expect(data.directors, ref).toBeTruthy();

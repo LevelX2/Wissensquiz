@@ -188,9 +188,11 @@ it("prüft dynamische Halbziele aller Filmgruppen im vollständigen Bestand", ()
       .every((q) => familiarityOf(q)),
   ).toBe(true);
   for (const genre of new Set(
-    s.questions
-      .filter((q) => !q.tags.includes("Preisträger") && !q.metadata.person_id)
-      .map(genreOf),
+    s.questions.flatMap((q) =>
+      workReferencesOf(q)
+        .filter((work) => work.type === "film")
+        .flatMap((work) => work.genres),
+    ),
   )) {
     const p = progress(genre);
     const subjects = s.questions.flatMap((q) =>
@@ -229,7 +231,13 @@ it("prüft dynamische Halbziele aller Filmgruppen im vollständigen Bestand", ()
       expect(group.total).toBe(ids.size);
       expect(group.target).toBe(Math.ceil(ids.size / 2));
     }
-    expect(pathQuestions(s).some((q) => genreOf(q) === genre)).toBe(true);
+    expect(
+      pathQuestions(s).some((q) =>
+        workReferencesOf(q).some(
+          (work) => work.type === "film" && work.genres.includes(genre),
+        ),
+      ),
+    ).toBe(true);
   }
 });
 it("berechnet alte Kurzfreigaben aus aktuellen sicheren Zielen neu", () => {

@@ -5,8 +5,8 @@ import { genreOf, questionSourceOf } from "../src/filters";
 
 it("stellt Testdaten aus sämtlichen aktuellen Genredateien und Fachbereichen bereit", () => {
   const questions = currentQuestions();
-  expect(questions).toHaveLength(15599);
-  expect(new Set(questions.map(genreOf)).size).toBe(12);
+  expect(questions).toHaveLength(16703);
+  expect(new Set(questions.map(genreOf)).size).toBe(13);
   for (const genre of ["Science-Fiction", "Horror", "Action", "Abenteuer"]) {
     const sample = importCsv(currentCsv({ genre, limit: 12 }));
     expect(sample.questions).toHaveLength(12);

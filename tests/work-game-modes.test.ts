@@ -78,6 +78,7 @@ it("verbindet die Bekanntheitsgruppe mit demselben gefilterten Werk lokal und im
 });
 
 it("trennt Film- und Seriengenre in tatsächlichen Rekordrunden und ihren Kategorien", async () => {
+  await fixture.seedRanked(release);
   const categories: string[] = [];
   for (const genre of ["Science-Fiction", "Serien · Science-Fiction"]) {
     const { api } = await fixture.client();

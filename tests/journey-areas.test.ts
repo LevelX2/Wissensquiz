@@ -12,6 +12,7 @@ import {
 import { questionSourceOf, sourceLabels } from "../src/filters";
 import { validateBackup } from "../src/backupValidation";
 import { familiarityOf } from "../src/familiarity";
+import { workReferencesOf } from "../src/workAttributes";
 const base = emptyState();
 addPackages(
   base,
@@ -57,7 +58,13 @@ it("führt Schauspieler und Preise bis Experte und rechnet konkrete Werkbezüge 
     s = structuredClone(base);
     retainJourneyUnlocks(s);
     const area = sourceLabels[source];
-    const qs = base.questions.filter((q) => questionSourceOf(q) === source);
+    const qs = base.questions.filter((q) => {
+      const works = workReferencesOf(q);
+      return (
+        questionSourceOf(q) === source &&
+        (!works.length || works.some((work) => work.type === "film"))
+      );
+    });
     expect(learningPathProgress(s)(area).groups).toEqual(
       [1, 2, 3, 4].map((level) => {
         const total = unique(
@@ -118,7 +125,11 @@ it("führt Schauspieler und Preise bis Experte und rechnet konkrete Werkbezüge 
     }
     expect(s.journey?.earned[area].difficulty).toBe(3);
   }
-  const filmRights = new Set(pathQuestions(s).filter((q) => questionSourceOf(q) === "film").map((q) => q.id));
+  const filmRights = new Set(
+    pathQuestions(s)
+      .filter((q) => questionSourceOf(q) === "film")
+      .map((q) => q.id),
+  );
   expect(filmsBefore.every((id) => filmRights.has(id))).toBe(true);
   expect(learningPathProgress(s)("Drama").easy).toBeGreaterThan(0);
 

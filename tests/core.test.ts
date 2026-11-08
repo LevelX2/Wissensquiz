@@ -42,8 +42,8 @@ const event = (at: number, extra: Partial<AnswerEvent> = {}): AnswerEvent => ({
 describe("CSV und Inhalte", () => {
   it("importiert aktuelle Science-Fiction-Fragen mit eindeutigen IDs, Quellen und Varianten", () => {
     expect(imported.report.rejected).toBe(0);
-    expect(questions).toHaveLength(1085);
-    expect(new Set(questions.map((q) => q.id)).size).toBe(1085);
+    expect(questions).toHaveLength(1388);
+    expect(new Set(questions.map((q) => q.id)).size).toBe(1388);
     expect(questions.some((q) => q.metadata.variant_of)).toBe(true);
     expect(imported.report.warnings).toEqual([]);
     expect(questions.every((q) => q.context && q.sources.length)).toBe(true);
