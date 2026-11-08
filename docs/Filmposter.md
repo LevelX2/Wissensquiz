@@ -1,5 +1,36 @@
 # Filmposter nach der Antwort
 
+## Fehlende TMDB-Links nachrecherchiert – 08.11.2026
+
+**Alle 541 Filmfassungen ohne bisherige Posterzuordnung bei TMDB gefunden; nach der Recherche bleiben null ungeklärte Filmidentitäten.** Der aktuelle Katalog mit 19.403 Fragen enthält 1.946 Filmfassungen mit eigenen Film- oder Preisfragen, für die die App ein Poster samt TMDB-Link vorsieht. Der lokale und der zusätzlich lesend geprüfte öffentliche Posterindex enthalten weiterhin nur die 1.405 Zuordnungen vom 10.10.2026. Die Differenz betrifft 4.031 Fragen. Ein fehlender Posterlink belegt hier keine Datenbanklücke: Der vorbereitete Index wurde nicht mit dem gewachsenen Katalog ergänzt.
+
+| Ergebnis der vollständigen Nachrecherche | Filmfassungen |
+| --- | ---: |
+| Bisher ohne Posterzuordnung und damit ohne Link am Poster | 541 |
+| Eindeutig über Titel, Jahresdaten und Regie zugeordnet | 533 |
+| Zusätzlich nach Einzelprüfung zugeordnet | 8 |
+| Insgesamt nachträglich gefunden | 541 |
+| Nach der Prüfung weiterhin ohne gefundenen TMDB-Eintrag | 0 |
+
+Alle 541 gefundenen Einträge besitzen auch einen formal gültigen Posterpfad. Die Suche erfolgte frisch über die TMDB-API, einschließlich alternativer Titel, regionaler Startdaten und Personenaliase für die Regie. Bei 18 eindeutigen Treffern weicht das primäre TMDB-Startjahr vom Katalogjahr ab; passende regionale Startdaten bestätigen die Zuordnung. Die acht einzeln geprüften Fälle:
+
+| Katalogfilm | Geprüfter TMDB-Eintrag | Besonderheit |
+| --- | --- | --- |
+| Naked Weapon (2002) | [TMDB 10855](https://www.themoviedb.org/movie/10855) | Regie als Tony Ching statt Ching Siu-tung; [Media Asia](https://www.mediaasia.com/En/Movies/Info/87/) bestätigt den vollständigen Namen Tony Ching Siu Tung. |
+| Die Nibelungen: Siegfried von Xanten (1966) | [TMDB 5608](https://www.themoviedb.org/movie/5608) | Abweichender Haupttitel „Die Nibelungen, Teil 1: Siegfried“; verkürzte Suche und Abgleich mit [Terence Hills offizieller Filmografie](https://de.terencehill.com/index.php?sel=filmography&sub=136). |
+| Die Nibelungen: Kriemhilds Rache (1967) | [TMDB 5609](https://www.themoviedb.org/movie/5609) | Abweichender Haupttitel mit „Teil 2“; Regie, Jahr und Besetzung mit [filmportal](https://www.filmportal.de/film/die-nibelungen-2-kriemhilds-rache_13039209dcdb444cb9e9bcbc328c9562) abgeglichen. |
+| Dont Look Back (1967) | [TMDB 135](https://www.themoviedb.org/movie/135) | TMDB ergänzt „Bob Dylan“ im Haupttitel; Titel, Jahr und Regie mit [Criterion](https://www.criterion.com/films/28655-dont-look-back) bestätigt. |
+| Winners & Sinners (1983) | [TMDB 25539](https://www.themoviedb.org/movie/25539) | TMDB verwendet „Winners and Sinners“ und eine andere kantonesische Umschrift; [Eureka](https://eurekavideo.co.uk/movie/the-lucky-stars-3-film-collection/) bestätigt Film, Regie und Handlung. |
+| Die Farbe des Granatapfels / Sayat-Nova (1969) | [TMDB 26302](https://www.themoviedb.org/movie/26302) | Georgische beziehungsweise internationale Regieschreibweise Sergei Parajanov statt Sergei Paradschanow; mit [Criterion](https://www.criterion.com/films/29219-the-color-of-pomegranates) abgeglichen. |
+| Der Mann, der zuviel wusste (1956) | [TMDB 574](https://www.themoviedb.org/movie/574) | Beide Hitchcock-Fassungen gefunden; [Universal](https://www.universalpicturesathome.com/movies/the-man-who-knew-too-much) bestätigt die gesuchte Fassung mit James Stewart und Doris Day. Der Film von 1934 wurde ausgeschlossen. |
+| China Swordsman (1992) | [TMDB 18672](https://www.themoviedb.org/movie/18672) | Ching Siu-tung als Tony Ching; Jahr und Besetzung mit Jet Li und Brigitte Lin bestätigen Swordsman II. |
+
+Der [maschinenlesbare Recherchebericht mit allen 541 Direktlinks](TMDB-Linkpruefung-2026-11-08.json) hält die kuratierten Zuordnungsentscheidungen und Quellen fest. Vollständige API-Antworten, Posterpfade und Zugangsdaten werden darin nicht archiviert. Grundlage der Filmsuche ist der [offizielle TMDB-Suchvertrag](https://developer.themoviedb.org/reference/search-movie).
+
+**Umfang und Grenzen:** Dies ist der abgeschlossene Rechercheauftrag. Laufzeitindex und vorbereitete Serverdarstellungen wurden nicht geändert; die fehlenden Links sind noch nicht in die App übernommen oder veröffentlicht. Reine Filmverweise in Personenfragen gehören nicht zur Fehlmenge, weil dort kein eigenes Filmposter vorgesehen ist. Die bestehenden 1.405 Zuordnungen wurden auf Abdeckung geprüft, nicht vollständig neu recherchiert. Die Posterdateien wurden nicht einzeln auf Erreichbarkeit oder Bildmotiv geprüft. Keine Nutzerdaten verändert. Vollständigkeit, eindeutige Film-/TMDB-IDs, Abgleich aller 541 Kandidaten sowie `git diff --check` erfolgreich geprüft; keine Softwareänderung und deshalb kein neuer Build oder vollständiger Testlauf.
+
+## Bisherige Bereitstellung
+
 **25.10.2026 – Rambo-Motiv lokal korrigiert:** Ticket #3 betrifft das Motiv, nicht die Filmidentität. Für „First Blood“ ist ein passendes Poster visuell ausgewählt und in `src/reviewedFilmPosters.json` festgehalten. Der Betreiberlauf berücksichtigt diese redaktionelle Auswahl und prüft Film-ID und aktuelle Bildzugehörigkeit über TMDB; fehlt das ausgewählte Motiv, wird kein neuer Index freigegeben. Der lokale ignorierte Index enthält die neue Auswahl. Auswahlentscheidungen sind Projektquelle; API-Antworten und Bilder bleiben befristete Arbeitsdaten. Seit Version 85 am 28.10.2026 einschließlich Serverdarstellung veröffentlicht. [Befund und Abnahme](GitHub-Tickets-2026-10-25.md).
 
 Stand: 10.10.2026. **Poster für alle Filmgenres und filmbezogenen Preisfragen seit Sites-Version 60 veröffentlicht.** [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-10-Version-60.json). Der vorhandene Zugang des Nutzers wurde nach seiner Anmeldung verwendet. Kein neuer Account, neuer Schlüssel oder neuer API-Antrag war erforderlich.

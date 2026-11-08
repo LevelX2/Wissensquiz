@@ -1,5 +1,7 @@
 # Wissensindex
 
+- [Alle 541 fehlenden TMDB-Posterzuordnungen gefunden; acht Einzelfallprüfungen, null ungeklärt; Recherche ohne App-Übernahme – 08.11.2026](../../../docs/Filmposter.md#fehlende-tmdb-links-nachrecherchiert--08112026)
+
 - [Antworttexte auch nach der Auflösung und im Rundenrückblick grün/rot hinterlegt – 08.11.2026, lokal](../../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben)
 
 - [Rekordlisten: aktuelles Karrierelevel wie im Profil auch bei alten Läufen; Level-1-Fehler lokal korrigiert – 08.11.2026](../../../docs/Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal)
