@@ -109,6 +109,18 @@ for (const solutionDisplay of ["question", "round"] as const) {
         () => document.documentElement.scrollWidth <= innerWidth,
       ),
     ).toBe(true);
+    // Both nested details animate on opening; audit the settled link colors.
+    await page
+      .locator(".review > details[open], .answer-sources")
+      .evaluateAll(async (elements) => {
+        await Promise.all(
+          elements.flatMap((element) =>
+            element
+              .getAnimations({ subtree: true })
+              .map((animation) => animation.finished),
+          ),
+        );
+      });
     expect(
       (
         await new AxeBuilder({ page })
