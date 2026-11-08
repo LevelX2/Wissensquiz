@@ -1,5 +1,15 @@
 # Prüfnachweis
 
+## Filmfieber und Startbildschirm – lokal, 08.11.2026
+
+Neuer sichtbarer Name mit gemeinsamem Zusatz, dunkler Einstieg und zwei eigene Kinowelt-Kompositionen. Originale, WebP-Maße und Bildauswahl geprüft; [Dateien und vollständige Imagegen-Prompts](Startbildschirm-Illustrationen.json). TypeScript mit `npx tsc -p tsconfig.quality.json` und `git diff --check` erfolgreich.
+
+Vier vorhandene Browserfälle erfolgreich: Proberunde mit zehn Fragen, Rückblick und einmaliger Kontoübernahme sowie Anmeldung/Abmeldung jeweils in Chromium und mobilem WebKit. Ausgeführt gegen den lokalen Vite-Server mit den bestehenden isolierten synthetischen Konten und kontrollierter Testzeit. Keine echten Kontospielstände verändert.
+
+Zusätzlich sieben gezielte Darstellungs- und Navigationsprüfungen erfolgreich: Chromium bei 320, 390, 640, 768, 1024 und 1440 Pixeln sowie WebKit bei 390 Pixeln. Richtige Quer-/Hochformatquelle, geladene Bilder, auch mobil sichtbarer Name, kein seitlicher Überlauf, Wege zu Proberunde/Anmeldung/Registrierung und keine JavaScript-Laufzeitfehler bestätigt. Automatische WCAG-A/AA-Prüfung mit Axe in allen sieben Ansichten ohne Befund; Desktop und beide schmalen Ansichten visuell abgenommen.
+
+Kein vollständiger Release-Prüflauf und keine Veröffentlichung. Vor einer Veröffentlichung gelten die gebündelten Gates aus `AGENTS.md`.
+
 ## Version 89 veröffentlicht und live abgenommen
 
 **08.11.2026, 18:03:39 Uhr Europe/Berlin:** 524 Logiktests in 85 Dateien, Metadaten/TypeScript, Produktionsbuild mit tatsächlicher Sites-Version 89 und Diffprüfung erfolgreich. Keine Abhängigkeitsänderung. [Vollständiger Nachweis einschließlich Quell-/Archivhashes](Veroeffentlichung-2026-11-08-Version-89.json).

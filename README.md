@@ -1,4 +1,4 @@
-# Wissensquiz · Dein Filmkosmos
+# Filmfieber · Dein Quiz für Film & Serie
 
 Deutsches Filmquiz mit React/TypeScript, kurzen Runden und dauerhaftem Lernfortschritt. Eine erste Zehnerrunde ohne Konto möglich; danach bestätigtes Quiz-Konto erforderlich. Kontofortschritt ausschließlich privat online, auf PC, Handy und Tablet mit demselben Konto verfügbar. Kein Offline-Paket und keine automatische lokale Kontoablage; nur die Proberunde wird für ihre Übernahme befristet bis 24 Stunden nach Start vorgemerkt. Der Einstieg ist seit Version 64 veröffentlicht.
 

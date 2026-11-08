@@ -90,7 +90,7 @@ export function AccountApp() {
     <Suspense
       fallback={
         <main className="loading">
-          <h1>Wissensquiz</h1>
+          <h1>Filmfieber</h1>
           <p role="status">Ansicht wird geladen …</p>
         </main>
       }
@@ -192,7 +192,7 @@ function AccountRouter() {
   if (pending || !connection)
     return (
       <main className="loading">
-        <h1>Wissensquiz</h1>
+        <h1>Filmfieber</h1>
         <p role="status">Konto wird geprüft …</p>
       </main>
     );

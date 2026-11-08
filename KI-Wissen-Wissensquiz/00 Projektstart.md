@@ -1,5 +1,7 @@
 # Projektstart Wissensquiz
 
+**Lokal, noch nicht veröffentlicht: Filmfieber – Dein Quiz für Film & Serie.** Neuer App-Name und bebilderter Einstieg mit eigenen Quer-/Hochformatmotiven in Petrol und Gold. Proberunde, Anmeldung und Kontoanlage bleiben direkt erreichbar. [Einstieg und Namensvertrag](../docs/Hilfe-und-Navigation.md#filmfieber-und-startbildschirm), [Illustrationen und Prompts](../docs/Genreillustrationen.md#startbildschirm-filmfieber).
+
 **Aktuell veröffentlicht: Version 89**, 08.11.2026, 18:03:39 Uhr Europe/Berlin. Acht Karriereränge unter „Deine Erfolge“, Werk-/Serienauswahl, 20.507 Fragen und aktuelles Karrierelevel in Rekordlisten. 524 Logiktests, Build und 427 unterschiedliche Browserfälle erfolgreich; ein vorgesehener Skip. [Veröffentlichung und Live-Abnahme](../docs/Veroeffentlichung-2026-11-08-Version-89.json).
 
 **Filmkarriere – mit Version 89 veröffentlicht:** Acht benannte Ränge mit eigenen plastischen Goldmotiven und gemeinsamem Filmrahmen. Filmkarriere einschließlich nächstem Rang und Rangübersicht unter Profil → Deine Erfolge integriert. XP-Formel und Levelkurve unverändert. [Titel und Darstellung](../docs/Filmkarriere-und-XP.md#levelkurve-und-karrieretitel).

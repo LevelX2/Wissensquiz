@@ -1,5 +1,11 @@
 # Genreillustrationen
 
+## Startbildschirm Filmfieber
+
+Lokal umgesetzt, noch nicht veröffentlicht: Der Einstieg verwendet eine zusammenhängende Kinowelt in Petrol und Gold. Ein leuchtender Filmstreifen verbindet Weltraum, Fantasy, Western, Thriller, Horror, Bühne, Animation und Filmpreise. Zwei mit dem eingebauten `image_gen` erzeugte Originale liegen unter `public/cinema/`: Querformat mit 1672 × 941 Pixeln und eigenständig komponiertes Hochformat mit 1024 × 1536 Pixeln. [Vollständige Prompts und Dateien](Startbildschirm-Illustrationen.json).
+
+Die Oberfläche lädt über `picture` bis einschließlich 640 CSS-Pixel Breite das Hochformat, darüber das Querformat. Vier optimierte WebP-Fassungen mit 640/960 beziehungsweise 1280/1600 Pixeln Breite werden über `srcSet` passend gewählt; keine zusätzlichen PNG-Downloads für das Titelmotiv. Die dekorativen Bilder enthalten keine Schrift. Name, Überschrift und Aktionen sind zugängliches HTML. `npm run prepare:ui-artwork` erzeugt die WebP-Dateien erneut, ohne die Originale zu verändern. [Einstiegsvertrag](Hilfe-und-Navigation.md#filmfieber-und-startbildschirm).
+
 ## Werkarten und Macharten
 
 **Lokal, noch nicht veröffentlicht:** Filmrolle (`film.png`), Fernseher (`series.png`), Animationsfigur mit Zeichnungsphasen (`animation.png`) und Filmkamera (`live-action.png`) ergänzen die vorhandenen Motive im Gold-/Elfenbein-/Petrol-Stil. Vier getrennte, mit dem eingebauten Imagegen erzeugte RGBA-Originale mit 1254 × 1254 Pixeln; echte Transparenz und Motive geprüft. Dateien unter `public/genres/`, optimierte WebP-Fassungen mit 160/320/480 Pixeln unter `src/assets/artwork/`. [Prompts, Maße, Alpha-Nachweise und Hashes](Kategorie-Illustrationen.json).
