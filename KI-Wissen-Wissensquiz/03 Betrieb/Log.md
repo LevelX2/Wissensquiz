@@ -2965,3 +2965,8 @@ Lui hat sechs Produktentscheidungen getroffen: gemeinsame Genre-Freischaltung be
 #### 08.11.2026 – Linkaufgabe zur bestehenden Überarbeitung in anderem Chat übergeben
 
 Auf Nutzerwunsch „Quellen und Links“, sprechende Linktexte und IMDb-/OFDb-Direktlinks aus den hiesigen Umsetzungspaketen entfernt. Das eigene offene Linkpaket gelöscht, Abhängigkeit und Linkabnahme aus dem verbleibenden Paketumfang gelöst; fünf Pakete für Werkarten und Mehrfachzuordnungen bleiben vorbereitet. Anforderungen und Zuständigkeit auf der Fachseite erhalten, Übergabeprompt für Luis anderen Chat formuliert. Vorhandene beziehungsweise dort entstehende Softwareänderungen sind zu erhalten; keine Linkimplementierung in diesem Chat begonnen. [Aktueller Paketumfang](../../docs/activities/README.md), [Anforderungen für den anderen Chat](../../docs/Fragedaten-Organisation.md#quellen-und-links).
+
+
+#### 08.11.2026 – Werkarten und Mehrfachzuordnungen: erstes Paket im Worktree geprüft
+
+Auf ausdrücklichen Auftrag eigener Worktree und gemeinsamer Activity-Claim angelegt. Typisierte Werkbezüge, kombinierte Filter lokal und SQL, CSV-Übernahme, Kodierung und aktueller leerer Serienbestand umgesetzt. 29 gezielte Tests, Typprüfung, Diff- und Katalogprüfung erfolgreich; alle 19.403 redaktionellen Frageobjekte mit gleichem Hash erhalten. Neue SQL-Datei nur lokal vorbereitet und isoliert geprüft. Weitere vier Pakete folgen; Linkaufgabe bleibt im anderen Chat.

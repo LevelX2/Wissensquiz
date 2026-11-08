@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 08.11.2026 – Werkarten und Mehrfachzuordnungen: Paket 1 lokal
+
+Im ausdrücklich beauftragten Worktree umgesetzt: geprüfte Werkbezüge mit getrennten Film-/Serienidentitäten, Mehrfachgenres, Macharten und Sammlungen; optionaler Staffel-/Folgenbezug, CSV-Übernahme und Kodierung. Eine kombinierte Auswahl muss am selben Werk zutreffen; zusätzliche Schauspieler-/Preisbereiche werden durch konkrete Werkfilter begrenzt. `genres: null` bezeichnet unbeschränkte Auswahl, eine leere Liste keine Auswahl. Der zunächst leere Serienbestand ergänzt die aktuelle Ablage ohne Fragekopien.
+
+**29 Tests in fünf gezielt ausgewählten Dateien erfolgreich:** `work-attributes`, `server-work-attributes`, `catalog-codec`, `filters`, `question-sources`. Darunter Vergleich derselben Filtermatrix lokal und im tatsächlichen SQL-Pfad, echte CSV-Übernahme und Ablehnung falscher Werkbezüge, fehlende Einträge, Film-/Seriengleichnamigkeit, Sammlungsüberschneidungen und private SQL-Funktionsrechte mit leerem Suchpfad. `npm run check` und `git diff --check` erfolgreich. `npm run check:questions`: 19.403 Fragen / 18.650 Ziele, keine doppelten IDs, Einlesereihenfolge unabhängig, idempotent und verlustfrei kodiert; 15 Quelldateien einschließlich leerem Serienbestand. Unveränderter Redaktionshash `a84898a9665b59e985bd53f6221b3cafdb05a057af2862592c1719e1989c91e5`.
+
+SQL-Datei `20261108064313_work_attributes_and_filter_contract.sql` per Supabase CLI 3.0.0 lokal angelegt und in isoliertem PGlite geprüft. Keine produktiven Datenbank- oder privaten Nutzerdatenänderungen. Freischaltanrechnung, Auswahlgewichtung, Oberfläche und gemeinsame Abnahme sind weitere Pakete; kein vollständiger Veröffentlichungsprüflauf für diesen Teilblock.
+
 ## 07.11.2026 – Version 88 veröffentlicht und live abgenommen
 
 Um 23:44:14 Uhr Europe/Berlin als Version 88 veröffentlicht. 100 Oscarfragen gehören vollständig zu Preisträger; aktueller Katalog 19.403 Fragen / 18.650 Ziele / 380 Preisfragen. Drei Fachbereiche in 14 aktuellen Dateien, Filmfragen nach Genre. Bestehende Fragenfelder, IDs, Wissensziele und private Lernbelege erhalten. [Dauerhafter Veröffentlichungsnachweis](Veroeffentlichung-2026-11-07-Version-88.json).

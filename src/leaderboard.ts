@@ -33,7 +33,9 @@ export const genreSelection = (r: Round) =>
     ...new Set(
       r.filters?.sources
         ? [
-            ...(r.filters.sources.includes("film") ? r.filters.genres : []),
+            ...(r.filters.sources.includes("film")
+              ? (r.filters.genres ?? [])
+              : []),
             ...r.filters.sources
               .filter((s) => s !== "film")
               .map((s) => sourceLabels[s]),

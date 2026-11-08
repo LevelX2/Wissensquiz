@@ -1,6 +1,6 @@
 # Vorbereitete Umsetzungspakete
 
-Stand: 08.11.2026. Status: **inbox**, fachliche Zielvorgaben beschlossen, technische Umsetzung offen. Die Pakete sind sequenziell vorbereitet; es ist keine parallele Agentenarbeit vorgesehen.
+Stand: 08.11.2026. Status: **in Umsetzung im eigenen Worktree**, Attributmodell und Filter lokal geprüft; weitere Pakete offen. Die Pakete werden sequenziell bearbeitet; es ist keine parallele Agentenarbeit vorgesehen.
 
 Führend sind die [beschlossenen Produktentscheidungen](../Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026). Quelle: Luis sechs Auswahlantworten vom 08.11.2026. Die Auswahl entspricht 1A, 2B, 3A, 4A, 5C, 6A.
 
@@ -8,7 +8,7 @@ Die ergänzende Aufgabe [„Quellen und Links“ mit IMDb, OFDb und sprechenden 
 
 | Reihenfolge | Paket | Ergebnis |
 |---|---|---|
-| 1 | [Werkarten und Mehrfachzuordnungen](inbox/act-2026-11-08-werkarten-mehrfachzuordnungen.md) | Einheitliche Attribute, Werkidentitäten, Filter und aktueller Katalogpfad |
+| 1 | [Werkarten und Mehrfachzuordnungen](done/act-2026-11-08-werkarten-mehrfachzuordnungen.md) | Lokal geprüft: einheitliche Werkbezüge, Filter und aktueller Katalogpfad |
 | 2 | [Lernstand und Freischaltungen](inbox/act-2026-11-08-lernstand-freischaltungen.md) | Gemeinsamer Status, eindeutige Zähler und gewählte bereichsübergreifende Anrechnung |
 | 3 | [Ausgewogene Filmreise](inbox/act-2026-11-08-ausgewogene-filmreise.md) | Nachweisbare Mischung ohne zusätzliche Lose durch Mehrfachzuordnungen |
 | 4 | [Auswahl und mehrere Symbole](inbox/act-2026-11-08-auswahl-zuordnungssymbole.md) | Verständliche kombinierbare Auswahl und mehrere zugängliche Symbole |

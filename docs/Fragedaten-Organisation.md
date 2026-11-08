@@ -21,6 +21,10 @@ Ein Wissensziel behält einen gemeinsamen Lernstatus, Wiederholungstermin und Fe
 
 Bereichsübergreifende Anrechnung benötigt einen geprüften konkreten Werk-/Genrebezug des Wissensziels. Die Filmografie einer Person oder eine Preisnennung liefert keine pauschale Zuordnung zu allen ihren Werken oder Genres. Zähler und Nenner einer Freischaltung verwenden dieselbe aktuelle Zielmenge, je Ziel und Freischaltpfad einmal. Eine leichte Frage zählt nicht als sicherer Treffer einer höheren Schwierigkeit. Nur tatsächlich vorgesehene Stufen können geöffnet werden; die Experte-Stufe einer Preisfrage erzeugt keine neue Werkfragen-Stufe.
 
+### Lokaler Umsetzungsstand
+
+Im eigenen Worktree ist Paket 1 umgesetzt: typisierte `works`-Bezüge mit Film/Serie, Genres, Macharten, kuratierten Sammlungen und optionaler Staffel/Folge; gemeinsam ausgewertete Filter lokal und im SQL-Pfad. Alle Kriterien müssen am selben konkreten Werk zutreffen. CSV nimmt die Bezüge über `work_refs` entgegen; Kodierung und technische Rundenbelege erhalten sie. Die Servervorbereitung löst vorhandene Filmbezüge mit bereits zugeordneten Genres auf. Die 19.403 bestehenden Frageobjekte im Redaktionsbestand bleiben feldgleich; der zusätzliche aktuelle Serienbestand ist leer, insgesamt 15 Quelldateien. 29 gezielte Tests, Typprüfung und aktueller Katalogcheck erfolgreich. Freischaltung, Auslosung, Oberfläche und Gesamtabnahme folgen in den übrigen Paketen. Die neue SQL-Datei ist ausschließlich lokal vorbereitet. [Datenvertrag](Importformat.md#werkbezüge--08112026-lokal-in-umsetzung), [Prüfnachweis](Pruefbericht.md#08112026--werkarten-und-mehrfachzuordnungen-paket-1-lokal).
+
 ### Quellen und Links
 
 **Zuständigkeit: separater Chat, aus den hiesigen Umsetzungspaketen entfernt.** Lui möchte diese Ergänzung mit seiner dort bereits beauftragten Überarbeitung zu sprechenden Linktexten zusammenführen. Die Anforderungen bleiben gültig; ihre Umsetzung ist keine Voraussetzung für den Umbau der Werkarten und Mehrfachzuordnungen.

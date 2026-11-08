@@ -41,7 +41,13 @@ try {
       })),
     ),
   );
-  const questions = validateBackup(state).questions;
+  const { resolveQuestionWorks } = await server.ssrLoadModule(
+    "/src/workAttributes.ts",
+  );
+  const { withCategoryTags } = await server.ssrLoadModule("/src/categories.ts");
+  const questions = resolveQuestionWorks(
+    validateBackup(state).questions.map(withCategoryTags),
+  );
   const posters = JSON.parse(
     await readFile("public/film-posters.json", "utf8"),
   );

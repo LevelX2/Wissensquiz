@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Werkarten und Mehrfachzuordnungen beschlossen, fünf Umsetzungspakete vorbereitet; Quellen-/IMDb-/OFDb-Links mit sprechenden Texten einem anderen Chat zugeordnet – 08.11.2026](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
+- [Werkarten und Mehrfachzuordnungen im Worktree in Umsetzung, erstes von fünf Paketen lokal geprüft; Quellen-/IMDb-/OFDb-Links mit sprechenden Texten einem anderen Chat zugeordnet – 08.11.2026](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
 
 - [Version 88 veröffentlicht: 100 neue Oscarfragen, aktueller Katalog mit 19.403 Fragen, Filmreise und Alternativtitel – 07.11.2026](../../../docs/Veroeffentlichung-2026-11-07-Version-88.json)
 

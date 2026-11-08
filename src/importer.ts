@@ -171,6 +171,7 @@ export function importCsv(
         explanation: row.explanation_short,
         context: row.explanation_context || "",
         sources: urls,
+        ...(row.work_refs?.trim() ? { works: JSON.parse(row.work_refs) } : {}),
         tags: (row.topic_tags || "").split(/[;,|]/).filter(Boolean),
         badgeTags: (row.badge_tags || "").split(/[;,|]/).filter(Boolean),
         metadata:

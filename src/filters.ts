@@ -1,5 +1,11 @@
 import type { Question, QuestionSource, QuizFilters, Round } from "./model";
 import { familiarityOf, familiarities } from "./familiarity";
+import {
+  matchesWorkFilters,
+  techniques,
+  workTypes,
+  workCollections,
+} from "./workAttributes";
 
 export const difficulties = ["leicht", "mittel", "schwer", "experte"] as const;
 export const questionSources = ["film", "awards", "actors"] as const;
@@ -31,10 +37,28 @@ export const genreLabel = (genre: string) =>
 export const difficultyLabel = (value: string) =>
   value.charAt(0).toUpperCase() + value.slice(1);
 export const canonicalFilters = (filters: QuizFilters): QuizFilters => ({
-  genres:
-    filters.sources && !filters.sources.includes("film")
-      ? []
-      : [...new Set(filters.genres)].sort(),
+  ...(filters.collections
+    ? {
+        collections: workCollections.filter((item) =>
+          filters.collections!.includes(item),
+        ),
+      }
+    : {}),
+  genres: filters.genres === null ? null : [...new Set(filters.genres)].sort(),
+  ...(filters.workTypes
+    ? {
+        workTypes: workTypes.filter((type) =>
+          filters.workTypes!.includes(type),
+        ),
+      }
+    : {}),
+  ...(filters.techniques
+    ? {
+        techniques: techniques.filter((item) =>
+          filters.techniques!.includes(item),
+        ),
+      }
+    : {}),
   difficulties: [...new Set(filters.difficulties)].sort(),
   ...(filters.familiarities
     ? { familiarities: [...new Set(filters.familiarities)].sort() }
@@ -50,9 +74,7 @@ export const matchesFilters = (q: Question, filters: QuizFilters) => {
     if (!filters.sources.includes(source)) return false;
   }
   return (
-    (!filters.sources || questionSourceOf(q) === "film"
-      ? filters.genres.includes(genreOf(q))
-      : true) &&
+    matchesWorkFilters(q, filters) &&
     (!filters.familiarities ||
       (familiarityOf(q)
         ? filters.familiarities.includes(familiarityOf(q)!)
@@ -62,10 +84,11 @@ export const matchesFilters = (q: Question, filters: QuizFilters) => {
 export const roundGenres = (r: Round) =>
   r.filters?.sources
     ? r.filters.sources.includes("film")
-      ? r.filters.genres.map(genreLabel).join(" + ") + ` · ${r.topic}`
+      ? (r.filters.genres?.map(genreLabel).join(" + ") ?? "Alle Genres") +
+        ` · ${r.topic}`
       : r.topic
     : r.filters
-      ? r.filters.genres.map(genreLabel).join(" + ") +
+      ? (r.filters.genres?.map(genreLabel).join(" + ") ?? "Alle Genres") +
         (r.topic === "Alle Themen" ? "" : ` · ${r.topic}`)
       : r.topic;
 export const roundDifficulties = (r: Round) =>

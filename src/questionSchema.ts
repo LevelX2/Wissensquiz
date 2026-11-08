@@ -1,4 +1,5 @@
 import { z } from "zod";
+import { workReferenceSchema } from "./workAttributes";
 const id = z
   .string()
   .min(1)
@@ -129,6 +130,7 @@ export const questionSchema = z
     tags: z.array(z.string()),
     badgeTags: z.array(z.string()),
     metadata: questionMetadataSchema,
+    works: z.array(workReferenceSchema).max(50).optional(),
     demo: z.boolean(),
     presentation: presentationSchema.optional(),
     image: questionImageSchema.optional(),

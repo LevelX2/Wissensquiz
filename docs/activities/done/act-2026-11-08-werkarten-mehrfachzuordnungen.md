@@ -1,6 +1,7 @@
 ---
 activityId: act-2026-11-08-werkarten-mehrfachzuordnungen
-status: in_progress
+status: done
+completedAt: 2026-11-08
 kind: architecture
 area: shared
 priority: normal
@@ -11,8 +12,8 @@ startedAt: 2026-11-08
 owner: wissensquiz-werkarten-20261108-root
 branch: codex/werkarten-mehrfachzuordnungen-20261108
 blockedBy: []
-resultArtifacts: []
-checks: []
+resultArtifacts: [src/workAttributes.ts, src/questionSchema.ts, src/filters.ts, src/packages.ts, docs/Importformat.md, docs/Pruefbericht.md]
+checks: ["29 gezielte Tests in fünf Dateien", "npm run check", "npm run check:questions", "git diff --check"]
 ---
 
 # Werkarten und Mehrfachzuordnungen im aktuellen Katalog
@@ -51,4 +52,4 @@ Betroffen sind insbesondere `src/questionSchema.ts`, `src/catalogCodec.ts`, `src
 
 ## Ergebnisnotiz
 
-Vorbereitet; noch nicht umgesetzt.
+Im Worktree lokal umgesetzt und geprüft: strukturierte Werkbezüge, konsistente Filter lokal und SQL, CSV-Übernahme, Katalogkodierung und eindeutige Ablage mit leerem Serienbestand. 29 gezielte Tests, Typprüfung und aktueller Katalogcheck erfolgreich; 19.403 Fragen mit unverändertem Redaktionshash. SQL ausschließlich lokal vorbereitet. Weitere Freischalt-, Auswahl- und UI-Pakete bleiben offen.
