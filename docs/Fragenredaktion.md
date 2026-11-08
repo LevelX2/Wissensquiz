@@ -1,4 +1,4 @@
-# Redaktion von Filmfragen, Schauspielerfragen und Preisfragen
+# Redaktion von Werkfragen, Schauspielerfragen und Preisfragen
 
 Stand: 04.11.2026. Dieser Fachvertrag gilt für neu erstellte und ausdrücklich beauftragte redaktionelle Überarbeitungen in Wissensquiz. Er setzt den Nutzerauftrag zu interessanten, individuell entwickelten Fragen um. Bestehende Rohquellen und Lernidentitäten werden dadurch nicht rückwirkend geändert.
 
@@ -35,6 +35,7 @@ Der aktuelle Auftrag erweitert die frühere 100-Filme-Zielmarke auf mindestens 1
 | Fragenbereich | Schwierigkeiten | Bekanntheitsgruppen |
 |---|---|---|
 | Filme | leicht, mittel, schwer | 1 Sehr bekannt, 2 Bekannt, 3 Für Filmkenner, 4 Entdeckungen |
+| Serien | leicht, mittel, schwer | Dieselben vier Gruppen als eigenständige redaktionelle Werkeinschätzung |
 | Schauspieler | leicht, mittel, schwer, experte | Dieselben vier Gruppen nach redaktioneller Personeneinordnung |
 | Preise und Preisträger | leicht, mittel, schwer, experte | Dieselben vier Gruppen nach Filmfassung |
 
@@ -66,6 +67,18 @@ Die Abnahme weist pro Film getrennt aus: Inhaltsziele leicht/mittel/schwer, Jahr
 Für ein Paket mit 25 völlig neuen Filmen bedeutet das mindestens 150 Inhaltsziele plus 25 Jahres- und 25 Regieziele, insgesamt 200 Ziele. Varianten kommen gegebenenfalls hinzu. Das ist keine automatische Pflicht zu 200 CSV-Zeilen: Die technischen Wege für die Zusatzfragen sind getrennt zu prüfen.
 
 ## Vom bemerkenswerten Inhalt zur Frage
+
+### Serien und Animation
+
+Film und Serie bezeichnen die Werkart. Animation bezeichnet die Machart; Science-Fiction und Fantasy sind kombinierbare Genres. „Serien allgemein“ ist die übergreifende Serienauswahl und kein Genre. Classics und Arthouse bleiben ergänzende kuratierte Zuordnungen. Mehrfachzuordnungen vervielfachen weder Fragen noch Wissensziele; Mengen für einen Auftrag nach dessen eindeutiger Zählzuordnung ausweisen.
+
+Für neu behandelte Serien eine sinnvolle Werkabdeckung mit mindestens zwei eigenständigen Inhaltszielen auf leicht, mittel und schwer anstreben. Fehlende Stufen oder tragfähige Ziele ausdrücklich als Lücken benennen; keine belanglosen Detailfragen zum Erreichen einer Zahl erstellen. Die Filmregel zu Jahres- und Regiezielen gilt nicht pauschal für Serien. Neue Animationsfilme erfüllen dieselbe Mindestabdeckung wie andere Filme. Vorhandene passende Ziele anrechnen und gleichbedeutende neue Formulierungen derselben Wissensziel-ID zuordnen.
+
+Die geprüfte Serienidentität steht in `works` mit `type: "series"`, Originaltitel, Jahr des ersten Serienstarts, Genres, Machart und Bekanntheit. Nicht das Startjahr einer späteren Staffel, einer deutschen Ausstrahlung oder eines gleichnamigen Films verwenden. Eigenständige Neuauflagen und Ableger unterscheiden. Die Fragen zur Gesamtserie erhalten keine erfundenen Staffel- oder Folgennummern. Bei konkretem Folgenbezug Staffel und Folge nur nach geprüftem Zählbezug angeben; Pilotfilme, Doppelfolgen und abweichende Ausstrahlungsreihenfolgen beachten. Zeitlich veränderliche Handlungszustände im Fragetext ausreichend eingrenzen.
+
+Serienschöpfer, Showrunner, Drehbuch und Regie einzelner Folgen sind unterschiedliche Leistungen. Eine Person nicht als pauschale Regie einer ganzen Serie ausgeben. Originaldarsteller und Originalstimmen korrekt unterscheiden; Stimmen bei Animation ausdrücklich als solche kennzeichnen. Spoiler nach dem konkreten verratenen Handlungsstand beurteilen.
+
+Die Regeln zu individuellen Fragen, Quellen, Vertiefungen, Antwortplausibilität und Lösungsschutz gelten ebenso für Serien. Deutsche und international gebräuchliche Titel anhand geeigneter Quellen prüfen, die richtige Serienfassung abgrenzen und den Rechercheabschluss in den redaktionellen Metadaten festhalten. Das Filmregister `src/filmAlternativeTitles.json` bleibt filmbezogen; Serienaliasnamen nicht unter einer gleichnamigen Filmidentität eintragen. Geprüfte Serienbezeichnungen und ihre Belege in der Frage beziehungsweise ihren Metadaten pflegen. Vor einer Antwort keine gesuchten Titel, Namen, Zahlen oder Inhalte über Titelhinweise verraten. Die gesonderte Gestaltung von „Quellen und Links“ wird durch Redaktion nicht verändert.
 
 Vor dem Formulieren recherchieren, was den konkreten Film, die Person oder den Preisfall interessant macht. Geeignete Ansatzpunkte sind ein prägender Konflikt, eine ungewöhnliche Entscheidung, eine markante Figur, ein wichtiges Motiv, eine besondere Erzählweise, nachvollziehbare Gestaltung, eine Zusammenarbeit, ein belegter Produktionsumstand oder ein ungewöhnlicher Preisverlauf.
 
