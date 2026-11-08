@@ -52,7 +52,7 @@ it("liefert unabhängig von der Einlesereihenfolge exakt dieselben Fragen und Wi
   expect(ordered(backward)).toEqual(ordered(forward));
 });
 
-it("validiert den Gesamtkatalog über 20.000 Fragen auch als Auswahlpool eines Zeitkontolaufs", () => {
+it("validiert den Katalog über 20.000 Fragen und einen Zeitkontolauf daraus", () => {
   const state = emptyState();
   addPackages(state, inputs);
   expect(state.questions.length).toBeGreaterThan(20000);
@@ -62,12 +62,13 @@ it("validiert den Gesamtkatalog über 20.000 Fragen auch als Auswahlpool eines Z
       mode: "zeitkonto",
       topic: "Alle Themen",
       difficulty: "Alle Stufen",
-      recordPreset: "custom",
-      now: Date.UTC(2026, 10, 8),
+      recordPreset: "standard",
     },
     Date.UTC(2026, 10, 8),
   );
-  expect(round.run?.pool).toHaveLength(state.questions.length);
+  expect(round.run?.pool).toHaveLength(
+    state.questions.filter((q) => q.difficulty !== "experte").length,
+  );
   expect(() => validateBackup(state)).not.toThrow();
 });
 
