@@ -115,7 +115,7 @@ describe("Wiederholen", () => {
       selectQuestions(state.questions, state.learning, {
         ...options,
         filters: {
-          genres: [],
+          genres: null,
           sources: ["actors", "awards"],
           difficulties: ["leicht", "mittel", "schwer", "experte"],
         },

@@ -362,13 +362,14 @@ export function PlaySetup({
                   <span>
                     <strong>Ein Genre</strong>
                     <small>
-                      Nur Filmfragen · 3 leicht / 4 mittel / 3 schwer
+                      Werkfragen · Filme und Serien getrennt · 3 leicht / 4
+                      mittel / 3 schwer
                     </small>
                   </span>
                 </label>
                 {recordPreset === "genre" && (
                   <label className="record-genre-filter">
-                    Filmgenre
+                    Werkgenre
                     <select
                       aria-label="Genre für den Rekord"
                       value={recordGenre ?? ""}
@@ -378,7 +379,9 @@ export function PlaySetup({
                     >
                       {genres.map((g) => (
                         <option key={g} value={g}>
-                          {genreLabel(g)}
+                          {g.startsWith("Serien · ")
+                            ? genreLabel(g)
+                            : "Filme · " + genreLabel(g)}
                         </option>
                       ))}
                     </select>

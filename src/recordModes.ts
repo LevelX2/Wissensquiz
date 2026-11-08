@@ -71,7 +71,7 @@ export const isRankedRecord = (round: Round) => {
 };
 export const recordSelectionLabel = (round: Round) =>
   round.recordPreset === "genre"
-    ? `Genre · ${round.filters?.genres?.[0] ?? "Filmfragen"}`
+    ? `${round.filters?.workTypes?.[0] === "series" ? "Seriengenre" : "Filmgenre"} · ${round.filters?.genres?.[0] ?? "Werkfragen"}`
     : "Universal";
 
 export type RecordPeriod = "week" | "month" | "year" | "all";

@@ -91,11 +91,15 @@ for (const width of [1440, 320]) {
     let state = await readStoredState(page);
     const mixed = state.rounds.find((r) => r.status === "active")!;
     expect(mixed.filters?.sources).toEqual(["film", "awards", "actors"]);
-    expect(mixed.topic).toBe(
-      "Filmfragen + Preisträger + Schauspieler",
-    );
+    expect(mixed.topic).toBe("Filmfragen + Preisträger + Schauspieler");
     expect(
-      mixed.questions.every((q) => q.works?.some((work) => work.genres.includes("Science-Fiction") && work.collections?.includes("Classics"))),
+      mixed.questions.every((q) =>
+        q.works?.some(
+          (work) =>
+            work.genres.includes("Science-Fiction") &&
+            work.collections?.includes("Classics"),
+        ),
+      ),
     ).toBe(true);
     expect(new Set(mixed.questions.map((q) => q.knowledgeId)).size).toBe(
       mixed.questions.length,

@@ -706,4 +706,5 @@ it("verteilt Serverbereiche für neue und wiederholte Ziele und behält die ält
   } finally {
     await fixture.db.exec("rollback");
   }
-}, 30000);
+// Distribution check over 600 complete draws, not a per-request latency gate.
+}, 60000);

@@ -1,7 +1,8 @@
 import type { Question, QuestionSource, QuizFilters, Round } from "./model";
-import { familiarityOf, familiarities } from "./familiarity";
+import { familiarityOf, familiarities, workFamiliarityOf } from "./familiarity";
 import {
   matchesWorkFilters,
+  workReferencesOf,
   techniques,
   workTypes,
   workCollections,
@@ -77,14 +78,37 @@ export const matchesFilters = (q: Question, filters: QuizFilters) => {
     const source = questionSourceOf(q);
     if (!filters.sources.includes(source)) return false;
   }
-  return (
-    matchesWorkFilters(q, filters) &&
-    (!filters.familiarities ||
-      (familiarityOf(q)
-        ? filters.familiarities.includes(familiarityOf(q)!)
-        : familiarities.every((f) => filters.familiarities!.includes(f))))
-  );
+  if (!matchesWorkFilters(q, filters)) return false;
+  if (!filters.familiarities) return true;
+  const accepted = (fame: ReturnType<typeof familiarityOf>) =>
+    fame
+      ? filters.familiarities!.includes(fame)
+      : familiarities.every((f) => filters.familiarities!.includes(f));
+  const works = workReferencesOf(q);
+  return questionSourceOf(q) === "film" && works.length
+    ? works.some(
+        (work) =>
+          matchesWorkFilters({ ...q, works: [work] }, filters) &&
+          accepted(workFamiliarityOf(work)),
+      )
+    : accepted(familiarityOf(q));
 };
+export function familiarityForFilters(q: Question, filters?: QuizFilters) {
+  const works = workReferencesOf(q);
+  if (questionSourceOf(q) !== "film" || !works.length) return familiarityOf(q);
+  const work = works.find((work) => {
+    if (filters && !matchesWorkFilters({ ...q, works: [work] }, filters))
+      return false;
+    const fame = workFamiliarityOf(work);
+    return (
+      !filters?.familiarities ||
+      (fame
+        ? filters.familiarities.includes(fame)
+        : familiarities.every((f) => filters.familiarities!.includes(f)))
+    );
+  });
+  return work && workFamiliarityOf(work);
+}
 export const roundGenres = (r: Round) =>
   [
     r.filters?.workTypes

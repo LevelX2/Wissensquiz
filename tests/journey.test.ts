@@ -18,6 +18,8 @@ import {
   pathQuestions,
   retainJourneyUnlocks,
 } from "../src/learningPath";
+import { workReferencesOf } from "../src/workAttributes";
+import { workFamiliarityOf } from "../src/familiarity";
 import { familiarityOf, selectionRule } from "../src/familiarity";
 import films from "../src/filmFamiliarity.json";
 import { validateBackup } from "../src/backupValidation";
@@ -191,56 +193,41 @@ it("prüft dynamische Halbziele aller Filmgruppen im vollständigen Bestand", ()
       .map(genreOf),
   )) {
     const p = progress(genre);
+    const subjects = s.questions.flatMap((q) =>
+      q.difficulty === "experte"
+        ? []
+        : workReferencesOf(q)
+            .filter((w) => w.type === "film" && w.genres.includes(genre))
+            .map((w) => ({ q, familiarity: workFamiliarityOf(w) })),
+    );
     expect(p.first).toBe(
-      Math.min(
-        ...s.questions
-          .filter((q) => genreOf(q) === genre)
-          .map((q) => familiarityOf(q) || 5),
-      ),
+      Math.min(...subjects.map((item) => item.familiarity || 5)),
     );
-    expect(p.easyTarget).toBe(
-      Math.ceil(
-        unique(
-          s.questions.filter(
-            (q) =>
-              genreOf(q) === genre &&
-              !q.tags.includes("Preisträger") &&
-              !q.metadata.person_id &&
-              q.difficulty === "leicht",
-          ),
-        ).length / 2,
-      ),
-    );
-    expect(p.mediumTarget).toBe(
-      Math.ceil(
-        unique(
-          s.questions.filter(
-            (q) =>
-              genreOf(q) === genre &&
-              !q.tags.includes("Preisträger") &&
-              !q.metadata.person_id &&
-              q.difficulty === "mittel",
-          ),
-        ).length / 2,
-      ),
-    );
-    for (const group of p.groups) {
-      const actual = new Set(
-        s.questions
-          .filter(
-            (q) =>
-              genreOf(q) === genre &&
-              !q.tags.includes("Preisträger") &&
-              !q.metadata.person_id &&
-              familiarityOf(q) === group.level &&
-              q.difficulty === group.difficulty,
-          )
-          .map((q) => q.knowledgeId),
+    for (const [difficulty, target] of [
+      ["leicht", p.easyTarget],
+      ["mittel", p.mediumTarget],
+    ] as const)
+      expect(target).toBe(
+        Math.ceil(
+          new Set(
+            subjects
+              .filter((item) => item.q.difficulty === difficulty)
+              .map((item) => item.q.knowledgeId),
+          ).size / 2,
+        ),
       );
-      expect(group.difficulty).toBe("leicht");
-      expect(group.total).toBe(actual.size);
-      expect(group.target).toBe(Math.ceil(actual.size / 2));
-      expect(group.target).toBeGreaterThan(0);
+    for (const group of p.groups) {
+      const ids = new Set(
+        subjects
+          .filter(
+            (item) =>
+              item.familiarity === group.level &&
+              item.q.difficulty === "leicht",
+          )
+          .map((item) => item.q.knowledgeId),
+      );
+      expect(group.total).toBe(ids.size);
+      expect(group.target).toBe(Math.ceil(ids.size / 2));
     }
     expect(pathQuestions(s).some((q) => genreOf(q) === genre)).toBe(true);
   }

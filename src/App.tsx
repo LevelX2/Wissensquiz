@@ -145,9 +145,11 @@ export function App({
       }),
     [store],
   );
-  const availableGenres = store.info!.genres;
+  const availableGenres = store.info!.genres.filter(
+    (genre) => !genre.startsWith("Serien · "),
+  );
   const roundSetup = useMemo(
-    () => (state ? readRoundSetup(state, availableGenres) : null),
+    () => (state ? readRoundSetup(state, store.info!.genres) : null),
     [state?.questions, state?.settings],
   );
   useEffect(() => {
@@ -357,7 +359,7 @@ export function App({
     if (
       patch.mode &&
       isRecordMode(patch.mode) &&
-      !readRoundSetup(state, availableGenres).recordPreset &&
+      !readRoundSetup(state, store.info!.genres).recordPreset &&
       !patch.recordPreset
     )
       patch = { ...patch, recordPreset: "standard" };
@@ -368,19 +370,19 @@ export function App({
           ...state,
           settings: {
             ...state.settings,
-            roundSetup: { ...readRoundSetup(state, availableGenres), ...patch },
+            roundSetup: { ...readRoundSetup(state, store.info!.genres), ...patch },
           },
         },
-        availableGenres,
+        store.info!.genres,
       ),
     );
     try {
       return await mutate((s) => {
         s.settings.roundSetup = {
-          ...readRoundSetup(s, availableGenres),
+          ...readRoundSetup(s, store.info!.genres),
           ...patch,
         };
-        s.settings.roundSetup = readRoundSetup(s, availableGenres);
+        s.settings.roundSetup = readRoundSetup(s, store.info!.genres);
         if (patch.mode) {
           s.settings.playGroup = isRecordMode(patch.mode) ? "timed" : "learn";
           if (isRecordMode(patch.mode)) s.settings.lastTimedMode = patch.mode;
@@ -391,7 +393,7 @@ export function App({
       setPendingSetup(null);
     }
   };
-  const recordGenres = availableGenres;
+  const recordGenres = store.info!.genres;
   const recordGenre =
     savedRecordGenre && recordGenres.includes(savedRecordGenre)
       ? savedRecordGenre
@@ -401,9 +403,22 @@ export function App({
         genres:
           recordPreset === "genre"
             ? recordGenre
-              ? [recordGenre]
+              ? [
+                  recordGenre.startsWith("Serien · ")
+                    ? recordGenre.slice(9)
+                    : recordGenre,
+                ]
               : []
-            : recordGenres,
+            : availableGenres,
+        ...(recordPreset === "genre"
+          ? {
+              workTypes: [
+                recordGenre?.startsWith("Serien · ")
+                  ? ("series" as const)
+                  : ("film" as const),
+              ],
+            }
+          : {}),
         sources:
           recordPreset === "genre" ? ["film" as const] : [...questionSources],
         difficulties: ["leicht", "mittel", "schwer"] as Difficulty[],
@@ -429,7 +444,9 @@ export function App({
       };
   const toggleGenre = (genre: string) => {
     const selected = filters.genres ?? genres;
-    const next = selected.includes(genre) ? selected.filter((g) => g !== genre) : [...selected, genre];
+    const next = selected.includes(genre)
+      ? selected.filter((g) => g !== genre)
+      : [...selected, genre];
     void changeSetup({ genres: next.length === genres.length ? null : next });
   };
   const playGenre = async (genre: string) => {
@@ -491,12 +508,12 @@ export function App({
           settings: {
             ...s.settings,
             roundSetup: {
-              ...readRoundSetup(s, availableGenres),
+              ...readRoundSetup(s, store.info!.genres),
               mode: requestedMode,
             },
           },
         },
-        availableGenres,
+        store.info!.genres,
       );
       s.settings.playGroup = isRecordMode(requestedMode) ? "timed" : "learn";
       if (isRecordMode(requestedMode)) s.settings.lastTimedMode = requestedMode;

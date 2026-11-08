@@ -17,6 +17,7 @@ const categorySchema = z.object({
   rule_version: z.string(),
   selection: z
     .object({
+      workTypes: z.array(z.enum(["film", "series"])).optional(),
       sources: z.array(z.enum(["film", "awards", "actors"])).optional(),
       familiarities: z.array(z.number()).optional(),
     })
@@ -53,7 +54,7 @@ const dateLabel = (at: number) =>
   new Date(at).toLocaleString("de-DE", { timeZone: "Europe/Berlin" });
 const label = (c: z.infer<typeof categorySchema>) =>
   c.rule_version.endsWith(".genre")
-    ? `Genre · ${c.genres.map(genreLabel).join(" + ")}`
+    ? `${c.selection?.workTypes?.[0] === "series" ? "Seriengenre" : "Filmgenre"} · ${c.genres.map(genreLabel).join(" + ")}`
     : "Universal";
 function Paging({
   offset,

@@ -32,7 +32,7 @@ export function preparePresentation(
     return data ? [{ ...(reference ? { reference } : {}), data }] : [];
   });
   return presentationSchema.parse({
-    facets: questionFacets(q),
+    facets: questionFacets({ ...q, facets: undefined }),
     poster:
       poster && posters
         ? { ...poster, expiresAt: new Date(posters.expiresAt).toISOString() }

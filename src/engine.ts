@@ -11,8 +11,8 @@ import { uid } from "./model";
 import {
   canonicalFilters,
   matchesFilters,
-  genreOf,
   questionSources,
+  familiarityForFilters,
 } from "./filters";
 import {
   pathQuestions,
@@ -329,17 +329,7 @@ export function startRound(
       ...options,
       recordPreset: options.recordPreset ?? "standard",
       filters: options.filters ?? {
-        genres: [
-          ...new Set(
-            state.questions
-              .filter(
-                (q) =>
-                  !state.bundledQuestionIds ||
-                  state.bundledQuestionIds.includes(q.id),
-              )
-              .map(genreOf),
-          ),
-        ].sort(),
+        genres: null,
         sources: [...questionSources],
         difficulties: ["leicht", "mittel", "schwer"],
         familiarities: [...familiarities],
@@ -385,7 +375,10 @@ export function startRound(
     ...(options.filters ? { filters: canonicalFilters(options.filters) } : {}),
     id: uid(),
     familiaritySnapshot: Object.fromEntries(
-      questions.map((q) => [q.id, familiarityOf(q) ?? 0]),
+      questions.map((q) => [
+        q.id,
+        familiarityForFilters(q, options.filters) ?? 0,
+      ]),
     ),
     questions,
     order: questions.map((q) => shuffle(q.answers.map((a) => a.id))),
@@ -523,7 +516,8 @@ function appendRunQuestion(state: State, round: Round) {
   const q = structuredClone(prepareFactQuestion(source, previous));
   round.questions.push(q);
   round.order.push(shuffle(q.answers.map((a) => a.id)));
-  round.familiaritySnapshot![q.id] = familiarityOf(q) ?? 0;
+  round.familiaritySnapshot![q.id] =
+    familiarityForFilters(q, round.filters) ?? 0;
 }
 export function answer(
   state: State,

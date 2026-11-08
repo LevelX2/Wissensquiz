@@ -41,9 +41,12 @@ export function databaseLinksFor(q: Question): DatabaseLink[] {
   );
   if (q.metadata.film_title_original && q.metadata.film_year)
     keys.add(`${q.metadata.film_title_original}|${q.metadata.film_year}`);
+  for (const work of q.works ?? []) keys.add(`${work.originalTitle}|${work.year}`);
   const links: DatabaseLink[] = [];
   for (const key of keys) {
     const work = workLinks[key];
+    const declared = q.works?.find((item) => `${item.originalTitle}|${item.year}` === key);
+    if (declared && work?.kind !== declared.type) continue;
     if (work) {
       const subject = `${work.title} (${key.slice(key.lastIndexOf("|") + 1)})`;
       const kind = work.kind === "series" ? "Serie" : "Film";

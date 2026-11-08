@@ -22,8 +22,9 @@ export function readRoundSetup(
       familiarities: [...familiarities],
       sources: ["film"],
     };
+  const recordGenres = availableGenres;
   const available = new Set(
-    availableGenres ??
+    availableGenres?.filter((genre) => !genre.startsWith("Serien · ")) ??
       state.questions
         .filter((q) => questionSourceOf(q) === "film")
         .map(genreOf),
@@ -35,7 +36,10 @@ export function readRoundSetup(
   return {
     ...saved,
     recordGenre:
-      saved.recordGenre && available.has(saved.recordGenre)
+      saved.recordGenre &&
+      (recordGenres
+        ? recordGenres.includes(saved.recordGenre)
+        : available.has(saved.recordGenre))
         ? saved.recordGenre
         : [...available].sort()[0],
     // An intentionally empty selection stays empty; obsolete imports fall back to all.

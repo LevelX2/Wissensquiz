@@ -4,7 +4,7 @@ Stand: 07.11.2026, **seit Version 88 veröffentlicht**. Die aktuelle Nutzeranwei
 
 ## Beschlossener Zielzustand: Werkarten und Mehrfachzuordnungen – 08.11.2026
 
-**Status: fachlich beschlossen, Umsetzung vorbereitet.** Die folgenden Vorgaben stammen aus Luis sechs Auswahlantworten vom 08.11.2026. Werkarten und Mehrfachzuordnungen sind in [fünf sequenziellen Activities](activities/README.md) vorbereitet. Die ergänzende Linkaufgabe übernimmt auf Nutzerwunsch ein anderer Chat. Der unten beschriebene veröffentlichte Katalog und seine Software unterstützen dieses Modell noch nicht.
+**Status: lokal umgesetzt und geprüft, noch nicht veröffentlicht.** Die folgenden Vorgaben stammen aus Luis sechs Auswahlantworten vom 08.11.2026. Werkarten und Mehrfachzuordnungen sind in [fünf sequenziellen Activities](activities/README.md) umgesetzt. Die ergänzende Linkaufgabe übernimmt auf Nutzerwunsch ein anderer Chat. Der unten beschriebene veröffentlichte Katalog und seine Software unterstützen dieses Modell noch nicht.
 
 Werkart (Film/Serie), Genres, Fragenbereich (Werkfragen/Schauspieler/Preisträger), Machart (einschließlich Animation) und kuratierte Zuordnungen (Classics/Arthouse) sind getrennte, kombinierbare Merkmale. Mehrere Genres sind möglich. Eine Frage zu einer Serienbesetzung kann damit Serie, Sci-Fi, Fantasy und Schauspieler zugleich zugeordnet sein. TV-Serien und nummerierte Filmreihen haben unterschiedliche Bedeutungen.
 
@@ -23,7 +23,7 @@ Bereichsübergreifende Anrechnung benötigt einen geprüften konkreten Werk-/Gen
 
 ### Lokaler Umsetzungsstand
 
-Im eigenen Worktree sind Pakete 1 und 2 umgesetzt: typisierte Werkbezüge und gemeinsam ausgewertete Filter sowie ein Lernstand je Ziel mit getrennter Film-/Serienfreischaltung. Sichere Belege zählen anhand des aktuellen Katalogs in allen passenden Pfaden; Personen-/Preisbekanntheit und Werkbekanntheit bleiben getrennt. Allgemeine Porträts erhalten keine Genres aus einer bloßen Filmografie. Minimale private Rundenbelege bleiben bei IDs und tatsächlicher Schwierigkeit. Die 19.403 bestehenden Frageobjekte im Redaktionsbestand bleiben feldgleich; der zusätzliche Serienbestand ist leer, insgesamt 15 Quelldateien. 94 gezielte Tests und Typprüfung erfolgreich. Auslosung, Oberfläche und Gesamtabnahme folgen. SQL ist ausschließlich lokal vorbereitet. [Datenvertrag](Importformat.md#werkbezüge--08112026-lokal-in-umsetzung), [Prüfnachweis](Pruefbericht.md).
+Alle fünf Softwarepakete sind lokal umgesetzt: typisierte Werkbezüge und korrelierte Filter; gemeinsame Zielbelege mit getrennter Film-/Serienfreischaltung; ausgewogene Auslosung ohne zusätzliche Lose; mehrere lösungssichere Symbole; getrennte Rekord- und Duellthemen. 508 unterschiedliche Logikprüfungen, neun gezielte Browserfälle, TypeScript, Build und Katalogcheck erfolgreich. SQL ausschließlich lokal. Bestand: 19.403 Fragen, Serien und ausdrücklich eingeordnete Animation noch leer. Bestehende Fragen-/Ziel-IDs und private Belege bleiben erhalten. Links aus dem anderen Chat übernommen. [Datenvertrag](Importformat.md#werkarten-in-den-spielwegen), [Prüfnachweis](Pruefbericht.md).
 
 ### Quellen und Links
 
@@ -33,7 +33,7 @@ Der Bereich heißt einheitlich **„Quellen und Links“**. Neben den fachlichen
 
 Verweise werden gegen den richtigen Werk- oder Personeneintrag geprüft und zentral an dessen Identität gepflegt. Gleiche Titel, Remakes, Serien, Filmreihen und namensgleiche Personen müssen unterschieden werden. Vorhandene geprüfte Referenzen wiederverwenden; keinen Eintrag und keine URL erraten. Fehlende oder ungeklärte Einträge erzeugen keinen scheinbar gültigen Direktlink. Belegquellen und weiterführende Links bleiben in ihrer Funktion erkennbar; Dubletten erscheinen einmal. Linktexte sollen Anbieter und Gegenstand verständlich nennen, etwa „IMDb – Interstellar (2014)“ oder „IMDb – Matthew McConaughey“, statt lediglich einen Hostnamen anzuzeigen. Bei mehreren betroffenen Werken oder Personen muss die Beschriftung den jeweiligen Gegenstand nennen. Die bestehende Lösungsanzeige nach einer Antwort beziehungsweise am Rundenende bestimmt auch den Zeitpunkt dieser Links.
 
-Die hiesigen Activities legen gezielte Prüfungen für Datenmodell, Anrechnung, Auswahl und Oberfläche fest. Die technische Gewichtung überlappender Bereiche sowie die Serienregeln zu Staffel-/Folgenbezug und Spoilern sind bei der Umsetzung konkret auszuarbeiten. Neue Fragenbestände und eine Veröffentlichung sind durch diese Festlegung nicht erledigt oder automatisch freigegeben. Bestehende Fragen-/Wissensziel-IDs und private Nutzerdaten bleiben erhalten; die aktuelle Katalogdirektive gilt auch für Mehrfachzuordnungen.
+Die hiesigen Activities legen gezielte Prüfungen für Datenmodell, Anrechnung, Auswahl und Oberfläche fest. Die Gewichtung ist im Auswahlvertrag festgelegt. Der Datenvertrag unterscheidet Serienbeginn, Gesamtserie und konkrete Staffel-/Folgenbezüge; Spoiler- und Titelprüfung gehören vor neuen Serienfragen zur Redaktion. Neue Fragenbestände und eine Veröffentlichung sind durch diese Festlegung nicht erledigt oder automatisch freigegeben. Bestehende Fragen-/Wissensziel-IDs und private Nutzerdaten bleiben erhalten; die aktuelle Katalogdirektive gilt auch für Mehrfachzuordnungen.
 
 ## Führender aktueller Bestand
 
