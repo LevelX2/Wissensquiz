@@ -1,6 +1,6 @@
 # Projektstart Wissensquiz
 
-**Lokal, noch nicht veröffentlicht: Filmfieber – Dein Quiz für Film & Serie.** Neuer App-Name und bebilderter Einstieg mit eigenen Quer-/Hochformatmotiven in Petrol und Gold. Proberunde, Anmeldung und Kontoanlage bleiben direkt erreichbar. [Einstieg und Namensvertrag](../docs/Hilfe-und-Navigation.md#filmfieber-und-startbildschirm), [Illustrationen und Prompts](../docs/Genreillustrationen.md#startbildschirm-filmfieber).
+**Lokal, noch nicht veröffentlicht: Filmfieber – Dein Quiz für Film & Serie.** Neuer App-Name und eigene Quer-/Hochformatmotive in Petrol und Gold. Kinostart für 2,5 Sekunden vor dem automatischen Kontoeinstieg; die Sitzungsprüfung läuft gleichzeitig. Ohne bestätigte Sitzung folgen Proberunde, Anmeldung und Kontoanlage. [Einstieg und Namensvertrag](../docs/Hilfe-und-Navigation.md#filmfieber-und-startbildschirm), [Illustrationen und Prompts](../docs/Genreillustrationen.md#startbildschirm-filmfieber).
 
 **Aktuell veröffentlicht: Version 89**, 08.11.2026, 18:03:39 Uhr Europe/Berlin. Acht Karriereränge unter „Deine Erfolge“, Werk-/Serienauswahl, 20.507 Fragen und aktuelles Karrierelevel in Rekordlisten. 524 Logiktests, Build und 427 unterschiedliche Browserfälle erfolgreich; ein vorgesehener Skip. [Veröffentlichung und Live-Abnahme](../docs/Veroeffentlichung-2026-11-08-Version-89.json).
 

@@ -42,6 +42,7 @@ Das ist die ausdrücklich angenommene befristete Übernahme aus dem neuen Ablauf
 
 ## Laufender Spielbetrieb
 
+- Beim App-Start erscheint der [Filmfieber-Kinostart](Hilfe-und-Navigation.md#filmfieber-und-startbildschirm) für mindestens 2,5 Sekunden ab geladenem Bild. Die bestehende serverseitige Sitzungsprüfung läuft währenddessen. Der automatische Kontoeinstieg folgt erst nach Ablauf der Anzeige und bestätigter Anmeldung; ohne bestätigte Sitzung führt der Ablauf zum bisherigen Einstieg beziehungsweise Anmeldehinweis.
 - Vor bestätigter Anmeldung erscheint der Einstieg mit höchstens einer Proberunde. Danach ausschließlich bestätigte Kontospiele; keine Übernahme alter Gastdaten.
 - Der dauerhafte Kontospielstand liegt ausschließlich privat in Supabase. Der geöffnete Tab hält nur eine Arbeitskopie im Arbeitsspeicher; ausschließlich die befristete Proberunde bildet die oben beschriebene Ausnahme.
 - Eine Kontoantwort, Einstellung oder Kontorunde wird erst nach Serverbestätigung übernommen. Speicherfehler zeigen „Nicht gespeichert“ und eine ausdrückliche Wiederholung. Bis dahin erscheint keine Antwortlösung. In der Proberunde genügt die befristete lokale Vormerkung; als online gespeichert gilt sie erst nach der Übernahme.

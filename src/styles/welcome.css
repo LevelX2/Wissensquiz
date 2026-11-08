@@ -210,6 +210,17 @@
   margin: 0;
   font-size: 13px;
 }
+.startup-screen .welcome-hero {
+  min-height: max(620px, calc(100svh - 120px));
+}
+.startup-screen .welcome-content {
+  padding-top: clamp(62px, 14vh, 180px);
+}
+.startup-screen .startup-status {
+  margin-top: 32px;
+  color: #c0cbc9;
+  font-size: 13px;
+}
 @media (max-width: 1440px) {
   .welcome-topics,
   .welcome-members {
@@ -306,5 +317,11 @@
   }
   .welcome-members {
     gap: 6px;
+  }
+  .startup-screen .welcome-hero {
+    min-height: calc(100svh - 113px);
+  }
+  .startup-screen .welcome-content {
+    padding-top: clamp(245px, 66vw, 360px);
   }
 }

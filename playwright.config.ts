@@ -58,6 +58,7 @@ export default defineConfig({
         "entry-sync.spec.ts",
         "accounts.spec.ts",
         "trial.spec.ts",
+        "startup.spec.ts",
         "audio.spec.ts",
         "answer-duration.spec.ts",
         "year-answers.spec.ts",

@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Filmfieber – Dein Quiz für Film & Serie: Name und neuer Startbildschirm mit Quer-/Hochformat, lokal](../../../docs/Hilfe-und-Navigation.md#filmfieber-und-startbildschirm)
+- [Filmfieber – Dein Quiz für Film & Serie: Name, Quer-/Hochformat und 2,5 Sekunden Kinostart vor automatischer Anmeldung, lokal](../../../docs/Hilfe-und-Navigation.md#filmfieber-und-startbildschirm)
 
 - [Aktuelle Veröffentlichung: Version 89 – Filmkarriere, Werkarten und Serien, 20.507 Fragen, alle Release-Prüfungen und Live-Abnahme](../../../docs/Veroeffentlichung-2026-11-08-Version-89.json)
 
