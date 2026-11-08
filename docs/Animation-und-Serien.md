@@ -4,11 +4,11 @@
 
 Die laufende Erweiterung zielt auf zusätzliche Werkfragen zu jeweils mindestens 50 Animationsfilmen, Science-Fiction-Serien, Fantasy-Serien und Serien anderer Genres. Mehrfachgenres werden für diese Mengenziele nur einmal gezählt. Die übergreifende Serienauswahl ist kein Genre. Der vollständige Auftrag ist noch nicht abgeschlossen.
 
-Im aktuellen Arbeitsstand sind 118 zusätzliche Fragen mit 118 eigenständigen Wissenszielen aufgenommen: 100 zu 37 Animationsfilmen und je sechs zu einer Science-Fiction-, Fantasy- und anderen Serie. Verteilung: 30 leicht, 58 mittel, 30 schwer. Die neun erstmals vollständig abgedeckten Filmblöcke enthalten je zwei Inhaltsziele pro Schwierigkeit sowie Jahr und vollständige Regie; die Serien je zwei Inhaltsziele pro Schwierigkeit.
+Im aktuellen Arbeitsstand sind 174 zusätzliche Fragen mit 174 eigenständigen Wissenszielen zu 47 Werken aufgenommen. Animationsfilme: 44 Werke / 156 Fragen; Science-Fiction-Serien: 1 / 6; Fantasy-Serien: 1 / 6; andere Serien: 1 / 6. Verteilung: 44 leicht, 86 mittel, 44 schwer. Erstmals vollständig abgedeckte Filmblöcke enthalten je zwei Inhaltsziele pro Schwierigkeit sowie Jahr und vollständige Regie; die Serien je zwei Inhaltsziele pro Schwierigkeit.
 
 Die aktuelle Redaktion steht unmittelbar in den Fachbeständen. Filmdaten neuer Fassungen liegen in `src/editorialFilmFacts.json`; das Register enthält Metadaten und Belege, keine Fragenkopien. Bestehende Filmmetadaten bleiben führend für bereits abgedeckte Fassungen. Die typisierten Werkbezüge führen Genre und Machart getrennt. Serien enthalten keine pauschale Gesamtregie und keine erfundenen Folgenangaben.
 
-Zu den neun erstmals vollständig abgedeckten Filmen gehören Toy Story 1–3, Alles steht Kopf 1–2, Findet Nemo, Mulan (1998), Der König der Löwen (1994) und Ratatouille. Weitere 28 bereits abgedeckte Sammlungsfilme haben je ein neues Inhaltsziel erhalten; die Serien sind Raumschiff Enterprise (1966), Game of Thrones und Breaking Bad. Bestehende Rollenkenntnisse zu Woody/Tom Hanks und Rileys Mutter/Diane Lane wurden bei der Wahl neuer Ziele berücksichtigt und nicht erneut erzeugt. Bislang keine neuen Varianten.
+28 bereits abgedeckte Sammlungsfilme haben je ein neues Inhaltsziel erhalten. Vorhandene passende Ziele werden angerechnet. Bestehende Rollenkenntnisse unter anderem zu Woody/Tom Hanks, Rileys Mutter/Diane Lane, Marlin/Albert Brooks und Mufasa/James Earl Jones wurden nicht erneut erzeugt. Bislang keine neuen Varianten.
 
 ## Titel, Belege und Anzeige
 
@@ -18,4 +18,4 @@ Sprechende Quellenbeschriftungen und bestätigte Datenbankverweise folgen [Quell
 
 ## Abnahme und offene Arbeit
 
-App-Parser, vollständige Katalogprüfung, TypeScript und 43 gezielte Tests in sieben Dateien erfolgreich. Keine vollständige Veröffentlichungsprüfung. Noch offen: zusätzliche Redaktion und Abnahme für die restliche Werkabdeckung, Abgleich mit dem währenddessen weitergepflegten Main und abschließende lokale Integration. Keine Veröffentlichung und keine produktive Datenbankänderung. [Aktueller Prüfnachweis](Pruefbericht.md).
+App-Parser, vollständige Katalogprüfung und die beiden gezielten Werkabdeckungs-/Serienquellentests erfolgreich. Keine vollständige Veröffentlichungsprüfung. Noch offen: zusätzliche Redaktion und Abnahme für die restliche Werkabdeckung, Abgleich mit dem währenddessen weitergepflegten Main und abschließende lokale Integration. Keine Veröffentlichung und keine produktive Datenbankänderung. [Aktueller Prüfnachweis](Pruefbericht.md).

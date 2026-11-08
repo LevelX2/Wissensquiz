@@ -19184,6 +19184,53 @@
         "https://de.wikipedia.org/wiki/Mulan_(1998)",
         "https://en.wikipedia.org/wiki/Mulan_(1998_film)"
       ]
+    },
+    "Cars|2006": {
+      "series": {
+        "name": "Cars",
+        "position": 1,
+        "note": "Erster veröffentlichter Kinofilm der Cars-Hauptreihe; Planes ist ein eigenständiger Ableger."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cars_(film)",
+        "https://de.wikipedia.org/wiki/Cars_(Film)",
+        "https://www.pixar.com/cars",
+        "https://d23.com/this-day/cars-premieres-at-lowes-motor-speedway/"
+      ]
+    },
+    "How to Train Your Dragon|2010": {
+      "series": {
+        "name": "Drachenzähmen leicht gemacht",
+        "position": 1,
+        "note": "Erster veröffentlichter Animationskinofilm der Trilogie; Realverfilmung ab 2025 separat."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(2010_film)",
+        "https://de.wikipedia.org/wiki/Drachenz%C3%A4hmen_leicht_gemacht",
+        "https://catalog.afi.com/Catalog/MovieDetails/66506",
+        "https://www.imdb.com/title/tt0892769/fullcredits/"
+      ]
+    },
+    "Rango|2011": {
+      "series": null,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rango_(2011_film)",
+        "https://de.wikipedia.org/wiki/Rango_(Film)",
+        "https://www.paramountpictures.fr/film/rango/",
+        "https://www.classification.gov.au/titles/rango-1"
+      ]
+    },
+    "The Lego Movie|2014": {
+      "series": {
+        "name": "The LEGO Movie",
+        "position": 1,
+        "note": "Erster Film der Hauptfolge; die direkte Fortsetzung erschien 2019. Batman- und Ninjago-Ableger werden nicht als Teil2 der Hauptfolge gezählt."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Lego_Movie",
+        "https://de.wikipedia.org/wiki/The_LEGO_Movie",
+        "https://animallogic.com/portfolio/projects/tlm/"
+      ]
     }
   }
 }

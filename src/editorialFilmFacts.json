@@ -127,5 +127,104 @@
       "https://de.wikipedia.org/wiki/Der_K%C3%B6nig_der_L%C3%B6wen_(1994)",
       "https://en.wikipedia.org/wiki/The_Lion_King"
     ]
+  },
+  "Cars|2006": {
+    "originalTitle": "Cars",
+    "year": 2006,
+    "directors": ["John Lasseter", "Joe Ranft"],
+    "countries": ["USA"],
+    "releaseNote": "Weltpremiere 26.05.2006 am Lowe’s Motor Speedway; US-Kinostart 09.06.2006.",
+    "directorNote": "John Lasseter Hauptregie; Joe Ranft Co-Regie und Story Supervisor, von Pixar ausdrücklich bestätigt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cars_(film)",
+      "https://de.wikipedia.org/wiki/Cars_(Film)",
+      "https://www.pixar.com/cars",
+      "https://d23.com/this-day/cars-premieres-at-lowes-motor-speedway/"
+    ]
+  },
+  "How to Train Your Dragon|2010": {
+    "originalTitle": "How to Train Your Dragon",
+    "year": 2010,
+    "directors": ["Chris Sanders", "Dean DeBlois"],
+    "countries": ["USA"],
+    "releaseNote": "Premiere am 21.03.2010 im Gibson Amphitheater; US-Kinostart 26.03.2010.",
+    "directorNote": "AFI und Vollcredits bestätigen Chris Sanders und Dean DeBlois. Die aktuelle DreamWorks-Werkseite vermischt offenbar Credits mit einer späteren Fassung und nennt Sanders dort nur als Executive Producer; für diesen Credit nicht übernommen.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(2010_film)",
+      "https://de.wikipedia.org/wiki/Drachenz%C3%A4hmen_leicht_gemacht",
+      "https://catalog.afi.com/Catalog/MovieDetails/66506",
+      "https://www.imdb.com/title/tt0892769/fullcredits/"
+    ]
+  },
+  "Kung Fu Panda|2008": {
+    "originalTitle": "Kung Fu Panda",
+    "year": 2008,
+    "directors": ["John Stevenson", "Mark Osborne"],
+    "countries": ["USA"],
+    "releaseNote": "Premiere 15.05.2008 bei den Filmfestspielen Cannes außerhalb des Wettbewerbs; US-Kinostart 06.06.2008.",
+    "directorNote": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kung_Fu_Panda_(film)",
+      "https://de.wikipedia.org/wiki/Kung_Fu_Panda",
+      "https://family.20thcenturystudios.com/movies/kung-fu-panda",
+      "https://www.festival-cannes.com/en/2008/press-conference-kung-fu-panda/"
+    ]
+  },
+  "Monsters, Inc.|2001": {
+    "originalTitle": "Monsters, Inc.",
+    "year": 2001,
+    "directors": ["Pete Docter", "Lee Unkrich", "David Silverman"],
+    "countries": ["USA"],
+    "releaseNote": "Premiere 28.10.2001 im El Capitan Theatre; US-Kinostart 02.11.2001.",
+    "directorNote": "Pete Docter Hauptregie; Lee Unkrich und David Silverman Co-Regie, ausdrücklich im MoMA-Pixar-Programm und als Dreierteam bei Disney bestätigt.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monsters,_Inc.",
+      "https://de.wikipedia.org/wiki/Die_Monster_AG",
+      "https://www.pixar.com/monsters-inc",
+      "https://movies.disney.com/monsters-inc",
+      "https://assets.moma.org/documents/moma_press-release_387084.pdf"
+    ]
+  },
+  "Rango|2011": {
+    "originalTitle": "Rango",
+    "year": 2011,
+    "directors": ["Gore Verbinski"],
+    "countries": ["USA"],
+    "releaseNote": "Premiere am 14.02.2011 in Los Angeles; US-Kinostart 04.03.2011.",
+    "directorNote": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rango_(2011_film)",
+      "https://de.wikipedia.org/wiki/Rango_(Film)",
+      "https://www.paramountpictures.fr/film/rango/",
+      "https://www.classification.gov.au/titles/rango-1"
+    ]
+  },
+  "The Incredibles|2004": {
+    "originalTitle": "The Incredibles",
+    "year": 2004,
+    "directors": ["Brad Bird"],
+    "countries": ["USA"],
+    "releaseNote": "Premiere 24.10.2004 im El Capitan Theatre; US-Kinostart 05.11.2004.",
+    "directorNote": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Incredibles",
+      "https://de.wikipedia.org/wiki/Die_Unglaublichen_%E2%80%93_The_Incredibles",
+      "https://movies.disney.com/the-incredibles",
+      "https://www.pixar.com/the-incredibles",
+      "https://www.disneyplus.com/de-de/browse/entity-850b6e92-07ea-4211-b3c3-cbbf1de045fa"
+    ]
+  },
+  "The Lego Movie|2014": {
+    "originalTitle": "The Lego Movie",
+    "year": 2014,
+    "directors": ["Phil Lord", "Christopher Miller", "Chris McKay"],
+    "countries": ["USA", "Australien", "Dänemark"],
+    "releaseNote": "Premiere 01.02.2014 in Los Angeles; US-Kinostart 07.02.2014. Animation mit Realfilm-Rahmenhandlung; in techniques daher beide Macharten sachlich ergänzbar.",
+    "directorNote": "Hauptregie Phil Lord und Christopher Miller; Co-Regie Chris McKay laut produzierendem Animationsstudio Animal Logic.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lego_Movie",
+      "https://de.wikipedia.org/wiki/The_LEGO_Movie",
+      "https://animallogic.com/portfolio/projects/tlm/"
+    ]
   }
 }

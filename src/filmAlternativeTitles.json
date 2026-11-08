@@ -3672,9 +3672,20 @@
       {
         "title": "Die Unglaublichen",
         "kind": "de"
+      },
+      {
+        "title": "Die Unglaublichen – The Incredibles",
+        "kind": "de"
       }
     ],
-    "sources": ["https://www.justwatch.com/de/Film/Die-Unglaublichen"]
+    "sources": [
+      "https://www.justwatch.com/de/Film/Die-Unglaublichen",
+      "https://en.wikipedia.org/wiki/The_Incredibles",
+      "https://de.wikipedia.org/wiki/Die_Unglaublichen_%E2%80%93_The_Incredibles",
+      "https://movies.disney.com/the-incredibles",
+      "https://www.pixar.com/the-incredibles",
+      "https://www.disneyplus.com/de-de/browse/entity-850b6e92-07ea-4211-b3c3-cbbf1de045fa"
+    ]
   },
   "The Iron Lady|2011": {
     "titles": [
@@ -4750,6 +4761,60 @@
     "sources": [
       "https://www.imdb.com/title/tt1049413/plotsummary",
       "https://disneyworld.disney.go.com/en_CA/entertainment/animal-kingdom/character-meet-kevin/"
+    ]
+  },
+  "Cars|2006": {
+    "titles": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Cars_(film)",
+      "https://de.wikipedia.org/wiki/Cars_(Film)",
+      "https://www.pixar.com/cars",
+      "https://d23.com/this-day/cars-premieres-at-lowes-motor-speedway/"
+    ]
+  },
+  "How to Train Your Dragon|2010": {
+    "titles": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/How_to_Train_Your_Dragon_(2010_film)",
+      "https://de.wikipedia.org/wiki/Drachenz%C3%A4hmen_leicht_gemacht",
+      "https://catalog.afi.com/Catalog/MovieDetails/66506",
+      "https://www.imdb.com/title/tt0892769/fullcredits/"
+    ]
+  },
+  "Kung Fu Panda|2008": {
+    "titles": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Kung_Fu_Panda_(film)",
+      "https://de.wikipedia.org/wiki/Kung_Fu_Panda",
+      "https://family.20thcenturystudios.com/movies/kung-fu-panda",
+      "https://www.festival-cannes.com/en/2008/press-conference-kung-fu-panda/"
+    ]
+  },
+  "Monsters, Inc.|2001": {
+    "titles": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Monsters,_Inc.",
+      "https://de.wikipedia.org/wiki/Die_Monster_AG",
+      "https://www.pixar.com/monsters-inc",
+      "https://movies.disney.com/monsters-inc",
+      "https://assets.moma.org/documents/moma_press-release_387084.pdf"
+    ]
+  },
+  "Rango|2011": {
+    "titles": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Rango_(2011_film)",
+      "https://de.wikipedia.org/wiki/Rango_(Film)",
+      "https://www.paramountpictures.fr/film/rango/",
+      "https://www.classification.gov.au/titles/rango-1"
+    ]
+  },
+  "The Lego Movie|2014": {
+    "titles": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Lego_Movie",
+      "https://de.wikipedia.org/wiki/The_LEGO_Movie",
+      "https://animallogic.com/portfolio/projects/tlm/"
     ]
   }
 }
