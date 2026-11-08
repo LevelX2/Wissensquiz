@@ -14,6 +14,13 @@ export function sourceLinkLabel(source: string, q: Question, subject?: string) {
       ...(film.alternativeTitles?.map(({ title }) => title) ?? []),
     ]),
   ].filter(Boolean);
+  const seriesTitles = [
+    q.metadata.series_title_de,
+    q.metadata.series_title_original,
+    ...(q.works
+      ?.filter((work) => work.type === "series")
+      .map((work) => work.originalTitle) ?? []),
+  ].filter(Boolean);
   const directors = films.flatMap((film) =>
     film.directors.split(/, | und | & /),
   );
@@ -34,7 +41,8 @@ export function sourceLinkLabel(source: string, q: Question, subject?: string) {
         ? "Schauspieler"
         : matches(directors)
           ? "Regie"
-          : /\((?:\d{4} )?(?:TV series|Fernsehserie)\)$/.test(title)
+          : matches(seriesTitles) ||
+              /\((?:\d{4} )?(?:TV series|Fernsehserie)\)$/.test(title)
             ? "Serie"
             : matches(filmTitles) ||
                 /\((?:\d{4} )?(?:film|Film|Fernsehfilm)\)$/.test(title)
@@ -63,7 +71,8 @@ export function sourceLinkLabel(source: string, q: Question, subject?: string) {
   )
     return `Artikel: ${slug}`;
 
-  const topic = subject || q.metadata.person_name || filmTitles[0];
+  const topic =
+    subject || q.metadata.person_name || seriesTitles[0] || filmTitles[0];
   return topic ? `Quelle zu ${topic}` : "Quelle zur Frage";
 }
 

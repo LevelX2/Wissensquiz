@@ -15,6 +15,7 @@ import seriesReview from "../docs/Filmreihen-2026-11-02/Pruefung.json";
 import awardFacts from "../src/awardFilmFacts.json";
 import genre150 from "../docs/Genres-150-2026-11-03/Filmdaten.json";
 import { FilmDataPanel } from "../src/FilmDataPanel";
+import editorialFacts from "../src/editorialFilmFacts.json";
 
 const positions = new Map([
   ["Mission: Impossible|1996", 1],
@@ -101,6 +102,9 @@ it("prüft jede angezeigte Filmfassung auf redaktionelle Abdeckung, eindeutige R
   >;
   const seen = new Map<string, string>();
   const reviewed = new Map<string, unknown>([
+    ...Object.keys(editorialFacts).map(
+      (key) => [key, registry[key].series] as const,
+    ),
     ...awardFacts.map((film) => [film.film, film.series] as const),
     ...seriesReview.films.map((film) => [film.film, film.after] as const),
     ...genre150.films.map(

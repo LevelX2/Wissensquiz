@@ -1,5 +1,11 @@
 # Prüfnachweis
 
+## Animation und Serien – laufende Redaktion im eigenen Worktree
+
+Aktuell 58 zusätzliche Fragen / 58 eigenständige Ziele zu fünf Animationsfilmen und drei Serien; Gesamtbestand 19.461 Fragen / 18.708 Ziele. Der Auftrag zu mindestens 50 Werken je Bereich ist noch in Arbeit. Inhaltliche Mindestabdeckung der aufgenommenen Werke, typisierte Bezüge, Quellen, Titelrecherche und Varianten sind im [aktuellen Redaktionsstand](Animation-und-Serien.md) abgegrenzt.
+
+`npm run check`, `npm run check:questions` und 43 gezielte Tests in sieben Dateien erfolgreich: eigene Werkabdeckung/Serienquellen, Pakete, Filmreihen, Alternativtitel, Werkattribute, Fragenbereiche und Jahresantworten. Der echte App-Parser bestätigt sämtliche 19.461 Frageobjekte, eindeutige IDs, gültige Varianten, idempotentes und reihenfolgeunabhängiges Einlesen, Sicherungsvalidierung und verlustfreie Kodierung. Keine privaten Daten verwendet. Weitere Redaktion macht die betroffenen Nachweise erneut prüfpflichtig; lokale Main-Integration erst nach abschließendem Abgleich.
+
 ## Werkarten und Mehrfachzuordnungen – lokal geprüft, nicht veröffentlicht
 
 Gemeinsamer Lernstand je Wissensziel, getrennte Film-/Serienpfade und sichere Anrechnung in allen aktuellen passenden Genres. Personen-/Preistreffer zählen zusätzlich in konkreten Werkpfaden. Werkfilter und Bekanntheit müssen am selben Werk zutreffen; auch der lokale Rundennachweis speichert dessen Bekanntheit. Allgemeine Filmografien liefern keine Genrezuordnung. Private Antworten und Lernidentitäten bleiben unverändert.

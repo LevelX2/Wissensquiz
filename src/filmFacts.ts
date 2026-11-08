@@ -1,6 +1,7 @@
 import facts from "./filmFacts.json" with { type: "json" };
 import filmSeries from "./filmSeries.json" with { type: "json" };
 import filmAlternativeTitles from "./filmAlternativeTitles.json" with { type: "json" };
+import editorialFilmFacts from "./editorialFilmFacts.json" with { type: "json" };
 import awardFacts from "./awardFilmFacts.json" with { type: "json" };
 import actorFacts from "./actorFilmFacts.json" with { type: "json" };
 import actorSupplementFacts from "./actorSupplementFilmFacts.json" with { type: "json" };
@@ -62,6 +63,28 @@ const actorFamiliarityReferenceByFilm = new Map(
 function resolveFilmData(q: Question, reference?: string) {
   if (q.metadata.person_id && !reference) return undefined;
   const key = reference ?? filmKey(q);
+  const current = (
+    editorialFilmFacts as Record<
+      string,
+      {
+        originalTitle: string;
+        year: number;
+        directors: string[];
+        countries: string[];
+        releaseNote: string;
+        directorNote: string;
+        sources: string[];
+      }
+    >
+  )[key];
+  if (current)
+    return {
+      ...current,
+      directors: names(current.directors),
+      countryNote: "",
+      directorContext: "",
+      directorSources: current.sources,
+    };
   const reviewedReference = q.metadata.person_id?.startsWith(
     "ACTOR-BG-20261013-",
   )

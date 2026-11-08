@@ -421,3 +421,7 @@
 
 - [545 neue Jahresvertiefungen als zeitliches Merkgitter: Maßstab, Quellen und Prüfung](../../../docs/Jahresanker-2026-10-04/Pruefbericht.md)
 - [Nutzerauftrag: Jahresfragen mit interessanten zeitlichen Ankern verbinden](../../01%20Rohquellen/2026-10-04%20Nutzerauftrag%20Jahresanker.txt)
+# Laufende Werkredaktion
+
+- [Animationsfilme und Serien: aktueller Bestand, Titelbelege und noch offene Werkabdeckung](../../../docs/Animation-und-Serien.md)
+
