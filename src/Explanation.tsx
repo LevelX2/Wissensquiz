@@ -1,12 +1,13 @@
 import { type AnswerEvent, type Question } from "./model";
 import { FilmDataPanel } from "./FilmDataPanel";
-import { ActorPortrait, recognitionVariants } from "./ActorPortrait";
+import { ActorPortrait } from "./ActorPortrait";
 import { FilmPoster } from "./FilmPoster";
 import { additionalAnswerFeedback, answerExplanation } from "./answerFeedback";
 import { DisclosureArtwork } from "./DisclosureArtwork";
 import type { ReactNode } from "react";
 import { questionSourceOf } from "./filters";
 import { ActorTmdbPortrait } from "./ActorTmdbPortrait";
+import { QuestionLinks } from "./QuestionLinks";
 
 export function Explanation({
   q,
@@ -20,7 +21,6 @@ export function Explanation({
   const selected = q.answers.find((a) => a.id === event.answerId);
   const feedback = additionalAnswerFeedback(q, selected?.feedback);
   const film = q.presentation?.film;
-  const director = q.presentation?.director;
   const deepContext = q.presentation?.deepContext ?? q.context;
   const explanation = answerExplanation(q);
   const subject =
@@ -32,13 +32,6 @@ export function Explanation({
     : questionSourceOf(q) === "awards"
       ? "Preisfrage zum Film"
       : "Film";
-  const sources = [
-    ...new Set([
-      ...q.sources,
-      ...recognitionVariants(q).map((portrait) => portrait.sourceUrl),
-      ...(q.presentation?.sources ?? []),
-    ]),
-  ];
   return (
     <div className="explanation">
       {subject && (
@@ -69,53 +62,16 @@ export function Explanation({
             Etwas tiefer eintauchen
           </summary>
           {deepContext && <p>{deepContext}</p>}
-          {director && (
-            <p className="cast-sources">
-              {director.sources.map((source) => (
-                <a key={source} href={source} target="_blank" rel="noreferrer">
-                  Regiequelle: {new URL(source).hostname} ↗
-                </a>
-              ))}
-            </p>
-          )}
           {film && (
             <div>
               <p className="cast-context">{film.text}</p>
-              <p className="cast-sources">
-                {film.sources.map((source) => (
-                  <a
-                    key={source}
-                    href={source}
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Besetzungsquelle: {new URL(source).hostname} ↗
-                  </a>
-                ))}
-              </p>{" "}
             </div>
           )}
         </details>
       )}
       <FilmDataPanel q={q} />
       {children}
-      {sources.length > 0 && (
-        <details className="answer-sources">
-          <summary className="illustrated-summary">
-            <DisclosureArtwork subject="sources" />
-            Quellen ansehen
-          </summary>
-          <ul>
-            {sources.map((url) => (
-              <li key={url}>
-                <a href={url} target="_blank" rel="noreferrer">
-                  {new URL(url).hostname} ↗
-                </a>
-              </li>
-            ))}
-          </ul>
-        </details>
-      )}
+      <QuestionLinks q={q} />
     </div>
   );
 }

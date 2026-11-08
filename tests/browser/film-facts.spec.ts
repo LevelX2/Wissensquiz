@@ -83,7 +83,7 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
       await expect(page.locator(".explanation")).not.toContainText(
         "Gefragt ist die Regie dieses Films",
       );
-      await page.getByText("Quellen ansehen", { exact: true }).click();
+      await page.getByText("Quellen und Links", { exact: true }).click();
       await expect(
         page.locator(
           '.explanation a[href="https://www.slashfilm.com/559508/die-hard-interviews/"]',
@@ -96,7 +96,7 @@ for (const kind of ["year", "csv-year", "director", "original"] as const) {
         kind === "year" ? "Rain Man" : "Windows 95",
       );
       await expect(page.locator(".memory-anchor")).toHaveCount(0);
-      await page.getByText("Quellen ansehen", { exact: true }).click();
+      await page.getByText("Quellen und Links", { exact: true }).click();
       await expect(
         page.locator(
           `.explanation a[href="${kind === "year" ? "https://en.wikipedia.org/wiki/Rain_Man" : "https://blogs.windows.com/windows-insider/2020/08/24/looking-back-the-25th-anniversary-of-windows-95/"}"]`,

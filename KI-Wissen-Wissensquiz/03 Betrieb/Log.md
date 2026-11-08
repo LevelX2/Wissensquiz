@@ -2957,29 +2957,3 @@ Main-Stand 84ba7d450e51f6db0d8ed4717171ceef94f1bc8a mit identischem Quellbaum al
 
 
 Bereinigung abgeschlossen am 08.11.2026, 00:00:25 Europe/Berlin: eigene Veröffentlichungskopien, Builds, SQL-Transportteile, Prüfberichte, Archiv und vier Root-Screenshots entfernt; Abwesenheit bestätigt (11.301 Dateien / 1.029.148.147 Bytes). Beide Abhängigkeitsverknüpfungen separat getrennt, fünf eigene Attribute bereinigt, Git-Alternativen nicht verfolgt. Gemeinsame Abhängigkeiten, 234 geprüfte öffentliche Originalmetadaten, fremde Root-Prüfergebnisse und beide Mifune-Konfigurationen unverändert erhalten; keine eigenen Prüfserver oder größeren Release-Artefakte verblieben.
-
-#### 08.11.2026 – Mehrfachzuordnungen, Serien und Quellenlinks beschlossen
-
-Lui hat sechs Produktentscheidungen getroffen: gemeinsame Genre-Freischaltung bei Mehrfachzuordnung, zusätzliche Freischaltanrechnung von Schauspieler-/Preisfragen auf passende Werkfragen, getrennte Film-/Serienpfade, ausgewogene Bereichsmischung ohne zusätzliche Lose, mehrere Zuordnungssymbole und ausschließlich konkret passende Fragen in enger Werk-/Genreauswahl. Der Lernstatus bleibt je Wissensziel gemeinsam, globale Zahlen bleiben eindeutig. Anschließend „Quellen und Links“ mit möglichst geprüften IMDb- und vorhandenen OFDb-Direktlinks beauftragt; OFDb ausdrücklich bestätigt. Zielvorgaben dokumentiert und sechs sequenzielle Activity-Pakete vorbereitet. Noch keine Software-, Inhalts- oder Produktivänderung. [Zielzustand](../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026), [Pakete](../../docs/activities/README.md).
-
-#### 08.11.2026 – Linkaufgabe zur bestehenden Überarbeitung in anderem Chat übergeben
-
-Auf Nutzerwunsch „Quellen und Links“, sprechende Linktexte und IMDb-/OFDb-Direktlinks aus den hiesigen Umsetzungspaketen entfernt. Das eigene offene Linkpaket gelöscht, Abhängigkeit und Linkabnahme aus dem verbleibenden Paketumfang gelöst; fünf Pakete für Werkarten und Mehrfachzuordnungen bleiben vorbereitet. Anforderungen und Zuständigkeit auf der Fachseite erhalten, Übergabeprompt für Luis anderen Chat formuliert. Vorhandene beziehungsweise dort entstehende Softwareänderungen sind zu erhalten; keine Linkimplementierung in diesem Chat begonnen. [Aktueller Paketumfang](../../docs/activities/README.md), [Anforderungen für den anderen Chat](../../docs/Fragedaten-Organisation.md#quellen-und-links).
-
-
-#### 08.11.2026 – Werkarten und Mehrfachzuordnungen: erstes Paket im Worktree geprüft
-
-Auf ausdrücklichen Auftrag eigener Worktree und gemeinsamer Activity-Claim angelegt. Typisierte Werkbezüge, kombinierte Filter lokal und SQL, CSV-Übernahme, Kodierung und aktueller leerer Serienbestand umgesetzt. 29 gezielte Tests, Typprüfung, Diff- und Katalogprüfung erfolgreich; alle 19.403 redaktionellen Frageobjekte mit gleichem Hash erhalten. Neue SQL-Datei nur lokal vorbereitet und isoliert geprüft. Weitere vier Pakete folgen; Linkaufgabe bleibt im anderen Chat.
-
-
-## 08.11.2026 – Werkarten: gemeinsamer Lernstand lokal geprüft
-
-Paket 2 im eigenen Worktree abgeschlossen: gemeinsame Zielidentität mit aktueller Mehrfachanrechnung und getrennten Film-/Serienpfaden; sichere Belege bleiben unverändert. Allgemeine Filmografien liefern keine Werkgenres. 94 gezielte Tests, TypeScript und Diffprüfung erfolgreich. SQL ausschließlich lokal; Auslosung, UI und Abnahme folgen.
-
-#### 08.11.2026 – Aktuelles Karrierelevel in Rekordlisten lokal korrigiert
-
-Nutzer meldet Level 1/Kinogänger in Rekordläufen trotz Level 12/Cineast im Profil. Ursache: persönliche Abfrage mit fest null XP und gemeinsame Abfrage mit Wettbewerbs-XP. Beide auf die bestehende aktuelle Karriereprojektion umgestellt; als Zeitbezug gilt das aktuelle Level beim Listenabruf auch für frühere Läufe. UI-Hinweis ergänzt, historische Ergebniswerte und unabhängige Wettbewerbswertung erhalten. Regressionen vor dem Fix nachgewiesen; danach 29 gezielte Logik-/Datenbanktests, Metadaten/TypeScript und Diffprüfung erfolgreich. Lokaler Advisor mangels PostgreSQL nicht ausführbar. Keine produktive Migration, Veröffentlichung oder Änderung echter Spielstände. [Vertrag](../../docs/Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal), [Prüfung](../../docs/Pruefbericht.md#08112026--aktuelles-karrierelevel-in-rekordlisten-lokal).
-
-#### 08.11.2026 – Antworttexte mit denselben Auflösungsfarben hinterlegt
-
-Auf Nutzerwunsch richtige Antworten/Lösungen dauerhaft grün und gewählte falsche Antworten rot hinterlegt, direkt nach der kurzen Auflösung und im Rundenrückblick. „Keine Ahnung“ und Zeitablauf neutral. Gemeinsame CSS-Farbregeln verhindern abweichende Töne. Acht isolierte mobile Komponentenansichten einschließlich exakter Farbprüfung und visueller Screenshotabnahme sowie Metadaten/TypeScript und Diffprüfung erfolgreich. Vorheriger gezielter End-to-End-Versuch hing bereits beim Seitenaufruf und gilt nicht als bestanden; Darstellungsprüfung anschließend isoliert durchgeführt. Nur lokal umgesetzt, keine Veröffentlichung. [Vertrag](../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben), [Prüfung](../../docs/Pruefbericht.md#08112026--antworttexte-dauerhaft-mit-auflösungsfarben-hinterlegt-lokal).

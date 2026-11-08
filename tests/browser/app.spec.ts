@@ -486,7 +486,7 @@ test("Rekordübersicht zeigt Einzelgenre und kurze Ergebnisbezeichnung ohne Dars
   expect(errors).toEqual([]);
 });
 
-test("Conjuring zeigt passende Darsteller und Quellen erst in der Vertiefung, auch nach Neuladen", async ({
+test("Conjuring zeigt passende Vertiefung und gebündelte Quellen nach der Antwort, auch nach Neuladen", async ({
   page,
 }) => {
   await launch(page);
@@ -505,12 +505,10 @@ test("Conjuring zeigt passende Darsteller und Quellen erst in der Vertiefung, au
   expect(text).toMatch(
     /Patrick Wilson|Vera Farmiga|Ron Livingston|Lili Taylor|Joseph Bishara/,
   );
-  await page.getByText("Quellen ansehen", { exact: true }).click();
+  await page.getByText("Quellen und Links", { exact: true }).click();
   for (const source of q.sources) {
     await expect(
-      page
-        .locator(".answer-sources a")
-        .filter({ hasText: new URL(source).hostname }),
+      page.locator(`.answer-sources a[href="${source}"]`),
     ).toHaveAttribute("href", source);
   }
   await page.reload();

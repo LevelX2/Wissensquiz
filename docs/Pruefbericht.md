@@ -26,6 +26,14 @@ Im ausdrücklich beauftragten Worktree umgesetzt: geprüfte Werkbezüge mit getr
 
 SQL-Datei `20261108064313_work_attributes_and_filter_contract.sql` per Supabase CLI 3.0.0 lokal angelegt und in isoliertem PGlite geprüft. Keine produktiven Datenbank- oder privaten Nutzerdatenänderungen. Freischaltanrechnung, Auswahlgewichtung, Oberfläche und gemeinsame Abnahme sind weitere Pakete; kein vollständiger Veröffentlichungsprüflauf für diesen Teilblock.
 
+## Quellen und Links
+
+Die gemeinsame Auflösung bündelt alle bisherigen Belegquellen und getrennt davon bestätigte IMDb-/OFDb-Verweise. Gültiger Umfang: 3.400 IMDb-Werke, 428 Schauspieler, 3.569 Regieverweise sowie 3.379 OFDb-Werke und 419 Personen. [Vertrag, Belegquellen und offene Fälle](Quellen-und-Links.md).
+
+Zwölf gezielte Quellenlinktests prüfen richtige Werk-/Personenidentitäten, Remakes und Serien, Dubletten, sämtliche vorbereiteten Quellen der 19.403 Fragen sowie den Lösungsschutz direkt und am Rundenende. Regressionen sichern insbesondere Bruised/Halle Berry und Enemy/Denis Villeneuve gegen gleichnamige fremde Werke. Die gemeinsame Anzeigelogik ist zusätzlich durch 14 gezielte Chromium-/WebKit-Fälle abgenommen: bestehende Film-/Vertiefungsfälle und Quellenanzeige direkt beziehungsweise im Rückblick, einschließlich 320-/390-Pixel-Umbruch und Axe-Prüfung.
+
+Der zusammengeführte Stand besteht **40 gezielte Tests in sieben Dateien** zu Quellenlinks, Titeln, Alternativtiteln, Schauspielerredaktion, Postern, Feedback und Lösungsanzeige. Laufzeitmetadaten/TypeScript mit `npm run check` und `git diff --check` sind ebenfalls erfolgreich. Das ist kein Veröffentlichungsnachweis; die vollständigen Release-Gates bleiben erforderlich.
+
 ## 08.11.2026 – Antworttexte dauerhaft mit Auflösungsfarben hinterlegt, lokal
 
 Direkte Antwortansicht und unmittelbarer Rundenrückblick verwenden für Antworttexte dieselben CSS-Farbregeln wie die kurz eingeblendeten Antwortoptionen: richtige Auswahl/Lösung grün (`#e3f2e7`, Rahmen `#4e8a61`, Text `#174b2d`), gewählte falsche Antwort rot (`#fbe5df`, Rahmen `#b96657`, Text `#7d2d23`). „Keine Ahnung“ und Zeitablauf bleiben neutral, die richtige Lösung grün. Beschriftungen und Ergebnisrückmeldung erhalten; keine Änderung an Wertung oder Speicherformat.

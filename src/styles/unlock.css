@@ -197,12 +197,6 @@
 .film-data-note {
   font-size: 14px;
 }
-.film-data-sources {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px 16px;
-  font-size: 14px;
-}
 @media (max-width: 480px) {
   .film-data dl > div {
     grid-template-columns: 1fr;

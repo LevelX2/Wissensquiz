@@ -621,8 +621,19 @@ details p {
   }
 }
 
-.cast-sources {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem 1rem;
+.source-link {
+  display: block;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.source-link-kind {
+  display: block;
+  color: #59636a;
+  font-size: 0.85em;
+}
+.answer-sources li + li {
+  margin-top: 0.65rem;
+}
+.answer-sources section {
+  min-width: 0;
 }

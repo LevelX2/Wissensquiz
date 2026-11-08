@@ -27,9 +27,9 @@ Im eigenen Worktree sind Pakete 1 und 2 umgesetzt: typisierte Werkbezüge und ge
 
 ### Quellen und Links
 
-**Zuständigkeit: separater Chat, aus den hiesigen Umsetzungspaketen entfernt.** Lui möchte diese Ergänzung mit seiner dort bereits beauftragten Überarbeitung zu sprechenden Linktexten zusammenführen. Die Anforderungen bleiben gültig; ihre Umsetzung ist keine Voraussetzung für den Umbau der Werkarten und Mehrfachzuordnungen.
+**Lokal umgesetzt, noch nicht veröffentlicht.** Die gemeinsame Klappe mit getrennten Belegquellen und weiterführenden Datenbanken, bestätigte IMDb-/OFDb-Zuordnungen, Lösungsschutz und offene fachliche Punkte regelt [Quellen und Links](Quellen-und-Links.md). Dieser Vertrag ist unabhängig vom Umbau der Werkarten und Mehrfachzuordnungen.
 
-Die bisherige Beschriftung „Quellen ansehen“ soll zu **„Quellen und Links“** werden. Neben den fachlichen Belegen sollen möglichst direkte IMDb-Verweise und vorhandene OFDb-Verweise zum konkreten Film, zur Serie oder zur Person erscheinen. Lui hat ausdrücklich bestätigt, dass mit „UFDB“ **OFDb unter ofdb.de** gemeint ist.
+Der Bereich heißt einheitlich **„Quellen und Links“**. Neben den fachlichen Belegen erscheinen bestätigte IMDb-Verweise und vorhandene bestätigte OFDb-Verweise zum konkreten Film, zur Serie oder zur Person. Lui hat ausdrücklich bestätigt, dass mit „UFDB“ **OFDb unter ofdb.de** gemeint ist.
 
 Verweise werden gegen den richtigen Werk- oder Personeneintrag geprüft und zentral an dessen Identität gepflegt. Gleiche Titel, Remakes, Serien, Filmreihen und namensgleiche Personen müssen unterschieden werden. Vorhandene geprüfte Referenzen wiederverwenden; keinen Eintrag und keine URL erraten. Fehlende oder ungeklärte Einträge erzeugen keinen scheinbar gültigen Direktlink. Belegquellen und weiterführende Links bleiben in ihrer Funktion erkennbar; Dubletten erscheinen einmal. Linktexte sollen Anbieter und Gegenstand verständlich nennen, etwa „IMDb – Interstellar (2014)“ oder „IMDb – Matthew McConaughey“, statt lediglich einen Hostnamen anzuzeigen. Bei mehreren betroffenen Werken oder Personen muss die Beschriftung den jeweiligen Gegenstand nennen. Die bestehende Lösungsanzeige nach einer Antwort beziehungsweise am Rundenende bestimmt auch den Zeitpunkt dieser Links.
 

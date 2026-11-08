@@ -75,6 +75,7 @@ export default defineConfig({
         "duel-performance.spec.ts",
         "response-performance.spec.ts",
         "question-sources.spec.ts",
+        "source-links.spec.ts",
         "journey-areas.spec.ts",
 
         "compact-home.spec.ts",

@@ -1,6 +1,8 @@
 # Wissensindex
 
-- [Werkarten und Mehrfachzuordnungen im Worktree in Umsetzung, zwei von fünf Paketen lokal geprüft; Quellen-/IMDb-/OFDb-Links mit sprechenden Texten einem anderen Chat zugeordnet – 08.11.2026](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
+- [Werkarten und Mehrfachzuordnungen im Worktree in Umsetzung, vier von fünf Paketen lokal geprüft; Quellen-/IMDb-/OFDb-Links mit sprechenden Texten einem anderen Chat zugeordnet – 08.11.2026](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
+
+- [Quellen und Links: Anordnung, bestätigte Ziele, Quellen und offene Zuordnungen](../../../docs/Quellen-und-Links.md)
 
 - [Antworttexte auch nach der Auflösung und im Rundenrückblick grün/rot hinterlegt – 08.11.2026, lokal](../../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben)
 
