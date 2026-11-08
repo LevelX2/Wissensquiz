@@ -370,7 +370,10 @@ export function App({
           ...state,
           settings: {
             ...state.settings,
-            roundSetup: { ...readRoundSetup(state, store.info!.genres), ...patch },
+            roundSetup: {
+              ...readRoundSetup(state, store.info!.genres),
+              ...patch,
+            },
           },
         },
         store.info!.genres,
@@ -409,7 +412,7 @@ export function App({
                     : recordGenre,
                 ]
               : []
-            : availableGenres,
+            : null,
         ...(recordPreset === "genre"
           ? {
               workTypes: [

@@ -212,3 +212,29 @@ it("sichert beim gefilterten Serienbezug dessen Bekanntheitsgruppe im lokalen Ru
     state.rounds,
   );
 });
+
+it("startet Universal auch mit allgemeinen Personenfragen ohne Werk- oder Genrebezug", async () => {
+  const general = Array.from({ length: 10 }, (_, index) => ({
+    ...make("film", index),
+    id: `general-person-${index}`,
+    knowledgeId: `general-person-goal-${index}`,
+    works: [],
+    metadata: { person_id: "TESTPERSON", subdomain: "Schauspieler" },
+  }));
+  const content = await prepareTestContent([
+    ...general,
+    { ...make("film", 99), difficulty: "experte" },
+  ]);
+  await fixture.seedRanked(content);
+  const { api } = await fixture.client();
+  const session = new RankedSession(api, content.hash);
+  await session.start({
+    mode: "rekord",
+    preset: "standard",
+    solutionDisplay: "question",
+  });
+  expect(session.run!.filters.genres).toBeNull();
+  expect(session.current!.question.id).toMatch(/^general-person-/);
+  expect(session.run!.filters.sources).toEqual(["film", "awards", "actors"]);
+  await session.abort();
+});

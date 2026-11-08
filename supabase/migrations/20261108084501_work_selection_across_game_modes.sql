@@ -151,7 +151,7 @@ begin
    if req->>'preset'='genre' then
      if req->>'genre' is null or not genres ? (req->>'genre') then raise exception 'invalid_ranked_request'; end if;
      genres:=jsonb_build_array(case when req->>'genre' like 'Serien · %' then substr(req->>'genre',10) else req->>'genre' end);
-   end if;
+   else genres:='null'::jsonb; end if;
    run_filters:=jsonb_build_object('genres',genres,'sources',case when req->>'preset'='genre' then '["film"]'::jsonb else '["film","awards","actors"]'::jsonb end,
      'difficulties','["leicht","mittel","schwer"]'::jsonb,'familiarities','[1,2,3,4]'::jsonb);
    if req->>'preset'='genre' then run_filters:=run_filters||jsonb_build_object('workTypes',jsonb_build_array(case when req->>'genre' like 'Serien · %' then 'series' else 'film' end));end if;
@@ -304,5 +304,17 @@ grant execute on function public.quiz_duel_find(text[],uuid) to authenticated;
 revoke all on function quiz_game_internal.matches(quiz_game_internal.catalog_meta,jsonb,text) from public,anon,authenticated;
 revoke all on function quiz_ranked_internal.call(text) from public,anon,authenticated;
 revoke all on function quiz_ranked_internal.refill(quiz_ranked_internal.runs) from public,anon,authenticated;
+
+-- Universal has no genre restriction; category responses still return an array.
+create or replace view quiz_ranked_internal.scores with (security_invoker=true) as
+ select r.owner_id,'ranked-'||r.id::text as round_id,public.quiz_duel_name(r.owner_id) as player_name,
+   r.category,
+   array(select jsonb_array_elements_text(nullif(r.filters->'genres','null'::jsonb))) as genres,
+   array['leicht','mittel','schwer']::text[] as difficulties,
+   'Alle Themen'::text as topic,r.answered as question_count,'solo-server-v1.'||r.mode||'.'||r.preset as rule_version,
+   r.points,r.hits as correct,r.elapsed_ms,extract(epoch from r.finished_at)::double precision*1000 as finished_at,r.mode
+ from quiz_ranked_internal.runs r join auth.users u on u.id=r.owner_id
+ where r.status='completed' and u.email_confirmed_at is not null and not coalesce(u.is_anonymous,false);
+
 select quiz_game_internal.refresh_content() where exists(select 1 from quiz_ranked_internal.config where release_hash is not null);
 commit;

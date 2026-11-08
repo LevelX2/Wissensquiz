@@ -4,6 +4,8 @@
 
 Ein Genre-Rekord verwendet Werkfragen zu genau einem Genre und genau einer Werkart. „Filmgenre · Sci-Fi“ und „Seriengenre · Sci-Fi“ besitzen getrennte Filter und Kategorien. Der feste Mix bleibt 3 leicht, 4 mittel und 3 schwer; bei Endlosspielen gilt er je Block. Universal umfasst den gemeinsamen aktuellen Bestand. Neue Zuordnungen ergeben keine zusätzlichen Kopien eines Ziels. Laufende Fragen und abgeschlossene Belege bleiben eingefroren. Auswahl, Rundenübersicht und Rekordlisten nennen die Werkart; private Ergebnisse werden nicht umgeschrieben.
 
+Universal verwendet im Client und Server ausdrücklich keine Genrebegrenzung (`genres: null`). Auch allgemeine Personen-/Preisfragen ohne Werkbezug und Fragen zu Genres außerhalb der vorhandenen Werkfragen bleiben damit enthalten. Der Servertransport erlaubt diesen unbegrenzten Filter; Kategorieantworten geben dafür eine leere Genreliste aus. Die feste 3/4/3-Mischung und die eigenständigen Film-/Seriengenre-Rekorde bleiben erhalten.
+
 ## Kurze Bezeichnung in Ergebnissen und Verlauf – 26.10.2026, lokal
 
 Die Punktekarte abgeschlossener Zeitrunden zeigt ausschließlich **Universal** beziehungsweise **Genre · <Genrename>**, mit derselben bestehenden Beschriftung wie die Rekordauswahl. Die lange Aufzählung aller Genres, „Alle Themen“, Schwierigkeitsstufen und interne Regelkennungen entfallen dort. Auch die irreführende Vorsilbe „Lokale Trainingsrunde“ entfällt: dieselbe Ansicht zeigt serverbestätigte Zeitrunden.
