@@ -1,17 +1,17 @@
 {
   "format": "current-question-catalog-v1",
   "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
-  "catalogSha256": "6a6149ad7e520819473ac587c15ad3eb18b3b5ec3316a8c9e2b68ed491461599",
+  "catalogSha256": "930a6211aa797cfb5a170067baac91fd13d4b741084ecc7b4c4a680fd2e07bcd",
   "counts": {
     "sources": 3,
     "sourceFiles": 15,
-    "questions": 19847,
-    "knowledgeGoals": 19094,
+    "questions": 19871,
+    "knowledgeGoals": 19118,
     "duplicateQuestionIds": 0,
     "questionsWithVariantReference": 753
   },
   "areas": {
-    "film": 16043,
+    "film": 16067,
     "actors": 3424,
     "awards": 380
   },
@@ -299,7 +299,7 @@
     },
     {
       "attributes": "film|Fantasy|leicht|1",
-      "count": 82
+      "count": 88
     },
     {
       "attributes": "film|Fantasy|leicht|2",
@@ -307,7 +307,7 @@
     },
     {
       "attributes": "film|Fantasy|leicht|3",
-      "count": 134
+      "count": 136
     },
     {
       "attributes": "film|Fantasy|leicht|4",
@@ -315,7 +315,7 @@
     },
     {
       "attributes": "film|Fantasy|mittel|1",
-      "count": 146
+      "count": 152
     },
     {
       "attributes": "film|Fantasy|mittel|2",
@@ -323,7 +323,7 @@
     },
     {
       "attributes": "film|Fantasy|mittel|3",
-      "count": 260
+      "count": 262
     },
     {
       "attributes": "film|Fantasy|mittel|4",
@@ -331,7 +331,7 @@
     },
     {
       "attributes": "film|Fantasy|schwer|1",
-      "count": 76
+      "count": 82
     },
     {
       "attributes": "film|Fantasy|schwer|2",
@@ -339,7 +339,7 @@
     },
     {
       "attributes": "film|Fantasy|schwer|3",
-      "count": 136
+      "count": 138
     },
     {
       "attributes": "film|Fantasy|schwer|4",
