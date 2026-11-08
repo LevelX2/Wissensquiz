@@ -280,6 +280,8 @@ export function PlaySetup({
               <p id="round-summary" className="tiny muted" aria-live="polite">
                 {roundTopic.replace("Filmfragen", "Werkfragen")}
                 {` · ${workSummary} · ${genreSummary} · ${techniqueSummary}`}
+                {!!selectedCategories.length &&
+                  ` · ${selectedCategories.join(" + ")}`}
                 {" · "}
                 {isEndlessMode(mode)
                   ? `Endlos · ${runPoolSize} Filmfakten im Pool`

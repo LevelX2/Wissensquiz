@@ -118,9 +118,7 @@ test("Schauspieler öffnet 428 Personen und spielt Expertenfragen mit eigenen Be
   await expect(page.locator(".question-difficulty")).toHaveText(
     "Schwierigkeit: Experte",
   );
-  await expect(page.locator(".question-facets")).toContainText(
-    "Schauspieler",
-  );
+  await expect(page.locator(".question-facets")).toContainText("Schauspieler");
   await page.locator(".answer").first().click();
   const active = (await readStoredState(page)).rounds.find(
     (r) => r.status === "active",
@@ -339,18 +337,22 @@ test("Personenkategorie lässt sich aus der Filmreise direkt auswählen und voll
     "aria-pressed",
     "true",
   );
+  await page
+    .getByRole("group", { name: "Fragenbereiche", exact: true })
+    .getByLabel("Werkfragen", { exact: true })
+    .uncheck();
   await page.getByRole("button", { name: "Alle Genres abwählen" }).click();
-  await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
   await page.reload();
   await openRoundSetup(page);
   await expect(
     page.getByRole("checkbox", { name: "Schauspieler", exact: true }),
   ).toBeChecked();
+  await expect(page.getByRole("button", { name: "Losspielen" })).toBeDisabled();
+  await page.getByRole("button", { name: "Alle Genres auswählen" }).click();
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   await page.getByRole("button", { name: "Losspielen" }).click();
-  await expect(page.locator(".question-facets")).toContainText(
-    "Schauspieler",
-  );
+  await expect(page.locator(".question-facets")).toContainText("Schauspieler");
 });
 
 test.describe("Neue Schauspieler mit ausgewählten Porträts", () => {

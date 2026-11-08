@@ -239,7 +239,7 @@ for (const [source, label] of [
 ] as const) {
   test(
     label +
-      ": Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
+      ": Bekanntheitsgruppen filtern Expertenfragen bei allen Genres und bleiben nach Neuladen erhalten",
     async ({ page }) => {
       await fixCalendarTime(page, now);
       await page.setViewportSize({ width: 320, height: 820 });
@@ -250,7 +250,7 @@ for (const [source, label] of [
       const state = emptyState();
       state.settings.roundSetup = {
         mode: "ueben",
-        genres: [],
+        genres: null,
         categories: [],
         sources: [source],
         difficulties: ["experte"],

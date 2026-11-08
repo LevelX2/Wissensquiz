@@ -1,6 +1,7 @@
 import { catalogCounts } from "../catalog-counts";
 import { openRoundSetup, test, expect, readStoredState } from "./fixtures";
 import AxeBuilder from "@axe-core/playwright";
+import type { Question } from "../../src/model";
 
 for (const both of [false, true]) {
   test(`Arthouse ${both ? "mit Classics" : "allein"}: Genre, Film, Bilder und Neuladen bleiben korrekt`, async ({
@@ -67,15 +68,20 @@ for (const both of [false, true]) {
       saved.questions.filter((q: any) => q.tags.includes("Classics")),
     ).toHaveLength(catalogCounts.classicsQuestions);
     const round = saved.rounds.at(-1)!;
-    expect(round.topic).toBe(
-      both ? "Filmfragen + Classics + Arthouse" : "Filmfragen + Arthouse",
+    expect(round.topic).toBe("Filmfragen");
+    expect(round.filters?.collections?.slice().sort()).toEqual(
+      both ? ["Arthouse", "Classics"] : ["Arthouse"],
     );
     expect(
       round.questions.every(
-        (q: any) =>
-          (q.tags.includes("Arthouse") ||
-            (both && q.tags.includes("Classics"))) &&
-          q.metadata.subdomain === "Rom-Com",
+        (q: Question) =>
+          q.works?.some(
+            (work) =>
+              work.type === "film" &&
+              work.genres.includes("Rom-Com") &&
+              (work.collections?.includes("Arthouse") ||
+                (both && work.collections?.includes("Classics"))),
+          ),
       ),
     ).toBe(true);
     expect(new Set(round.questions.map((q: any) => q.knowledgeId)).size).toBe(

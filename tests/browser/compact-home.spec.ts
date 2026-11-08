@@ -80,7 +80,7 @@ for (const width of [320, 1440]) {
     await expect(modeSummary).toContainText("Freies Spiel");
     const films = page.locator(".setup-section").filter({
       has: page.locator(".setup-section-title", {
-        hasText: /^Filmgenres & Filmauswahl$/,
+        hasText: /^Werke, Genres & Sammlungen$/,
       }),
     });
     await films.locator("summary").focus();
@@ -92,12 +92,14 @@ for (const width of [320, 1440]) {
     await films.getByLabel("Western", { exact: true }).check();
     await films.getByLabel("Nur Classics", { exact: true }).check();
     await films.locator("summary").click();
-    await expect(films.locator("summary")).toContainText("Western · Classics");
+    await expect(films.locator("summary")).toContainText("Western");
+    await expect(films.locator("summary")).toContainText("Classics");
     await page.reload();
     await expect(start).toBeEnabled();
     await expect(page.locator(".setup-section[open]")).toHaveCount(0);
     await expect(modeSummary).toContainText("Freies Spiel");
-    await expect(films.locator("summary")).toContainText("Western · Classics");
+    await expect(films.locator("summary")).toContainText("Western");
+    await expect(films.locator("summary")).toContainText("Classics");
     const sources = page.locator(".setup-section").filter({
       has: page.locator(".setup-section-title", {
         hasText: /^Fragenbereiche$/,
@@ -121,9 +123,14 @@ for (const width of [320, 1440]) {
     );
     if (await sources.evaluate((node) => (node as HTMLDetailsElement).open))
       await sources.locator("summary").click();
-    await expect(start).toBeEnabled();
     await expect(sources.locator("summary")).toContainText("Schauspieler");
-    await expect(films.locator("summary")).toContainText("derzeit abgewählt");
+    await expect(films.locator("summary")).toContainText("Western");
+    await expect(films.locator("summary")).toContainText("Classics");
+    await films.locator("summary").click();
+    await films.getByRole("button", { name: "Alle Genres auswählen" }).click();
+    await films.getByLabel("Nur Classics", { exact: true }).uncheck();
+    await films.locator("summary").click();
+    await expect(start).toBeEnabled();
     expect(
       await page.evaluate(
         () => document.documentElement.scrollWidth <= innerWidth,

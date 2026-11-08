@@ -57,7 +57,7 @@ test("alle Nebenansichten öffnen ohne vorherigen Besuch", async ({
       "Diese Ansicht konnte nicht geladen werden.",
     );
     if (name === "Themen")
-      await expect(page.locator(".topic-card")).toHaveCount(16);
+      await expect(page.locator(".topic-card")).toHaveCount(33);
     if (name === "Sammlung")
       await expect(
         page.getByRole("heading", { name: "Deine Sammlung." }),

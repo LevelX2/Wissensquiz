@@ -9,6 +9,7 @@ import {
   type Page,
 } from "./fixtures";
 import { startRound } from "../../src/engine";
+import { genreOf, genreLabel } from "../../src/filters";
 async function launch(page: Page) {
   await page.goto("/");
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
@@ -77,7 +78,7 @@ test("Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fr
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
   await expect(
     page.getByText(/Mittel gesperrt · 0 \/ \d+ benötigte leichte Ziele/),
-  ).toHaveCount(12);
+  ).toHaveCount(24);
   await page.reload();
   await openRoundSetup(page);
   await expect(modePreparation(page, /Filmreise Neues lernen/)).toHaveAttribute(
@@ -201,18 +202,17 @@ test("Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach N
   await page.getByRole("button", { name: "Profil", exact: true }).click();
   await page.getByRole("button", { name: "Optionen" }).click();
   await page.getByRole("button", { name: "Themen", exact: true }).click();
-  await expect(page.locator(".genre-illustration")).toHaveCount(16);
+  await expect(page.locator(".topic-card")).toHaveCount(33);
+  await expect(page.locator(".genre-illustration")).toHaveCount(45);
   for (const img of await page.locator(".genre-illustration").all()) {
     await img.scrollIntoViewIfNeeded();
     await expect
       .poll(() => img.evaluate((el) => (el as HTMLImageElement).naturalWidth))
       .toBeGreaterThan(0);
   }
-  await page
-    .locator(".topic-grid")
-    .screenshot({
-      path: testInfo.outputPath("genre-illustrationen-desktop.png"),
-    });
+  await page.locator(".topic-grid").screenshot({
+    path: testInfo.outputPath("genre-illustrationen-desktop.png"),
+  });
   await page.setViewportSize({ width: 390, height: 844 });
   const actionCard = page.locator(".topic-card").filter({
     has: page.getByRole("heading", { name: "Action", exact: true }),
@@ -447,8 +447,16 @@ test("Rekordübersicht zeigt Einzelgenre und kurze Ergebnisbezeichnung ohne Dars
   await page.getByLabel(/Ein Genre ·/).check();
   await page.getByLabel("Genre für den Rekord").selectOption("Horror");
   await page.getByRole("button", { name: "Losspielen" }).click();
+  const expectedGenres = new Map<string, number>();
   for (let i = 0; i < 10; i++) {
     const question = await answerCurrent(page);
+    expect(
+      question.works?.some(
+        (work) => work.type === "film" && work.genres.includes("Horror"),
+      ),
+    ).toBe(true);
+    const mainGenre = genreOf(question);
+    expectedGenres.set(mainGenre, (expectedGenres.get(mainGenre) ?? 0) + 1);
     await page
       .getByRole("button", {
         name: i === 9 ? "Runde abschließen" : "Nächste Frage",
@@ -468,9 +476,16 @@ test("Rekordübersicht zeigt Einzelgenre und kurze Ergebnisbezeichnung ohne Dars
     page.getByRole("heading", { name: "Eine Runde weiter." }),
   ).toBeVisible();
   await expect(page.locator(".result-genres")).toContainText("Horror");
-  await expect(page.locator(".result-genres")).toContainText("10 / 10 richtig");
+  for (const [genre, total] of expectedGenres) {
+    await expect(
+      page.getByRole("progressbar", {
+        name: `${genreLabel(genre)}: ${total} von ${total} richtig`,
+        exact: true,
+      }),
+    ).toHaveAttribute("value", String(total));
+  }
   await expect(page.locator(".score-breakdown")).toContainText(
-    "Genre · Horror",
+    "Filmgenre · Horror",
   );
   await expect(page.locator(".score-breakdown")).not.toContainText(
     "Leicht + Mittel + Schwer",

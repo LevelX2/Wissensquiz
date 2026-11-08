@@ -31,7 +31,7 @@ test("Ungültige Themenantwort zeigt einen Fehler und kann ohne Appabsturz erneu
   await page
     .getByRole("button", { name: "Erneut versuchen", exact: true })
     .click();
-  await expect(page.locator(".topic-card")).toHaveCount(16);
+  await expect(page.locator(".topic-card")).toHaveCount(33);
   await expect(page.getByRole("alert")).toHaveCount(0);
 });
 
@@ -124,7 +124,9 @@ test("Highscores haben einen eigenen Platz; Optionen und verständliche Hilfe si
   ).toBe(true);
   await page.locator(".help-page").evaluate(async (element) => {
     await Promise.all(
-      element.getAnimations({ subtree: true }).map((animation) => animation.finished),
+      element
+        .getAnimations({ subtree: true })
+        .map((animation) => animation.finished),
     );
   });
   expect(
