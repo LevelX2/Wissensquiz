@@ -550,6 +550,11 @@ textarea {
   gap: 6px;
   max-width: 100%;
 }
+.series-genre-art {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+}
 .question-facet {
   display: inline-flex;
   align-items: center;

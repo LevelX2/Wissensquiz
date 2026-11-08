@@ -490,6 +490,10 @@ export function PlaySetup({
                               });
                             }}
                           />
+                          <GenreArtwork
+                            genre={type === "film" ? "Film" : "Serie"}
+                            compact
+                          />
                           {workTypeLabels[type]}
                         </label>
                       ))}
@@ -527,6 +531,7 @@ export function PlaySetup({
                               })
                             }
                           />
+                          <GenreArtwork genre={techniqueLabels[type]} compact />
                           {techniqueLabels[type]}
                         </label>
                       ))}

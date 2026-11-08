@@ -1,5 +1,11 @@
 # Genreillustrationen
 
+## Werkarten und Macharten
+
+**Lokal, noch nicht veröffentlicht:** Filmrolle (`film.png`), Fernseher (`series.png`), Animationsfigur mit Zeichnungsphasen (`animation.png`) und Filmkamera (`live-action.png`) ergänzen die vorhandenen Motive im Gold-/Elfenbein-/Petrol-Stil. Vier getrennte, mit dem eingebauten Imagegen erzeugte RGBA-Originale mit 1254 × 1254 Pixeln; echte Transparenz und Motive geprüft. Dateien unter `public/genres/`, optimierte WebP-Fassungen mit 160/320/480 Pixeln unter `src/assets/artwork/`. [Prompts, Maße, Alpha-Nachweise und Hashes](Kategorie-Illustrationen.json).
+
+Auswahlfelder und Fragenkopf verwenden dieselbe Bildzuordnung. Seriengenres kombinieren das Seriensymbol mit dem vorhandenen Genremotiv. Über einer Frage erscheinen alle passenden, beschrifteten Symbole für Werkart, Genres, Fragenbereich, Machart und kuratierte Zuordnungen, ohne doppelte Symbole. Die Gruppe bricht auf kleinen Displays um. Gefragte Merkmalsfamilien werden ausgeblendet, wenn die Antwortoptionen sonst einen Lösungshinweis erhielten. Die Bilder sind dekorativ; die Beschriftungen bleiben zugänglich. [Daten- und Auswahlvertrag](Importformat.md).
+
 ## Kategorieillustrationen – 03.10.2026
 
 **Preisträger** verwendet einen goldenen Filmpreis mit Lorbeerzweigen und Filmstreifen; **Schauspieler** zwei anonyme Porträtbüsten mit Filmklappe. Beide Motive wurden mit dem eingebauten Imagegen im Gold-/Elfenbein-/Petrol-Stil der bestehenden Illustrationen erzeugt und unverändert als transparente RGBA-PNGs mit 1254 × 1254 Pixeln übernommen. Die gemeinsame Bildzuordnung in `GenreArtwork` versorgt große Themenkarten und kleine Kategorie-Auswahlfelder. Kategoriennamen bleiben als Text und ARIA erhalten, die Bilder sind dekorativ. Beide Dateien werden offline zwischengespeichert. [Originalprompts, Dateihashes und Prüfungen](Kategorie-Illustrationen.json). Beide Kategorieillustrationen sind in Sites-Version 38 veröffentlicht.

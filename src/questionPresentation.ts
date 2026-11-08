@@ -17,7 +17,7 @@ export function preparePresentation(
   const seriesOnly =
     !!q.works?.length && q.works.every((work) => work.type === "series");
   const poster = seriesOnly ? null : filmPoster(q, posters);
-  const actor = seriesOnly ? undefined : actorPresentation(q),
+  const actor = actorPresentation(q),
     year = seriesOnly ? undefined : yearPresentation(q),
     director = seriesOnly ? undefined : directorExplanation(q),
     film = seriesOnly ? undefined : filmDetails(q);
@@ -25,9 +25,25 @@ export function preparePresentation(
     q.metadata.question_image_id || questionSourceOf(q) === "awards"
       ? q.metadata.film_refs?.split(";").filter(Boolean)
       : actor?.films;
+  const seriesReferences = new Set(
+    q.works
+      ?.filter((work) => work.type === "series")
+      .map((work) => `${work.originalTitle}|${work.year}`),
+  );
+  const filmReferences = new Set(
+    q.works
+      ?.filter((work) => work.type === "film")
+      .map((work) => `${work.originalTitle}|${work.year}`),
+  );
   const films = (
     seriesOnly ? [] : references?.length ? references : [undefined]
   ).flatMap((reference) => {
+    if (
+      reference &&
+      seriesReferences.has(reference) &&
+      !filmReferences.has(reference)
+    )
+      return [];
     const data = filmData(q, reference);
     return data ? [{ ...(reference ? { reference } : {}), data }] : [];
   });
@@ -37,7 +53,7 @@ export function preparePresentation(
       poster && posters
         ? { ...poster, expiresAt: new Date(posters.expiresAt).toISOString() }
         : null,
-    questionText: seriesOnly ? q.question : presentedQuestion(q),
+    questionText: presentedQuestion(q),
     deepContext: year?.text ?? actor?.text ?? director?.text ?? q.context,
     sources: [
       ...new Set([...(year?.sources ?? []), ...(actor?.sources ?? [])]),

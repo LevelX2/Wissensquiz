@@ -18,7 +18,12 @@
       "transparent_pixels": 763200,
       "partial_alpha_pixels": 808895,
       "opaque_pixels": 421,
-      "corner_alpha": [0, 0, 1, 0],
+      "corner_alpha": [
+        0,
+        0,
+        1,
+        0
+      ],
       "prompt": "Use case: stylized-concept.\nAsset type: premium square category icon for a cinema quiz website, matching a cohesive set of polished 3D collectible objects. Create one production-ready icon, NOT a page or mockup.\nSubject: a distinguished cinema award trophy, a substantial five-point gold star sculpted atop a short ivory-and-deep-teal enamel pedestal. Two beautifully modeled gold laurel branches rise around the star, framing it as a film festival prize. A short elegant curved strip of teal film with gold perforated edges is integrated around the base. One coherent, compact sculptural object with a clear silhouette.\nStyle: high-end photorealistic 3D studio render, tactile ivory porcelain, richly brushed and polished warm gold, deep teal lacquer, finely crafted beveled edges, realistic metal grain and specular highlights. Sophisticated, substantial, highly detailed, matching luxurious ivory and gold vintage film projectors and teal-and-gold cinema emblems.\nComposition: entire object centered on a square canvas, frontal three-quarter view, approximately 85 percent of canvas height, balanced broad silhouette, generous transparent margin on every edge. Readable as an award even at 40 pixels; polished sculptural quality at 160 pixels.\nLighting: soft warm studio key from upper left, subtle rim light and realistic self-shading; no ground plane, no backdrop, no cast shadow outside the object.\nConstraints: real transparent RGBA background with clean alpha edges, no opaque rectangular background, no text, letters, logos, watermark, caption or border. No stopwatch, no trophy cup, no human statuette, no real award logo. One icon only."
     },
     "actors": {
@@ -31,8 +36,65 @@
       "transparent_pixels": 581429,
       "partial_alpha_pixels": 990784,
       "opaque_pixels": 303,
-      "corner_alpha": [0, 0, 0, 0],
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
       "prompt": "Use case: stylized-concept.\nAsset type: premium square category icon for a cinema quiz website, matching a cohesive set of polished 3D collectible objects. Create one production-ready icon, NOT a page or mockup.\nSubject: two beautifully crafted anonymous performer portrait busts, a woman and a man, shown together as one balanced cinema emblem. Heads and shoulders with expressive, well-sculpted realistic facial features and confidently composed expressions, subtly turned toward the viewer. Ivory porcelain faces, warm gold sculpted hair and tailored collar details, refined deep teal enamel clothing. A small elegant ivory-and-gold film clapperboard rests at their shared lower edge, clearly connecting the portraits to cinema, with a few bold diagonal gold stripes and no writing.\nStyle: high-end photorealistic 3D studio render, tactile ivory porcelain, richly brushed and polished warm gold, deep teal lacquer, beautifully rounded sculpted surfaces, realistic metal grain and specular highlights. Sophisticated, substantial, highly detailed, matching luxurious ivory and gold vintage film projectors and teal-and-gold cinema emblems. These are decorative sculpted portraits, not photographs of living people.\nComposition: entire cohesive object centered on a square canvas, frontal three-quarter view, approximately 85 percent of canvas height, heads have equal visual importance; broad compact silhouette, generous transparent margin on every edge. Faces remain clearly identifiable at 40 pixels; polished sculptural quality at 160 pixels. No thin-line stick figures.\nLighting: soft warm studio key from upper left, subtle rim light and realistic self-shading; no ground plane, no backdrop, no cast shadow outside the object.\nConstraints: real transparent RGBA background with clean alpha edges, no opaque rectangular background, no text, letters, logos, watermark, caption or border. No recognizable celebrity likeness, no theatrical masks, no laurel wreath, trophy or star award. One icon only."
+    },
+    "series": {
+      "created_on": "2026-11-08",
+      "file": "public/genres/series.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "RGBA PNG",
+      "bytes": 1807457,
+      "sha256": "e8d1ccccf84823a071154e109b801353c6f3f634d7d64a24875da2f847d5f88f",
+      "transparent_pixels": 656486,
+      "partial_alpha_pixels": 915302,
+      "opaque_pixels": 728,
+      "prompt": "Create one polished category icon for a German cinema quiz app: a premium miniature retro television representing TV SERIES. Center a single three-quarter-view rounded TV set, deep petrol teal enamel casing, ivory rounded glass screen, polished warm gold frame, gold tuning knobs and a short gold antenna. On the screen use just two simple overlapping ivory/gold episode cards, without writing or numbers. Match a coherent existing set of highly detailed 3D collectible cinematic icons: lustrous gold trim, creamy ivory highlights, rich teal enamel, realistic fine material texture, soft studio light, crisp silhouette, ornate but restrained craft. Object fills about 85% of a square canvas with safe margins. Readable when displayed at 28 pixels, clear main silhouette, no tiny unnecessary props. Actual transparent background and transparent space around the object, no floor, no background, no opaque shadow plane, no text, no letters, no logo, no watermark. This is a finished isolated raster app asset, not a mockup."
+    },
+    "animation": {
+      "created_on": "2026-11-08",
+      "file": "public/genres/animation.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "RGBA PNG",
+      "bytes": 1956715,
+      "sha256": "4c2972061a52ab92b55af62ed6d9a2383bb9057a00715a1aa47b53e8039f3d77",
+      "transparent_pixels": 714481,
+      "partial_alpha_pixels": 857550,
+      "opaque_pixels": 485,
+      "prompt": "Create one polished category icon for a German cinema quiz app representing ANIMATION: a charming original smiling golden five-point cartoon star with expressive large ivory eyes, raised rounded arms, small teal shoes, beside three clearly fanned thick ivory animation drawing sheets held by a small gold peg bar. A single strong compact unified silhouette, star is dominant. No existing cartoon character. Premium detailed 3D collectible cinematic icon, polished warm gold, creamy ivory and deep petrol teal accents, realistic finely textured materials, soft studio lighting, matching an ornate teal/gold/ivory cinema icon collection. Centered square canvas, 85% object coverage, safe margins, readable at 28 pixels. Genuinely transparent background, no floor, no background, no opaque shadow plane, no text, letters, numbers, logo or watermark. Finished isolated raster app asset, not a mockup."
+    },
+    "film": {
+      "created_on": "2026-11-08",
+      "file": "public/genres/film.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "RGBA PNG",
+      "bytes": 2333087,
+      "sha256": "3f344bc077e2cf4c39a388dbb96e210a5ea0bdeee128b7b465952a37b4f27b45",
+      "transparent_pixels": 568147,
+      "partial_alpha_pixels": 1003958,
+      "opaque_pixels": 411,
+      "prompt": "Create one polished category icon for a German cinema quiz app representing FILMS: a single broad cinematic film reel in three-quarter view, with five round holes, polished warm gold metal rim and creamy ivory face, and a short curled deep petrol teal filmstrip with clearly visible ivory frame perforations. Strong simple rounded unified silhouette. Premium detailed 3D collectible cinematic icon, lustrous gold trim, creamy ivory highlights, rich petrol teal enamel, fine realistic material texture, soft studio lighting, matching an ornate teal/gold/ivory cinema icon collection. Centered on square canvas, object fills 85%, safe margins, readable at 28 pixels. Genuinely transparent background, no floor, no background, no opaque shadow plane, no text, letters, numbers, logo or watermark. Finished isolated raster app asset, not a mockup."
+    },
+    "live-action": {
+      "created_on": "2026-11-08",
+      "file": "public/genres/live-action.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "RGBA PNG",
+      "bytes": 1923761,
+      "sha256": "4f991760960c011182edbbe68ffcfd03382156f6e9859ef8efbf21278340875d",
+      "transparent_pixels": 708599,
+      "partial_alpha_pixels": 863593,
+      "opaque_pixels": 324,
+      "prompt": "Create one polished category icon for a German cinema quiz app representing LIVE ACTION FILMMAKING: a classic compact movie camera with two small reels on top and a broad conical lens pointing right, seen at three-quarter view. Deep petrol teal enamel camera body, polished warm gold lens and trim, ivory round reel faces. Strong simple single object silhouette. Premium detailed 3D collectible cinematic icon, lustrous gold trim, creamy ivory highlights, rich petrol teal enamel, fine realistic material texture, soft studio lighting, matching an ornate teal/gold/ivory cinema icon collection. Centered square canvas, object fills 85%, safe margins, readable at 28 pixels. Genuinely transparent background, no floor, no background, no opaque shadow plane, no text, letters, numbers, logo or watermark. Finished isolated raster app asset, not a mockup."
     }
   },
   "integration": "Gemeinsame GenreArtwork-Bildzuordnung: Themenkarten, Kategorieauswahl und sonstige vorhandene Verwendungen. Große Motive mit object-fit: contain, Auswahlminiaturen mit 40 × 40 Pixeln. Dekorative Bilder mit leerem alt; Kategoriennamen bleiben in Text und ARIA erhalten.",
@@ -46,6 +108,22 @@
     "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
     "archive_sha256": "sha256:e84d10953f7156607ec1a513ae580df90b93b5bee3eed80177f1bded797bd349",
     "archive_file_count": 49,
-    "asset_and_mapping_comparison": "Beide PNGs und src/Icons.tsx sind bytegleich zwischen dem geprüften Bildstand und dem veröffentlichten Quellcommit. Die parallel erfolgte Veröffentlichung des aktuellen App-Gesamtstands hat die bereits im Hauptarbeitsordner bereitgestellten Illustrationen aufgenommen. Kein weiterer Deployment erforderlich."
-  }
+    "asset_and_mapping_comparison": "Beide PNGs und src/Icons.tsx sind bytegleich zwischen dem geprüften Bildstand und dem veröffentlichten Quellcommit. Die parallel erfolgte Veröffentlichung des aktuellen App-Gesamtstands hat die bereits im Hauptarbeitsordner bereitgestellten Illustrationen aufgenommen. Kein weiterer Deployment erforderlich.",
+    "assets": [
+      "awards",
+      "actors"
+    ]
+  },
+  "updated_on": "2026-11-08",
+  "verification_scope": [
+    "awards",
+    "actors"
+  ],
+  "local_assets": [
+    "series",
+    "animation",
+    "film",
+    "live-action"
+  ],
+  "local_status": "Lokal integriert, noch nicht veröffentlicht. RGBA-Transparenz geprüft, 160/320/480-Pixel-WebP-Fassungen vorhanden. Aktueller Prüfnachweis: docs/Pruefbericht.md."
 }
