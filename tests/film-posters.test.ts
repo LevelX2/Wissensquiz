@@ -1,6 +1,7 @@
 import { expect, it } from "vitest";
 import { filmPoster, type FilmPosterManifest } from "../src/filmPosters";
 import type { Question } from "../src/model";
+import { assertFilmPosterCoverage } from "../scripts/film-poster-coverage";
 
 const q: Question = {
   id: "poster-test",
@@ -101,4 +102,44 @@ it("erfindet kein Poster bei fehlenden oder widersprüchlichen Angaben", () => {
   const invalid = structuredClone(data);
   invalid.films["Dune|2021"].originalTitle = "Anderer Film";
   expect(filmPoster(q, invalid, now)).toBeUndefined();
+});
+
+it("verhindert die Katalogvorbereitung mit fehlenden, abgelaufenen oder falschen Postern", () => {
+  expect(() => assertFilmPosterCoverage([q], data, now)).not.toThrow();
+  const missing = { ...data, films: {} };
+  expect(() => assertFilmPosterCoverage([q, q], missing, now)).toThrow(
+    "1 Filmfassungen: Dune|2021",
+  );
+  expect(() =>
+    assertFilmPosterCoverage([q], data, Date.parse(data.expiresAt)),
+  ).toThrow("prepare:posters");
+  const wrong = structuredClone(data);
+  wrong.films["Dune|2021"].originalTitle = "Fremder Film";
+  expect(() => assertFilmPosterCoverage([q], wrong, now)).toThrow("Dune|2021");
+});
+
+it("verlangt keine Filmcover für Personen, reine Serien und Fragen ohne Filmfassung", () => {
+  expect(() =>
+    assertFilmPosterCoverage(
+      [
+        { ...q, domain: "Personen" },
+        { ...q, metadata: { ...q.metadata, person_id: "person-1" } },
+        { ...q, metadata: {} },
+        {
+          ...q,
+          works: [
+            {
+              type: "series",
+              originalTitle: "Dune",
+              year: 2021,
+              genres: [],
+              techniques: [],
+            },
+          ],
+        },
+      ],
+      { ...data, films: {} },
+      now,
+    ),
+  ).not.toThrow();
 });

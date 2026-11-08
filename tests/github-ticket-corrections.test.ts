@@ -24,6 +24,7 @@ const presentation = (id: string) => {
 it("liefert die gemeldeten Reihenpositionen bis in die vorbereiteten Filmdaten", () => {
   for (const [id, name, position] of [
     ["F240-20261006-001-L2", "Indiana Jones", 2],
+    ["F240-20261006-001-L1", "Indiana Jones", 2],
     ["E20261007-A-009-L", "Rocky", 1],
     ["G100-20261008-ACTION-015-L1", "Bourne", 2],
   ] as const) {
@@ -38,6 +39,41 @@ it("liefert die gemeldeten Reihenpositionen bis in die vorbereiteten Filmdaten",
   expect(filmData(actorQuestion, "Rocky|1976")?.series).toMatchObject({
     name: "Rocky",
     position: 1,
+  });
+});
+
+it("macht Musikwechsel, Filmfassung und Figurenkontext in den gemeldeten Fragen verständlich", () => {
+  const shaun = presentation("Q-20261016-KOMOEDIE-008");
+  expect(shaun.questionText).toContain("Musikstück „The Blue Wrath“");
+  expect(shaun.deepContext).toContain("Weil das Tempo übereinstimmte");
+  const woman = presentation("G150-20261103-ROMCOM-048-S1");
+  expect(woman.questionText).toContain(
+    "(1942) mit Katharine Hepburn und Spencer Tracy",
+  );
+  expect(woman.questionText).not.toContain("Frühstück");
+  const karate = presentation("ASI-202610-P01-L-004");
+  expect(karate.questionText).toContain("Daniel (Ralph Macchio)");
+  expect(karate.questionText).not.toContain("Miyagi");
+});
+
+it("liefert deutsche Filmtitel in allen vier Taylor-Antworten und im Filmverweis", () => {
+  const q = state.questions.find(
+    (question) => question.id === "SCHAUSPIELER-202610-P01-064-S-2",
+  )!;
+  const display = presentation(q.id);
+  expect(q.answers.map((answer) => answer.text)).toEqual([
+    "Velvet Brown in „Kleines Mädchen, großes Herz“",
+    "Priscilla in „Heimweh“",
+    "Amy in „Kleine tapfere Jo“",
+    "Susan in „Das Wunder von Manhattan“",
+  ]);
+  expect(q.correctId).toBe(`${q.id}:a`);
+  expect(display.questionText).not.toContain("Velvet");
+  expect(display.deepContext).toContain("„Kleines Mädchen, großes Herz“");
+  expect(display.films[0].reference).toBe("National Velvet|1944");
+  expect(display.films[0].data.alternativeTitles).toContainEqual({
+    title: "Kleines Mädchen, großes Herz",
+    kind: "de",
   });
 });
 

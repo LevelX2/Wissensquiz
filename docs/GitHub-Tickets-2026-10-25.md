@@ -1,6 +1,6 @@
 # GitHub-Tickets vom 25.10.2026
 
-Alle acht offenen Issues #3–#10 und ihre Kommentare wurden gelesen. Es gab keine Kommentare. Sieben Meldungen wurden lokal korrigiert und sind seit Version 85 am 28.10.2026 einschließlich Katalogaktivierung veröffentlicht; eine betrifft einen bereits überarbeiteten Stand. GitHub-Kommentare, Ticketschließung und GitHub-Push waren nicht beauftragt; die Issues bleiben offen. [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-28-Version-85.json).
+Alle acht offenen Issues #3–#10 und ihre Kommentare wurden gelesen. Es gab keine Kommentare. Sieben Meldungen wurden lokal korrigiert und sind seit Version 85 am 28.10.2026 einschließlich Katalogaktivierung veröffentlicht; eine betrifft einen bereits überarbeiteten Stand. Die Issues wurden am 08.11.2026 nach erneuter Prüfung auf ausdrücklichen Auftrag kommentiert und als erledigt geschlossen; der aktuelle lokale Stand ist für Version 89 vorgesehen. [Aktueller Ticketstand](GitHub-Meldungen.md#aktueller-ticketstand--08112026). [Veröffentlichungsnachweis](Veroeffentlichung-2026-10-28-Version-85.json).
 
 ## Entscheidungen und Änderungen
 
@@ -31,4 +31,4 @@ Bestehende Originalpakete und Rohquellen bleiben unverändert. Drei aktuelle App
 
 Gezielte Parser-, Redaktions-, Quellen-, Filmdaten- und Posterprüfungen einschließlich der tatsächlichen vorbereiteten Anzeigen aller gemeldeten Fragen. Der bestehende 240-Filme-Quellentest musste um den dokumentierten zusätzlichen AFI-Beleg ergänzt werden; sein Nachlauf war erfolgreich. Umfang und abschließende Nachweise stehen im [Prüfbericht](Pruefbericht.md#25102026--github-tickets-lokal-korrigiert).
 
-Die Korrekturen werden bei einer später ausdrücklich beauftragten Veröffentlichung mit dem aktuellen Katalog aktiviert. Die bereits veröffentlichte Behebung von #6 kann separat beim Ticketabschluss erläutert werden.
+Der aktuelle Ticketabschluss ist im Meldungsvertrag verlinkt. Der erneute vollständige Posterabgleich und die ergänzten Fragenkorrekturen sind für Version 89 vorbereitet; diese Veröffentlichung ist noch nicht erfolgt.

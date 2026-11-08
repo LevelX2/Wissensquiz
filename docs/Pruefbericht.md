@@ -1,5 +1,15 @@
 # Prüfnachweis
 
+## 08.11.2026 – GitHub-Meldungen und vollständige Poster, lokal
+
+Alle 14 offenen Tickets #3–#16 und ihre leeren Kommentarverläufe geprüft. Neun aktuelle Bestände nachvollziehbar korrekt, darunter der erneut gemeldete Indiana-Jones-Film; vier Fragen lokal redigiert. Der fehlende Poster-/Filmlink zu „Der falsche Mann“ ist lokal vorhanden und die Katalogvorbereitung gegen fehlende Poster abgesichert. Alle Tickets auf ausdrücklichen Auftrag mit Begründung, gegebenenfalls früherer Korrekturversion und dem klaren Hinweis „für Version 89 vorbereitet; noch nicht veröffentlicht“ als erledigt geschlossen.
+
+**36 gezielte Tests in sechs Dateien erfolgreich:** GitHub-Korrekturen, Posterprüfung, vollständige TMDB-Identitätszuordnung, Personenredaktion, Alternativtitel und aktuelle Fragenredaktion. Die neue Betreiberprüfung erkennt fehlende, abgelaufene und widersprüchliche Poster und verlangt keine Filmcover für Personen oder reine Serien. Laufzeitmetadaten/TypeScript mit `npm run check` und `git diff --check` erfolgreich.
+
+Zusätzlicher vollständiger App-Parser-/Anzeigeabgleich auf 20.507 Fragen: Alle erforderlichen Film-/Preisposter verfügbar, 1.966 Filmfassungen im lokalen Index. Die 20 zusätzlichen Animationsfilm-Identitäten über die TMDB-API anhand Titel, Jahr, Regie und Posterpfad bestätigt. Der konkrete gemeldete Frageweg liefert `https://www.themoviedb.org/movie/22527` samt erreichbarem Posterbild (HTTP 200). Die vier redigierten Fragen erneut durch den bestehenden CSV-Parser gelesen; Versionen, sichtbare Texte, Antwortidentitäten und Lösungen stimmen. Sämtliche 7.416 übrigen Fragen in den vier angefassten Dateien feldgleich erhalten; Frage-/Wissensziel-IDs, Lösungen, Stufen und Anzahl der korrigierten Fragen unverändert.
+
+Keine Veröffentlichung, produktive Datenbankänderung, Änderung privater Spielstände oder GitHub-Push. Die Posterdatei bleibt lokal als erforderliche Grundlage der nächsten ausdrücklich freigegebenen Veröffentlichung erhalten; keine zusätzlichen Lieferarchive oder Vorher-/Nachher-Protokolle angelegt.
+
 ## Animation und Serien – vollständig lokal geprüft
 
 1.104 neue Fragen / 1.104 neue Wissensziele zu jeweils 50 Animationsfilmen, Science-Fiction-, Fantasy- und anderen Serien. 350 leicht, 404 mittel, 350 schwer; keine neuen Varianten. 241 vorhandene Werkziele bei 28 Filmen angerechnet; alle 19.403 bisherigen Frageobjekte gegenüber dem aktuellen Main feldgleich erhalten. Neue Filmblöcke mit 2/2/2 Inhaltszielen plus Jahr/Regie, alle Serien mit 2/2/2 unabhängigen Zielen. [Verteilung, Belege und Längenfälle](Animation-und-Serien.md).

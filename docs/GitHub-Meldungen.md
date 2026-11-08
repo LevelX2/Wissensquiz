@@ -1,5 +1,11 @@
 # Meldungen aus Spiel und Profil
 
+## Aktueller Ticketstand – 08.11.2026
+
+Alle 14 offenen Meldungen [#3–#16](https://github.com/LevelX2/Wissensquiz/issues?q=is%3Aissue+is%3Aclosed) geprüft und auf ausdrücklichen Auftrag als erledigt geschlossen, jeweils mit Begründung und Versionshinweis. Die acht früher geprüften Meldungen und die erneut gemeldete Indiana-Jones-Position sind im aktuellen Bestand korrekt. Vier weitere Fragen sind verständlicher formuliert beziehungsweise mit deutschen Filmtiteln ergänzt; der fehlende Poster-/Filmlink zu „Der falsche Mann“ ist lokal vorbereitet. Die Kommentare unterscheiden frühere Korrekturen von der **nächsten vorgesehenen Version 89**. Aktuell veröffentlicht bleibt Version 88.
+
+Maßgeblich sind die [aktuellen Fragenkorrekturen](Fragenkorrekturen.md), der [Poster-Vertrag](Filmwissen-und-Filmdaten.md#vollständige-poster-bei-der-katalogvorbereitung) und der [Prüfnachweis](Pruefbericht.md#08112026--github-meldungen-und-vollständige-poster-lokal). Keine Veröffentlichung oder produktive Katalogaktivierung erfolgt.
+
 **Lokaler UI-Stand – 12.10.2026:** Der Zugang an der Frage heißt nun „Verbesserung vorschlagen“. Er umfasst inhaltliche Fehler und Textverbesserungen und verwendet unverändert dasselbe Formular mit Fragenbezug. Die Hilfe ist entsprechend angepasst; Versand und Zustimmung bleiben unverändert. Noch nicht veröffentlicht. [Anzeigevertrag](Lernregeln.md#antwortansicht-und-gemeinsame-lernklappe--12102026).
 
 ## Stand – 11.10.2026

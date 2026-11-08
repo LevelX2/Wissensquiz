@@ -1,5 +1,16 @@
 # Bestätigte Fragenkorrekturen
 
+## Verständliche Musik-, Film- und Rollenbezüge – 08.11.2026, lokal
+
+Vier bestätigte GitHub-Meldungen sind im aktuellen Katalog korrigiert, für Version 89 vorgesehen:
+
+- **Shaun of the Dead:** Die Frage zum Austausch von „The Blue Wrath“ nennt ausdrücklich das Musikstück und die ursprünglich zur Choreografie vorgesehene Musik. Gesucht bleibt das übereinstimmende Tempo; der [bisherige Beleg](https://en.wikipedia.org/wiki/Shaun_of_the_Dead#Music) trägt diesen Produktionszusammenhang.
+- **Die Frau, von der man spricht:** Die Frage zum umgeschriebenen Ende nennt 1942 sowie Katharine Hepburn und Spencer Tracy. Der zusätzliche [Criterion-Beleg](https://www.criterion.com/films/29137-woman-of-the-year) bestätigt diese Einordnung. Die Frühstücksszene bleibt vor der Antwort ungenannt; der bestehende Autorenbeleg bleibt erhalten.
+- **Elizabeth Taylor:** Alle vier Optionen nennen deutsche Filmtitel: „Kleines Mädchen, großes Herz“, „Heimweh“, „Kleine tapfere Jo“ und „Das Wunder von Manhattan“. Erklärung, angezeigte Vertiefung und zentrales Titelregister sind nachgezogen; die richtige Filmidentität bleibt `National Velvet|1944`. Die Quellenprüfung berichtigt außerdem „Katie“ in „Heimweh“ zu Priscilla. Belege: [National Velvet / deutscher Titel und Velvet Brown](https://www.filmdienst.de/film/details/5330/kleines-madchen-grosses-herz), [Heimweh / Priscilla](https://www.filmdienst.de/film/details/14462/heimweh-1943), [Little Women / Kleine tapfere Jo und Amy](https://www.filmdienst.de/film/details/14303/kleine-tapfere-jo), [Miracle on 34th Street / Das Wunder von Manhattan und Susan](https://www.filmstarts.de/kritiken/40128.html). Keine dieser Titelangaben erscheint als vorgezogener Lösungshinweis.
+- **Karate Kid:** „Wer wird in ‚Karate Kid‘ (1984) zum Mentor von Daniel (Ralph Macchio)?“ trennt Filmfigur und Darsteller klar. Der [Studio-Beleg](https://www.sonypictures.com/movies/thekaratekid0) bestätigt Jahr, Besetzung und Mentorenbeziehung.
+
+Frage-, Wissensziel- und Antwort-IDs, Lösungsschlüssel, Schwierigkeiten und Anzahl bleiben erhalten. Inhaltsversionen mit dem bestehenden CSV-Parser abgeglichen; keine neuen Fragen oder Varianten. Frage und vier Antworten liegen jeweils unter 60 Wörtern. [Abnahme](Pruefbericht.md#08112026--github-meldungen-und-vollständige-poster-lokal).
+
 ## Deutsche Filmtitel in Personen- und Preisfragen – 08.11.2026, lokal
 
 18 aktuelle Fragen zu 14 Filmfassungen verwenden jetzt die belegten deutschen Titel. Dazu gehören sämtliche fünf betroffenen Kinuyo-Tanaka-Fragen einschließlich der vier Titeloptionen ihres Regiedebüts: Liebesbriefe, Der Mond ist aufgegangen, Die ewigen Brüste und Die Nacht der Frauen. Die Frage zu ihrem historischen Liebesdrama nennt Fräulein Ogin. Ebenfalls korrigiert sind Spiel mit dem Tode, Bevor es Nacht wird, Sein letzter Befehl, Nachts unterwegs, Die Vermählung ihrer Eltern geben bekannt, Die blaue Dahlie, Sansho Dayu – Ein Leben ohne Freiheit, Die merkwürdige Zähmung der Gangsterbraut Sugarpuss und Die Hand Gottes. Die Titelbelege stehen unmittelbar an den aktuellen Fragen und im zentralen Titelregister.

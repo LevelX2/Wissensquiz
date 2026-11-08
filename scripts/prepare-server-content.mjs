@@ -51,6 +51,10 @@ try {
   const posters = JSON.parse(
     await readFile("public/film-posters.json", "utf8"),
   );
+  const { assertFilmPosterCoverage } = await server.ssrLoadModule(
+    "/scripts/film-poster-coverage.ts",
+  );
+  assertFilmPosterCoverage(questions, posters);
   const levels = JSON.parse(
     await readFile("src/filmFamiliarity.json", "utf8"),
   ).films;
