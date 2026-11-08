@@ -1,4 +1,5 @@
-import { familiarityOf } from "../../src/familiarity";
+import { familiarityOf, workFamiliarityOf } from "../../src/familiarity";
+import { prepareQuestionWorks } from "../../src/prepareWorkReferences";
 import { writeStoredState, fixCalendarTime } from "./fixtures";
 import { learningPathProgress } from "../../src/learningPath";
 import { test, expect } from "./fixtures";
@@ -16,14 +17,15 @@ addPackages(
     text: readFileSync(pkg.path, "utf8"),
   })),
 );
-const questions = full.questions;
+const questions = prepareQuestionWorks(full.questions);
 const goals = (difficulty: string) => [
   ...new Map(
     questions
       .filter(
         (q) =>
-          q.metadata.subdomain === "Horror" &&
-          !q.tags.includes("Preisträger") &&
+          q.works?.some(
+            (work) => work.type === "film" && work.genres.includes("Horror"),
+          ) &&
           q.difficulty === difficulty,
       )
       .map((q) => [q.knowledgeId, q]),
@@ -65,7 +67,14 @@ for (const scenario of [
     });
     const stageGoals = (d: string) =>
       goals(d).filter(
-        (q) => scenario !== "filmgruppe" || familiarityOf(q) === 1,
+        (q) =>
+          scenario !== "filmgruppe" ||
+          q.works?.some(
+            (work) =>
+              work.type === "film" &&
+              work.genres.includes("Horror") &&
+              workFamiliarityOf(work) === 1,
+          ),
       );
     const state = emptyState(questions);
     state.settings = {
@@ -101,13 +110,16 @@ for (const scenario of [
       ),
     ];
 
-    for (let i = 0; i < historyQuestions.length; i += 10) {
+    // Eight-question setup rounds keep the current catalog's final answer away
+    // from the separate 50-round achievement and its stronger success signal.
+    const historyBatchSize = 8;
+    for (let i = 0; i < historyQuestions.length; i += historyBatchSize) {
       const history = startRound(
         state,
         { mode: "ueben", topic: "Alle Themen", difficulty: "Alle Stufen" },
         1700000000000 + i * 100,
       );
-      history.questions = historyQuestions.slice(i, i + 10);
+      history.questions = historyQuestions.slice(i, i + historyBatchSize);
       history.order = history.questions.map((q) => q.answers.map((a) => a.id));
       history.familiaritySnapshot = Object.fromEntries(
         history.questions.map((q) => [q.id, familiarityOf(q)!]),

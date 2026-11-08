@@ -3,8 +3,10 @@ import AxeBuilder from "@axe-core/playwright";
 import { readFileSync } from "node:fs";
 import { addPackages, packages } from "../../src/packages";
 import { emptyState } from "../../src/model";
-import { genreOf, questionSourceOf } from "../../src/filters";
-import { categories, isCategory, type Category } from "../../src/categories";
+import { questionSourceOf } from "../../src/filters";
+import { categories } from "../../src/categories";
+import { workReferencesOf } from "../../src/workAttributes";
+import { prepareQuestionWorks } from "../../src/prepareWorkReferences";
 
 test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzelne Filmauswahl", async ({
   page,
@@ -25,6 +27,7 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
       text: readFileSync(`${p.path}`, "utf8"),
     })),
   );
+  state.questions = prepareQuestionWorks(state.questions);
   const readState = () => readStoredState(page);
   const before = await readState();
   for (const [name, film] of [
@@ -43,10 +46,14 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
     );
     const qs = state.questions.filter((q) =>
       name === "Horror"
-        ? questionSourceOf(q) === "film" && genreOf(q) === name
+        ? workReferencesOf(q).some(
+            (work) => work.type === "film" && work.genres.includes(name),
+          )
         : name === "Preisträger"
           ? questionSourceOf(q) === "awards"
-          : isCategory(q, name as Category),
+          : workReferencesOf(q).some((work) =>
+              work.collections?.includes(name),
+            ),
     );
     const expectedTopics = [...new Set(qs.map((q) => q.topic))].sort();
     expect(await page.locator(".topic-card h3").allTextContents()).toEqual(
@@ -81,9 +88,13 @@ test("Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzel
       ).toEqual([]);
       await page.getByRole("button", { name: "Zur Themenübersicht" }).click();
       const genreCount = new Set(
-        state.questions
-          .filter((q) => questionSourceOf(q) === "film")
-          .map(genreOf),
+        state.questions.flatMap((q) =>
+          workReferencesOf(q).flatMap((work) =>
+            work.genres.map((genre) =>
+              work.type === "series" ? `Serien · ${genre}` : genre,
+            ),
+          ),
+        ),
       ).size;
       await expect(page.locator(".topic-card")).toHaveCount(
         genreCount + categories.length,
