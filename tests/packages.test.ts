@@ -10,6 +10,7 @@ import { emptyState } from "../src/model";
 import { questionSourceOf } from "../src/filters";
 import { validateBackup } from "../src/backupValidation";
 import { catalogCounts } from "./catalog-counts";
+import { startRound } from "../src/engine";
 
 const inputs = packages.map((p) => ({
   filename: p.filename,
@@ -49,6 +50,25 @@ it("liefert unabhängig von der Einlesereihenfolge exakt dieselben Fragen und Wi
   addPackages(forward, inputs);
   addPackages(backward, [...inputs].reverse());
   expect(ordered(backward)).toEqual(ordered(forward));
+});
+
+it("validiert den Gesamtkatalog über 20.000 Fragen auch als Auswahlpool eines Zeitkontolaufs", () => {
+  const state = emptyState();
+  addPackages(state, inputs);
+  expect(state.questions.length).toBeGreaterThan(20000);
+  const round = startRound(
+    state,
+    {
+      mode: "zeitkonto",
+      topic: "Alle Themen",
+      difficulty: "Alle Stufen",
+      recordPreset: "custom",
+      now: Date.UTC(2026, 10, 8),
+    },
+    Date.UTC(2026, 10, 8),
+  );
+  expect(round.run?.pool).toHaveLength(state.questions.length);
+  expect(() => validateBackup(state)).not.toThrow();
 });
 
 it("liest aktuelle Quellen erneut ohne Duplikate und verändert keine Ereignisse oder Rundensnapshots", () => {

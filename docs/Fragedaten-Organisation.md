@@ -68,6 +68,8 @@ Der Browser lädt einzelne Fragen aus dem aktuellen Onlinebestand. Die redaktion
 
 ## Prüfung und Grenzen
 
+Die interne Vollkatalogvalidierung erlaubt bis zu 100.000 Fragen und zugehörige Katalog-IDs. Auswahlpool und Warteschlange eines Zeitkontolaufs verwenden dieselbe Obergrenze. Der aktuelle Werkbestand überschreitet 20.000 Fragen und wird einschließlich eines daraus gestarteten Zeitkontolaufs geprüft. Dies ergänzt keine Sicherungsoberfläche und ändert keine Onlineablage.
+
 `npm run check:questions` prüft den aktuellen Gesamtkatalog: Schema, eindeutige IDs, Variantenbezüge, Bereichszuordnung, von der Einlesereihenfolge unabhängige Inhalte, wiederholtes Einlesen, Sicherungsvalidierung und verlustfreie Metadatenkodierung. Der aktuelle Nachweis steht in [Fragedaten-Pruefung.json](Fragedaten-Pruefung.json).
 
 Bei der Umorganisation wurden sämtliche Felder der 19.303 bestehenden Fragen mit dem zuvor tatsächlich aufgebauten Katalog verglichen. Inhalte, Antworten, Quellen, Versionen und Wissensziel-IDs sind unverändert. Der über nach Fragen-ID und Objektschlüsseln sortierte Daten gebildete SHA-256 ist vor und nach der Umorganisation `5e176851d58d94879b7c874e460f8d0c8d0170c45d769fa4965e75e8e3c809fb`.

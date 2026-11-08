@@ -98,8 +98,8 @@ export const roundSchema = z.object({
   run: z
     .object({
       version: z.literal(1),
-      pool: z.array(id).max(20000),
-      queue: z.array(id).max(20000),
+      pool: z.array(id).max(100000),
+      queue: z.array(id).max(100000),
       cycle: z.number().int().positive(),
       bankMs: z.number().finite().min(0).max(BANK_START),
       ended: z.boolean(),
@@ -116,8 +116,8 @@ export const roundSchema = z.object({
 });
 export const stateSchema = z.object({
   schemaVersion: z.literal(1),
-  questions: z.array(questionSchema).max(20000),
-  bundledQuestionIds: z.array(id).max(20000).optional(),
+  questions: z.array(questionSchema).max(100000),
+  bundledQuestionIds: z.array(id).max(100000).optional(),
   rounds: z.array(roundSchema).max(100000),
   events: z
     .array(
