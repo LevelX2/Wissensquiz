@@ -1,5 +1,7 @@
 # Öffentliche Bestenliste und Gastaktivität
 
+**08.11.2026 – Rekordlauf-Level lokal vereinheitlicht:** Eigene und gemeinsame Rekordläufe zeigen das aktuelle Karrierelevel wie im Profil, auch bei alten Ergebnissen. Zuvor lieferte die persönliche Liste fest null XP, die gemeinsame Liste Wettbewerbs-XP. Die eigenständige Wettbewerbswertung im Karrierebereich bleibt erhalten. Serverkorrektur vorbereitet, noch nicht produktiv aktiviert. [Zeitbezug, Quelle und Prüfung](Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal).
+
 ## Ungenutzter Gastmelder entfernt – 25.10.2026, lokal
 
 Die frühere lokale Gastaktivitäts-Warteschlange `guestActivityDelivery.ts` wurde nach Aufruferprüfung samt ihren ausschließlichen Tests entfernt. Sie war bereits nicht mehr Teil des vom Browser-Einstieg erreichbaren Codes. Die folgenden Angaben zur IndexedDB-Gastablage, lokalen Zustellbelegen und deren Wiederholungsmechanik dokumentieren den früheren Stand. Der aktuelle Gastablauf ist die befristete [Proberunde](Anmeldung-und-Online-Spielstand.md). Die öffentliche Siebentagesabfrage in `GuestActivity.tsx` und bestehende Datenbankverträge sind durch diese Quellcodebereinigung unverändert; die vorhandenen Datenbanktests bleiben erhalten. [Abnahme der Entfernung](Pruefbericht.md#25102026--bestätigte-ungenutzte-altmodule-entfernt-lokal).

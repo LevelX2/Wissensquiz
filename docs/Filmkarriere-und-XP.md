@@ -1,5 +1,7 @@
 # Filmkarriere und Erfahrungspunkte
 
+**08.11.2026 – Level in Rekordlisten, lokal:** Auch ältere eigene und gemeinsame Rekordläufe zeigen beim Abruf das aktuelle Karrierelevel und den aktuellen Titel wie im Profil. Punkte und Platzierung bleiben laufbezogen. Die Serverkorrektur ist noch nicht produktiv aktiviert. [Anzeigevertrag und Ursache](Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal).
+
 **25.10.2026 – Getrennte Highscore-Wertungen, lokal:** „Lernfortschritt · Karriere-XP“ zeigt dieselben aktuellen Karriere-XP, Level und Titel wie das Profil. Daneben bleibt „Wettbewerbs-XP“ mit eigener Wertung erhalten. Karriere ist der Standardeinstieg im gleichnamigen Highscore-Bereich. Seit Version 85 veröffentlicht; [Quellen, Darstellung und Einführung](Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal).
 
 **17.10.2026 – Darstellungsänderung, seit Version 83 veröffentlicht:** Levelaufstieg, Erfolge und Freischaltungen erhalten gleichwertige Emblemkarten. Das Kronenmotiv erscheint identisch im Feierdialog und in den Karriereanzeigen. Die frühere visuelle Priorität Level vor Abzeichen vor Freischaltung entfällt; XP-Regeln, Levelkurve und das einmalige gemeinsame Signal bleiben erhalten. [Aktueller Darstellungsvertrag](Erfolge.md#gemeinsame-embleme-und-gleichwertige-feier--17102026).

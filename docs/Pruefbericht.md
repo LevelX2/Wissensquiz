@@ -1,5 +1,13 @@
 # Prüfnachweis
 
+## 08.11.2026 – Aktuelles Karrierelevel in Rekordlisten, lokal
+
+Persönliche Rekordläufe lieferten bisher immer null XP, die gemeinsame Liste Wettbewerbs-XP. Beide Abfragen lesen jetzt die vorhandene globale Karriereprojektion wie das Profil. Fachlich gilt das aktuelle Level zum Listenabruf auch für alte Läufe; UI-Hinweis ergänzt. Migration `20261108074025_record_run_career_level.sql` ersetzt nur die beiden Abfragefunktionen und erhält deren Ausführungsrechte. Keine produktive Aktivierung und keine Änderung echter Konten oder Spielstände.
+
+Die zwei gezielt ausgeführten Regressionstests scheiterten vor der Korrektur an den falschen XP-Werten. Anschließend **29 Tests in drei Dateien erfolgreich**: `leaderboard-integrity`, `ranked-runs` und `career`. Die echte Migrationsfolge läuft in isoliertem PGlite. Nachgewiesen sind Übereinstimmung mit dem serverberechneten Profilfortschritt, mehrere ältere Läufe desselben Kontos mit Level 12/Cineast, ein zweites Konto mit anderem Level, späterer Aufstieg auf Level 13 mit ansonsten feldgleichen Ergebnissen sowie anonyme öffentliche Rückgabe ohne private Felder. Die bestehende private Seitennavigation und Kontentrennung sind ebenfalls geprüft. Keine Testantworten gegen echte Konten.
+
+`npm run check` (Laufzeitmetadaten und TypeScript) und `git diff --check` erfolgreich. Kein vollständiger Testlauf, Produktionsbuild oder Browserlauf für diese begrenzte Korrektur. Supabase CLI 3.0.0: `supabase db advisors --type security` lokal versucht, mangels laufendem PostgreSQL unter `127.0.0.1:54322` mit `ECONNREFUSED` nicht ausführbar; kein erfolgreicher Advisor-Lauf behauptet. Vor einer späteren Veröffentlichung gelten die gebündelten Prüfungen aus `AGENTS.md` einschließlich Aktivierung und Rechteprüfung der Migration.
+
 ## 07.11.2026 – Version 88 veröffentlicht und live abgenommen
 
 Um 23:44:14 Uhr Europe/Berlin als Version 88 veröffentlicht. 100 Oscarfragen gehören vollständig zu Preisträger; aktueller Katalog 19.403 Fragen / 18.650 Ziele / 380 Preisfragen. Drei Fachbereiche in 14 aktuellen Dateien, Filmfragen nach Genre. Bestehende Fragenfelder, IDs, Wissensziele und private Lernbelege erhalten. [Dauerhafter Veröffentlichungsnachweis](Veroeffentlichung-2026-11-07-Version-88.json).

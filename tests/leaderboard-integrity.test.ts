@@ -7,6 +7,7 @@ import { OnlineGameStore } from "../src/onlineGameStore";
 import { questionSchema } from "../src/model";
 import { startRound, answer, complete } from "../src/engine";
 import { LearningSession } from "../src/learningRuns";
+import { careerProgress, levelThreshold } from "../src/career";
 
 let fixture: Awaited<ReturnType<typeof syncFixture>>, release: TestContent;
 beforeAll(async () => {
@@ -183,7 +184,16 @@ it("ignoriert erfundene Speicherwerte, zählt Serverläufe einmal und erhält pr
         )
       ).rows,
   );
-  expect(entries.every((e) => e.experience === 86)).toBe(true);
+  expect(entries.every((e) => e.experience === store.read().experience)).toBe(
+    true,
+  );
+  const ownEntries = await api.call<{ experience: number }[]>(
+    "quiz_own_record_runs",
+    { selected_category: score, selected_period: "all", page_offset: 0 },
+  );
+  expect(ownEntries.map((e) => e.experience)).toEqual(
+    entries.map((e) => e.experience),
+  );
   expect(await players(owner, "accuracy")).toEqual([]);
   expect(
     await as(
@@ -269,6 +279,118 @@ it("zeigt aktuellen Lernfortschritt getrennt vom Wettbewerb und übernimmt nur b
       (r) => r.is_mine,
     ),
   ).toEqual(await ownCareer());
+});
+
+it("zeigt bei allen Rekordläufen das aktuelle Karrierelevel auch nach einem späteren Aufstieg", async () => {
+  const { owner, api } = await fixture.client();
+  const other = await fixture.client();
+  const session = await solo(api);
+  const otherSession = await solo(other.api);
+  const runId = session.run!.id;
+  const category = "career-level-" + runId;
+  type Entry = { experience: number; is_mine: boolean };
+  const own = () =>
+    api.call<Entry[]>("quiz_own_record_runs", {
+      selected_category: category,
+      selected_period: "all",
+      page_offset: 0,
+    });
+  const shared = (player = owner, role = "authenticated") =>
+    as(
+      player,
+      async () =>
+        (
+          await fixture.db.query<Entry>(
+            "select * from public.quiz_record_runs($1,'all',0)",
+            [category],
+          )
+        ).rows,
+      role,
+    );
+  await fixture.db.exec("begin");
+  try {
+    await fixture.db.query(
+      "update quiz_ranked_internal.runs set category=$2,points=1246,finished_at=now()-interval '2 days' where id=$1",
+      [runId, category],
+    );
+    await fixture.db.query(
+      `insert into quiz_ranked_internal.runs
+      select (jsonb_populate_record(null::quiz_ranked_internal.runs,to_jsonb(r)||
+        jsonb_build_object('id',gen_random_uuid(),'start_request_id',gen_random_uuid(),
+          'points',712,'finished_at',now()-interval '1 day'))).*
+      from quiz_ranked_internal.runs r where r.id=$1`,
+      [runId],
+    );
+    await fixture.db.query(
+      "update quiz_ranked_internal.runs set category=$2,points=900 where id=$1",
+      [otherSession.run!.id, category],
+    );
+    for (const [player, xp] of [
+      [owner, levelThreshold(12)],
+      [other.owner, levelThreshold(5)],
+    ] as const)
+      await fixture.db.query(
+        `insert into public.quiz_player_totals(owner_id,genre,difficulty,experience)
+        values($1,'','',$2) on conflict(owner_id,genre,difficulty)
+        do update set experience=excluded.experience`,
+        [player, xp],
+      );
+    const before = await own();
+    expect(before).toHaveLength(2);
+    expect(before.every((e) => e.experience === levelThreshold(12))).toBe(true);
+    for (const entry of before)
+      expect(careerProgress(entry.experience)).toMatchObject({
+        level: 12,
+        title: "Cineast",
+      });
+    const sharedBefore = await shared();
+    expect(
+      sharedBefore.filter((e) => e.is_mine).map((e) => e.experience),
+    ).toEqual(before.map((e) => e.experience));
+    expect(sharedBefore.find((e) => !e.is_mine)?.experience).toBe(
+      levelThreshold(5),
+    );
+    await fixture.db.query(
+      "update public.quiz_player_totals set experience=$2 where owner_id=$1 and genre='' and difficulty=''",
+      [owner, levelThreshold(13)],
+    );
+    const after = await own();
+    expect(after).toEqual(
+      before.map((e) => ({ ...e, experience: levelThreshold(13) })),
+    );
+    expect(await shared()).toEqual(
+      sharedBefore.map((e) => ({
+        ...e,
+        experience: e.is_mine ? levelThreshold(13) : e.experience,
+      })),
+    );
+    const anonymous = await shared("", "anon");
+    expect(anonymous.every((e) => !e.is_mine)).toBe(true);
+    expect(anonymous.map((e) => e.experience)).toEqual([
+      levelThreshold(13),
+      levelThreshold(5),
+      levelThreshold(13),
+    ]);
+    expect(
+      anonymous.every(
+        (e) =>
+          Object.keys(e).sort().join(",") ===
+          "answers,correct,elapsed_ms,experience,finished_at,is_mine,place,player_name,points",
+      ),
+    ).toBe(true);
+  } finally {
+    await fixture.db.exec("rollback");
+  }
+  await expect(
+    as(
+      "",
+      () =>
+        fixture.db.query("select public.quiz_own_record_runs($1,'all',0)", [
+          category,
+        ]),
+      "anon",
+    ),
+  ).rejects.toThrow(/permission denied/);
 });
 
 it("begrenzt Karriere-Seiten, teilt Gleichstände und schützt Kontozugriff und interne Summen", async () => {
