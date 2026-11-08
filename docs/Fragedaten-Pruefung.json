@@ -1,17 +1,17 @@
 {
   "format": "current-question-catalog-v1",
   "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
-  "catalogSha256": "939cb2b3a47cd94eaf6451852c2813a75554ad882031b577498d83b961c7ac63",
+  "catalogSha256": "bf9e6d676761d9b85d4a5a9e621074ac0bc62399cdfae3fd1d5624895beaa814",
   "counts": {
     "sources": 3,
     "sourceFiles": 15,
-    "questions": 19925,
-    "knowledgeGoals": 19172,
+    "questions": 19979,
+    "knowledgeGoals": 19226,
     "duplicateQuestionIds": 0,
     "questionsWithVariantReference": 753
   },
   "areas": {
-    "film": 16121,
+    "film": 16175,
     "actors": 3424,
     "awards": 380
   },
@@ -587,51 +587,51 @@
     },
     {
       "attributes": "film|Science-Fiction|leicht|1",
-      "count": 58
+      "count": 60
     },
     {
       "attributes": "film|Science-Fiction|leicht|2",
-      "count": 142
+      "count": 154
     },
     {
       "attributes": "film|Science-Fiction|leicht|3",
-      "count": 115
+      "count": 117
     },
     {
       "attributes": "film|Science-Fiction|leicht|4",
-      "count": 47
+      "count": 49
     },
     {
       "attributes": "film|Science-Fiction|mittel|1",
-      "count": 57
+      "count": 59
     },
     {
       "attributes": "film|Science-Fiction|mittel|2",
-      "count": 248
+      "count": 260
     },
     {
       "attributes": "film|Science-Fiction|mittel|3",
-      "count": 211
+      "count": 213
     },
     {
       "attributes": "film|Science-Fiction|mittel|4",
-      "count": 100
+      "count": 102
     },
     {
       "attributes": "film|Science-Fiction|schwer|1",
-      "count": 38
+      "count": 40
     },
     {
       "attributes": "film|Science-Fiction|schwer|2",
-      "count": 133
+      "count": 145
     },
     {
       "attributes": "film|Science-Fiction|schwer|3",
-      "count": 150
+      "count": 152
     },
     {
       "attributes": "film|Science-Fiction|schwer|4",
-      "count": 53
+      "count": 55
     },
     {
       "attributes": "film|Thriller|leicht|1",
