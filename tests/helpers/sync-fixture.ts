@@ -39,7 +39,7 @@ export async function syncFixture(stopBefore?: string) {
       create function quiz_ranked_internal.test_clock() returns timestamptz language sql volatile as $$
       select coalesce(to_timestamp(nullif(current_setting('quiz.test_now',true),'')::double precision/1000),clock_timestamp())$$;
       do $patch$declare f record;begin
-        for f in select p.oid::regprocedure as name from pg_proc p join pg_namespace n on n.oid=p.pronamespace where n.nspname in ('quiz_ranked_internal','quiz_game_internal') and p.proname<>'test_clock'
+        for f in select p.oid::regprocedure as name from pg_proc p join pg_namespace n on n.oid=p.pronamespace where n.nspname in ('quiz_ranked_internal','quiz_game_internal','quiz_hot_seat_internal') and p.proname<>'test_clock'
         loop execute replace(pg_get_functiondef(f.name),'clock_timestamp()','quiz_ranked_internal.test_clock()');end loop;
       end$patch$;
       alter table quiz_ranked_internal.runs alter column created_at set default quiz_ranked_internal.test_clock();
@@ -57,6 +57,7 @@ export async function syncFixture(stopBefore?: string) {
   argumentsByName.quiz_own_record_categories = ["selected_mode"];
   argumentsByName.quiz_ranked_call = ["request_text"];
   argumentsByName.quiz_game_call = ["request_text"];
+  argumentsByName.quiz_hot_seat_call = ["request_text"];
   argumentsByName.quiz_game_view = ["request_text"];
   argumentsByName.quiz_game_activate = [
     "expected_owner",

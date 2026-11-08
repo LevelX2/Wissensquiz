@@ -4,6 +4,7 @@ import { requestWithin } from "./request";
 import { CloudConflict, CloudSaveError } from "./accounts";
 import { RankedRunError, rankedMessages } from "./rankedErrors";
 import { LearningRunError, learningMessages } from "./learningErrors";
+import { HotSeatError, hotSeatMessages } from "./hotSeatErrors";
 import { objectHashes } from "./syncReferences";
 import {
   verifyObject,
@@ -63,6 +64,10 @@ export class SupabaseEntryRemote implements SyncRemote {
             .rpc(name, args)
             .abortSignal(signal);
           if (error) {
+            if (name === "quiz_hot_seat_call") {
+              const code = Object.keys(hotSeatMessages).find((key) => error.message.includes(key));
+              if (code) throw new HotSeatError(code);
+            }
             if (name === "quiz_game_call") {
               const code = Object.keys(learningMessages).find((key) =>
                 error.message.includes(key),
