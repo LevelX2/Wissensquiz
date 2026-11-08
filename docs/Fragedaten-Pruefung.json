@@ -1,17 +1,17 @@
 {
   "format": "current-question-catalog-v1",
   "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
-  "catalogSha256": "f34d4d3f9ddcee8a8d7acac20c6d0c765c7d311e67fdf985f61192531aee3e29",
+  "catalogSha256": "1b67b22a5d2448fe46b6545054005b04de0928941d9d709b1e21d00a7f43a4d3",
   "counts": {
     "sources": 3,
     "sourceFiles": 15,
-    "questions": 20213,
-    "knowledgeGoals": 19460,
+    "questions": 20267,
+    "knowledgeGoals": 19514,
     "duplicateQuestionIds": 0,
     "questionsWithVariantReference": 753
   },
   "areas": {
-    "film": 16409,
+    "film": 16463,
     "actors": 3424,
     "awards": 380
   },
@@ -251,11 +251,11 @@
     },
     {
       "attributes": "film|Drama|leicht|1",
-      "count": 30
+      "count": 36
     },
     {
       "attributes": "film|Drama|leicht|2",
-      "count": 98
+      "count": 100
     },
     {
       "attributes": "film|Drama|leicht|3",
@@ -267,11 +267,11 @@
     },
     {
       "attributes": "film|Drama|mittel|1",
-      "count": 48
+      "count": 54
     },
     {
       "attributes": "film|Drama|mittel|2",
-      "count": 185
+      "count": 187
     },
     {
       "attributes": "film|Drama|mittel|3",
@@ -283,11 +283,11 @@
     },
     {
       "attributes": "film|Drama|schwer|1",
-      "count": 22
+      "count": 28
     },
     {
       "attributes": "film|Drama|schwer|2",
-      "count": 94
+      "count": 96
     },
     {
       "attributes": "film|Drama|schwer|3",
@@ -395,7 +395,7 @@
     },
     {
       "attributes": "film|Komödie|leicht|1",
-      "count": 43
+      "count": 45
     },
     {
       "attributes": "film|Komödie|leicht|2",
@@ -403,7 +403,7 @@
     },
     {
       "attributes": "film|Komödie|leicht|3",
-      "count": 133
+      "count": 137
     },
     {
       "attributes": "film|Komödie|leicht|4",
@@ -411,7 +411,7 @@
     },
     {
       "attributes": "film|Komödie|mittel|1",
-      "count": 72
+      "count": 74
     },
     {
       "attributes": "film|Komödie|mittel|2",
@@ -419,7 +419,7 @@
     },
     {
       "attributes": "film|Komödie|mittel|3",
-      "count": 277
+      "count": 281
     },
     {
       "attributes": "film|Komödie|mittel|4",
@@ -427,7 +427,7 @@
     },
     {
       "attributes": "film|Komödie|schwer|1",
-      "count": 36
+      "count": 38
     },
     {
       "attributes": "film|Komödie|schwer|2",
@@ -435,11 +435,23 @@
     },
     {
       "attributes": "film|Komödie|schwer|3",
-      "count": 131
+      "count": 135
     },
     {
       "attributes": "film|Komödie|schwer|4",
       "count": 35
+    },
+    {
+      "attributes": "film|Krimi|leicht|2",
+      "count": 2
+    },
+    {
+      "attributes": "film|Krimi|mittel|2",
+      "count": 2
+    },
+    {
+      "attributes": "film|Krimi|schwer|2",
+      "count": 2
     },
     {
       "attributes": "film|Martial Arts & Asia-Film|leicht|1",
@@ -691,7 +703,7 @@
     },
     {
       "attributes": "film|Western|leicht|3",
-      "count": 207
+      "count": 209
     },
     {
       "attributes": "film|Western|leicht|4",
@@ -707,7 +719,7 @@
     },
     {
       "attributes": "film|Western|mittel|3",
-      "count": 449
+      "count": 451
     },
     {
       "attributes": "film|Western|mittel|4",
@@ -723,7 +735,7 @@
     },
     {
       "attributes": "film|Western|schwer|3",
-      "count": 209
+      "count": 211
     },
     {
       "attributes": "film|Western|schwer|4",
