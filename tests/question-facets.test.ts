@@ -41,7 +41,9 @@ it("zeigt mehrere Zuordnungen stabil, beschriftet und ohne doppelte Symbole", ()
     "Animation",
     "Classics",
   ]);
-  const html = renderToStaticMarkup(createElement(QuestionFacets, { question }));
+  const html = renderToStaticMarkup(
+    createElement(QuestionFacets, { question }),
+  );
   expect(html).toContain('aria-label="Zuordnungen"');
   for (const label of [
     "Serie",
@@ -54,6 +56,10 @@ it("zeigt mehrere Zuordnungen stabil, beschriftet und ohne doppelte Symbole", ()
     expect(html).toContain(label);
   expect(html).not.toContain("Geheimer Werktitel");
   expect(html).not.toContain("1997");
+  expect((html.match(/<img /g) ?? []).length).toBe(6);
+  expect(html).toContain("genre-series-");
+  expect(html).toContain("genre-animation-");
+  expect(html).not.toContain("<svg");
 });
 it("blendet die jeweilige Merkmalsfamilie aus, wenn Antwortoptionen danach fragen", () => {
   const q = {

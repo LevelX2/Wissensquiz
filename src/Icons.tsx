@@ -1,6 +1,10 @@
 import { uiArtwork } from "./uiArtwork";
 
 export const genreIllustrations: Record<string, string> = {
+  Film: "/genres/film.png",
+  Serie: "/genres/series.png",
+  Animation: "/genres/animation.png",
+  Realfilm: "/genres/live-action.png",
   "Science-Fiction": "/genres/scifi.png",
   Action: "/genres/action.png",
   Horror: "/genres/horror.png",
@@ -29,7 +33,7 @@ export function GenreArtwork({
   if (genre.startsWith("Serien · "))
     return (
       <span className="series-genre-art">
-        <GenreIcon genre="Serie" />
+        <GenreArtwork genre="Serie" compact={compact} />
         <GenreArtwork genre={genre.slice(9)} compact={compact} />
       </span>
     );

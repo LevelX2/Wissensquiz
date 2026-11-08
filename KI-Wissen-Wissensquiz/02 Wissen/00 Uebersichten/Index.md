@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Werkarten und Mehrfachzuordnungen lokal umgesetzt und geprüft: gemeinsame Lernstände, getrennte Film-/Serienpfade, ausgewogene Auswahl und mehrere Symbole; Quellenlinks integriert, noch nicht veröffentlicht](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
+- [Werkarten und Mehrfachzuordnungen: 109 Serienfragen, 561 Fragen zu Animationsfilmen und passende Bildsymbole; gemeinsame Lernstände und getrennte Film-/Serienpfade, lokal](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
 
 - [Quellen und Links: Anordnung, bestätigte Ziele, Quellen und offene Zuordnungen](../../../docs/Quellen-und-Links.md)
 
