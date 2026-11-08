@@ -589,7 +589,10 @@
         "showInQuestion": true
       }
     ],
-    "sources": ["https://gkids.com/films/spirited-away/"]
+    "sources": [
+      "https://gkids.com/films/spirited-away/",
+      "https://en.wikipedia.org/wiki/Spirited_Away"
+    ]
   },
   "Un cuento chino|2011": {
     "titles": [
@@ -942,7 +945,10 @@
         "showInQuestion": true
       }
     ],
-    "sources": ["https://iffr.com/en/iffr/2005/films/howls-moving-castle"]
+    "sources": [
+      "https://iffr.com/en/iffr/2005/films/howls-moving-castle",
+      "https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)"
+    ]
   },
   "De rouille et d'os|2012": {
     "titles": [
@@ -4535,6 +4541,215 @@
       "https://en.wikipedia.org/wiki/Inside_Out_2",
       "https://movies.disney.com/inside-out-2",
       "https://de.wikipedia.org/wiki/Alles_steht_Kopf_2"
+    ]
+  },
+  "Akira|1988": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/Akira_(1988_film)"]
+  },
+  "Aladdin|1992": {
+    "titles": [],
+    "sources": [
+      "https://de.wikipedia.org/wiki/Aladdin_(1992)",
+      "https://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)"
+    ]
+  },
+  "Atlantis: The Lost Empire|2001": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/Atlantis:_The_Lost_Empire"]
+  },
+  "Beauty and the Beast|1991": {
+    "titles": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)"
+    ]
+  },
+  "Beowulf|2007": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/Beowulf_(2007_film)"]
+  },
+  "Brave|2012": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/Brave_(2012_film)"]
+  },
+  "Coco|2017": {
+    "titles": [],
+    "sources": ["https://www.pixar.com/coco"]
+  },
+  "Finding Nemo|2003": {
+    "titles": [],
+    "sources": [
+      "https://www.pixar.com/finding-nemo",
+      "https://de.wikipedia.org/wiki/Findet_Nemo",
+      "https://en.wikipedia.org/wiki/Finding_Nemo",
+      "https://www.moma.org/documents/moma_press-release_387084.pdf"
+    ]
+  },
+  "Frozen|2013": {
+    "titles": [],
+    "sources": [
+      "https://de.wikipedia.org/wiki/Die_Eisk%C3%B6nigin_%E2%80%93_V%C3%B6llig_unverfroren"
+    ]
+  },
+  "Gake no Ue no Ponyo|2008": {
+    "titles": [
+      {
+        "title": "Ponyo",
+        "kind": "international"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Ponyo",
+      "https://gkids.com/films/ponyo/"
+    ]
+  },
+  "Kōkaku Kidōtai|1995": {
+    "titles": [
+      {
+        "title": "Ghost in the Shell",
+        "kind": "international"
+      }
+    ],
+    "sources": ["https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)"]
+  },
+  "La Tortue rouge|2016": {
+    "titles": [
+      {
+        "title": "The Red Turtle",
+        "kind": "international"
+      }
+    ],
+    "sources": ["https://en.wikipedia.org/wiki/The_Red_Turtle"]
+  },
+  "Mononoke Hime|1997": {
+    "titles": [
+      {
+        "title": "Princess Mononoke",
+        "kind": "international"
+      }
+    ],
+    "sources": [
+      "https://de.wikipedia.org/wiki/Prinzessin_Mononoke",
+      "https://gkids.com/films/princess-mononoke/"
+    ]
+  },
+  "Mulan|1998": {
+    "titles": [],
+    "sources": [
+      "https://movies.disney.com/mulan",
+      "https://de.wikipedia.org/wiki/Mulan_(1998)",
+      "https://en.wikipedia.org/wiki/Mulan_(1998_film)"
+    ]
+  },
+  "Něco z Alenky|1988": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/Alice_(1988_film)"]
+  },
+  "Paprika|2006": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/Paprika_(2006_film)"]
+  },
+  "Puss in Boots|2011": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/Puss_in_Boots_(2011_film)"]
+  },
+  "Ratatouille|2007": {
+    "titles": [],
+    "sources": [
+      "https://movies.disney.com/ratatouille",
+      "https://www.pixar.com/ratatouille",
+      "https://de.wikipedia.org/wiki/Ratatouille_(Film)",
+      "https://en.wikipedia.org/wiki/Ratatouille_(film)",
+      "https://catalog.afi.com/Film/55185-RATATOUILLE"
+    ]
+  },
+  "Shrek 2|2004": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/Shrek_2"]
+  },
+  "Shrek|2001": {
+    "titles": [],
+    "sources": [
+      "https://www.thescriptsavant.com/movies/Shrek.pdf",
+      "https://de.wikipedia.org/wiki/Shrek_%E2%80%93_Der_tollk%C3%BChne_Held"
+    ]
+  },
+  "Tarzan|1999": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/Tarzan_(1999_film)"]
+  },
+  "Tenkū no Shiro Rapyuta|1986": {
+    "titles": [
+      {
+        "title": "Castle in the Sky",
+        "kind": "international"
+      },
+      {
+        "title": "Laputa: Castle in the Sky",
+        "kind": "international"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/Castle_in_the_Sky",
+      "https://gkids.com/films/castle-in-the-sky/"
+    ]
+  },
+  "The Adventures of Tintin|2011": {
+    "titles": [
+      {
+        "title": "The Adventures of Tintin: The Secret of the Unicorn",
+        "kind": "international"
+      }
+    ],
+    "sources": ["https://en.wikipedia.org/wiki/The_Adventures_of_Tintin_(film)"]
+  },
+  "The Jungle Book|1967": {
+    "titles": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Jungle_Book_(1967_film)",
+      "https://www.imdb.com/title/tt0061852/plotsummary/"
+    ]
+  },
+  "The Last Unicorn|1982": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/The_Last_Unicorn_(film)"]
+  },
+  "The Lion King|1994": {
+    "titles": [],
+    "sources": [
+      "https://movies.disney.com/the-lion-king",
+      "https://d23.com/a-to-z/lion-king-the-film/",
+      "https://de.wikipedia.org/wiki/Der_K%C3%B6nig_der_L%C3%B6wen_(1994)",
+      "https://en.wikipedia.org/wiki/The_Lion_King"
+    ]
+  },
+  "The Secret of NIMH|1982": {
+    "titles": [],
+    "sources": ["https://en.wikipedia.org/wiki/The_Secret_of_NIMH"]
+  },
+  "The Sword in the Stone|1963": {
+    "titles": [],
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Sword_in_the_Stone_(1963_film)"
+    ]
+  },
+  "Tonari no Totoro|1988": {
+    "titles": [
+      {
+        "title": "My Neighbor Totoro",
+        "kind": "international"
+      }
+    ],
+    "sources": [
+      "https://en.wikipedia.org/wiki/My_Neighbor_Totoro",
+      "https://gkids.com/films/my-neighbor-totoro/"
+    ]
+  },
+  "Up|2009": {
+    "titles": [],
+    "sources": [
+      "https://www.imdb.com/title/tt1049413/plotsummary",
+      "https://disneyworld.disney.go.com/en_CA/entertainment/animal-kingdom/character-meet-kevin/"
     ]
   }
 }

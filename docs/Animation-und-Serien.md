@@ -4,11 +4,11 @@
 
 Die laufende Erweiterung zielt auf zusätzliche Werkfragen zu jeweils mindestens 50 Animationsfilmen, Science-Fiction-Serien, Fantasy-Serien und Serien anderer Genres. Mehrfachgenres werden für diese Mengenziele nur einmal gezählt. Die übergreifende Serienauswahl ist kein Genre. Der vollständige Auftrag ist noch nicht abgeschlossen.
 
-Im aktuellen Arbeitsstand sind 58 zusätzliche Fragen mit 58 eigenständigen Wissenszielen aufgenommen: 40 zu fünf Animationsfilmen und je sechs zu einer Science-Fiction-, Fantasy- und anderen Serie. Verteilung: 16 leicht, 26 mittel, 16 schwer. Die fünf neuen Filmblöcke enthalten je zwei Inhaltsziele pro Schwierigkeit sowie Jahr und vollständige Regie; die Serien je zwei Inhaltsziele pro Schwierigkeit.
+Im aktuellen Arbeitsstand sind 118 zusätzliche Fragen mit 118 eigenständigen Wissenszielen aufgenommen: 100 zu 37 Animationsfilmen und je sechs zu einer Science-Fiction-, Fantasy- und anderen Serie. Verteilung: 30 leicht, 58 mittel, 30 schwer. Die neun erstmals vollständig abgedeckten Filmblöcke enthalten je zwei Inhaltsziele pro Schwierigkeit sowie Jahr und vollständige Regie; die Serien je zwei Inhaltsziele pro Schwierigkeit.
 
 Die aktuelle Redaktion steht unmittelbar in den Fachbeständen. Filmdaten neuer Fassungen liegen in `src/editorialFilmFacts.json`; das Register enthält Metadaten und Belege, keine Fragenkopien. Bestehende Filmmetadaten bleiben führend für bereits abgedeckte Fassungen. Die typisierten Werkbezüge führen Genre und Machart getrennt. Serien enthalten keine pauschale Gesamtregie und keine erfundenen Folgenangaben.
 
-Die bisher hinzugefügten Filme sind Toy Story, Toy Story 2, Toy Story 3, Alles steht Kopf und Alles steht Kopf 2; die Serien sind Raumschiff Enterprise (1966), Game of Thrones und Breaking Bad. Bestehende Rollenkenntnisse zu Woody/Tom Hanks und Rileys Mutter/Diane Lane wurden bei der Wahl neuer Ziele berücksichtigt und nicht erneut erzeugt. Bislang keine neuen Varianten.
+Zu den neun erstmals vollständig abgedeckten Filmen gehören Toy Story 1–3, Alles steht Kopf 1–2, Findet Nemo, Mulan (1998), Der König der Löwen (1994) und Ratatouille. Weitere 28 bereits abgedeckte Sammlungsfilme haben je ein neues Inhaltsziel erhalten; die Serien sind Raumschiff Enterprise (1966), Game of Thrones und Breaking Bad. Bestehende Rollenkenntnisse zu Woody/Tom Hanks und Rileys Mutter/Diane Lane wurden bei der Wahl neuer Ziele berücksichtigt und nicht erneut erzeugt. Bislang keine neuen Varianten.
 
 ## Titel, Belege und Anzeige
 

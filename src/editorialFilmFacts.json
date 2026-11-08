@@ -71,5 +71,61 @@
       "https://movies.disney.com/inside-out-2",
       "https://de.wikipedia.org/wiki/Alles_steht_Kopf_2"
     ]
+  },
+  "Finding Nemo|2003": {
+    "originalTitle": "Finding Nemo",
+    "year": 2003,
+    "directors": ["Andrew Stanton", "Lee Unkrich"],
+    "countries": ["USA"],
+    "releaseNote": "",
+    "directorNote": "Andrew Stanton: Regie; Lee Unkrich: Co-Regie. Vollständiges Team laut MoMA-Programm mit Pixar-Credits.",
+    "sources": [
+      "https://www.pixar.com/finding-nemo",
+      "https://de.wikipedia.org/wiki/Findet_Nemo",
+      "https://en.wikipedia.org/wiki/Finding_Nemo",
+      "https://www.moma.org/documents/moma_press-release_387084.pdf"
+    ]
+  },
+  "Mulan|1998": {
+    "originalTitle": "Mulan",
+    "year": 1998,
+    "directors": ["Barry Cook", "Tony Bancroft"],
+    "countries": ["USA"],
+    "releaseNote": "",
+    "directorNote": "",
+    "sources": [
+      "https://movies.disney.com/mulan",
+      "https://de.wikipedia.org/wiki/Mulan_(1998)",
+      "https://en.wikipedia.org/wiki/Mulan_(1998_film)"
+    ]
+  },
+  "Ratatouille|2007": {
+    "originalTitle": "Ratatouille",
+    "year": 2007,
+    "directors": ["Brad Bird", "Jan Pinkava"],
+    "countries": ["USA"],
+    "releaseNote": "",
+    "directorNote": "Brad Bird: Regie; Jan Pinkava: Co-Regie. Disney führt beide unter Directed By; der Hauptcredit auf der Pixar-Seite nennt Bird.",
+    "sources": [
+      "https://movies.disney.com/ratatouille",
+      "https://www.pixar.com/ratatouille",
+      "https://de.wikipedia.org/wiki/Ratatouille_(Film)",
+      "https://en.wikipedia.org/wiki/Ratatouille_(film)",
+      "https://catalog.afi.com/Film/55185-RATATOUILLE"
+    ]
+  },
+  "The Lion King|1994": {
+    "originalTitle": "The Lion King",
+    "year": 1994,
+    "directors": ["Roger Allers", "Rob Minkoff"],
+    "countries": ["USA"],
+    "releaseNote": "",
+    "directorNote": "",
+    "sources": [
+      "https://movies.disney.com/the-lion-king",
+      "https://d23.com/a-to-z/lion-king-the-film/",
+      "https://de.wikipedia.org/wiki/Der_K%C3%B6nig_der_L%C3%B6wen_(1994)",
+      "https://en.wikipedia.org/wiki/The_Lion_King"
+    ]
   }
 }

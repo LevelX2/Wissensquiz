@@ -1,17 +1,17 @@
 {
   "format": "current-question-catalog-v1",
   "scope": "Aktuelle fachliche Bestände; keine Lieferarchive, Altstände oder Nutzerdaten.",
-  "catalogSha256": "9ad327d56f2b29079fc019fe72ac9eaac1e5e8b74cc0a377c60b9d9346cd6498",
+  "catalogSha256": "a1558bf91bd9e4d8af9aa13a6d28af5c67bb2431a461f85d86f7f3c06877c29a",
   "counts": {
     "sources": 3,
     "sourceFiles": 15,
-    "questions": 19461,
-    "knowledgeGoals": 18708,
+    "questions": 19521,
+    "knowledgeGoals": 18768,
     "duplicateQuestionIds": 0,
     "questionsWithVariantReference": 753
   },
   "areas": {
-    "film": 15657,
+    "film": 15717,
     "actors": 3424,
     "awards": 380
   },
@@ -155,11 +155,11 @@
     },
     {
       "attributes": "film|Abenteuer|leicht|1",
-      "count": 25
+      "count": 32
     },
     {
       "attributes": "film|Abenteuer|leicht|2",
-      "count": 146
+      "count": 147
     },
     {
       "attributes": "film|Abenteuer|leicht|3",
@@ -171,11 +171,11 @@
     },
     {
       "attributes": "film|Abenteuer|mittel|1",
-      "count": 44
+      "count": 57
     },
     {
       "attributes": "film|Abenteuer|mittel|2",
-      "count": 303
+      "count": 304
     },
     {
       "attributes": "film|Abenteuer|mittel|3",
@@ -187,11 +187,11 @@
     },
     {
       "attributes": "film|Abenteuer|schwer|1",
-      "count": 24
+      "count": 30
     },
     {
       "attributes": "film|Abenteuer|schwer|2",
-      "count": 142
+      "count": 143
     },
     {
       "attributes": "film|Abenteuer|schwer|3",
@@ -299,11 +299,11 @@
     },
     {
       "attributes": "film|Fantasy|leicht|1",
-      "count": 54
+      "count": 56
     },
     {
       "attributes": "film|Fantasy|leicht|2",
-      "count": 129
+      "count": 131
     },
     {
       "attributes": "film|Fantasy|leicht|3",
@@ -315,19 +315,19 @@
     },
     {
       "attributes": "film|Fantasy|mittel|1",
-      "count": 113
+      "count": 116
     },
     {
       "attributes": "film|Fantasy|mittel|2",
-      "count": 279
+      "count": 286
     },
     {
       "attributes": "film|Fantasy|mittel|3",
-      "count": 235
+      "count": 236
     },
     {
       "attributes": "film|Fantasy|mittel|4",
-      "count": 64
+      "count": 65
     },
     {
       "attributes": "film|Fantasy|schwer|1",
@@ -335,7 +335,7 @@
     },
     {
       "attributes": "film|Fantasy|schwer|2",
-      "count": 129
+      "count": 132
     },
     {
       "attributes": "film|Fantasy|schwer|3",
@@ -343,7 +343,7 @@
     },
     {
       "attributes": "film|Fantasy|schwer|4",
-      "count": 29
+      "count": 30
     },
     {
       "attributes": "film|Horror|leicht|1",
@@ -395,7 +395,7 @@
     },
     {
       "attributes": "film|Komödie|leicht|1",
-      "count": 39
+      "count": 41
     },
     {
       "attributes": "film|Komödie|leicht|2",
@@ -411,7 +411,7 @@
     },
     {
       "attributes": "film|Komödie|mittel|1",
-      "count": 64
+      "count": 68
     },
     {
       "attributes": "film|Komödie|mittel|2",
@@ -427,7 +427,7 @@
     },
     {
       "attributes": "film|Komödie|schwer|1",
-      "count": 32
+      "count": 34
     },
     {
       "attributes": "film|Komödie|schwer|2",
@@ -607,11 +607,11 @@
     },
     {
       "attributes": "film|Science-Fiction|mittel|2",
-      "count": 235
+      "count": 236
     },
     {
       "attributes": "film|Science-Fiction|mittel|3",
-      "count": 206
+      "count": 207
     },
     {
       "attributes": "film|Science-Fiction|mittel|4",
@@ -627,7 +627,7 @@
     },
     {
       "attributes": "film|Science-Fiction|schwer|3",
-      "count": 145
+      "count": 146
     },
     {
       "attributes": "film|Science-Fiction|schwer|4",
