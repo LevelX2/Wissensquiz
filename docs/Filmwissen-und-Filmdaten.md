@@ -6,7 +6,7 @@ Die offizielle Katalogvorbereitung verlangt für jede Film-/Preisfrage mit eigen
 
 Der am 08.11.2026 öffentlich gelesene Posterindex stammte vom 10.10.2026 und enthielt `The Wrong Man|1956` nicht. Der aktuelle lokale Index ordnet „Der falsche Mann“ [TMDB 22527](https://www.themoviedb.org/movie/22527) zu; die vorbereitete Frage liefert Poster und Filmlink. Zusätzlich sind 20 fehlende Animationsfilm-Zuordnungen anhand Titel, Jahr, Regie und gültigem Bildpfad geprüft und ergänzt. Der lokale Index deckt den gesamten aktuellen Film-/Preisbestand ab: 1.966 Filmfassungen. Veröffentlichung einschließlich neu vorbereiteten Onlinekatalogs für Version 89 vorgesehen; noch nicht aktiviert.
 
-`public/film-posters.json` bleibt ein ignoriertes, reproduzierbares Veröffentlichungsartefakt. Beim Erstellen einer Veröffentlichungskopie den geprüften aktuellen Index mitnehmen beziehungsweise aus den versionierten Filmidentitäten neu vorbereiten. Ein alter Index darf keinen neuen Serverkatalog speisen. [Prüfnachweis](Pruefbericht.md#08112026--github-meldungen-und-vollständige-poster-lokal).
+`public/film-posters.json` bleibt ein ignoriertes, reproduzierbares Veröffentlichungsartefakt. Beim Erstellen einer Veröffentlichungskopie den geprüften aktuellen Index mitnehmen beziehungsweise aus den versionierten Filmidentitäten neu vorbereiten. Ein alter Index darf keinen neuen Serverkatalog speisen. [Prüfnachweis](Pruefbericht.md#version-89-veröffentlicht-und-live-abgenommen).
 
 Aktueller Veröffentlichungsstand: Die abgenommenen Alternativtitel- und Reihenergänzungen sind in **Version 88 vom 07.11.2026** enthalten. Die datierten Einzelabnahmen nennen ihre jeweiligen damaligen Bestände. [Veröffentlichungsnachweis](Veroeffentlichung-2026-11-07-Version-88.json).
 

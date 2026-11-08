@@ -1,6 +1,6 @@
 # Rekordmodi und Zeitranglisten
 
-## Werkarten in Genre-Rekorden – lokal vorbereitet
+## Werkarten in Genre-Rekorden – mit Version 89 veröffentlicht
 
 Ein Genre-Rekord verwendet Werkfragen zu genau einem Genre und genau einer Werkart. „Filmgenre · Sci-Fi“ und „Seriengenre · Sci-Fi“ besitzen getrennte Filter und Kategorien. Der feste Mix bleibt 3 leicht, 4 mittel und 3 schwer; bei Endlosspielen gilt er je Block. Universal umfasst den gemeinsamen aktuellen Bestand. Neue Zuordnungen ergeben keine zusätzlichen Kopien eines Ziels. Laufende Fragen und abgeschlossene Belege bleiben eingefroren. Auswahl, Rundenübersicht und Rekordlisten nennen die Werkart; private Ergebnisse werden nicht umgeschrieben.
 
@@ -62,7 +62,7 @@ Bei einer Trefferquote p und mittlerer Antwortzeit t Sekunden beträgt die mittl
 
 Beide Auswahlen ziehen je Zehnerblock drei leichte, vier mittlere und drei schwere Ziele, innerhalb des Blocks zufällig gemischt. Alle vier Filmgruppen sind eingeschlossen; Experte ist in neuen Rekordspielen ausgeschlossen. Nach Ausschöpfen einer Stufenmenge werden Restplätze aus den verbleibenden Zielen ergänzt. Freie Kombinationen bleiben in Lernmodi möglich; ihre gespeicherten Filter werden durch einen Rekordwechsel nicht verändert. Ungültige frühere Vorbereitungseinstellungen fallen auf Universal zurück. Frühere Sonderwertungen werden lokal beim Neuaufbau und serverseitig aus der Ergebnisprojektion entfernt; ihre Antwortfakten erzeugen weiterhin Lernfortschritt und XP.
 
-Es gibt somit **13 Kategorien je Rekordmodus**: Universal plus zwölf Genres. Nur die aktuelle genaue Regelkennung und der feste Auswahlvertrag werden gewertet. Frühere Filterkombinationen, `.L`-Zusatzregeln, alte Fünferrunden und sonstige Regelkennungen entfallen. Bereits vorhandene Läufe, die dem aktuellen Vertrag entsprechen, bleiben gültig.
+Je Rekordmodus gibt es **Universal sowie getrennte Kategorien für die verfügbaren Film- und Seriengenres**. Nur die aktuelle genaue Regelkennung und der feste Auswahlvertrag werden gewertet. Frühere Filterkombinationen, `.L`-Zusatzregeln, alte Fünferrunden und sonstige Regelkennungen entfallen. Bereits vorhandene Läufe, die dem aktuellen Vertrag entsprechen, bleiben gültig.
 
 
 Varianten erhalten keine zusätzlichen Lose. Jedes Wissensziel erscheint höchstens einmal je vollständigem Pooldurchgang. Danach wird neu gemischt, ohne unmittelbare Zielwiederholung, wenn mindestens zwei Ziele verfügbar sind. Der Pool und die Restfolge werden eingefroren, Fragendaten und Antwortreihenfolgen schrittweise ergänzt. Die Serie hat keine feste spielerische Fragenzahl.
@@ -77,7 +77,7 @@ Alle drei Solo-Rekordmodi vergeben pro rechtzeitigem Treffer `100 + 2 × floor((
 
 Die persönliche Ergebnisabfrage `quiz_own_record_runs` lieferte fest null XP, während `quiz_record_runs` die Wettbewerbs-XP verwendete. Beide lesen nun ausschließlich die aktuelle globale Karrierezeile aus `public.quiz_player_totals` (`genre=''`, `difficulty=''`). Der vorhandene `CareerBadge` leitet daraus Level und Titel ab. Ein Hinweis unter der Rekordliste erklärt den aktuellen Bezug. Vorhandene Ergebnisdaten, Kontoidentitäten und Lernbelege werden nicht umgeschrieben; die Rückgabe bleibt auf die bisherigen Felder begrenzt.
 
-Migration `20261108074025_record_run_career_level.sql` ist **nur lokal vorbereitet, noch nicht produktiv aktiviert**. 29 gezielte Logik-/Datenbanktests sowie Metadaten/TypeScript erfolgreich; [Prüfnachweis und Grenzen](Pruefbericht.md#08112026--aktuelles-karrierelevel-in-rekordlisten-lokal).
+Migration `20261108074025_record_run_career_level.sql` ist **mit Version 89 produktiv aktiviert**. 29 gezielte Logik-/Datenbanktests sowie Metadaten/TypeScript erfolgreich; [Prüfnachweis und Grenzen](Pruefbericht.md#version-89-veröffentlicht-und-live-abgenommen).
 
 ### Kurze Vergleichsauswahl – 13.10.2026
 

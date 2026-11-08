@@ -1,5 +1,15 @@
 # Sites-Veröffentlichung
 
+## Version 89: Filmkarriere innerhalb der Erfolge und Werkarten
+
+Am **08.11.2026 um 18:03:39 Uhr Europe/Berlin** öffentlich veröffentlicht; nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [vollständiger Veröffentlichungsnachweis](Veroeffentlichung-2026-11-08-Version-89.json).
+
+Acht Karriereränge mit plastischen Goldmotiven sind in „Deine Erfolge“ integriert. Werkarten, Serien, Animation, Mehrfachzuordnungen, Quellen und Links, Antwortfarben, aktuelle Karrierelevel in Rekordlisten sowie die gemeldeten Fragen-/Posterkorrekturen sind enthalten. Aktiver Bestand: **20.507 Fragen / 19.754 Ziele**, 753 Variantenbezüge und 32 Lerngebiete.
+
+Main-Stand `38e51fc7b8157428b6340e9c299fe72460c61dbe`, identischer Sites-Quellbaum `e0ec1346ba2606b0448bfc4b06f57a6d900e8cae`. 524 Logiktests, Versionsbuild und 427 unterschiedliche Browserfälle erfolgreich; ein vorgesehener Skip. Alle 969 öffentlichen Nicht-HTML-Dateien HTTP 200 und bytegleich, Startseite mit erwarteten Assets. Sechs Servermigrationen und Katalog aktiviert; 43 private Quelltabellen in jedem geschützten Snapshot unverändert, 22 Funktionskörper und private Rechte bestätigt. Die MCP-Zeitüberschreitungen sind durch getrennte Status- und Datenkontrollen aufgelöst; kein unbestätigter Aufruf als Erfolg gewertet.
+
+Öffentlicher Zugang `public`, Revision 2 und bestehende Adresse erhalten. Tatsächliche Versionszeit separat gespeichert, unabhängig zurückgelesen und anonym bestätigt; direkter Metadatenzugriff HTTP 401. Die veröffentlichte Seite ist als Browser-Tab geöffnet. Eigene Veröffentlichungs-, Build-, SQL- und Prüfausgaben einschließlich Transportarchiv entfernt und Abwesenheit bestätigt: 10.484 Dateien / 1.551.043.401 Bytes im Auftragsordner sowie 13 eigene Screenshots / 3.397.674 Bytes außerhalb. Abhängigkeitsverknüpfung vorher getrennt; gemeinsame Abhängigkeiten, Originalmetadaten, kleine Karrierevorschauen und fremde Artefakte erhalten. Keine eigenen Prüfserver aktiv.
+
 ## Version 88: 100 Oscarfragen und aktueller Fragenkatalog
 
 Am **07.11.2026 um 23:44:14 Uhr Europe/Berlin** öffentlich veröffentlicht; nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [Veröffentlichungsnachweis](Veroeffentlichung-2026-11-07-Version-88.json), [Freigabe](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-11-07 Nutzerauftrag aktuellen Stand veroeffentlichen.txt>).
@@ -556,6 +566,8 @@ Native Browserübergabe angefordert; keine zusätzliche Live-PWA-/Geräteprüfun
 Projekt-ID aus `.openai/hosting.json` wiederverwenden: `appgprj_6ab78f6468648191a8895f7a1d9dbf23`. Besucherzugriff ist seit 26.09.2026 auf ausdrücklichen Nutzerauftrag öffentlich (`access_mode: public`, Revision 2). Kein vorgeschaltetes ChatGPT-Konto erforderlich. Bearbeitungsrechte wurden nicht erweitert; private Kontospielstände schützt Supabase Auth/RLS.
 
 ## Ablauf
+
+Nach einer MCP-Zeitüberschreitung zuerst Migrationshistorie, aktive Funktionen, Kataloghash, Staging und laufende Datenbankabfragen lesend prüfen. Ein Timeout kann trotz vollständig abgeschlossenem Commit auftreten; eine separat bestätigte Aktivierung nicht wiederholen. Große Schemaaufrufe bei Bedarf in die vorhandenen kanonischen Blöcke teilen und jeden Block geschützt prüfen. Die Katalogaktivierung bleibt eine eigene atomare Transaktion. Ihr Bekanntheitsargument liest ausschließlich `film` und `level`; verdichtete Übertragung muss dieselben vollständigen Werte ergeben. [Nachgewiesener Ablauf mit Version 89](Veroeffentlichung-2026-11-08-Version-89.json).
 
 Die Profilanzeige verwendet die **tatsächliche Sites-Version**, die beim Build über `VITE_SITE_VERSION` gesetzt wird. Vor dem Produktionsbuild die bestehende Site nativ lesen und die nächste Versionsnummer bestimmen, beispielsweise in PowerShell `$env:VITE_SITE_VERSION='43'` vor `npm run build`. Lokal ohne diese Variable erscheint „Lokale Entwicklungsversion“. Nach dem Speichern die zurückgegebene Versionsnummer mit dem Build abgleichen; bei Abweichung den Stand mit der richtigen nächsten Nummer neu bauen und prüfen, bevor er veröffentlicht wird.
 
