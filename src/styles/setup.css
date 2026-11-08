@@ -259,3 +259,21 @@ textarea {
   min-height: 44px;
   align-content: center;
 }
+.hot-seat-entry {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  width: 100%;
+  text-align: left;
+  padding: 0.85rem 1rem;
+  margin-bottom: 1rem;
+  border-radius: 14px;
+}
+.hot-seat-entry > span:nth-child(2) {
+  display: grid;
+  gap: 0.2rem;
+  flex: 1;
+}
+.hot-seat-entry small {
+  font-size: 0.8em;
+}

@@ -85,6 +85,7 @@ export default defineConfig({
         "ranked-security.spec.ts",
         "release-info.spec.ts",
         "profile-folds.spec.ts",
+        "hot-seat.spec.ts",
       ],
       use: { ...devices["iPhone 13"] },
     },

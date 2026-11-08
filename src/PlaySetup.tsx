@@ -163,6 +163,18 @@ export function PlaySetup({
           <p className="muted">Entdecke Filmwissen – in Deinem Tempo.</p>
         )}
       </header>
+      <button
+        className="hot-seat-entry"
+        disabled={busy}
+        onClick={() => void nav("hot-seat")}
+      >
+        <span aria-hidden="true">🎬</span>
+        <span>
+          <strong>Gemeinsam spielen</strong>
+          <small>Hot Seat · 2–8 Personen an einem Bildschirm</small>
+        </span>
+        <span aria-hidden="true">→</span>
+      </button>
       <section
         className="round-setup"
         aria-label="Runde vorbereiten"

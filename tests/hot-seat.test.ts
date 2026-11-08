@@ -475,3 +475,16 @@ it("bindet Genre und Bekanntheit an denselben Werkbezug", async () => {
     );
   }
 });
+
+it("löscht nur beendete eigene Ergebnisse und wiederholt eine verlorene Löschbestätigung sicher", async () => {
+  const { session, api } = await game();
+  const id = session.party!.id;
+  await expect(session.send("delete")).rejects.toThrow(/wartet bereits/);
+  expect((await session.lobby()).active!.id).toBe(id);
+  await session.send("abort");
+  api.lost("quiz_hot_seat_call");
+  await expect(session.send("delete")).rejects.toThrow(/Bestätigung verloren/);
+  await session.retry();
+  expect((await session.lobby()).history).toEqual([]);
+  await expect(session.resume(id)).rejects.toThrow(/nicht mehr verfügbar/);
+});

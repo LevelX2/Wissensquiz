@@ -68,6 +68,9 @@ const Help = lazy(() => import("./Help").then((m) => ({ default: m.Help })));
 const DuelCenter = lazy(() =>
   import("./DuelCenter").then((m) => ({ default: m.DuelCenter })),
 );
+const HotSeatCenter = lazy(() =>
+  import("./HotSeatCenter").then((m) => ({ default: m.HotSeatCenter })),
+);
 const Settings = lazy(() =>
   import("./Settings").then((m) => ({ default: m.Settings })),
 );
@@ -599,7 +602,9 @@ export function App({
   return (
     <div
       className={`app-shell ${page === "round" || duelPlaying ? "is-playing" : ""}`}
-      onClickCapture={(e) => playClickFeedback(e.target, state.settings)}
+      onClickCapture={(e) => {
+        if (page !== "hot-seat") playClickFeedback(e.target, state.settings);
+      }}
     >
       <aside className="sidebar">
         <a
@@ -629,14 +634,14 @@ export function App({
               key={p}
               className={
                 page === p ||
-                (p === "home" && page === "duels") ||
+                (p === "home" && (page === "duels" || page === "hot-seat")) ||
                 (p === "account" && page === "settings")
                   ? "selected"
                   : ""
               }
               aria-current={
                 page === p ||
-                (p === "home" && page === "duels") ||
+                (p === "home" && (page === "duels" || page === "hot-seat")) ||
                 (p === "account" && page === "settings")
                   ? "page"
                   : undefined
@@ -843,6 +848,13 @@ export function App({
                   onLeaderboard={(duelId) =>
                     void nav("leaderboard", { kind: "duel", duelId })
                   }
+                  onPlaying={setDuelPlaying}
+                />
+              )}
+              {page === "hot-seat" && (
+                <HotSeatCenter
+                  onHome={() => void nav("home")}
+                  onBusy={setBusy}
                   onPlaying={setDuelPlaying}
                 />
               )}

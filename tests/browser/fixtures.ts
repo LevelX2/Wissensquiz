@@ -183,11 +183,16 @@ export async function isolateAccountService(
       !name.startsWith("quiz_game_") &&
       !name.startsWith("quiz_trial_") &&
       !name.startsWith("quiz_own_record_") &&
+      name !== "quiz_hot_seat_call" &&
       name !== "quiz_ranked_call"
     )
       return route.fulfill({ json: [] });
     try {
-      if (name === "quiz_ranked_call" || name.startsWith("quiz_game_")) {
+      if (
+        name === "quiz_ranked_call" ||
+        name === "quiz_hot_seat_call" ||
+        name.startsWith("quiz_game_")
+      ) {
         await backend.ensureRanked();
         backend.api.clockAt(
           backend.serverTime ??

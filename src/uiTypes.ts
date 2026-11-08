@@ -5,6 +5,7 @@ export type Page =
   | "account"
   | "leaderboard"
   | "home"
+  | "hot-seat"
   | "topics"
   | "album"
   | "settings"
