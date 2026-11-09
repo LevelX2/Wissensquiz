@@ -1,0 +1,38 @@
+{
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "source": "public/cinema/filmfieber-wide.png",
+      "sha256": "31771522556b2b45af82522a4bbf7c3ceb921f6ff2c325b9fc8134d831723fee",
+      "dimensions": [1672, 941],
+      "variants": [
+        {
+          "path": "src/assets/artwork/filmfieber-wide-1280.webp",
+          "width": 1280
+        },
+        {
+          "path": "src/assets/artwork/filmfieber-wide-1600.webp",
+          "width": 1600
+        }
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: original cinematic background artwork for the responsive welcome screen of a German film and TV trivia app. Landscape 16:9, high resolution.\nPrimary request: An impressive, sophisticated movie-poster-quality panorama where many film worlds flow together into one coherent cinematic universe, evoking the excitement of entering the movies.\nScene: A luminous ribbon of real 35mm film curves from the bottom foreground toward a distant warm projector light, connecting imaginary miniature worlds. On the RIGHT two thirds: an elegant retro-futuristic spacecraft above a teal planet and stars (science fiction), a misty fantasy castle on a rocky peak, a tiny dragon silhouette, a sunlit desert mesa and distant horseback rider (western/adventure), a rain-lit noir city street and vintage car (thriller/action), a mysterious moonlit gothic mansion without gore (horror), small theater masks beside a softly glowing stage and a vintage microphone (comedy/drama/music), and a refined gold cinema award and film camera near the lower edge (actors/awards/classics). A subtle stylized animated creature silhouette adds animation. These should feel like a single flowing physical set, not separate panels or a grid, and the main silhouettes must remain readable without clutter. The stars and studio light connect cinema and television.\nStyle: richly detailed premium cinematic matte painting mixed with tactile crafted miniature sets, sophisticated and inviting for adults, spectacular depth, subtle film grain, restrained bloom, realistic materials, no flat vector icons. Deep midnight petrol, warm champagne gold, amber highlights, muted ivory, teal accents, warm dramatic rim light and atmospheric haze.\nComposition: panoramic image with strong visual subjects at the right and bottom; reserve the LEFT 38 percent as dark quiet navy/petrol atmospheric negative space for HTML heading and buttons. No important objects at the outer edges. Soft natural falloff into very dark petrol on left and at bottom. No visible screen frame.\nConstraints: NO text, NO letters, NO numbers, NO title, NO watermark, NO logos, NO recognizable actors, NO identifiable franchise characters, NO UI, NO borders. Invent original worlds and silhouettes. One cohesive beautiful cinematic landscape."
+    },
+    {
+      "source": "public/cinema/filmfieber-portrait.png",
+      "sha256": "a0769c910c169163311b427a4baedab85a6df6362852a7ace589c403a9581ebb",
+      "dimensions": [1024, 1536],
+      "variants": [
+        {
+          "path": "src/assets/artwork/filmfieber-portrait-640.webp",
+          "width": 640
+        },
+        {
+          "path": "src/assets/artwork/filmfieber-portrait-960.webp",
+          "width": 960
+        }
+      ],
+      "prompt": "Use case: stylized-concept.\nAsset type: PORTRAIT 2:3 mobile welcome-screen background for the film and TV trivia app Filmfieber.\nInput image: reference image for exact art direction, color palette, miniature-world subjects and material quality; recompose it into a NEW VERTICAL portrait image, do not simply crop it.\nPrimary request: Preserve the beautiful original cohesive cinematic panorama but arrange it vertically for a phone: the movie-world spectacle occupies the TOP 55-60 percent, with a quiet very dark midnight petrol lower 40 percent reserved for readable HTML headings and buttons.\nComposition: portrait 2:3. In the upper portion a warm film projector and a glowing curved 35mm film ribbon connect a teal planet with retro-futuristic spacecraft, misty fantasy castle and tiny dragon, warm western desert with distant rider, a moonlit gothic mansion, a rain-lit noir street and vintage car. Near the transition to the dark lower portion subtly include theater masks, a vintage microphone and small gold cinema award. Let a golden film ribbon curve downward along the RIGHT edge, fading toward the bottom. The lower LEFT and lower CENTER should be deep dark atmospheric petrol with no bright focal objects, no foreground strip crossing the reserved text space. Leave margin at top.\nStyle: match the reference's spectacular premium cinematic matte painting and tactile miniature sets, atmospheric depth, elegant champagne gold and amber light, midnight petrol and teal shadows, realistic materials, restrained bloom, subtle film grain.\nConstraints: original imaginary worlds, no recognizable actors or franchise characters, no text, letters, titles, numbers, logos, watermark, UI, frames or panels. One cohesive world, NOT a collage grid. Output a beautiful portrait image, 2:3 aspect ratio."
+    }
+  ],
+  "runtime": "picture: Hochformat bis einschließlich 640 CSS-Pixel, sonst Querformat. WebP, Qualität 84. Text und Aktionen sind HTML."
+}

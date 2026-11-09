@@ -1,6 +1,8 @@
 # Erfolge und Erfolgsstufen
 
-## Filmkarriere innerhalb der Erfolge – lokal
+## Filmkarriere innerhalb der Erfolge
+
+Mit Version 89 veröffentlicht. [Veröffentlichung und Abnahme](Veroeffentlichung-2026-11-08-Version-89.json).
 
 „Deine Erfolge“ beginnt im Profil mit der Filmkarriere: aktueller Titel und Level, XP-Fortschritt, nächster benannter Rang einschließlich fehlender XP und alle acht Rangembleme. Die frühere separate Karriereklappe entfällt. Anschließend folgen die bisherigen Erfolgsreihen mit ihren zwölf Erfolgsstufen. Für die Karriereanzeige werden keine zusätzlichen Serverdaten benötigt; sie bleibt auch bei einem Fehler der Erfolgsabfrage sichtbar.
 
@@ -10,7 +12,7 @@ Karriereembleme verwenden den eigenen gemeinsamen goldenen Filmstreifenring mit 
 
 ## Gemeinsame Embleme und gleichwertige Feier – 17.10.2026
 
-**Lokal umgesetzt, noch nicht veröffentlicht.** [Nutzerauftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-17 Nutzerauftrag gemeinsame Erfolgsembleme.txt>). Gleichzeitig erreichte Erfolge, Karrierelevel und Filmreise-Freischaltungen erscheinen gleichwertig als einzelne Emblemkarten untereinander. Es gibt kein übergeordnetes großes Gewinner-Motiv mehr. Bei mehreren Ereignissen lautet die gemeinsame Überschrift „Das hast Du erreicht!“. Jede Karte besitzt denselben Aufbau, dieselbe Emblemgröße und denselben gestalterischen Stellenwert. Der bestehende höchste Erfolgsrang steuert weiterhin genau ein Ton-/Haptiksignal und die begrenzte Feuerwerksanimation; er bestimmt keine visuelle Rangfolge der Karten.
+**Im mit Version 89 veröffentlichten Stand enthalten.** [Nutzerauftrag](<../KI-Wissen-Wissensquiz/01 Rohquellen/2026-10-17 Nutzerauftrag gemeinsame Erfolgsembleme.txt>). Gleichzeitig erreichte Erfolge, Karrierelevel und Filmreise-Freischaltungen erscheinen gleichwertig als einzelne Emblemkarten untereinander. Es gibt kein übergeordnetes großes Gewinner-Motiv mehr. Bei mehreren Ereignissen lautet die gemeinsame Überschrift „Das hast Du erreicht!“. Jede Karte besitzt denselben Aufbau, dieselbe Emblemgröße und denselben gestalterischen Stellenwert. Der bestehende höchste Erfolgsrang steuert weiterhin genau ein Ton-/Haptiksignal und die begrenzte Feuerwerksanimation; er bestimmt keine visuelle Rangfolge der Karten.
 
 `AchievementIcon` zeichnet die gemeinsame skalierbare Medaille mit Metallverlauf, dunklem Innenfeld, Lorbeer, Band und kräftigem Motiv. Zwölf Stufen bleiben durch ihre Farben, Rangpunkte und ausgeschriebenen Stufennamen erkennbar. Offene Ziele verwenden eine gedämpfte neutrale Palette und tragen weiterhin ihren textlichen Status. Wiederholt dargestellte Medaillen besitzen eigene SVG-Verlaufs-IDs, damit sich die Farben innerhalb langer Profilübersichten nicht gegenseitig überschreiben.
 

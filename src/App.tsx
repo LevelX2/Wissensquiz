@@ -617,7 +617,7 @@ export function App({
         >
           <img src="/icon.svg" alt="" />
           <span>
-            Wissensquiz<small>DEIN FILMKOSMOS</small>
+            Filmfieber<small>DEIN QUIZ FÜR FILM & SERIE</small>
           </span>
         </a>
         <nav aria-label="Hauptnavigation">

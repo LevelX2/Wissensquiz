@@ -12,6 +12,10 @@ for (const width of [1440, 320]) {
     context,
     browserName,
   }) => {
+    // This flow includes repeated app starts, selection saves and screenshots.
+    // Include the cinematic startup in its functional budget; response-time
+    // assertions keep their separate limits.
+    if (browserName === "webkit") test.setTimeout(180000);
     test.skip(
       browserName === "webkit" && width === 1440,
       "Desktop in Chromium, mobile Ansicht in beiden Browsern.",

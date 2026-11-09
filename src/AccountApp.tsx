@@ -9,6 +9,7 @@ import {
   parseAccountLink,
 } from "./accounts";
 import { requestWithin } from "./request";
+import { StartupScreen } from "./StartupScreen";
 
 import { LinkPanel } from "./AccountLinkPanel";
 const AccountGame = lazy(() =>
@@ -86,20 +87,29 @@ function setupAccounts() {
 }
 
 export function AccountApp() {
+  const [artworkReady, setArtworkReady] = useState(false);
+  const [startupFinished, setStartupFinished] = useState(false);
+  useEffect(() => {
+    if (!artworkReady) return;
+    const timer = setTimeout(() => setStartupFinished(true), 2500);
+    return () => clearTimeout(timer);
+  }, [artworkReady]);
   return (
-    <Suspense
-      fallback={
-        <main className="loading">
-          <h1>Wissensquiz</h1>
-          <p role="status">Ansicht wird geladen …</p>
-        </main>
-      }
-    >
-      <AccountRouter />
+    <Suspense fallback={<StartupScreen />}>
+      <AccountRouter
+        startupFinished={startupFinished}
+        onArtworkReady={() => setArtworkReady(true)}
+      />
     </Suspense>
   );
 }
-function AccountRouter() {
+function AccountRouter({
+  startupFinished,
+  onArtworkReady,
+}: {
+  startupFinished: boolean;
+  onArtworkReady: () => void;
+}) {
   const [connection, setConnection] = useState<Awaited<
     ReturnType<typeof setupAccounts>
   > | null>(null);
@@ -189,13 +199,8 @@ function AccountRouter() {
       unsubscribe();
     };
   }, [configAttempt]);
-  if (pending || !connection)
-    return (
-      <main className="loading">
-        <h1>Wissensquiz</h1>
-        <p role="status">Konto wird geprüft …</p>
-      </main>
-    );
+  if (!startupFinished || pending || !connection)
+    return <StartupScreen onArtworkReady={onArtworkReady} />;
   if (link || recovering)
     return (
       <LinkPanel

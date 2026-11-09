@@ -24,6 +24,16 @@ const sources = [
     name: "cinema-lobby",
     widths: [640, 1280],
   },
+  {
+    path: "public/cinema/filmfieber-wide.png",
+    name: "filmfieber-wide",
+    widths: [1280, 1600],
+  },
+  {
+    path: "public/cinema/filmfieber-portrait.png",
+    name: "filmfieber-portrait",
+    widths: [640, 960],
+  },
 ];
 const results = [];
 for (const source of sources) {
@@ -36,7 +46,7 @@ for (const source of sources) {
         source.path,
         "-strip",
         "-resize",
-        `${width}x${width}>`,
+        `${width}x>`,
         "-quality",
         "84",
         "-define",

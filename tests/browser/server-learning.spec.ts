@@ -9,8 +9,8 @@ import {
   writeStoredState,
 } from "./fixtures";
 import { answer, complete, startRound } from "../../src/engine";
-import { questionSourceOf, genreOf } from "../../src/filters";
-import { familiarityOf } from "../../src/familiarity";
+import { questionSourceOf } from "../../src/filters";
+import { workFamiliarityOf } from "../../src/familiarity";
 
 test.use({ acknowledgeIncidentalSuccess: true });
 
@@ -152,9 +152,17 @@ test("Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- 
   await expect(page.getByRole("button", { name: "Losspielen" })).toBeEnabled();
   const state = await readStoredState(page);
   state.settings.sound = false;
+  const nonWorkGoals = new Set(
+    state.questions
+      .filter((q) => questionSourceOf(q) !== "film")
+      .map((q) => q.knowledgeId),
+  );
   const questions = (["film", "actors", "awards"] as const).map((source) =>
     state.questions.find(
-      (q) => questionSourceOf(q) === source && q.difficulty === "leicht",
+      (q) =>
+        questionSourceOf(q) === source &&
+        q.difficulty === "leicht" &&
+        (source !== "film" || !nonWorkGoals.has(q.knowledgeId)),
     )!,
   );
   expect(new Set(questions.map((q) => q.knowledgeId)).size).toBe(3);
@@ -179,7 +187,7 @@ test("Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- 
   state.settings.roundSetup = {
     mode: "fehler",
     sources: ["film", "actors", "awards"],
-    genres: [genreOf(questions[0])],
+    genres: null,
     categories: [],
     difficulties: ["leicht", "mittel", "schwer", "experte"],
     familiarities: [1, 2, 3, 4],
@@ -191,7 +199,7 @@ test("Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- 
     name: "Fragenbereiche",
     exact: true,
   });
-  for (const label of ["Filmfragen", "Schauspieler", "Preisträger"])
+  for (const label of ["Werkfragen", "Schauspieler", "Preisträger"])
     await expect(sources.getByLabel(label, { exact: true })).toBeChecked();
   await expect(
     page.getByLabel("Fällige Wiederholungen", { exact: true }),
@@ -354,7 +362,10 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
 }) => {
   await fixCalendarTime(page, new Date("2026-10-11T12:00:00+02:00"));
   const adventure = accountBackend(page).release.questions.filter(
-    (q) => questionSourceOf(q) === "film" && genreOf(q) === "Abenteuer",
+    (q) =>
+      q.works?.some(
+        (work) => work.type === "film" && work.genres.includes("Abenteuer"),
+      ),
   );
   const half = (difficulty: "leicht" | "mittel") =>
     Math.ceil(
@@ -366,7 +377,16 @@ test("zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog", async ({
     );
   const firstGroup = new Set(
     adventure
-      .filter((q) => q.difficulty === "leicht" && familiarityOf(q) === 1)
+      .filter(
+        (q) =>
+          q.difficulty === "leicht" &&
+          q.works?.some(
+            (work) =>
+              work.type === "film" &&
+              work.genres.includes("Abenteuer") &&
+              workFamiliarityOf(work) === 1,
+          ),
+      )
       .map((q) => q.knowledgeId),
   );
   expect(firstGroup.size).toBeGreaterThan(0);

@@ -83,7 +83,7 @@ async function prepare(page: Page, mode: Mode = "ueben") {
     page.getByRole("button", {
       name: mode === "rekord" ? /^Losspielen/ : /^Fortsetzen/,
     }),
-  ).toBeVisible();
+  ).toBeEnabled();
   await page.clock.pauseAt(now);
   if (mode === "rekord") {
     await page.getByRole("button", { name: "Losspielen" }).click();

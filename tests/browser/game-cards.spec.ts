@@ -45,7 +45,7 @@ test("Kleine Bildvarianten und lesbare Themen bei 320/390 Pixeln und großer Sch
     statSync("public/modes/entdecken.png").size * 0.3,
   );
   await page.getByRole("button", { name: "Themen", exact: true }).click();
-  await expect(page.locator(".topic-card")).toHaveCount(16);
+  await expect(page.locator(".topic-card")).toHaveCount(33);
   for (const width of [320, 390]) {
     await page.setViewportSize({ width, height: 844 });
     const text = page.locator(".topic-body .tiny").first();
@@ -266,6 +266,7 @@ test("Rekordauswahl hat nur Universal oder ein Genre, feste Stufen und passende 
   expect(r.filters).toEqual({
     genres: ["Horror"],
     sources: ["film"],
+    workTypes: ["film"],
     difficulties: ["leicht", "mittel", "schwer"],
     familiarities: [1, 2, 3, 4],
   });

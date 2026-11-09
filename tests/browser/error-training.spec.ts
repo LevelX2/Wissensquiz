@@ -752,8 +752,11 @@ for (const width of [320, 1280]) {
     await expect(
       page
         .locator(".review > details[open]")
-        .getByText("Deine Antwort:", { exact: true }),
+        .locator(".chosen-answer"),
     ).toBeVisible();
+    await expect(
+      page.locator(".review > details[open] .chosen-answer"),
+    ).toContainText("Deine Antwort:");
     await review
       .getByRole("button", { name: "Geraten (1)", exact: true })
       .click();

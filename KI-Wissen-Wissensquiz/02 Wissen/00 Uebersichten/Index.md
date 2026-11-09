@@ -2,17 +2,21 @@
 
 - [Hot Seat: vier gemeinsame Spielmodi, private Partien, Teams, Joker und Abbruch – lokal im Worktree umgesetzt](../../../docs/Hot-Seat.md)
 
-- [Filmkarriere innerhalb der Erfolge: acht benannte Ränge, frühere Titelaufstiege und plastische Goldembleme, lokal](../../../docs/Filmkarriere-und-XP.md#levelkurve-und-karrieretitel)
+- [Filmfieber – Dein Quiz für Film & Serie: Name, Quer-/Hochformat und 2,5 Sekunden Kinostart vor automatischer Anmeldung, seit Version 90 veröffentlicht](../../../docs/Hilfe-und-Navigation.md#filmfieber-und-startbildschirm)
 
-**GitHub-Meldungen:** Alle 14 Tickets #3–#16 geprüft und mit Versionshinweisen als erledigt geschlossen. Vier Fragen korrigiert, fehlende Poster vervollständigt und Katalogvorbereitung abgesichert; 36 gezielte Tests erfolgreich. Änderungen für Version 89 lokal vorbereitet, noch nicht veröffentlicht. [Aktueller Stand und Prüfnachweise](../../../docs/GitHub-Meldungen.md#aktueller-ticketstand--08112026).
+- [Aktuelle Veröffentlichung: Version 90 – Filmfieber und Kinostart, 20.507 Fragen, alle Release-Prüfungen und Live-Abnahme](../../../docs/Veroeffentlichung-2026-11-09-Version-90.json)
 
-- [Werkarten und Mehrfachzuordnungen: 109 Serienfragen, 561 Fragen zu Animationsfilmen und passende Bildsymbole; gemeinsame Lernstände und getrennte Film-/Serienpfade, lokal](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
+- [Filmkarriere innerhalb der Erfolge: acht benannte Ränge, frühere Titelaufstiege und plastische Goldembleme, mit Version 89 veröffentlicht](../../../docs/Filmkarriere-und-XP.md#levelkurve-und-karrieretitel)
+
+**GitHub-Meldungen:** Alle 14 Tickets #3–#16 geprüft und mit Versionshinweisen als erledigt geschlossen. Vier Fragen korrigiert, fehlende Poster vervollständigt und Katalogvorbereitung abgesichert; 36 gezielte Tests erfolgreich. Änderungen mit Version 89 veröffentlicht. [Aktueller Stand und Prüfnachweise](../../../docs/GitHub-Meldungen.md#aktueller-ticketstand--08112026).
+
+- [Werkarten und Mehrfachzuordnungen: 20.507 Fragen / 19.754 Ziele, passende Bildsymbole, gemeinsame Lernstände und getrennte Film-/Serienpfade, mit Version 89 veröffentlicht](../../../docs/Fragedaten-Organisation.md#beschlossener-zielzustand-werkarten-und-mehrfachzuordnungen--08112026)
 
 - [Quellen und Links: Anordnung, bestätigte Ziele, Quellen und offene Zuordnungen](../../../docs/Quellen-und-Links.md)
 
-- [Antworttexte auch nach der Auflösung und im Rundenrückblick grün/rot hinterlegt – 08.11.2026, lokal](../../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben)
+- [Antworttexte auch nach der Auflösung und im Rundenrückblick grün/rot hinterlegt – mit Version 89 veröffentlicht](../../../docs/Lernregeln.md#direkt-sichtbare-antwortfarben)
 
-- [Rekordlisten: aktuelles Karrierelevel wie im Profil auch bei alten Läufen; Level-1-Fehler lokal korrigiert – 08.11.2026](../../../docs/Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal)
+- [Rekordlisten: aktuelles Karrierelevel wie im Profil auch bei alten Läufen; Level-1-Fehler mit Version 89 korrigiert](../../../docs/Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal)
 
 - [Version 88 veröffentlicht: 100 neue Oscarfragen, aktueller Katalog mit 19.403 Fragen, Filmreise und Alternativtitel – 07.11.2026](../../../docs/Veroeffentlichung-2026-11-07-Version-88.json)
 

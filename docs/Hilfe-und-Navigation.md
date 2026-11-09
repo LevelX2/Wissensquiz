@@ -1,5 +1,15 @@
 # Navigation und Hilfe
 
+## Filmfieber und Startbildschirm
+
+Seit Version 90 veröffentlicht: Der sichtbare App-Name lautet **Filmfieber**, der Zusatz **Dein Quiz für Film & Serie**. App-Kopf, Ladeansichten, Browser-Titel und Installationsname verwenden ihn einheitlich. Repository, technische Speicherkennungen und öffentliche Adresse behalten ihre bisherigen Bezeichnungen.
+
+Bei jedem Öffnen und Neuladen erscheint zunächst das Kinopanorama mit „Großes Kino. Steckt in Dir.“ für mindestens **2,5 Sekunden ab geladenem Bild**. Die Prüfung einer bestehenden Anmeldung läuft gleichzeitig. Danach öffnet sich bei bestätigter Sitzung automatisch das Konto, ansonsten der Einstieg für Proberunde und Anmeldung. Dauert die Sitzungsprüfung länger, bleibt das Motiv bis zu ihrem Abschluss sichtbar. Ein Bildladefehler startet dieselbe begrenzte Wartezeit, damit der Kontozugang erreichbar bleibt. Die Mindestwartezeit gilt einmal pro App-Start; spätere Anmeldung, Rückkehr in den Tab und Ansichtswechsel starten sie nicht erneut. Während des Kinostarts gibt es keine Spielaktionen.
+
+Auf Smartphones erscheint eine eigene Hochformatkomposition. Im interaktiven Einstieg vor der Anmeldung werden Genrevielfalt, Filme/Serien/Stars und Lernfortschritt/Duelle kurz erläutert; die konkreten Kontovorteile stehen darunter. Name und Aktionen sind auch mobil sichtbar. Die dunkle Gestaltung gilt für Kinostart und Einstieg. [Illustrationen und Originalprompts](Genreillustrationen.md#startbildschirm-filmfieber).
+
+„Eine Runde ausprobieren“, „Proberunde fortsetzen“, Anmeldung und Kontoanlage führen in die bestehenden Abläufe. Nach verbrauchter Proberunde steht die Anmeldung im Vordergrund. Zehn Fragen ohne Konto, danach kostenloses bestätigtes Quiz-Konto; dieselbe Grenze steht direkt beim Start. Die [Proberunden- und Speicherregeln](Anmeldung-und-Online-Spielstand.md#einmalige-proberunde) gelten weiterhin.
+
 ## Fokusführung und Wiederherstellung seit 18.10.2026 lokal
 
 Neue Fragen werden nach der Freigabe an ihrer Überschrift fokussiert. Die Antwortauflösung ist ein benannter Lesebereich mit kurzer separater Statusansage. Die Spielerhilfe beschreibt ab der ersten Lernrunde bis zu zehn Fragen, bei kleinerer passender Auswahl entsprechend weniger. Der README-Einstieg verweist auf den aktuellen Projektstand und trennt die letzte Veröffentlichung von lokalen Änderungen.

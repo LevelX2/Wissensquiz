@@ -1,8 +1,8 @@
 # Filmkarriere und Erfahrungspunkte
 
-**Acht Karriereränge – lokal, noch nicht veröffentlicht:** Die Filmkarriere gehört im Profil zu „Deine Erfolge“. Aktueller Rang, Level-/XP-Fortschritt, nächster Rang und alle acht Rangembleme stehen dort zusammen. Die Ranggrenzen und Motive sind unten definiert. XP-Formel, numerische Levelkurve und Spielstände werden dadurch nicht verändert; keine Serverumstellung erforderlich.
+**Acht Karriereränge – mit Version 89 veröffentlicht:** Die Filmkarriere gehört im Profil zu „Deine Erfolge“. Aktueller Rang, Level-/XP-Fortschritt, nächster Rang und alle acht Rangembleme stehen dort zusammen. Die Ranggrenzen und Motive sind unten definiert. XP-Formel, numerische Levelkurve und Spielstände werden dadurch nicht verändert; keine Serverumstellung erforderlich.
 
-**08.11.2026 – Level in Rekordlisten, lokal:** Auch ältere eigene und gemeinsame Rekordläufe zeigen beim Abruf das aktuelle Karrierelevel und den aktuellen Titel wie im Profil. Punkte und Platzierung bleiben laufbezogen. Die Serverkorrektur ist noch nicht produktiv aktiviert. [Anzeigevertrag und Ursache](Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal).
+**08.11.2026 – Level in Rekordlisten, mit Version 89 veröffentlicht:** Auch ältere eigene und gemeinsame Rekordläufe zeigen beim Abruf das aktuelle Karrierelevel und den aktuellen Titel wie im Profil. Punkte und Platzierung bleiben laufbezogen. Die Serverkorrektur ist mit Version 89 produktiv aktiviert. [Anzeigevertrag und Ursache](Rekordmodi-und-Zeitranglisten.md#aktuelles-karrierelevel-bei-rekordläufen--08112026-lokal).
 
 **25.10.2026 – Getrennte Highscore-Wertungen, lokal:** „Lernfortschritt · Karriere-XP“ zeigt dieselben aktuellen Karriere-XP, Level und Titel wie das Profil. Daneben bleibt „Wettbewerbs-XP“ mit eigener Wertung erhalten. Karriere ist der Standardeinstieg im gleichnamigen Highscore-Bereich. Seit Version 85 veröffentlicht; [Quellen, Darstellung und Einführung](Bestenliste-und-Gastaktivitaet.md#getrennte-xp-wertungen--25102026-lokal).
 

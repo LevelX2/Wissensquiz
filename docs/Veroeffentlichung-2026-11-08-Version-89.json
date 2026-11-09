@@ -1,0 +1,1193 @@
+{
+  "version": 89,
+  "sourceBranch": "main",
+  "sourceCommit": "e0ec1346ba2606b0448bfc4b06f57a6d900e8cae",
+  "mainSourceCommit": "38e51fc7b8157428b6340e9c299fe72460c61dbe",
+  "sourceTree": "06aa6b6edebe9f68d95e0b05228e456fbbb96fc8",
+  "sourceTreeMatchesMain": true,
+  "sourceTransport": "Aktueller Quellsnapshot auf bestehender Sites-Historie; lokale Main-Historie erhalten.",
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-11-08T17:03:39.812944+00:00",
+  "publishedAtBerlin": "08.11.2026, 18:03:39",
+  "timezone": "Europe/Berlin",
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "githubPush": false,
+  "changes": [
+    "Acht Filmkarriereränge mit eigenen plastischen Goldmotiven, gemeinsamem Filmrahmen und früheren Titelaufstiegen in „Deine Erfolge“ integriert.",
+    "Werkarten, Mehrfachgenres, Machart und Sammlungen kombiniert; gemeinsame Lernstände mit getrennten Film-/Serienfreischaltungen und eindeutiger Zielauswahl.",
+    "1.104 zusätzliche eigenständige Ziele zu 200 Animationsfilm-/Serienwerken; aktueller Gesamtkatalog mit 20.507 Fragen.",
+    "Quellen und Links gemeinsam mit bestätigten IMDb-/OFDb-Zielen; Antworttexte dauerhaft grün/rot hervorgehoben.",
+    "Rekordlisten zeigen das aktuelle Karrierelevel; Universal bleibt ohne Genrebegrenzung. Vier gemeldete Fragen und Posterabdeckung korrigiert.",
+    "Auswahlzusammenfassung zeigt Classics/Arthouse; leere Zuordnungen entfallen und vorhandene Zuordnungen besitzen eine gültige Gruppenrolle."
+  ],
+  "data": {
+    "sources": 3,
+    "sourceFiles": 15,
+    "questions": 20507,
+    "knowledgeGoals": 19754,
+    "duplicateQuestionIds": 0,
+    "questionsWithVariantReference": 753,
+    "goals": 19754,
+    "variantReferences": 753,
+    "serverCatalogSha256": "b54f53936e814b926882100c672124d4228dbfc2adec9651e42f330951267fd3",
+    "transportParts": 212,
+    "reset": false
+  },
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_bcdc580fa1548191948dc754db98249a",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 89,
+    "source": {
+      "commit_sha": "e0ec1346ba2606b0448bfc4b06f57a6d900e8cae"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_000000004190820aa6731fc74f3bfafa",
+      "content_hash": "sha256:8856e280b452234610beca87d6f3cf1b28a01b354329d4ebd5858a877f1a8d4c",
+      "size_bytes": 87664640,
+      "file_count": 971
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6af0ab5599408191acd24fc16c2ab07b",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Wissensquiz – Dein Filmkosmos",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_bcdc580fa1548191948dc754db98249a",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-08T17:03:39.812944+00:00"
+  },
+  "server": {
+    "content": {
+      "content": {
+        "hash": "b54f53936e814b926882100c672124d4228dbfc2adec9651e42f330951267fd3",
+        "areas": 32,
+        "goals": 19754,
+        "genres": [
+          "Abenteuer",
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Horror",
+          "Komödie",
+          "Martial Arts & Asia-Film",
+          "Musik",
+          "Rom-Com",
+          "Science-Fiction",
+          "Serien · Abenteuer",
+          "Serien · Action",
+          "Serien · Cyberpunk",
+          "Serien · Drama",
+          "Serien · Fantasy",
+          "Serien · Horror",
+          "Serien · Komödie",
+          "Serien · Krieg",
+          "Serien · Krimi",
+          "Serien · Martial Arts & Asia-Film",
+          "Serien · Mystery",
+          "Serien · Rom-Com",
+          "Serien · Romantik",
+          "Serien · Science-Fiction",
+          "Serien · Thriller",
+          "Serien · Western",
+          "Thriller",
+          "Western"
+        ],
+        "questions": 20507,
+        "workTypes": [
+          "film",
+          "series"
+        ],
+        "techniques": [
+          "animation",
+          "live-action"
+        ]
+      },
+      "staging": 0,
+      "workTypes": [
+        "film",
+        "series"
+      ],
+      "catalogGoals": 19754,
+      "duelQuestions": 19630,
+      "catalogQuestions": 20507,
+      "familiarityFilms": 1969,
+      "privateRelations": true,
+      "scoresSecurityInvoker": true
+    },
+    "canonicalFunctions": {
+      "expected_functions": 22,
+      "bodies_match": true,
+      "empty_search_paths": true,
+      "helpers_private": true
+    },
+    "syntheticFilters": {
+      "synthetic_filter_cases": 6,
+      "passed": true
+    },
+    "filmLevels": {
+      "films": 1969,
+      "allMatch": true
+    },
+    "migrations": [
+      {
+        "file": "20261108064313_work_attributes_and_filter_contract.sql",
+        "sourceSha256": "cf662b1a83f4a4933cfc6e8b27fc7a4ed87271c23c02504e4991aca9ff685d4a",
+        "guardedSqlSha256": "3620530d187cdbea3e47f4a3128a367bf65132845f3412fc0229c79cf4f6a0a4",
+        "version": "20261108165339",
+        "name": "work_attributes_and_filter_contract_release_89"
+      },
+      {
+        "file": "20261108071001_work_area_progress_and_unlocks.sql",
+        "sourceSha256": "97ccfe0237d62752686b05dd3af2d0157dfeb3612e4652dc22114d92dff38c91",
+        "guardedSqlSha256": "ca5f8296d2e34e696723486940aff7426575fe0eb15b989ea93723c52b0eebf2",
+        "version": "20261108165535",
+        "name": "work_area_progress_and_unlocks_release_89"
+      },
+      {
+        "file": "20261108074025_record_run_career_level.sql",
+        "sourceSha256": "8c51be47ad1bb08c75bc1d9197d1599eeabb093c63dda7ce360fa723cd4d43cd",
+        "guardedSqlSha256": "da25c89d827cb2379d6d3423d8cf5002a1f9f3daa2e7e2075f714078c302beeb",
+        "version": "20261108165543",
+        "name": "record_run_career_level_release_89"
+      },
+      {
+        "file": "20261108082311_unique_goal_selection_paths.sql",
+        "sourceSha256": "7f3580720b2d73d350e61b8232ef3238a0f8716920204be09999c21720857144",
+        "guardedSqlSha256": "a0a312d00ee4040bd201efb1e63a3a54980e7965ea931eb25dfae5904ad3b900",
+        "version": "20261108165546",
+        "name": "unique_goal_selection_paths_release_89"
+      },
+      {
+        "file": "20261108083245_safe_question_facets.sql",
+        "sourceSha256": "ebc76b5530c6c8dbb29276e9a77a3a3bfe587b0f0edc08b84fba6e784bb790da",
+        "guardedSqlSha256": "a55727b1ef475199f1e0d66f53b221e27c701a09796ae60f22c65ed001332663",
+        "version": "20261108165626",
+        "name": "safe_question_facets_release_89"
+      },
+      {
+        "file": "20261108084501_work_selection_across_game_modes.sql",
+        "sourceSha256": "0e25b968393cd4139731f445969204b451098ccb5fa2250bc2f7a407789d803b",
+        "guardedSqlSha256": "57adf6765fd770a9c3e8701003f424fd4e4d2ea0e65da2a5835b00b31eeff3c9",
+        "version": "20261108165629",
+        "name": "work_selection_across_game_modes_release_89"
+      }
+    ],
+    "privateSourceTablesUnchanged": 43,
+    "repeatableReadAsserted": true,
+    "protectedSnapshots": "Jeder der sechs Schemablöcke und der Katalogwechsel vergleicht alle 43 Quelltabellen vor und nach der Änderung im selben konsistenten Snapshot.",
+    "activation": {
+      "sha256": "8c941c549084673c0d5e91a86d12b9d7fa3832aa7216327cdb7db6e90a59edf7",
+      "films": 1969,
+      "fields": [
+        "film",
+        "level"
+      ],
+      "originalActivationBytes": 195579,
+      "compactActivationBytes": 54124,
+      "sameFilmLevels": true,
+      "committed": true,
+      "responseTimedOut": true,
+      "separateReadbackConfirmed": true
+    },
+    "operationNotes": [
+      "Zwei größere kombinierte Migrationsaufrufe überschritten die MCP-Frist; unveränderter Server und keine laufenden Migrationen separat bestätigt. Anschließend alle sechs kanonischen Blöcke erfolgreich einzeln angewendet.",
+      "Der verdichtete Katalogaufruf erhielt ebenfalls keine rechtzeitige MCP-Antwort. Nachkontrolle bestätigte den vollständig abgeschlossenen Commit, richtigen Hash und leeres Staging; nicht erneut aktiviert."
+    ],
+    "advisors": {
+      "securityBefore": {
+        "rls_enabled_no_policy": 56,
+        "anon_security_definer_function_executable": 10,
+        "authenticated_security_definer_function_executable": 33,
+        "auth_leaked_password_protection": 1
+      },
+      "securityAfter": {
+        "rls_enabled_no_policy": 58,
+        "anon_security_definer_function_executable": 10,
+        "authenticated_security_definer_function_executable": 33,
+        "auth_leaked_password_protection": 1
+      },
+      "performanceBefore": {
+        "unindexed_foreign_keys": 5,
+        "unused_index": 10
+      },
+      "performanceAfter": {
+        "unindexed_foreign_keys": 5,
+        "unused_index": 11
+      },
+      "health": {},
+      "addedSecurity": [
+        {
+          "name": "rls_enabled_no_policy",
+          "metadata": {
+            "name": "catalog_credits",
+            "type": "table",
+            "schema": "quiz_game_internal"
+          }
+        },
+        {
+          "name": "rls_enabled_no_policy",
+          "metadata": {
+            "name": "catalog_paths",
+            "type": "table",
+            "schema": "quiz_game_internal"
+          }
+        }
+      ],
+      "addedPerformance": [
+        {
+          "name": "unused_index",
+          "metadata": {
+            "name": "catalog_paths",
+            "type": "table",
+            "schema": "quiz_game_internal"
+          }
+        }
+      ],
+      "assessment": "Zwei neue private Katalogtabellen mit RLS ohne direkte Clientrechte; ein neu angelegter Index noch unbenutzt. Keine zusätzlichen ausführbaren Definer-Funktionen, keine Health-Befunde."
+    }
+  },
+  "nativeReleaseMetadataWrittenAndSeparatelyReadBack": true,
+  "checks": {
+    "logic": {
+      "passed": 524,
+      "total": 524,
+      "files": 85,
+      "failed": 0
+    },
+    "build": {
+      "passed": true,
+      "siteVersion": 89,
+      "files": 970,
+      "bytes": 86887710,
+      "normalizedChanged": [
+        "assets/AccountGame-js",
+        "assets/entryRemote-js"
+      ],
+      "removed": [],
+      "manifestSha256": "fad08777f7d5ce0126a70308b8d53f1e73f6a6e4ec97a5272159dcfd69ce3694"
+    },
+    "browser": {
+      "full": {
+        "startTime": "2026-11-08T14:02:15.782Z",
+        "duration": 9327212.925999999,
+        "expected": 381,
+        "skipped": 1,
+        "unexpected": 46,
+        "flaky": 0
+      },
+      "fullCaseCount": 428,
+      "globalErrors": [],
+      "followups": [
+        {
+          "report": "browser-actor-filter.json",
+          "startTime": "2026-11-08T14:16:02.779Z",
+          "duration": 85725.25,
+          "expected": 2,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "report": "browser-topics.json",
+          "startTime": "2026-11-08T14:20:39.202Z",
+          "duration": 151046.18399999998,
+          "expected": 4,
+          "skipped": 0,
+          "unexpected": 1,
+          "flaky": 0
+        },
+        {
+          "report": "browser-selection-final.json",
+          "startTime": "2026-11-08T14:28:21.727Z",
+          "duration": 275769.83900000004,
+          "expected": 3,
+          "skipped": 0,
+          "unexpected": 2,
+          "flaky": 0
+        },
+        {
+          "report": "browser-selection-recheck.json",
+          "startTime": "2026-11-08T14:35:35.047Z",
+          "duration": 425387.48299999995,
+          "expected": 7,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "report": "browser-a11y-timing.json",
+          "startTime": "2026-11-08T14:47:19.047Z",
+          "duration": 362059.396,
+          "expected": 12,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "report": "browser-familiarity-collections.json",
+          "startTime": "2026-11-08T14:54:42.073Z",
+          "duration": 132004.42299999998,
+          "expected": 8,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "report": "browser-repeat-areas.json",
+          "startTime": "2026-11-08T15:03:25.248Z",
+          "duration": 113284.494,
+          "expected": 0,
+          "skipped": 0,
+          "unexpected": 3,
+          "flaky": 0
+        },
+        {
+          "report": "browser-learning-topics-final.json",
+          "startTime": "2026-11-08T15:10:14.200Z",
+          "duration": 132188.725,
+          "expected": 6,
+          "skipped": 0,
+          "unexpected": 1,
+          "flaky": 0
+        },
+        {
+          "report": "browser-unlocks-topics.json",
+          "startTime": "2026-11-08T15:13:42.475Z",
+          "duration": 137468.271,
+          "expected": 5,
+          "skipped": 0,
+          "unexpected": 1,
+          "flaky": 0
+        },
+        {
+          "report": "browser-unlocks-final.json",
+          "startTime": "2026-11-08T15:17:07.995Z",
+          "duration": 103553.41799999999,
+          "expected": 5,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "report": "browser-journey-contrast.json",
+          "startTime": "2026-11-08T15:23:06.535Z",
+          "duration": 91076.62400000001,
+          "expected": 3,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "report": "browser-answer-duration-recheck.json",
+          "startTime": "2026-11-08T15:37:18.834Z",
+          "duration": 34830.079000000005,
+          "expected": 1,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        {
+          "report": "browser-source-links-final.json",
+          "startTime": "2026-11-08T16:26:50.148Z",
+          "duration": 69795.01199999999,
+          "expected": 4,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        }
+      ],
+      "distinctPassed": 427,
+      "skipped": [
+        {
+          "project": "webkit-mobile",
+          "file": "question-sources.spec.ts",
+          "title": "Filmfragen, Schauspieler und Preisträger bilden einen additiven Pool bei 1440 Pixeln",
+          "status": "skipped",
+          "expected": "skipped",
+          "durationMs": 7553,
+          "proof": "browser-results.json"
+        }
+      ],
+      "failures": [],
+      "resolved": [
+        {
+          "project": "chromium",
+          "file": "actors-package.spec.ts",
+          "title": "Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "actors-package.spec.ts",
+            "title": "Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 24571,
+            "proof": "browser-actor-filter.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "actors-package.spec.ts",
+          "title": "Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "actors-package.spec.ts",
+            "title": "Personenkategorie lässt sich aus der Filmreise direkt auswählen und vollständig sichern",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 56928,
+            "proof": "browser-actor-filter.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "answer-duration.spec.ts",
+          "title": "Anzeigezeit 4000 ms: Schieberegler gespeichert, richtig/falsch/Keine Ahnung gleich lang",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "answer-duration.spec.ts",
+            "title": "Anzeigezeit 4000 ms: Schieberegler gespeichert, richtig/falsch/Keine Ahnung gleich lang",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 32060,
+            "proof": "browser-answer-duration-recheck.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "app.spec.ts",
+          "title": "Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fragen behalten Erklärungen und Optionen",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "app.spec.ts",
+            "title": "Lernpfad ist Standard; freie Auswahl bleibt gespeichert; helle kompakte Fragen behalten Erklärungen und Optionen",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 28349,
+            "proof": "browser-topics.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "app.spec.ts",
+          "title": "Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach Neuladen",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "app.spec.ts",
+            "title": "Freigestellte Genreillustrationen laden auf Desktop und Handy sowie nach Neuladen",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 25114,
+            "proof": "browser-topics.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "app.spec.ts",
+          "title": "Rekordübersicht zeigt Einzelgenre und kurze Ergebnisbezeichnung ohne Darstellungsfehler",
+          "initialStatus": "timedOut",
+          "final": {
+            "project": "chromium",
+            "file": "app.spec.ts",
+            "title": "Rekordübersicht zeigt Einzelgenre und kurze Ergebnisbezeichnung ohne Darstellungsfehler",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 41074,
+            "proof": "browser-selection-recheck.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "compact-home.spec.ts",
+          "title": "Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei 320 Pixeln",
+          "initialStatus": "timedOut",
+          "final": {
+            "project": "chromium",
+            "file": "compact-home.spec.ts",
+            "title": "Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei 320 Pixeln",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 20511,
+            "proof": "browser-selection-recheck.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "compact-home.spec.ts",
+          "title": "Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei 1440 Pixeln",
+          "initialStatus": "timedOut",
+          "final": {
+            "project": "chromium",
+            "file": "compact-home.spec.ts",
+            "title": "Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei 1440 Pixeln",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 19893,
+            "proof": "browser-selection-recheck.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "compact-home.spec.ts",
+          "title": "Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei 320 Pixeln",
+          "initialStatus": "timedOut",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "compact-home.spec.ts",
+            "title": "Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei 320 Pixeln",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 74734,
+            "proof": "browser-selection-recheck.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "compact-home.spec.ts",
+          "title": "Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei 1440 Pixeln",
+          "initialStatus": "timedOut",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "compact-home.spec.ts",
+            "title": "Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei 1440 Pixeln",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 83149,
+            "proof": "browser-selection-recheck.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "deferred-pages.spec.ts",
+          "title": "alle Nebenansichten öffnen ohne vorherigen Besuch",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "deferred-pages.spec.ts",
+            "title": "alle Nebenansichten öffnen ohne vorherigen Besuch",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 23782,
+            "proof": "browser-topics.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "dont-know.spec.ts",
+          "title": "Keine Ahnung in rekord: vier Antworten gleich lang zeigen, Lösung hervorheben und falsch werten",
+          "initialStatus": "timedOut",
+          "final": {
+            "project": "chromium",
+            "file": "dont-know.spec.ts",
+            "title": "Keine Ahnung in rekord: vier Antworten gleich lang zeigen, Lösung hervorheben und falsch werten",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 22072,
+            "proof": "browser-a11y-timing.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "duels.spec.ts",
+          "title": "Duell: Antwortfarben, richtige und falsche Töne, Keine Ahnung und Stummschaltung mit automatischem Wechsel",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "duels.spec.ts",
+            "title": "Duell: Antwortfarben, richtige und falsche Töne, Keine Ahnung und Stummschaltung mit automatischem Wechsel",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 15376,
+            "proof": "browser-a11y-timing.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "duels.spec.ts",
+          "title": "Duell: Antwortfarben, richtige und falsche Töne, Keine Ahnung und Stummschaltung mit automatischem Wechsel",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "duels.spec.ts",
+            "title": "Duell: Antwortfarben, richtige und falsche Töne, Keine Ahnung und Stummschaltung mit automatischem Wechsel",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 48698,
+            "proof": "browser-a11y-timing.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "error-training.spec.ts",
+          "title": "Auswertung und gezielte Fehlerrunde bei 320 Pixeln mit bestätigter Online-Speicherung",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "error-training.spec.ts",
+            "title": "Auswertung und gezielte Fehlerrunde bei 320 Pixeln mit bestätigter Online-Speicherung",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 21300,
+            "proof": "browser-a11y-timing.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "error-training.spec.ts",
+          "title": "Auswertung und gezielte Fehlerrunde bei 1280 Pixeln mit bestätigter Online-Speicherung",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "error-training.spec.ts",
+            "title": "Auswertung und gezielte Fehlerrunde bei 1280 Pixeln mit bestätigter Online-Speicherung",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 20254,
+            "proof": "browser-a11y-timing.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "error-training.spec.ts",
+          "title": "Auswertung und gezielte Fehlerrunde bei 320 Pixeln mit bestätigter Online-Speicherung",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "error-training.spec.ts",
+            "title": "Auswertung und gezielte Fehlerrunde bei 320 Pixeln mit bestätigter Online-Speicherung",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 53693,
+            "proof": "browser-a11y-timing.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "error-training.spec.ts",
+          "title": "Auswertung und gezielte Fehlerrunde bei 1280 Pixeln mit bestätigter Online-Speicherung",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "error-training.spec.ts",
+            "title": "Auswertung und gezielte Fehlerrunde bei 1280 Pixeln mit bestätigter Online-Speicherung",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 62462,
+            "proof": "browser-a11y-timing.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "game-cards.spec.ts",
+          "title": "Kleine Bildvarianten und lesbare Themen bei 320/390 Pixeln und großer Schrift",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "game-cards.spec.ts",
+            "title": "Kleine Bildvarianten und lesbare Themen bei 320/390 Pixeln und großer Schrift",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 19350,
+            "proof": "browser-selection-final.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "game-cards.spec.ts",
+          "title": "Rekordauswahl hat nur Universal oder ein Genre, feste Stufen und passende Radios",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "game-cards.spec.ts",
+            "title": "Rekordauswahl hat nur Universal oder ein Genre, feste Stufen und passende Radios",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 12324,
+            "proof": "browser-a11y-timing.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "game-cards.spec.ts",
+          "title": "Kleine Bildvarianten und lesbare Themen bei 320/390 Pixeln und großer Schrift",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "game-cards.spec.ts",
+            "title": "Kleine Bildvarianten und lesbare Themen bei 320/390 Pixeln und großer Schrift",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 24121,
+            "proof": "browser-selection-final.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "game-cards.spec.ts",
+          "title": "Rekordauswahl hat nur Universal oder ein Genre, feste Stufen und passende Radios",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "game-cards.spec.ts",
+            "title": "Rekordauswahl hat nur Universal oder ein Genre, feste Stufen und passende Radios",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 36806,
+            "proof": "browser-a11y-timing.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "journey-areas.spec.ts",
+          "title": "Schauspieler: Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "journey-areas.spec.ts",
+            "title": "Schauspieler: Bekanntheitsgruppen filtern Expertenfragen bei allen Genres und bleiben nach Neuladen erhalten",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 14727,
+            "proof": "browser-familiarity-collections.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "journey-areas.spec.ts",
+          "title": "Preisträger: Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "journey-areas.spec.ts",
+            "title": "Preisträger: Bekanntheitsgruppen filtern Expertenfragen bei allen Genres und bleiben nach Neuladen erhalten",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 12554,
+            "proof": "browser-familiarity-collections.json"
+          }
+        },
+        {
+          "project": "firefox",
+          "file": "journey-areas.spec.ts",
+          "title": "Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt vier Bekanntheitsgruppen und spielt reine Personenrunden",
+          "initialStatus": "failed",
+          "final": {
+            "project": "firefox",
+            "file": "journey-areas.spec.ts",
+            "title": "Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt vier Bekanntheitsgruppen und spielt reine Personenrunden",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 17918,
+            "proof": "browser-journey-contrast.json"
+          }
+        },
+        {
+          "project": "firefox",
+          "file": "journey-areas.spec.ts",
+          "title": "Schauspieler: Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
+          "initialStatus": "failed",
+          "final": {
+            "project": "firefox",
+            "file": "journey-areas.spec.ts",
+            "title": "Schauspieler: Bekanntheitsgruppen filtern Expertenfragen bei allen Genres und bleiben nach Neuladen erhalten",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 16054,
+            "proof": "browser-familiarity-collections.json"
+          }
+        },
+        {
+          "project": "firefox",
+          "file": "journey-areas.spec.ts",
+          "title": "Preisträger: Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
+          "initialStatus": "failed",
+          "final": {
+            "project": "firefox",
+            "file": "journey-areas.spec.ts",
+            "title": "Preisträger: Bekanntheitsgruppen filtern Expertenfragen bei allen Genres und bleiben nach Neuladen erhalten",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 12246,
+            "proof": "browser-familiarity-collections.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "journey-areas.spec.ts",
+          "title": "Schauspieler: Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "journey-areas.spec.ts",
+            "title": "Schauspieler: Bekanntheitsgruppen filtern Expertenfragen bei allen Genres und bleiben nach Neuladen erhalten",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 20261,
+            "proof": "browser-familiarity-collections.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "journey-areas.spec.ts",
+          "title": "Preisträger: Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "journey-areas.spec.ts",
+            "title": "Preisträger: Bekanntheitsgruppen filtern Expertenfragen bei allen Genres und bleiben nach Neuladen erhalten",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 17212,
+            "proof": "browser-familiarity-collections.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "navigation.spec.ts",
+          "title": "Ungültige Themenantwort zeigt einen Fehler und kann ohne Appabsturz erneut geladen werden",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "navigation.spec.ts",
+            "title": "Ungültige Themenantwort zeigt einen Fehler und kann ohne Appabsturz erneut geladen werden",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 18496,
+            "proof": "browser-topics.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "new-packages.spec.ts",
+          "title": "Arthouse allein: Genre, Film, Bilder und Neuladen bleiben korrekt",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "new-packages.spec.ts",
+            "title": "Arthouse allein: Genre, Film, Bilder und Neuladen bleiben korrekt",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 16327,
+            "proof": "browser-familiarity-collections.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "new-packages.spec.ts",
+          "title": "Arthouse mit Classics: Genre, Film, Bilder und Neuladen bleiben korrekt",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "new-packages.spec.ts",
+            "title": "Arthouse mit Classics: Genre, Film, Bilder und Neuladen bleiben korrekt",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 16804,
+            "proof": "browser-familiarity-collections.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "play-entry.spec.ts",
+          "title": "kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinierbar",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "play-entry.spec.ts",
+            "title": "kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinierbar",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 24801,
+            "proof": "browser-selection-recheck.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "play-entry.spec.ts",
+          "title": "kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinierbar",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "play-entry.spec.ts",
+            "title": "kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinierbar",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 156931,
+            "proof": "browser-selection-recheck.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "server-learning.spec.ts",
+          "title": "Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- und Preisfragen",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "server-learning.spec.ts",
+            "title": "Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- und Preisfragen",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 17388,
+            "proof": "browser-learning-topics-final.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "server-learning.spec.ts",
+          "title": "zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "server-learning.spec.ts",
+            "title": "zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 9540,
+            "proof": "browser-learning-topics-final.json"
+          }
+        },
+        {
+          "project": "firefox",
+          "file": "server-learning.spec.ts",
+          "title": "Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- und Preisfragen",
+          "initialStatus": "failed",
+          "final": {
+            "project": "firefox",
+            "file": "server-learning.spec.ts",
+            "title": "Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- und Preisfragen",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 17684,
+            "proof": "browser-learning-topics-final.json"
+          }
+        },
+        {
+          "project": "firefox",
+          "file": "server-learning.spec.ts",
+          "title": "zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog",
+          "initialStatus": "failed",
+          "final": {
+            "project": "firefox",
+            "file": "server-learning.spec.ts",
+            "title": "zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 9176,
+            "proof": "browser-learning-topics-final.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "server-learning.spec.ts",
+          "title": "Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- und Preisfragen",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "server-learning.spec.ts",
+            "title": "Wiederholen bietet alle Fragenbereiche und startet fällige Schauspieler- und Preisfragen",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 41031,
+            "proof": "browser-learning-topics-final.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "server-learning.spec.ts",
+          "title": "zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "server-learning.spec.ts",
+            "title": "zeigt aktuelle 50-Prozent-Schwellen ohne Clientkatalog",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 21157,
+            "proof": "browser-learning-topics-final.json"
+          }
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "source-links.spec.ts",
+          "title": "Quellen und Links: round, Lösungsschutz und eindeutige Ziele auf schmalen Anzeigen",
+          "initialStatus": "failed",
+          "final": {
+            "project": "webkit-mobile",
+            "file": "source-links.spec.ts",
+            "title": "Quellen und Links: round, Lösungsschutz und eindeutige Ziele auf schmalen Anzeigen",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 18021,
+            "proof": "browser-source-links-final.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "topic-browse.spec.ts",
+          "title": "Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzelne Filmauswahl",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "topic-browse.spec.ts",
+            "title": "Themen öffnen passende Filmblöcke ohne Fortschrittsänderung ohne einzelne Filmauswahl",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 22610,
+            "proof": "browser-unlocks-topics.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "unlock.spec.ts",
+          "title": "Freischaltung mittel: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "unlock.spec.ts",
+            "title": "Freischaltung mittel: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 20104,
+            "proof": "browser-unlocks-final.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "unlock.spec.ts",
+          "title": "Freischaltung schwer: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "unlock.spec.ts",
+            "title": "Freischaltung schwer: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 26223,
+            "proof": "browser-unlocks-final.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "unlock.spec.ts",
+          "title": "Freischaltung beide: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "unlock.spec.ts",
+            "title": "Freischaltung beide: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 24293,
+            "proof": "browser-unlocks-final.json"
+          }
+        },
+        {
+          "project": "chromium",
+          "file": "unlock.spec.ts",
+          "title": "Freischaltung filmgruppe: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig",
+          "initialStatus": "failed",
+          "final": {
+            "project": "chromium",
+            "file": "unlock.spec.ts",
+            "title": "Freischaltung filmgruppe: Feier nur bei neuem Erfolg, respektiert Einstellungen und bleibt einmalig",
+            "status": "passed",
+            "expected": "passed",
+            "durationMs": 13570,
+            "proof": "browser-unlocks-final.json"
+          }
+        }
+      ],
+      "complete": true
+    },
+    "browserProofSha256": "908dc28f76c3821b1c2ca76e7c0a3efe412bf0bfc78534cc12fe9b722935c804",
+    "diffCheck": true,
+    "metadataAndTypeScript": true,
+    "dependencyChanges": false,
+    "browserScope": "Vollständiger Lauf gegen den gemeinsamen Versionsbuild; nach zwei begrenzten UI-Korrekturen betroffene Fälle im finalen Build erneut erfolgreich. Unveränderte Fälle wiederverwendet. Fehlgeschlagene und abgebrochene Versuche nicht als bestanden gezählt."
+  },
+  "archive": {
+    "files": 971,
+    "buildFiles": 970,
+    "allFilesMatch": true,
+    "failures": [],
+    "archiveSha256": "974dc1c94c4bbf25fd8af2e2a6f5f0e538c76bf33a6290d69760ef58cff33f37",
+    "archiveBytes": 83643485,
+    "hosting": {
+      "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+      "static": {
+        "directory": "dist"
+      }
+    }
+  },
+  "live": {
+    "checkedAt": "2026-11-08T17:05:25.259Z",
+    "public": true,
+    "fileCount": 969,
+    "expectedFileCount": 969,
+    "allFilesMatch": true,
+    "startPage": {
+      "status": 200,
+      "expectedAssets": [
+        "/assets/index-BYTyPG-C.js",
+        "/assets/index-BmjwmyoX.css"
+      ],
+      "allAssetsPresent": true
+    },
+    "indexRedirect": {
+      "status": 307,
+      "location": "/"
+    },
+    "release": {
+      "status": 200,
+      "rows": [
+        {
+          "version": 89,
+          "published_at": "2026-11-08T17:03:39.812944+00:00"
+        }
+      ]
+    },
+    "directMetadataStatus": 401,
+    "failures": [],
+    "complete": true
+  },
+  "browserHandoff": {
+    "opened": true,
+    "readOnly": true,
+    "questions": 20507,
+    "areas": 32
+  },
+  "limitations": [
+    "Zusätzliche unbestätigte IMDb-/OFDb-Direktprofile bleiben gemäß docs/Animation-und-Serien.md offen; fachliche Belege sind vorhanden."
+  ],
+  "cleanup": {
+    "complete": true,
+    "temporaryRootRemoved": true,
+    "completedAt": "2026-11-08T17:13:35.9273965Z",
+    "temporaryRootFiles": 10484,
+    "temporaryRootDirectories": 329,
+    "temporaryRootBytes": 1551043401,
+    "attributesCleared": 10,
+    "junctionsDetached": 1,
+    "sharedDependenciesPreserved": true,
+    "ownPreviewServersRemaining": 0,
+    "manualScreenshotsRemoved": 13,
+    "manualScreenshotBytes": 3397674,
+    "temporaryRoot": "tmp-release-89",
+    "retained": "Frühere kleine Karrierevorschauen in data/visualizations; Originalmetadaten, gemeinsame Abhängigkeiten und fremde Artefakte."
+  }
+}

@@ -147,6 +147,16 @@ test("Filmreise erhält die additive Auswahl, zeigt getrennte Stufen und zeigt v
   await expect(
     sources.getByLabel("Werkfragen", { exact: true }),
   ).not.toBeChecked();
+  // Measure settled colors after the section's 180 ms opening animation.
+  await page
+    .locator(".quiz-filters .setup-section[open] > .setup-section-content")
+    .evaluateAll((elements) =>
+      Promise.all(
+        elements.flatMap((element) =>
+          element.getAnimations().map((animation) => animation.finished),
+        ),
+      ),
+    );
   expect(
     (await new AxeBuilder({ page }).withTags(["wcag2a", "wcag2aa"]).analyze())
       .violations,
@@ -239,7 +249,7 @@ for (const [source, label] of [
 ] as const) {
   test(
     label +
-      ": Bekanntheitsgruppen filtern Expertenfragen ohne Filmgenres und bleiben nach Neuladen erhalten",
+      ": Bekanntheitsgruppen filtern Expertenfragen bei allen Genres und bleiben nach Neuladen erhalten",
     async ({ page }) => {
       await fixCalendarTime(page, now);
       await page.setViewportSize({ width: 320, height: 820 });
@@ -250,7 +260,7 @@ for (const [source, label] of [
       const state = emptyState();
       state.settings.roundSetup = {
         mode: "ueben",
-        genres: [],
+        genres: null,
         categories: [],
         sources: [source],
         difficulties: ["experte"],

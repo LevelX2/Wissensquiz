@@ -1,0 +1,204 @@
+{
+  "version": 90,
+  "projectId": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+  "title": "Filmfieber – Dein Quiz für Film & Serie",
+  "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+  "publishedAt": "2026-11-09T00:53:56.978167+01:00",
+  "publishedAtBerlin": "09.11.2026, 00:53:56",
+  "timezone": "Europe/Berlin",
+  "sourceCommit": "be9f47218c4a0e186c86eeeb34cda36d30c1edaa",
+  "mainSourceCommit": "f7ee9ba296a641fddc47448d50879baa6b986501",
+  "sourceTree": "8497b56e09169a2dc260787daf39b887ece26a59",
+  "sourceTreeMatchesMain": true,
+  "sourceTransport": "Aktueller Quellsnapshot auf bestehender Sites-Historie; lokale Main-Historie erhalten.",
+  "githubPush": false,
+  "publicAccessPreserved": true,
+  "accessRevision": 2,
+  "changes": [
+    "Filmfieber – Dein Quiz für Film & Serie als sichtbarer App- und Site-Name.",
+    "Eigene Kinowelt in Petrol und Gold mit Quer- und Hochformatmotiven sowie optimierten WebP-Fassungen.",
+    "Kinostart für mindestens 2,5 Sekunden ab geladenem Bild vor dem automatischen Kontoeinstieg; parallele Sitzungsprüfung.",
+    "Interaktiver Probeeinstieg mit direkt erreichbarer Proberunde, Anmeldung und Kontoanlage.",
+    "Funktionales WebKit-Testbudget für den umfangreichen Quellen-Auswahlablauf auf 180 Sekunden angepasst; Reaktionszeitgrenzen unverändert."
+  ],
+  "data": {
+    "questions": 20507,
+    "knowledgeGoals": 19754,
+    "catalogActivation": false,
+    "schemaChanges": false,
+    "reset": false,
+    "privateUserDataChanged": false
+  },
+  "savedVersion": {
+    "id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_63f89cb903e88191925484aea539acb6",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "version_number": 90,
+    "source": {
+      "commit_sha": "be9f47218c4a0e186c86eeeb34cda36d30c1edaa"
+    },
+    "archive_storage": {
+      "archive_format": "tar",
+      "sediment_file_id": "file_00000000aaf8820aa0b3dd7fbe23dcb2",
+      "content_hash": "sha256:0df18920a70179afa43e0cc10ba8f4490d817c618cacb5782a0cd14e39418f7d",
+      "size_bytes": 93009920,
+      "file_count": 977
+    },
+    "screenshot_url": null,
+    "deployment_id": null
+  },
+  "deployment": {
+    "id": "appgdep_6af10b81e98c81919f1eeddc35d0640f",
+    "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+    "title": "Filmfieber – Dein Quiz für Film & Serie",
+    "version_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23~appgver_63f89cb903e88191925484aea539acb6",
+    "type": "publish",
+    "status": "succeeded",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site",
+    "has_mcp": false,
+    "screenshot_asset_pointer": null,
+    "provider_deployment_id": "site---6ab78f6468648191a8895f7a1d9dbf23",
+    "failure_message": null,
+    "env_set_revision": 0,
+    "updated_at": "2026-11-09T00:53:56.978167+01:00"
+  },
+  "releaseMetadata": {
+    "writtenAfterSucceeded": true,
+    "separateReadbackConfirmed": true,
+    "publicRpcConfirmed": true,
+    "directTableStatus": 401
+  },
+  "checks": {
+    "unit": {
+      "passed": 524,
+      "failed": 0,
+      "files": 85,
+      "sha256": "41c797b0e0d0035adbffff71f9816b6c9b6f39b0bc05f1b58f6f9f82047a4df4"
+    },
+    "metadataAndTypeScript": true,
+    "build": {
+      "version": 90,
+      "files": 976,
+      "bytes": 92225219,
+      "sha256": "2c5b588625cbd7e067b24324b61ef0d1cbae2dc0503ceb0cdcc22d560309f149",
+      "finalBuildByteIdenticalToFullBrowserBuild": true
+    },
+    "browser": {
+      "full": {
+        "stats": {
+          "startTime": "2026-11-08T20:54:29.557Z",
+          "duration": 10288224.395,
+          "expected": 436,
+          "skipped": 1,
+          "unexpected": 3,
+          "flaky": 0
+        },
+        "sha256": "677814265499cd19edeaca4aa8044cdc3d15877095698b7c07df6b98e45d9290"
+      },
+      "followup": {
+        "stats": {
+          "startTime": "2026-11-08T23:46:22.744Z",
+          "duration": 245872.60400000002,
+          "expected": 3,
+          "skipped": 0,
+          "unexpected": 0,
+          "flaky": 0
+        },
+        "sha256": "8c8dde7275dec74478f98e53953a7fecaaa1dc70b9c21699a04defe20d777a83"
+      },
+      "total": 440,
+      "passed": 439,
+      "skipped": 1,
+      "unresolved": [],
+      "resolutions": [
+        {
+          "project": "webkit-mobile",
+          "file": "answer-duration.spec.ts",
+          "title": "Anzeigezeit 500 ms: Schieberegler gespeichert, richtig/falsch/Keine Ahnung gleich lang",
+          "initialStatus": "failed",
+          "finalStatus": "passed"
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "compact-home.spec.ts",
+          "title": "Startseite bleibt kompakt und Auswahlklappen sind per Tastatur bedienbar bei 1440 Pixeln",
+          "initialStatus": "failed",
+          "finalStatus": "passed"
+        },
+        {
+          "project": "webkit-mobile",
+          "file": "question-sources.spec.ts",
+          "title": "Filmfragen, Schauspieler und Preisträger bilden einen additiven Pool bei 320 Pixeln",
+          "initialStatus": "timedOut",
+          "finalStatus": "passed"
+        }
+      ],
+      "complete": true
+    },
+    "browserScope": "Vollständiger Lauf in Chromium, Firefox und mobilem WebKit. Zwei unveränderte WebKit-Fälle gezielt erfolgreich wiederholt. Ein langer Funktionsablauf nach Testbudget-Anpassung vollständig erfolgreich geprüft. Finaler Produktionsbuild bytegleich zum vollständigen Browserbuild; unveränderte erfolgreiche Nachweise wiederverwendet.",
+    "diffCheck": true,
+    "dependencyChanges": false
+  },
+  "archive": {
+    "files": 977,
+    "buildFiles": 976,
+    "allFilesMatch": true,
+    "sha256": "bad39f069aa3939b5b66363d0ed9a2b7b681444b9da61dcdb6c4833992eab8ad",
+    "bytes": 88806982,
+    "hosting": {
+      "project_id": "appgprj_6ab78f6468648191a8895f7a1d9dbf23",
+      "static": {
+        "directory": "dist"
+      }
+    }
+  },
+  "live": {
+    "checkedAt": "2026-11-08T23:54:40.168Z",
+    "public": true,
+    "fileCount": 975,
+    "expectedFileCount": 975,
+    "allFilesMatch": true,
+    "startPage": {
+      "status": 200,
+      "titlePresent": true,
+      "expectedAssets": [
+        "/assets/index-DkcZz8fL.js",
+        "/assets/index-ytZ0jlXn.css"
+      ],
+      "allAssetsPresent": true
+    },
+    "indexRedirect": {
+      "status": 307,
+      "location": "/"
+    },
+    "release": {
+      "status": 200,
+      "rows": [
+        {
+          "version": 90,
+          "published_at": "2026-11-09T00:53:56.978167+01:00"
+        }
+      ]
+    },
+    "directMetadataStatus": 401,
+    "failures": [],
+    "complete": true
+  },
+  "browserHandoff": {
+    "requested": true,
+    "status": "queued",
+    "url": "https://wissensquiz-filmkosmos.levelx2.chatgpt.site"
+  },
+  "cleanup": {
+    "complete": true,
+    "temporaryRoot": "tmp-release-90",
+    "files": 6313,
+    "directories": 252,
+    "bytes": 1035366135.0,
+    "junctionsDetached": 1,
+    "sharedDependenciesPreserved": true,
+    "ownPreviewServersRemaining": 0,
+    "attributesCleared": 10,
+    "temporaryRootRemoved": true,
+    "completedAt": "2026-11-08T23:59:44.2065019+00:00"
+  }
+}

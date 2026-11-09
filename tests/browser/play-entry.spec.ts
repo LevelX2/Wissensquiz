@@ -13,6 +13,9 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   context,
   browserName,
 }, testInfo) => {
+  // Full interaction and Axe flow includes the separate film/series paths.
+  // Functional budget only; individual response-performance limits stay fixed.
+  if (browserName === "webkit") test.setTimeout(180000);
   await page.clock.install({ time: new Date("2026-09-26T12:00:00+02:00") });
   await page.setViewportSize({ width: 320, height: 740 });
   await page.goto("/");
@@ -127,7 +130,8 @@ test("kompakter Spieleinstieg, automatische Stufen und Classics bleiben kombinie
   expect(Math.max(...widths) - Math.min(...widths)).toBeLessThan(1);
   await page.screenshot({ path: testInfo.outputPath("spieleinstieg-320.png") });
   await page.getByText("Deine Stufenfortschritte", { exact: true }).click();
-  await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(12);
+  await expect(page.locator(".path-progress > div")).toHaveCount(24);
+  await expect(page.locator(".path-progress .genre-thumbnail")).toHaveCount(36);
   await expect(page.locator(".path-progress .genre-icon")).toHaveCount(0);
   await openRoundSetup(page);
   await page.getByRole("button", { name: "Lernen", exact: true }).click();

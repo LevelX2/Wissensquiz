@@ -9,6 +9,7 @@ import { complete } from "./engine";
 import { QuestionScreen } from "./QuestionScreen";
 import { Result } from "./RoundResult";
 import { playFeedback, stopFeedback } from "./feedback";
+import { WelcomeArtwork } from "./WelcomeArtwork";
 import {
   createTrial,
   notifyTrial,
@@ -57,6 +58,12 @@ export function TrialEntry({
   const inFlight = useRef(false);
   const round = trial?.state.rounds[0];
   const finished = round?.status === "completed";
+  const welcome =
+    screen !== "login" &&
+    screen !== "register" &&
+    !finished &&
+    (screen !== "round" || !trial || !round) &&
+    (screen !== "prepare" || used);
 
   useEffect(() => {
     if (initialAccount) setScreen("login");
@@ -170,7 +177,9 @@ export function TrialEntry({
   );
 
   return (
-    <main className={`trial-page ${screen === "round" ? "is-playing" : ""}`}>
+    <main
+      className={`trial-page ${welcome ? "is-welcome" : ""} ${screen === "round" ? "is-playing" : ""}`}
+    >
       <a
         className="brand"
         href="#"
@@ -181,7 +190,7 @@ export function TrialEntry({
       >
         <img src="/icon.svg" alt="" />
         <span>
-          Wissensquiz<small>DEIN FILMKOSMOS</small>
+          Filmfieber<small>DEIN QUIZ FÜR FILM & SERIE</small>
         </span>
       </a>
       {error && (
@@ -315,61 +324,116 @@ export function TrialEntry({
           </button>
         </section>
       ) : (
-        <section className="account-page trial-welcome">
-          <span className="eyebrow">DEIN FILMWISSEN. DEINE FILMREISE.</span>
-          <h1>
-            {round
-              ? "Deine Proberunde wartet."
-              : used
-                ? "Bereit für die nächste Runde?"
-                : "Wie gut kennst Du Dich im Filmkosmos aus?"}
-          </h1>
-          <p>
-            {round
-              ? "Setze Deine begonnene Zehnerrunde fort. Danach kannst Du sie mit einem Konto übernehmen."
-              : used
-                ? "Deine Proberunde ist bereits genutzt. Mit einem bestätigten Quiz-Konto kannst Du weiterspielen."
-                : "Entdecke Filmfragen, lerne mit jeder Antwort etwas dazu und probiere eine erste Runde aus."}
-          </p>
-          {round ? (
-            <button className="primary" onClick={() => setScreen("round")}>
-              Proberunde fortsetzen
-            </button>
-          ) : (
-            !used && (
-              <button
-                className="primary"
-                onClick={() => {
-                  setError("");
-                  setScreen("prepare");
-                }}
-              >
-                Eine Runde ausprobieren
-              </button>
-            )
-          )}
-          {!used && (
-            <p className="tiny muted">
-              10 Fragen ohne Konto. Danach brauchst Du ein kostenloses Konto.
+        <>
+          <section className="welcome-hero" aria-labelledby="welcome-title">
+            <WelcomeArtwork />
+            <div className="welcome-content">
+              <span className="eyebrow">DEIN QUIZ FÜR FILM & SERIE</span>
+              <h1 id="welcome-title">
+                {round ? (
+                  "Deine Proberunde wartet."
+                ) : used ? (
+                  "Bereit für die nächste Runde?"
+                ) : (
+                  <>
+                    Großes Kino.
+                    <br />
+                    <em>Steckt in Dir.</em>
+                  </>
+                )}
+              </h1>
+              <p>
+                {round
+                  ? "Setze Deine begonnene Zehnerrunde fort. Danach kannst Du sie mit einem Konto übernehmen."
+                  : used
+                    ? "Deine Proberunde ist bereits genutzt. Mit einem bestätigten Quiz-Konto kannst Du weiterspielen."
+                    : "Von Kultfilmen bis Serienlieblingen. Von großen Stars bis kleinen Details. Entdecke, wie viel Filmwissen in Dir steckt – und lerne mit jeder Antwort dazu."}
+              </p>
+              <div className="welcome-actions">
+                {round ? (
+                  <button
+                    className="primary"
+                    onClick={() => setScreen("round")}
+                  >
+                    Proberunde fortsetzen <span aria-hidden="true">↗</span>
+                  </button>
+                ) : (
+                  !used && (
+                    <button
+                      className="primary"
+                      onClick={() => {
+                        setError("");
+                        setScreen("prepare");
+                      }}
+                    >
+                      Eine Runde ausprobieren <span aria-hidden="true">↗</span>
+                    </button>
+                  )
+                )}
+                <button
+                  className={used && !round ? "primary" : "secondary"}
+                  onClick={() => setScreen("login")}
+                >
+                  Anmelden
+                </button>
+              </div>
+              {!used && (
+                <p className="welcome-trial-note">
+                  10 Fragen ohne Konto. Danach brauchst Du ein kostenloses
+                  Konto.
+                </p>
+              )}
+              <p className="welcome-register">
+                Deine Filmreise geht weiter.{" "}
+                <button
+                  className="text-button"
+                  onClick={() => setScreen("register")}
+                >
+                  Konto erstellen
+                </button>
+              </p>
+            </div>
+            <p className="welcome-caption" aria-hidden="true">
+              SO VIELE WELTEN. DEIN FILMKOSMOS.
             </p>
-          )}
-          <div className="account-actions">
-            <button
-              className={used && !round ? "primary" : "secondary"}
-              onClick={() => setScreen("login")}
-            >
-              Anmelden
-            </button>
-            <button
-              className="text-button"
-              onClick={() => setScreen("register")}
-            >
-              Konto erstellen
-            </button>
-          </div>
-          <h2>Mit Deinem kostenlosen Konto</h2>
-          <AccountBenefits />
-        </section>
+          </section>
+          <section className="welcome-topics" aria-label="Dein Filmkosmos">
+            <div>
+              <span>01 / ENTDECKEN</span>
+              <h2>Alle Genres. Große Geschichten.</h2>
+              <p>
+                Sci-Fi, Fantasy, Thriller, Komödie und mehr. Finde Deine
+                Lieblingswelten.
+              </p>
+            </div>
+            <div>
+              <span>02 / WISSEN</span>
+              <h2>Filme. Serien. Ihre Stars.</h2>
+              <p>
+                Von legendären Rollen bis zu großen Filmpreisen. Hier zählt Dein
+                Blick fürs Detail.
+              </p>
+            </div>
+            <div>
+              <span>03 / WEITERSPIELEN</span>
+              <h2>Jede Runde bringt Dich weiter.</h2>
+              <p>
+                Lerne dazu, sammle Erfolge und fordere andere Filmfans im Duell
+                heraus.
+              </p>
+            </div>
+          </section>
+          <section
+            className="welcome-members"
+            aria-labelledby="welcome-members-title"
+          >
+            <div>
+              <span className="eyebrow">DEINE NÄCHSTE HAUPTROLLE</span>
+              <h2 id="welcome-members-title">Mit Deinem kostenlosen Konto</h2>
+            </div>
+            <AccountBenefits />
+          </section>
+        </>
       )}
     </main>
   );

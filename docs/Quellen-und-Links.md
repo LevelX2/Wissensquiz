@@ -1,6 +1,6 @@
 # Quellen und Links
 
-Stand: 08.11.2026, lokal umgesetzt; noch nicht veröffentlicht.
+Stand: 08.11.2026, mit Version 89 veröffentlicht. [Veröffentlichung und Abnahme](Veroeffentlichung-2026-11-08-Version-89.json).
 
 ## Anordnung und Beschriftung
 
@@ -73,4 +73,4 @@ Für neun Schauspieler fehlt ein eindeutig bestätigtes OFDb-Personenprofil: Shi
 
 Die bestehende Freigabe in QuestionScreen, Rundenrückblick und Duellauflösung bestimmt den Zeitpunkt. Vor der Auflösung stehen weder Links noch verräterische Beschriftungen oder URL-/Titelattribute im Fragen-DOM. Geschlossene Details allein ersetzen diesen Schutz nicht. Bei gesammelten Lösungen erscheinen die Links erst im freigegebenen Rundenrückblick.
 
-Es erfolgen keine Rechercheabfragen im Browser; Zugangsdaten sind nicht nötig. Fragen, Antworten, Versionen, Lernidentitäten und private Spielstände bleiben durch diese Anzeige unverändert. Für die Linkanzeige ist keine Serverkatalogänderung oder Migration erforderlich. [Prüfnachweis](Pruefbericht.md#quellen-und-links).
+Es erfolgen keine Rechercheabfragen im Browser; Zugangsdaten sind nicht nötig. Fragen, Antworten, Versionen, Lernidentitäten und private Spielstände bleiben durch diese Anzeige unverändert. Für die Linkanzeige ist keine Serverkatalogänderung oder Migration erforderlich. [Prüfnachweis](Pruefbericht.md#version-89-veröffentlicht-und-live-abgenommen).
