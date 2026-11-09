@@ -2,7 +2,7 @@
 
 ## Filmfieber und Startbildschirm
 
-Lokal umgesetzt, noch nicht veröffentlicht: Der sichtbare App-Name lautet **Filmfieber**, der Zusatz **Dein Quiz für Film & Serie**. App-Kopf, Ladeansichten, Browser-Titel und Installationsname verwenden ihn einheitlich. Repository, technische Speicherkennungen und öffentliche Adresse behalten ihre bisherigen Bezeichnungen.
+Seit Version 90 veröffentlicht: Der sichtbare App-Name lautet **Filmfieber**, der Zusatz **Dein Quiz für Film & Serie**. App-Kopf, Ladeansichten, Browser-Titel und Installationsname verwenden ihn einheitlich. Repository, technische Speicherkennungen und öffentliche Adresse behalten ihre bisherigen Bezeichnungen.
 
 Bei jedem Öffnen und Neuladen erscheint zunächst das Kinopanorama mit „Großes Kino. Steckt in Dir.“ für mindestens **2,5 Sekunden ab geladenem Bild**. Die Prüfung einer bestehenden Anmeldung läuft gleichzeitig. Danach öffnet sich bei bestätigter Sitzung automatisch das Konto, ansonsten der Einstieg für Proberunde und Anmeldung. Dauert die Sitzungsprüfung länger, bleibt das Motiv bis zu ihrem Abschluss sichtbar. Ein Bildladefehler startet dieselbe begrenzte Wartezeit, damit der Kontozugang erreichbar bleibt. Die Mindestwartezeit gilt einmal pro App-Start; spätere Anmeldung, Rückkehr in den Tab und Ansichtswechsel starten sie nicht erneut. Während des Kinostarts gibt es keine Spielaktionen.
 

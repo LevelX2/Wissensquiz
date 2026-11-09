@@ -2,7 +2,7 @@
 
 ## Startbildschirm Filmfieber
 
-Lokal umgesetzt, noch nicht veröffentlicht: Der Einstieg verwendet eine zusammenhängende Kinowelt in Petrol und Gold. Ein leuchtender Filmstreifen verbindet Weltraum, Fantasy, Western, Thriller, Horror, Bühne, Animation und Filmpreise. Zwei mit dem eingebauten `image_gen` erzeugte Originale liegen unter `public/cinema/`: Querformat mit 1672 × 941 Pixeln und eigenständig komponiertes Hochformat mit 1024 × 1536 Pixeln. [Vollständige Prompts und Dateien](Startbildschirm-Illustrationen.json).
+Seit Version 90 veröffentlicht: Der Einstieg verwendet eine zusammenhängende Kinowelt in Petrol und Gold. Ein leuchtender Filmstreifen verbindet Weltraum, Fantasy, Western, Thriller, Horror, Bühne, Animation und Filmpreise. Zwei mit dem eingebauten `image_gen` erzeugte Originale liegen unter `public/cinema/`: Querformat mit 1672 × 941 Pixeln und eigenständig komponiertes Hochformat mit 1024 × 1536 Pixeln. [Vollständige Prompts und Dateien](Startbildschirm-Illustrationen.json).
 
 Kinostart und interaktiver Einstieg verwenden dieselbe Bildkomponente. Sie lädt über `picture` bis einschließlich 640 CSS-Pixel Breite das Hochformat, darüber das Querformat. Vier optimierte WebP-Fassungen mit 640/960 beziehungsweise 1280/1600 Pixeln Breite werden über `srcSet` passend gewählt; keine zusätzlichen PNG-Downloads für das Titelmotiv. Die dekorativen Bilder enthalten keine Schrift. Name, Überschrift und Aktionen sind zugängliches HTML. `npm run prepare:ui-artwork` erzeugt die WebP-Dateien erneut, ohne die Originale zu verändern. [Einstiegsvertrag einschließlich Anzeigedauer](Hilfe-und-Navigation.md#filmfieber-und-startbildschirm).
 

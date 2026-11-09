@@ -1,6 +1,10 @@
 # Prüfnachweis
 
-## Filmfieber und Startbildschirm – lokal, 08.11.2026
+## Version 90: Filmfieber und Startbildschirm veröffentlicht
+
+**09.11.2026, 00:53:56 Uhr Europe/Berlin:** 524 Logiktests in 85 Dateien, Metadaten/TypeScript, Versionsbuild und Diffprüfung erfolgreich. Vollständiger Browserlauf: 436 bestanden, drei WebKit-Befunde und ein vorgesehener Skip. Nach erfolgreichen gezielten Wiederholungen sind **439 unterschiedliche Browserfälle bestanden, ein Skip und keine offenen Fehler**. Der lange Quellen-Auswahlablauf berücksichtigt die wiederholten Kinostarts mit 180 Sekunden funktionalem WebKit-Testbudget; Produktassertionen und Reaktionszeitgrenzen bleiben erhalten. Der finale Build stimmt in allen 976 Dateien bytegenau mit dem gemeinsamen Browserbuild überein. [Veröffentlichungsnachweis](Veroeffentlichung-2026-11-09-Version-90.json).
+
+Öffentlich alle 975 Nicht-HTML-Dateien bytegleich, Startseite und regulärer Index-Redirect bestätigt. Versionszeit erst nach nativem `succeeded` dauerhaft geschrieben, separat gelesen und anonym über `quiz_app_release(90)` geprüft; direkter Tabellenzugriff 401. Zugriff public, Revision 2, bestehende Adresse und private Spielstände erhalten. Keine Schema-/Katalogaktivierung und keine Abhängigkeitsänderung.
 
 Neuer sichtbarer Name mit gemeinsamem Zusatz, dunkler Einstieg und zwei eigene Kinowelt-Kompositionen. Originale, WebP-Maße und Bildauswahl geprüft; [Dateien und vollständige Imagegen-Prompts](Startbildschirm-Illustrationen.json). TypeScript mit `npx tsc -p tsconfig.quality.json` und `git diff --check` erfolgreich.
 
@@ -10,7 +14,7 @@ Vier vorhandene Browserfälle erfolgreich: Proberunde mit zehn Fragen, Rückblic
 
 Zusätzlich sieben gezielte Darstellungs- und Navigationsprüfungen erfolgreich: Chromium bei 320, 390, 640, 768, 1024 und 1440 Pixeln sowie WebKit bei 390 Pixeln. Richtige Quer-/Hochformatquelle, geladene Bilder, auch mobil sichtbarer Name, kein seitlicher Überlauf, Wege zu Proberunde/Anmeldung/Registrierung und keine JavaScript-Laufzeitfehler bestätigt. Automatische WCAG-A/AA-Prüfung mit Axe in allen sieben Ansichten ohne Befund; Desktop und beide schmalen Ansichten visuell abgenommen.
 
-Kein vollständiger Release-Prüflauf und keine Veröffentlichung. Vor einer Veröffentlichung gelten die gebündelten Gates aus `AGENTS.md`.
+Die gezielten Nachweise sind durch die vollständige Veröffentlichung und Live-Abnahme oben ergänzt.
 
 ## Version 89 veröffentlicht und live abgenommen
 

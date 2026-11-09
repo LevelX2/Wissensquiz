@@ -1,8 +1,8 @@
 # Wissensindex
 
-- [Filmfieber – Dein Quiz für Film & Serie: Name, Quer-/Hochformat und 2,5 Sekunden Kinostart vor automatischer Anmeldung, lokal](../../../docs/Hilfe-und-Navigation.md#filmfieber-und-startbildschirm)
+- [Filmfieber – Dein Quiz für Film & Serie: Name, Quer-/Hochformat und 2,5 Sekunden Kinostart vor automatischer Anmeldung, seit Version 90 veröffentlicht](../../../docs/Hilfe-und-Navigation.md#filmfieber-und-startbildschirm)
 
-- [Aktuelle Veröffentlichung: Version 89 – Filmkarriere, Werkarten und Serien, 20.507 Fragen, alle Release-Prüfungen und Live-Abnahme](../../../docs/Veroeffentlichung-2026-11-08-Version-89.json)
+- [Aktuelle Veröffentlichung: Version 90 – Filmfieber und Kinostart, 20.507 Fragen, alle Release-Prüfungen und Live-Abnahme](../../../docs/Veroeffentlichung-2026-11-09-Version-90.json)
 
 - [Filmkarriere innerhalb der Erfolge: acht benannte Ränge, frühere Titelaufstiege und plastische Goldembleme, mit Version 89 veröffentlicht](../../../docs/Filmkarriere-und-XP.md#levelkurve-und-karrieretitel)
 

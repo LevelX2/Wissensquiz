@@ -1,5 +1,17 @@
 # Sites-Veröffentlichung
 
+## Version 90: Filmfieber und Kinostart
+
+Am **09.11.2026 um 00:53:56 Uhr Europe/Berlin** öffentlich veröffentlicht; nativer Status **succeeded**. [Filmfieber öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [vollständiger Veröffentlichungsnachweis](Veroeffentlichung-2026-11-09-Version-90.json).
+
+Filmfieber – Dein Quiz für Film & Serie mit eigenen Quer-/Hochformatmotiven, neuem interaktivem Einstieg und 2,5 Sekunden Kinostart ab geladenem Bild. Die Sitzungsprüfung läuft gleichzeitig; bestätigte Konten öffnen anschließend automatisch. Bestehende Proberunde, Kontozugänge, Lernregeln und der Katalog mit 20.507 Fragen bleiben erhalten. Site-Titel angepasst, bestehende URL und öffentlicher Zugriff `public`, Revision 2, erhalten.
+
+524 Logiktests in 85 Dateien, Metadaten/TypeScript, Versionsbuild und Diffprüfung erfolgreich. Vollständiger Browserlauf mit 440 Fällen: 436 bestanden, drei WebKit-Befunde und ein vorgesehener Skip. Alle drei gezielten Nachprüfungen erfolgreich; insgesamt **439 unterschiedliche Fälle bestanden, ein Skip, keine offenen Fehler**. Nur der funktionale WebKit-Testzeitraum für den langen Quellen-Auswahlablauf auf 180 Sekunden erhöht; Reaktionszeitgrenzen unverändert. Der endgültige Build ist in allen 976 Dateien bytegleich zum vollständigen Browserbuild. Keine Abhängigkeitsänderung.
+
+Freigegebener Main-Stand `f7ee9ba296a641fddc47448d50879baa6b986501`, identischer Sites-Quellbaum im Snapshot `be9f47218c4a0e186c86eeeb34cda36d30c1edaa`. Archiv mit 977 Dateien geprüft und nativ gespeichert. Alle 975 öffentlichen Nicht-HTML-Dateien HTTP 200 und bytegleich; Startseite mit aktuellem Titel und erwarteten Assets, `/index.html` regulär 307 auf `/`. Tatsächliche Versionszeit separat geschrieben, unabhängig zurückgelesen und anonym bestätigt; direkter Metadatenzugriff HTTP 401. Keine Schema-/Katalogaktivierung, kein Spielstandreset und kein GitHub-Push. Browserübergabe angefordert.
+
+Eigene Veröffentlichungs-, Build-, Browser- und Transportartefakte entfernt und Abwesenheit bestätigt: 6.313 Dateien / 1.035.366.135 Bytes. Die Abhängigkeitsverknüpfung vorher getrennt und zehn eigene Dateiattribute bereinigt; gemeinsame Abhängigkeiten, Originalmetadaten und fremde Artefakte erhalten. Keine eigenen Prüfserver aktiv.
+
 ## Version 89: Filmkarriere innerhalb der Erfolge und Werkarten
 
 Am **08.11.2026 um 18:03:39 Uhr Europe/Berlin** öffentlich veröffentlicht; nativer Status **succeeded**. [Wissensquiz öffnen](https://wissensquiz-filmkosmos.levelx2.chatgpt.site), [vollständiger Veröffentlichungsnachweis](Veroeffentlichung-2026-11-08-Version-89.json).
