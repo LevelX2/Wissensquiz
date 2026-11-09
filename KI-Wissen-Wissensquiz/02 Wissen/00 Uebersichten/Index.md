@@ -1,6 +1,6 @@
 # Wissensindex
 
-- [Hot Seat: vier gemeinsame Spielmodi, private Partien, Teams, Joker und Abbruch – lokal im Worktree umgesetzt](../../../docs/Hot-Seat.md)
+- [Hot Seat: vier gemeinsame Spielmodi, private Partien, Teams, Joker und Abbruch – lokal in main integriert](../../../docs/Hot-Seat.md)
 
 - [Filmfieber – Dein Quiz für Film & Serie: Name, Quer-/Hochformat und 2,5 Sekunden Kinostart vor automatischer Anmeldung, seit Version 90 veröffentlicht](../../../docs/Hilfe-und-Navigation.md#filmfieber-und-startbildschirm)
 

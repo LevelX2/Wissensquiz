@@ -1,6 +1,6 @@
 # Hot Seat – Gemeinsam spielen
 
-Status: lokal im eigenen Worktree implementiert; nicht veröffentlicht. Eine Veröffentlichung und die Aktivierung der neuen Backendobjekte benötigen eine gesonderte Freigabe. Integration nach `main` ist noch nicht erfolgt. [Prüfnachweis](Pruefbericht.md#hot-seat--lokale-abnahme).
+Status: am 09.11.2026 lokal in `main` integriert; nicht veröffentlicht. Eine Veröffentlichung und die Aktivierung der neuen Backendobjekte benötigen eine gesonderte Freigabe. [Prüfnachweis](Pruefbericht.md#hot-seat--lokale-abnahme).
 
 ## Ziel und Grenzen
 
@@ -83,7 +83,7 @@ Fragetext, vier Antworten und freigegebene Bilder werden mit der vorhandenen sic
 
 `supabase/migrations/20261108145042_hot_seat.sql` stellt ausschließlich neue private Hot-Seat-Objekte und den RPC `quiz_hot_seat_call` bereit. Voraussetzungen sind der aktuelle Werk-/Filtervertrag und dessen Katalogprojektionen aus den vorhandenen Migrationen. Kein Umschreiben privater Lernstände und kein Rückfall auf den Solo-Lernweg.
 
-Die Migration wurde ausschließlich in isolierten Testdatenbanken ausgeführt. Vor einer späteren produktiven Aktivierung den aktuellen gemeinsamen Quellstand integrieren und die Veröffentlichungsprüfungen aus `AGENTS.md` gebündelt ausführen. Backend und passende App-Version gemeinsam freigeben. Ein Server ohne diesen RPC zeigt einen Einrichtungshinweis; es gibt keinen lokalen Ersatzspielstand.
+Die Migration wurde ausschließlich in isolierten Testdatenbanken ausgeführt. Vor einer späteren produktiven Aktivierung den freigegebenen gemeinsamen Quellstand verwenden und die Veröffentlichungsprüfungen aus `AGENTS.md` gebündelt ausführen. Backend und passende App-Version gemeinsam freigeben. Ein Server ohne diesen RPC zeigt einen Einrichtungshinweis; es gibt keinen lokalen Ersatzspielstand.
 
 ## Arbeitspakete und Abnahme
 
@@ -95,7 +95,7 @@ Die Migration wurde ausschließlich in isolierten Testdatenbanken ausgeführt. V
 | 4 – Oberfläche | Einrichtung/Vorlagen, Spiel, beide Tipparten, Ergebnis/Verlauf, Ton und große Ansicht | TypeScript; fokussierte Browserabläufe für Start, Übergabe, Optionen, Neuladen, Joker, Ergebnis und Abbruch |
 | 5 – Abschluss | Fachseiten und Prüfnachweis aktualisieren; temporäre eigene Prüfausgaben bereinigen | Änderungsnahe Regressionstests und `git diff --check`; lokale Commits im Arbeitsbranch |
 
-Kein vollständiger Veröffentlichungsprüflauf und keine Veröffentlichung in diesem Auftrag. Integration nach `main` und produktive Freigabe bleiben gesonderte Schritte. Bei einer späteren Veröffentlichung gelten die gebündelten Gates aus `AGENTS.md`.
+Die lokale Main-Integration ist abgeschlossen. Ein vollständiger Veröffentlichungsprüflauf, produktive Freigabe und Veröffentlichung bleiben gesonderte Schritte. Bei einer späteren Veröffentlichung gelten die gebündelten Gates aus `AGENTS.md`.
 
 ## Quellen für die technische Absicherung
 
